@@ -4,7 +4,6 @@ const eco = require("discord-economy")
 module.exports.run = async (bot, message, args) => {
   let user = message.mentions.members.first() || message.guild.members.get(args[0]) || message.member
   let userEco = await eco.FetchBalance(user.user.id).then()
-  console.log(userEco)
   let roles = user.roles;
         let role_name = roles.map(role => {
           if(role.name === "@everyone") return
@@ -14,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
         let joined = user.joinedAt
         var profile = new Discord.RichEmbed()
             .addField("Name", user)
-            .addField("Joined at", joined)
+            .addField("Joined at", joined) //what happened to the thumbnail
             .addField("Coins", userEco.balance)//no that is array  //wait what do add here then
             .addField("Roles", role_name)
             .setColor(0xFF0000)
