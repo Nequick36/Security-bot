@@ -45,14 +45,9 @@ bot.on("message", message => {
 if(message.content === "suck one" || message.content === "Suck one" || message.content === "SUCK ONE") return message.reply("Thats the best you got? LOL how pathetic.")
  if(message.content.toLowerCase().includes("cass is gay")) return message.reply("stfu boi, you do not talk like that about my creator like that")
  if(message.content.toLowerCase().includes("your mom")) return message.reply("Wow, *how orginal*")
-  let prefixes = JSON.parse(fs.readFileSync("./prefixes.json", "utf8"))
-  if(!prefixes[message.guild.id]){
-    prefixes[message.guild.id] = {
-      prefixes: botconfig.prefix
-    };
-  }
+  
 
-    let prefix = prefixes[message.guild.id].prefixes;
+    let prefix = botconfig.prefix;
     let messageArray = message.content.split(" ")
     let cmd = messageArray[0]
     let args = messageArray.slice(1);
