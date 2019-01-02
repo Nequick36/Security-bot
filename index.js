@@ -13,6 +13,7 @@ setInterval(() => {
 
 const Discord = require("discord.js");
 const botconfig = require("./botconfig.json");
+const eco = require("discord-economy")
 const fs = require("fs")
 const bot = new Discord.Client()
 bot.commands = new Discord.Collection()

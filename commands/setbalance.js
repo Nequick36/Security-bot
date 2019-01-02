@@ -8,7 +8,7 @@ module.exports.run = async (bot, message, args) => {
           return message.reply("🛑**ACCESS DENIED! THIS IS A STAFF-ONLY COMMAND.🛑**")
         }
        if (!amount) return message.reply("You have not specified an amount!");
-        var user = message.mentions.users.first() || message.guild.members.find(args)
+        var user = message.mentions.users.first() || message.guild.members.get(args[0])
          if (!user) return message.reply('cannot find user!')
 
 
