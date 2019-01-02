@@ -12,7 +12,9 @@
   "dependencies": {
     "express": "^4.16.4",
     "discord.js": "^11.4.2",
-    "discord-economy": "^1.1.5"
+    "discord-economy": "^1.1.5",
+    "sqlite3": "^4.0.4",
+    "sequelize": "^4.42.0"
   },
   "engines": {
     "node": "8.x"

@@ -2,6 +2,8 @@ dependencies:
   discord-economy: 1.1.5
   discord.js: 11.4.2
   express: 4.16.4
+  sequelize: 4.42.0
+  sqlite3: 4.0.4
 packages:
   /@types/geojson/1.0.6:
     dev: false
@@ -1276,3 +1278,5 @@ specifiers:
   discord-economy: ^1.1.5
   discord.js: ^11.4.2
   express: ^4.16.4
+  sequelize: ^4.42.0
+  sqlite3: ^4.0.4
