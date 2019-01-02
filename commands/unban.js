@@ -3,16 +3,17 @@ const Discord = require("discord.js")
 module.exports.run = async (bot, message, args) => {
   let unbannedUser = args
          console.log(unbannedUser)
+   if(!message.member.hasPermission("MANAGE_MESSAGES"))
+         {
+             message.channel.send("🛑 **ACCESS DENIED! THIS IS A STAFF-ONLY COMMAND. 🛑**");
+             return;
+         }
          if(!unbannedUser)
          {
              message.channel.send("Sorry, I couldn't find that user");
              return;
          }
-         if(!message.member.hasPermission("MANAGE_MESSAGES"))
-         {
-             message.channel.send("🛑 **ACCESS DENIED! THIS IS A STAFF-ONLY COMMAND. 🛑**");
-             return;
-         }
+        
         if(message.guild.members.get(args)) return message.channel.send(`That user isn't banned!`)
        setTimeout(function(){
     //code

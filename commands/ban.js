@@ -5,17 +5,18 @@ const Discord = require("discord.js")
 module.exports.run = async (bot, message, args) => {
 
   let bannedUser = message.mentions.users.first();
-       if(!bannedUser)
-       {
-           message.channel.send("Sorry, I couldn't find that user");
-           return;
-       }
-       if(!message.member.hasPermission("MANAGE_MESSAGES"))
+   if(!message.member.hasPermission("MANAGE_MESSAGES"))
        {
            message.channel.send("🛑**ACCESS DENIED! THIS IS A STAFF-ONLY COMMAND.🛑**");
            return;
        }
 
+       if(!bannedUser)
+       {
+           message.channel.send("Sorry, I couldn't find that user");
+           return;
+       }
+      
        let reason = message.content.split(" ").slice(2).join(' ');
        if (!reason)
        {
