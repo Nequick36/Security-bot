@@ -43,7 +43,7 @@ Bot updatesl\`\`\`\n
 bot.on("message", message => {
     if(message.channel.type === "dm") return;
     if(message.author.bot) return;
-if(message.content === "suck one" || message.content === "Suck one" || message.content === "SUCK ONE") return message.reply("Thats the best you got? LOL how pathetic.")
+if(message.content.toLowerCase().includes("suck one")) return message.reply("Thats the best you got? LOL how pathetic.")
  if(message.content.toLowerCase().includes("cass is gay")) return message.reply("stfu boi, you do not talk like that about my creator like that")
  if(message.content.toLowerCase().includes("your mom")) return message.reply("Wow, *how orginal*")
   
