@@ -2,6 +2,7 @@ dependencies:
   discord-economy: 1.1.5
   discord.js: 11.4.2
   express: 4.16.4
+  replaceall: 0.1.6
   sequelize: 4.42.0
   sqlite3: 4.0.4
 packages:
@@ -909,6 +910,12 @@ packages:
     dev: false
     resolution:
       integrity: sha512-tQtKA9WIAhBF3+VLAseyMqZeBjW0AHJoxOtYqSUZNJxauErmLbVm2FW1y+J/YA9dUrAC39ITejlZWhVIwawkKw==
+  /replaceall/0.1.6:
+    dev: false
+    engines:
+      node: '>= 0.8.x'
+    resolution:
+      integrity: sha1-gdgax663LX9cSUKt8ml6MiBojY4=
   /request/2.88.0:
     dependencies:
       aws-sign2: 0.7.0
@@ -1278,5 +1285,6 @@ specifiers:
   discord-economy: ^1.1.5
   discord.js: ^11.4.2
   express: ^4.16.4
+  replaceall: ^0.1.6
   sequelize: ^4.42.0
   sqlite3: ^4.0.4

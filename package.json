@@ -10,11 +10,12 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
-    "discord.js": "^11.4.2",
     "discord-economy": "^1.1.5",
-    "sqlite3": "^4.0.4",
-    "sequelize": "^4.42.0"
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "replaceall": "^0.1.6",
+    "sequelize": "^4.42.0",
+    "sqlite3": "^4.0.4"
   },
   "engines": {
     "node": "8.x"
