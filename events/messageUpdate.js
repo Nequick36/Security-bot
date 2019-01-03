@@ -5,8 +5,8 @@ exports.run = async (bot, oldMessage, newMessage) => {
     if(oldMessage.author.bot) {}
   else {
   logChannel.send(`Message edited: 
-Old Message: [${oldMessage.channel.name}] ${oldMessage.author.username}: ${oldMessage.content}
-New Message: [${newMessage.channel.name}] ${newMessage.author.username}: ${newMessage.content}`)
+Old Message: [${oldMessage.channel.name}] ${oldMessage.author.username}: ${oldMessage.content.replace('<@', '<')}
+New Message: [${newMessage.channel.name}] ${newMessage.author.username}: ${newMessage.content.replace('<@', '<')}`)
   console.log(`Message edited: 
 Old Message: [${oldMessage.channel.name}] ${oldMessage.author.username}: ${oldMessage.content}
 New Message: [${newMessage.channel.name}] ${newMessage.author.username}: ${newMessage.content}`);
