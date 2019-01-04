@@ -1,8 +1,6 @@
 const fs = require('fs')
 const discord = require('discord.js')
 exports.run = async (bot, message) => {
-  let logChannel = message.guild.channels.find(c => c.name === '🔸》chat-logs')
-  // if(message.author.bot) {}
-  // else logChannel.send(`Message send: [${message.channel.name}] ${message.author.username}: ${message.content}`)
-  // console.log(`[${message.channel.name}] ${message.author.username}: ${message.content}`);
+  let logChannel = message.guild.channels.find(c => c.name === '🔸》moderation-chat-logs')
+  if(message.content.startsWith('!')) logChannel.send({embed:{description: `${message.author.tag} used command ${message.content} in channel ${message.channel.name}.`, color: 0xff0000}})
 }
