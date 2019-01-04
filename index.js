@@ -37,6 +37,7 @@ fs.readdir("./commands", (err, files) => {
       helpCmd = `${helpCmd}\n**Updates:**\`\`\`
 Added:
 Tickets: !ticket
+Coins in !profile
 Bot updatesl\`\`\`\n
 ***Bot made by cass#0913 & \${j122}#6975***`
 });
