@@ -8,7 +8,7 @@ module.exports.run = async (bot, message, args) => {
     let modRole = message.guild.roles.find(role => role.name === 'Moderation Team')
      if(!message.member.hasPermission("MANAGE_MESSAGES"))
      {
-         message.channel.send("🛑 **ACCESS DENIED! THIS IS A STAFF-ONLY COMMAND. 🛑**");
+         message.channel.send("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**");
          return;
      }
      var user = message.mentions.users.first() 

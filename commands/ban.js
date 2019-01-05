@@ -7,7 +7,7 @@ module.exports.run = async (bot, message, args) => {
   let bannedUser = message.mentions.users.first();
    if(!message.member.hasPermission("MANAGE_MESSAGES"))
        {
-           message.channel.send("🛑**ACCESS DENIED! THIS IS A STAFF-ONLY COMMAND.🛑**");
+           message.channel.send("🛑**ACCESS DENIED! THIS IS MOD/ADMIN ONLY COMMAND.🛑**");
            return;
        }
 
