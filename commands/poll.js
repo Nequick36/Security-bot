@@ -2,7 +2,8 @@ const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
   let emoji = ['', '🇦', '🇧', '🇨', '🇩', '🇪', '🇫', '🇬', '🇭', '🇮', '🇯', '🇰', '🇱', '🇲', '🇳']//🇦 🇧 🇨 🇩 🇪 🇫 🇬 🇬 🇮 🇯 🇰 🇱 🇲 🇳
-  if(!message.member.hasPermission("MANAGE_MESSAGES")) return message.reply("🛑 **ACCESS DENIED! THIS IS STAFF ONLY COMMAND. 🛑**")
+  let role = message.guild.roles.find(role => role.name === "GH Bot Developer")
+  if(!message.member.roles.has(role.id) ) return message.reply("🛑 **ACCESS DENIED! THIS IS STAFF ONLY COMMAND. 🛑**")
   message.delete()
   let options = args.join(" ").split(" | ")
   if(options.length > 15) return message.reply("Too many options!")
