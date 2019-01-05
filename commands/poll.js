@@ -3,8 +3,8 @@ const Discord = require("discord.js")
 module.exports.run = async (bot, message, args) => {
   let emoji = ['', '🇦', '🇧', '🇨', '🇩', '🇪', '🇫', '🇬', '🇭', '🇮', '🇯', '🇰', '🇱', '🇲', '🇳']//🇦 🇧 🇨 🇩 🇪 🇫 🇬 🇬 🇮 🇯 🇰 🇱 🇲 🇳
   let role = message.guild.roles.find(role => role.name === "GH Bot Developer")
-  if(!message.member.roles.has(role.id) ) return message.reply("🛑 **ACCESS DENIED! THIS IS STAFF ONLY COMMAND. 🛑**")
-  message.delete()
+  if(!message.member.roles.has(role.id ) || !message.member.hasPermission("MANAGE_SERVER")) return message.reply("🛑 **ACCESS DENIED! THIS IS STAFF ONLY COMMAND. 🛑**")
+  message.delete() 
   let options = args.join(" ").split(" | ")
   if(options.length > 15) return message.reply("Too many options!")
   let optionsRAW = ''
@@ -27,4 +27,4 @@ module.exports.help = {
   description: "Make a poll",
   group:"SIMPLE"
 }
-    
+  
