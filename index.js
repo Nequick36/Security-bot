@@ -84,12 +84,12 @@ bot.on("guildMemberAdd", function (member) {
     let memberRole = member.guild.roles.find(role => role.name === "GameHub Member");
     member.addRole(memberRole);
   let guild = member.guild;
-  let channel = member.guild.channels.find(channel => channel.name === '🎁》welcome')//wouldnt it be better w ids?
+  let channel = member.guild.channels.find(channel => channel.name === '🔸》welcome')//wouldnt it be better w ids?
     channel.sendMessage(`Welcome ${member.user} to this server.`).catch(console.error);
 });
 bot.on("guildMemberRemove", function (member) {
      let guild = member.guild;
-  let channel = member.guild.channels.find(channel => channel.name === '🎁》welcome')
+  let channel = member.guild.channels.find(channel => channel.name === '🔸》welcome')
      channel.sendMessage(`${member.user.tag} has left the server.`).catch(console.error);
 });
 bot.on('ready', () => {
