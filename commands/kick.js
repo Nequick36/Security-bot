@@ -4,7 +4,7 @@ module.exports.run = async (bot, message, args) => {
   let kickedUser = message.mentions.users.first();
   if(!message.member.hasPermission("MANAGE_MESSAGES"))
        {
-           message.channel.send("🛑 **ACCESS DENIED! THIS IS A STAFF-ONLY COMMAND. 🛑**");
+           message.channel.send("🛑 **ACCESS DENIED! THIS IS MODERATOR ONLY COMMAND. 🛑**");
            return;
        }
        if(!kickedUser)
