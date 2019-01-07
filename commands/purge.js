@@ -12,7 +12,7 @@ module.exports.run = async (bot, message, args) => {
      const fetched = await message.channel.fetchMessages({limit: deleteCount});
       message.channel.bulkDelete(fetched)
   let logChannel = message.guild.channels.find(`name`, "🔸》chat-logs")
-  logChannel.send(`**B`)
+  logChannel.send({embed:{description: `**Bulk delete: ${deleteCount} messages**`, color:0xff0000}})
      .catch(error => message.reply(`can't clear chat because: ${error}`));
 }
 
