@@ -14,9 +14,13 @@ exports.run = async (bot, oldMember, newMember) => {
   }
   
   //role update
-  let oldRoles = oldMember.roles.map(role => {return role.name}).toString().split("\n")
-  let newRoles = newMember.roles.map(role => {return role.name}).toString().split("\n")
-  console.log(`oldRoles: ${oldRoles}`)
-  console.log(oldRoles)
-  console.log(`newRoles: ${newRoles}`)
+  let oldRoles = oldMember.roles.map(role => {return role.name}).toString().split(",")
+  let newRoles = newMember.roles.map(role => {return role.name}).toString().split(",")
+  // console.log(`oldRoles: ${oldRoles}`)
+  // console.log(oldRoles)
+  // console.log(`newRoles: ${newRoles}`)
+  // console.log(newRoles)
+  oldRoles.forEach(role => {
+    if(!newRoles.has(role)) console.log(`${role} is the one!`)
+  })
 }
