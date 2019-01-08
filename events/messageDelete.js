@@ -4,6 +4,10 @@ const replaceall = require('replaceall')
 exports.run = async (bot, message) => {
   let logChannel = message.guild.channels.find(c => c.name === '🔸》chat-logs')
   let embed = new discord.RichEmbed()
-  .setTitle(message.author.tag)
-  .setDescription(`**Message`); 
+  .setTitle(`${message.author.tag} ${message.author.avatarURL}`)
+  .setDescription(`**Message sent by ${message.author} was deleted in ${message.channel}** 
+   ${message.content}`)
+  .setColor('RED')
+  .setTimestamp()
+  logChannel.send(embed)
 }
