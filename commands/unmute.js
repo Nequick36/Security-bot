@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 
 module.exports.run = async (bot, message, args) => {
- message.reply("This command is still in the works!")
+ 
 
 }
 
