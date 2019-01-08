@@ -18,7 +18,7 @@ module.exports.run = async (bot, message, args) => {
             .addField("Roles", role_name)
             .setColor(0xFF0000)
             .setTitle("Your profile")
-            .setThumbnail(user.avatarURL)
+            .setThumbnail(user.user.avatarURL)
             .setTimestamp()
         message.channel.send(profile)
 }
