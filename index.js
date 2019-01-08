@@ -38,7 +38,7 @@ fs.readdir("./commands", (err, files) => {
 Added:
 Tickets: !ticket
 Coins in !profile
-Bot updatesl\`\`\`\n
+Bot updates\`\`\`\n
 ***Bot made by cass#0913 & \${j122}#6975***`
 });
 bot.on("message", message => {
