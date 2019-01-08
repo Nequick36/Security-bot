@@ -7,8 +7,8 @@ exports.run = async (bot, oldMember, newMember) => {
   .setTitle(oldMember.user.tag)
   .addField("Old nickname", oldMember.nickname)
   .addField("New nickname", newMember.nickname)
-  .setTHumbnail(old)
+  .setTHumbnail(oldMember.avatarURL)
   if(oldMember.nickname !== newMember.nickname) {
-    logChannel.send(`${oldMember.nickname} is now known as ${newMember.nickname}`)
+    logChannel.send(embed)
   }
 }
