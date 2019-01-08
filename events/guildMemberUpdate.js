@@ -2,6 +2,7 @@ const fs = require('fs')
 const discord = require('discord.js')
 exports.run = async (bot, oldMember, newMember) => {
   let logChannel = oldMember.guild.channels.find(c => c.name === '🔸》chat-logs')
+  //nickname change log
   let nickEmbed = new discord.RichEmbed()
   nickEmbed.setTitle(newMember.user.tag)
   nickEmbed.setColor('BLUE')
@@ -11,4 +12,11 @@ exports.run = async (bot, oldMember, newMember) => {
   if(oldMember.nickname !== newMember.nickname) {
     logChannel.send(nickEmbed)
   }
+  
+  //role update
+  let oldRoles = oldMember.roles.map(role => {return role.name}).toString().split("\n")
+  let newRoles = newMember.roles.map(role => {return role.name}).toString().split("\n")
+  console.log(`oldRoles: ${oldRoles}`)
+  console.log(oldRoles)
+  console.log(`newRoles: ${newRoles}`)
 }
