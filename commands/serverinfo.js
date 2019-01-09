@@ -7,6 +7,7 @@ module.exports.run = async (bot, message, args) => {
         let memberCount = message.guild.memberCount;
         let creation = message.guild.createdAt;
         let owner = message.guild.members.get("349250638632452096");
+  
 
          var serverInfo = new Discord.RichEmbed()
               .setTitle(name)
