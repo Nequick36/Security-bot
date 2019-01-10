@@ -17,7 +17,7 @@ module.exports.run = async (bot, message, args) => {
             .addField("Coins", userEco.balance)//no that is array  //wait what do add here then
             .addField("Roles", role_name)
             .setColor(0xFF0000)
-            .setTitle("Your profile")
+            .setTitle(`Profile of ${user.user.username}`)
             .setThumbnail(user.user.avatarURL)
             .setTimestamp()
         message.channel.send(profile)
