@@ -8,13 +8,13 @@ module.exports.run = async (bot, message, args) => {
         message.channel.send("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**");
         return;
     }
-    var user = message.mentions.users.first() || message.guild.members.get(args[0])
+    var user = message.mentions.users.first() || message.guild.members.get(args[0]).user
     if (!user) return message.reply('cannot find user!')
     let warning = message.content.split(" ").slice(2).join(" ");
     if(!warns[user.id]) warns[user.id] = {}
     if(!warns[user.id].warns) warns[user.id].warns = 0
     if(!warns[user.id].reasons) warns[user.id].reasons = 'No warns'
-   if(warns[user.id].warns === 0) return message.channel.send({embed:{description:`${user.user.username} doesn't have any warnings.`, color:0xff0000}})
+   if(warns[user.id].warns === 0) return message.channel.send({embed:{description:`${user.username} doesn't have any warnings.`, color:0xff0000}})
    let reasons = warns[user.id].reasons.split('|!')
    let warnsNum = reasons.length
    let embed = new Discord.RichEmbed()
