@@ -20,7 +20,7 @@ exports.run = async (bot, oldMember, newMember) => {
   // console.log(oldRoles)
    //console.log(`newRoles: ${newRoles}`)
   // console.log(newRoles)
-  oldRoles.forEach(role => {
-    if(!newRoles.has(role)) console.log(`${role} is the one!`)
-  })
-}
+//   oldRoles.forEach(role => {
+//     if(!newRoles.has(role)) console.log(`${role} is the one!`)
+//   })
+ }
