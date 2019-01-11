@@ -4,7 +4,7 @@ const { RichEmbed } = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
     let warns = JSON.parse(fs.readFileSync('commands/warns.json', 'utf8'));
-    let warnChannel = message.guild.channels.find(channel => channel.name === '🌨》warn-logs')
+    let warnChannel = message.guild.channels.get("515835722188587038")
     let modRole = message.guild.roles.find(role => role.name === 'Moderation Team')
      if(!message.member.hasPermission("MANAGE_MESSAGES"))
      {
@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
      }
      var user = message.mentions.users.first() 
      if (!user) return message.reply('cannot find user!')
-    if(message.mentions.members.first().hasPermission('MANAGE_GUILD')) return message.channel.send(`You can't warn an Administrator!`)
+   // if(message.mentions.members.first().hasPermission('MANAGE_GUILD')) return message.channel.send(`You can't warn an Administrator!`)
      let warning = message.content.split(" ").slice(2).join(" ");
     if (!warning)
       {
@@ -56,4 +56,4 @@ module.exports.help = {
   group: "admin"
   
 
-}
+}  
