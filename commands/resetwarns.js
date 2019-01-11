@@ -22,7 +22,7 @@ if(err) console.error(err)
 })
 }
 module.exports.help = {
-    name: "resetwarns",
+  name: "resetwarns",
   description:"Resets a user's warnings.",
   group:"Admin"
 }

@@ -1,8 +1,7 @@
 const Discord = require("discord.js")
-const fs = require("fs")
-
+const fs = require("fs") 
 module.exports.run = async (bot, message, args) => {
-  let file = JSON.parse(fs.readFileSync('commands/questions.json', 'utf8'));
+  let file = JSON.parse(fs.readFileSync('commands/questions.json', 'utf8')); 
   
   if(!file) message.reply("Can't find a json file!")
   if(!file.questions) file.questions === ""
@@ -25,3 +24,4 @@ module.exports.help = {
   description: "Shows/Sets questions for staff application",
   group:"Staff"
 }
+//mess up one more 

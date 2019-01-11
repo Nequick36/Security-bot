@@ -9,7 +9,7 @@ exports.run = async (bot, oldMessage, newMessage) => {
   .setThumbnail(oldMessage.author.displayAvatarURL)
   .addField("Before", `${oldMessage.content || 'none'}`)
   .addField("After", `${newMessage.content || 'none'}`)
-  .addField("Message edited in", oldMessage.channel) //ok now for nicks and message deletion
+  .addField("Message edited in", oldMessage.channel) 
     if(oldMessage.author.bot) {}
   else {
     if(oldMessage.content.includes('https://') && newMessage.content.includes('https://')) return
