@@ -17,6 +17,7 @@ module.exports.run = async (bot, message, args) => {
   embed.setDescription(optionsRAW)
   let msg = await message.channel.send(embed)
   
+  
   for(let l = 1; l<options.length; l++) {
     await msg.react(emoji[l])
   }
