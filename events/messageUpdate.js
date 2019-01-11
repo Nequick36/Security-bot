@@ -4,7 +4,7 @@ const replaceall = require('replaceall')
 exports.run = async (bot, oldMessage, newMessage) => {
   let logChannel = oldMessage.guild.channels.find(c => c.name === '🔸》chat-logs')
   let embed = new discord.RichEmbed()
-  .setTitle(`${oldMessage.member.nickname} has edited a message`)
+  .setTitle(`${oldMessage.member.username} has edited a message`)
   .setColor('BLUE')
   .setThumbnail(oldMessage.author.displayAvatarURL)
   .addField("Before", `${oldMessage.content || 'none'}`)
