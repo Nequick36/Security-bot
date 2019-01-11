@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
 " I can swallow two pieces of string and when they come out the other end, they'll be tied together. I shit you knot.",
 "My friend entered a pun contest. He entered ten, figuring at least one of them would win, but no pun in ten did.",
 "Why don’t crabs donate? Because they're shelfish.",
-" 'you' ",
+" 'You.' ",
 "If laughter is the best medicine, your face must be curing the world.",
 "I could pick up more women off Tinder by posting a picture of my shit than using a picture of your face."
 // `\`\`\`Error: Cannot find module 'MemeLoader'

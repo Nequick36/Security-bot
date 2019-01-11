@@ -1,5 +1,5 @@
 const Discord = require("discord.js")
-const fs = require('fs')
+const fs = require('fs') //what have you done here
 
 module.exports.run = async (bot, message, args) => {
   let msgs = JSON.parse(fs.readFileSync('events/msgs.json', 'utf8'));
