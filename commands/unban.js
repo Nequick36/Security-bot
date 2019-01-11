@@ -3,9 +3,9 @@ const Discord = require("discord.js")
 module.exports.run = async (bot, message, args) => {
   let unbannedUser = args
          console.log(unbannedUser)
-   if(!message.member.hasPermission("MANAGE_MESSAGES"))
+   if(!message.member.hasPermission("MANAGE_GUILD"))
          {
-             message.channel.send("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**");
+             message.channel.send("🛑 **ACCESS DENIED! THIS IS A ADMIN ONLY COMMAND. 🛑**");
              return;
          }
          if(!unbannedUser)
