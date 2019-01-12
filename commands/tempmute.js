@@ -46,7 +46,10 @@ module.exports.run = async (bot, message, args) => {
 
   //end of create role
 
-  let mutetime = args[1];
+  let mutetime = args[1]
+  let reason = message.content.split(" ").slice(3).join(" ")
+  if(!reason) return message.reply("You did not specifiy a reason")
+  
 
   if(!mutetime) return message.reply("You didn't specify a time!");
 
