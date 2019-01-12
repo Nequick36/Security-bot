@@ -47,16 +47,21 @@ module.exports.run = async (bot, message, args) => {
   //end of create role
 
   let mutetime = args[1]
+  if(!mutetime) return message.reply("You didn't specify a time!");
   let reason = message.content.split(" ").slice(3).join(" ")
   if(!reason) return message.reply("You did not specifiy a reason")
-  
+  let embed = new Discord.RichEmbed()
+  .setTitle(`${tomute.user.tag} has been muted`)
+  .addField("Duration", mutetime)
+  .addField("reason", reason)
+  .setThumbnail(tomute.user.avatarURL)
 
-  if(!mutetime) return message.reply("You didn't specify a time!");
+  
 
   await(tomute.addRole(muterole.id));
 
   message.reply(`<@${tomute.id}> has been muted for ${ms(ms(mutetime))}`);
-
+  message.guild.channels.get("491331126066151454").send(embed)
   setTimeout(function(){
     
     tomute.removeRole(muterole.id);
