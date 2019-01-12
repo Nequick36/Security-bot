@@ -63,9 +63,10 @@ module.exports.run = async (bot, message, args) => {
   message.reply(`<@${tomute.id}> has been muted for ${ms(ms(mutetime))}`);
   message.guild.channels.get("491331126066151454").send(embed)
   setTimeout(function(){
-    
+    if(!tomute.roles.has(muterole.id)) return;
     tomute.removeRole(muterole.id);
     message.channel.send(`<@${tomute.id}> has been unmuted!`);
+    
   }, ms(mutetime));
 //end of module
 }
