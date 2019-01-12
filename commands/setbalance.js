@@ -14,7 +14,7 @@ module.exports.run = async (bot, message, args) => {
 
         eco.FetchBalance(user.id).then(x => {
                    eco.AddToBalance(user.id, amount).then(l =>
-                     message.reply(`You have successfuly added ${amount} coins to ${user.tag} account.`));
+                     message.reply(`You have successfuly added ${amount} coins to ${user.tag}'s account.`));
                  })
 }
 

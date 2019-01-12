@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  let kickedUser = message.mentions.users.first();
+  let kickedUser = message.mentions.members.first();
   if(!message.member.hasPermission("MANAGE_MESSAGES"))
        {
            message.channel.send("🛑 **ACCESS DENIED! THIS IS MOD/ADMIN ONLY COMMAND. 🛑**");
