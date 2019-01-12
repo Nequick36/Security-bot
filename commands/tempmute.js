@@ -51,7 +51,7 @@ module.exports.run = async (bot, message, args) => {
   let reason = message.content.split(" ").slice(3).join(" ")
   if(!reason) return message.reply("You did not specifiy a reason")
   let embed = new Discord.RichEmbed()
-  .setTitle(`${tomute.user.tag} has been muted`)
+  .setTitle(`${tomute.user.username} has been muted`)
   .addField("Duration", mutetime)
   .addField("reason", reason)
   .setThumbnail(tomute.user.avatarURL)
@@ -66,7 +66,7 @@ module.exports.run = async (bot, message, args) => {
     if(!tomute.roles.has(muterole.id)) return;
     tomute.removeRole(muterole.id);
     message.channel.send(`<@${tomute.id}> has been unmuted!`);
-    
+    message.guild.channels.get("491331126066151454").send({embed:{description: `**${tomute.user.username} has been unmuted**`, color:0xff0000}})
   }, ms(mutetime));
 //end of module
 }
