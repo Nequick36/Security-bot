@@ -33,7 +33,7 @@ module.exports.run = async (bot, message, args) => {
      let banChannel = message.guild.channels.find(channel => channel.name === "🔸》moderation")
      banChannel.send(kickInfo)
      message.delete()
-     bannedUser.send(`You have been banned from GameHub for: ${reason}`).catch(message.channel.send(`*** ${bannedUser.tag} has been banned!***`))
+     bannedUser.send(`You have been banned from GameHub for: ${reason}`).catch(message.channel.send(`*** ${bannedUser.user.tag} has been banned!***`))
      setTimeout(function(){
   //code
        message.guild.member(bannedUser).kick(reason)
