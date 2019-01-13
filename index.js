@@ -59,6 +59,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     if(commandfile) commandfile.run(bot, message, args)
     else { 
       if(cmd.slice(prefix.length) === 'help') {}
+      else if(cmd.slice(prefix.length) === 'ping') {}
       else message.channel.send(`Can't find that command! Please use !help`)
       }
    
@@ -66,7 +67,11 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
       message.author.send(helpCmd)
       message.channel.send(`Check DMs!`)
     }
-  if(cmd === `${prefix}`)
+  if(cmd === `${prefix}ping`) {
+   let ping = bot.ping
+   message.channel.send(`Pong! The average ping is ${ping}ms.`)
+  
+  }
   
 })
 fs.readdir("./events/", (err, files) => {
