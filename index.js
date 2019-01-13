@@ -39,7 +39,7 @@ Added:
 Tickets: !ticket
 Coins in !profile
 Bot updates\`\`\`\n
-***Bot made by cass#0913 & \${j122}#6975***`
+***Bot made by Seth#7796 & \${j122}#6975***`
 });
 bot.on("message", message => {
     if(message.channel.type === "dm") return;
