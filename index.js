@@ -66,6 +66,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
       message.author.send(helpCmd)
       message.channel.send(`Check DMs!`)
     }
+  if(cmd === `${prefix}`)
   
 })
 fs.readdir("./events/", (err, files) => {
