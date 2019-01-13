@@ -1,6 +1,7 @@
 const Discord = require("discord.js")
 
-module.exports.run = async (bot, message, args) => {
+module.exports.run = async (bot, message, args) => { 
+  
   let kickedUser = message.mentions.members.first();
   if(!message.member.hasPermission("MANAGE_MESSAGES"))
        {
