@@ -20,7 +20,7 @@ module.exports.run = async (bot, message, args) => {
        message.guild.unban(args)
                 .then(console.log)
                 .catch(console.error);
-       message.channel.send(`***${args} has been unbanned!*** `)
+       message.channel.send(`***User with id ${args} has been unbanned!*** `)
  }, 500);
 }
 
