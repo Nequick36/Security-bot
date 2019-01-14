@@ -17,6 +17,7 @@ module.exports.run = async (bot, message, args) => {
   
 
     if (slots[result1] === slots[result2] && slots[result3]) {
+      
         let wEmbed = new Discord.RichEmbed()
             .setFooter("You Won!", aicon)
             .setTitle(':slot_machine:Slots:slot_machine:')
