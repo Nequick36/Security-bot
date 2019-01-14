@@ -3,7 +3,7 @@ const eco = require("discord-economy");
 
 module.exports.run = async (bot, message, args) => {
   eco.FetchBalance(message.author.id).then(l => {
-                message.channel.send(`Hey ${message.author.tag}! You own ${l.balance} coins.`);
+                message.channel.send(`Hey ${message.author.username}! You own ${l.balance} coins.`);
             })
 
 }
