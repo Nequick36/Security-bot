@@ -67,9 +67,6 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
       message.channel.send(`Check DMs!`)
     }
   
-   
-  
-  
   
 })
 fs.readdir("./events/", (err, files) => {
