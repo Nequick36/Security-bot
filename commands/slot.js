@@ -3,9 +3,7 @@ const eco = require("discord-economy")
 
 module.exports.run = async (bot, message, args) => {
   let bet = args[0]
-  eco.FetchBalance(message.author.id).then(user => {
-    if(user.balance < bet) return message.reply(`You don't have that much money!`)
-  })
+  
   if(!bet) return message.reply('How much do you want to bet?')
   
     let slots = ["🍎", "🍌", "🍒", "🍓", "🍈"];
@@ -17,8 +15,12 @@ module.exports.run = async (bot, message, args) => {
   
 
     if (slots[result1] === slots[result2] && slots[result3]) {
-      
-        let wEmbed = new Discord.RichEmbed()
+      eco.FetchBalance(message.author.id).then(user => {
+    if(user.balance < bet) 
+    {
+      return message.reply(`You don't have that much money!`)
+    } else {
+     let wEmbed = new Discord.RichEmbed()
             .setFooter("You Won!", aicon)
             .setTitle(':slot_machine:Slots:slot_machine:')
             .addField('Result:', slots[result1] + slots[result2] + slots[result3], true)
@@ -27,8 +29,18 @@ module.exports.run = async (bot, message, args) => {
       eco.AddToBalance(message.author.id, bet*5).then(user => {
         
       })
+    }
+  }) 
+        
+      
     } else {
         let embed = new Discord.RichEmbed()
+        eco.FetchBalance(message.author.id).then(user => {
+    if(user.balance < bet) 
+    {
+      return message.reply(`You don't have that much money!`)
+    } else {
+      let embed = new Discord.RichEmbed()
             .setFooter('You Lost!', aicon)
             .setTitle(':slot_machine:Slots:slot_machine:')
             .addField('Result', slots[result1] + slots[result2] + slots[result3], true)
@@ -36,6 +48,9 @@ module.exports.run = async (bot, message, args) => {
       eco.SubstractFromBalance(message.author.id, bet).then(user => {
       })
         message.channel.send(embed);
+    }
+  })
+            
     }
 }
 
