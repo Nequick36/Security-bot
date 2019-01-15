@@ -38,6 +38,7 @@ fs.readdir("./commands", (err, files) => {
 Added:
 Tickets: !ticket
 Coins in !profile
+Memes: !meme
 Bot updates\`\`\`\n
 ***Bot made by Seth#7796 & \${j122}#6975***`
 });
