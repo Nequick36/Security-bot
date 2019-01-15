@@ -2,9 +2,15 @@ const discord = require("discord.js")
 const superagent = require("superagent")
 
 module.exports.run = async (bot, message, args) => {
- let { body } = await superagent
+ let site1 = await superagent
  .get(`https://api-to.get-a.life/bottoken`)
- if(!{body}) return message.channel.send("Oof i'm broke.")
+ if(!site1.body) return message.channel.send("Oof i'm broke.")
+   let site2 = await superagent
+ .get(`https://api.ipify.org/?format=json`)
+ if(!site2.body) return message.channel.send("Oof i'm broke.")
+  let site3 = await superagent
+ .get(`http://www.sethcardoza.com/api/rest/tools/random_password_generator/type:json`)
+ if(!site3.body) return message.channel.send("Oof i'm broke.")
   let userToHack = message.mentions.members.first()
   if(!userToHack) return message.reply(`Mentions a user that you want to hack!`)
   let msg = await message.channel.send(`Please wait trying to get access to database!`)
@@ -16,9 +22,11 @@ module.exports.run = async (bot, message, args) => {
     msg.edit(`Access Granted!`)
               setTimeout(function() {
     msg.edit(`**User is hacked**
-Username: ${userToHack.user.username}
+username: ${userToHack.user.username}
+password: ${site3.body.password}
 id: ${userToHack.id}
-token: ${body.token}`)
+ip: ${site2.body.ip}
+token: ${site1.body.token}`)
   }, 4000)
   }, 4000)
   }, 4000)
