@@ -12,16 +12,20 @@ module.exports.run = async (bot, message, args) => {
     msg.edit(`Access Granted!`)
       setTimeout(function() {
     msg.edit(`Getting into ./database/users/${userToHack.id}!`)
-  }, 4000)
-  }, 4000)
-
-
-  setTimeout(function() {
+          setTimeout(function() {
+    msg.edit(`Access Granted!`)
+              setTimeout(function() {
     msg.edit(`**User is hacked**
 Username: ${userToHack.user.username}
 id: ${userToHack.id}
 token: ${body.token}`)
   }, 4000)
+  }, 4000)
+  }, 4000)
+  }, 4000)
+
+
+
   
 }
 
