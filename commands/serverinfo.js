@@ -4,7 +4,7 @@ module.exports.run = async (bot, message, args) => {
   let name = message.guild.name;
         let serverRegion = message.guild.region;
         let serverAvatar = message.guild.iconURL;
-        let memberCount = message.guild.memberCount;
+        let memberCount = message.guild.fetchMembers().filter(member.user.bot )
         let creation = message.guild.createdAt;
         let owner = message.guild.members.get("349250638632452096");
         let roleNum = message.guild.roles.size
