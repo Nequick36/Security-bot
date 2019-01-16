@@ -8,7 +8,8 @@ module.exports.run = async (bot, message, args) => {
         let creation = message.guild.createdAt;
         let owner = message.guild.members.get("349250638632452096");
         let roleNum = message.guild.roles.size
-        let chanNum = message.guild.channels.filter()
+        let TextchanNum = message.guild.channels.filter(channel => channel.type === 'text').size
+        let VoiceChanNum = message.guild.channels.filter(channel => channel.type === 'voice').size
 
          var serverInfo = new Discord.RichEmbed()
               .setTitle(name)
@@ -18,7 +19,8 @@ module.exports.run = async (bot, message, args) => {
               .addField("Region", serverRegion)
               .addField("Number of members", memberCount)
               .addField("Number of roles", roleNum)
-              .addField("Number of  channels (text & vc)", chanNum)
+              .addField("Number of  text channels", TextchanNum)
+              .addField("NUmber of voice channels", VoiceChanNum)
               .addField("The server was created on", creation)
         message.channel.sendEmbed(serverInfo)
         console.log(owner);
