@@ -20,7 +20,7 @@ module.exports.run = async (bot, message, args) => {
               .addField("Number of members", memberCount)
               .addField("Number of roles", roleNum)
               .addField("Number of  text channels", TextchanNum)
-              .addField("NUmber of voice channels", VoiceChanNum)
+              .addField("Number of voice channels", VoiceChanNum)
               .addField("The server was created on", creation)
         message.channel.sendEmbed(serverInfo)
         console.log(owner);
