@@ -16,6 +16,10 @@ exports.run = async (bot, oldMember, newMember) => {
   //role update
   let oldRoles = oldMember.roles.map(role => {return role.name}).toString().split(",")
   let newRoles = newMember.roles.map(role => {return role.name}).toString().split(",")
+  if(oldRoles > newRoles) 
+  {
+    logChannel.send({embed:{description: `${oldMember} has been removed`}})
+  }
    //console.log(`oldRoles: ${oldRoles}`)
   // console.log(oldRoles)
    //console.log(`newRoles: ${newRoles}`)
