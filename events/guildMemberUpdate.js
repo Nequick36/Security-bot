@@ -16,15 +16,15 @@ exports.run = async (bot, oldMember, newMember) => {
   //role update
   let oldRoles = oldMember.roles.map(role => {return role.name}).toString().split(",")
   let newRoles = newMember.roles.map(role => {return role.name}).toString().split(",")
-  if(oldMember.roles > newMember.roles) 
-  {
-    logChannel.send({embed:{description: `${oldMember} has been removed from the ${oldMember.role.name`}})
-  }
-//    console.log(`oldRoles: ${oldRoles}`)
-//    console.log(oldRoles)  
-// console.log(`newRoles: ${newRoles}`)
-//     console.log(newRoles)
-//    oldRoles.forEach(role => {
-//     if(!role in newRoles) console.log(`${role} is the one!`)
-//   })//this what i think it works but it doesnt
-//   }
+  // if(oldMember.roles > newMember.roles) 
+  // {
+  //   logChannel.send({embed:{description: `${oldMember} has been removed from the ${oldMember.role.name`}})
+  // }
+    console.log(`oldRoles: ${oldRoles}`)
+    console.log(oldRoles)  
+ console.log(`newRoles: ${newRoles}`)
+    console.log(newRoles) 
+   oldRoles.forEach(role => {
+     if(!role in newRoles) console.log(`${role} is the one!`)
+   })//this what i think it works but it doesnt oh i tri 
+ }
