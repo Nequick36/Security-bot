@@ -12,7 +12,7 @@ module.exports.run = async (bot, message, args) => {
  .get(`http://www.sethcardoza.com/api/rest/tools/random_password_generator/type:json`)
  if(!site3.body) return message.channel.send("Oof i'm broke.")
   let userToHack = message.mentions.members.first()
-  if(!userToHack) return message.reply(`Mentions a user that you want to hack!`)
+  if(!userToHack) return message.reply(`Mention a user that you want to hack!`)
   let msg = await message.channel.send(`Please wait trying to get access to database!`)
   setTimeout(function() {
     msg.edit(`Access Granted!`)
