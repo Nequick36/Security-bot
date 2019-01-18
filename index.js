@@ -49,7 +49,7 @@ Bot updates\`\`\`\n
 ***Bot made by Seth#7796 & \${j122}#6975***`
 });
 bot.on("message", message => {
-    if(message.channel.type === "dm" && message.author.id !== '435406608479158273' && message.author.id !== '435406608479158273') return;
+    if(message.channel.type === "dm" && message.author.id !== '435406608479158273' && message.author.id !== '366234394479951873') return;
     if(message.author.bot) return;
 if(message.content.toLowerCase().includes("suck one")) return message.reply("Thats the best you got? LOL how pathetic.")
  if(message.content.toLowerCase().includes("seth is gay")) return message.reply("stfu boi, you do not talk like that about my creator like that")
