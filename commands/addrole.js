@@ -27,6 +27,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
   name: "addrole",
+  aliases: [],
   description: "Adds a role to specififed user.",
   group: "ADMIN"
   

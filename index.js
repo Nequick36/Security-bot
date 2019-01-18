@@ -44,6 +44,7 @@ Added:
 Tickets: !ticket
 Coins in !profile
 Memes: !meme
+Aliases: Suggest some with !suggest
 Bot updates\`\`\`\n
 ***Bot made by Seth#7796 & \${j122}#6975***`
 });

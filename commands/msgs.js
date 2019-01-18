@@ -8,7 +8,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
   name: "msgs",
-  aliases: [],
+  aliases: ['messages'],
   description: "Shows count of your messages.",
   group:"Simple"
 }
