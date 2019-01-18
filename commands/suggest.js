@@ -16,6 +16,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
   name: "suggest",
+  aliases: [],
   description:"Makes a suggestion.",
   group: "Simple"
 }

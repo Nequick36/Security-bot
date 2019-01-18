@@ -17,6 +17,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
   name: "shop",
+  aliases: [],
   description:"A shop listing all the different items you can buy.",
   group: "economy"
 }

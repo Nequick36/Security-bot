@@ -33,6 +33,10 @@ fs.readdir("./commands", (err, files) => {
       
       if(props.help.description) helpCmd = `${helpCmd}**${props.help.name}**: ${props.help.description}\n`
       else helpCmd = `${helpCmd}** ${props.help.name}**: No description added.\n`
+           props.help.aliases.forEach(alias => {
+         bot.aliases.set(alias, props.help.name);
+
+     });
 
       });
       helpCmd = `${helpCmd}\n**Updates:**\`\`\`
@@ -57,7 +61,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     let args = messageArray.slice(1);
   if(!message.content.startsWith(prefix)) return;
 
-    let commandfile = bot.commands.get(cmd.slice(prefix.length));
+    let commandfile = bot.commands.get(cmd.slice(prefix.length)) || bot.commands.get(bot.aliases.get(cmd.slice(prefix.length)));
     if(commandfile) commandfile.run(bot, message, args)
     else { 
       if(cmd.slice(prefix.length) === 'help') {}

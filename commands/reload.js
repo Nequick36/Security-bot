@@ -18,6 +18,7 @@ if(!commandName) return message.reply(`Can't find that command!`)
 
 module.exports.help = {
   name: "reload",
+  aliases: [],
   description: "Reload a command(Only for developers).",
   group:"Admin"
 }

@@ -26,6 +26,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
   name: "unban",
+  aliases: [],
   description:"Unbans a user.",
   group: "admin"
 }

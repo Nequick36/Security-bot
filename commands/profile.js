@@ -25,6 +25,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
   name: "profile",
+  aliases: [],
   description: "Checks Your own custom profile.",
   group:"Simple"
 }
