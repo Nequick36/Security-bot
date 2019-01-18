@@ -10,7 +10,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
   name: "balance",
-  aliases: [],
+  aliases: ['wallet', 'bal'],
   description: "Checks your balance.",
   group:"Economy"
 }

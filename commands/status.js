@@ -33,5 +33,7 @@ module.exports.help = {
   name: "status",
   aliases: ['setstatus'],
   description: "Changes the bot's status.",
+  perm: "MANAGE_SERVER",
+  role: "GH Bot Developer",
   group:"Simple"
 }
