@@ -17,7 +17,7 @@ module.exports.help = {
   name:"unmute",
   aliases: [],
   description:"unmutes a user",
-  perm: "",
+  perm: "MANAGE_MESSAGES",
   role: "",
   group: "Staff"
 }

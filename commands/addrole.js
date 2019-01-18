@@ -29,7 +29,7 @@ module.exports.help = {
   name: "addrole",
   aliases: [],
   description: "Adds a role to specififed user.",
-  perm: "",
+  perm: "ADMINISTRATOR",
   role: "",
   group: "ADMIN"
   

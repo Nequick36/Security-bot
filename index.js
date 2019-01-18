@@ -63,9 +63,11 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
   if(!message.content.startsWith(prefix)) return;
 
     let commandfile = bot.commands.get(cmd.slice(prefix.length)) || bot.commands.get(bot.aliases.get(cmd.slice(prefix.length)));
-  let perm 
-    if(commandfile) commandfile.run(bot, message, args)
-    else { //
+  let NeededPerm = commandfile.help.perm
+  if(NeededPerm === '') {}
+  else if(!message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**`);
+    if(commandfile) commandfile.run(bot, message, args) //can you go thru files and add needed perms or roles they are blank but add like MANAGE_MESSAGES
+    else { //ok wait is there roles and perms //i need to go now
       if(cmd.slice(prefix.length) === 'help') {}
       else message.channel.send(`Can't find that command! Please use !help`)
       }

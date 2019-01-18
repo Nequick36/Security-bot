@@ -55,7 +55,7 @@ module.exports.help = {
     name: "warn",
     aliases: [],
     description: "Warns a member.",
-  perm: "",
+  perm: "MANAGE_MESSAGES",
   role: "",
   group: "admin"
   
