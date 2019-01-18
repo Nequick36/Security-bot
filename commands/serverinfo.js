@@ -16,7 +16,7 @@ module.exports.run = async (bot, message, args) => {
               .setTitle(name)
               .setThumbnail(serverAvatar)
               .setColor(0xFF0000)
-              .addField("Owner", owner.user.username)
+              .addField("Owner", owner.user.tag)
               .addField("Region", serverRegion)
               .addField("Number of members", memberCount)
               .addField("Number of bots", botCount)
