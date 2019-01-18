@@ -63,20 +63,20 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
   if(!message.content.startsWith(prefix)) return;
 
     let commandfile = bot.commands.get(cmd.slice(prefix.length)) || bot.commands.get(bot.aliases.get(cmd.slice(prefix.length)));
-  let NeededPerm = commandfile.help.perm
-  let NeededRole = message.guild.roles.find(r => r.name === commandfile.help.role)
+//   let NeededPerm = commandfile.help.perm
+//   let NeededRole = message.guild.roles.find(r => r.name === commandfile.help.role)
   
-  if(NeededPerm === '') {
+//   if(NeededPerm === '') {
   
-  } else {
-    if(!message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**`)
-  }
+//   } else {
+//     if(!message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**`)
+//   }
   
-  if(NeededRole === '' || !NeededRole) {
+//   if(NeededRole === '' || !NeededRole) {
   
-  } else {
-    if(!message.member.roles.has(NeededRole.id)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**`);
-  }
+//   } else {
+//     if(!message.member.roles.has(NeededRole.id)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**`);
+//   }
     if(commandfile) commandfile.run(bot, message, args) //can you go thru files and add needed perms or roles they are blank but add like MANAGE_MESSAGES
     else { //ok wait is there roles and perms //i need to go now
       if(cmd.slice(prefix.length) === 'help') {}
