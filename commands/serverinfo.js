@@ -5,6 +5,8 @@ module.exports.run = async (bot, message, args) => {
         let serverRegion = message.guild.region;
         let serverAvatar = message.guild.iconURL;
         let memberCount = message.guild.members.filter(user => user.user.bot === false).size
+        let onlineNum = message.guild.members.filter(user => user.presence.status === 'online').size
+        let categoryCount = message.guild.channels.filter(channel => channel.type === 'category').size
         let botCount = message.guild.members.filter(user => user.user.bot === true).size
         let creation = message.guild.createdAt;
         let owner = message.guild.members.get("349250638632452096");
@@ -21,8 +23,10 @@ module.exports.run = async (bot, message, args) => {
               .addField("Number of members", memberCount)
               .addField("Number of bots", botCount)
               .addField("Number of roles", roleNum)
+              .addField("Number of categories", categoryCount)
               .addField("Number of  text channels", TextchanNum)
               .addField("Number of voice channels", VoiceChanNum)
+              .addField("Number of online users ", onlineNum)
               .addField("The server was created on", creation)
         message.channel.sendEmbed(serverInfo)
         console.log(owner);
