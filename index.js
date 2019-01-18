@@ -66,13 +66,15 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
   let NeededPerm = commandfile.help.perm
   let NeededRole = message.guild.roles.find(r => r.name === commandfile.help.role)
   
-  if(NeededPerm === '') {}
-  else {
+  if(NeededPerm === '') {
+  
+  } else {
     if(!message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**`)
   }
   
-  if(NeededRole === '' || !NeededRole) {}
-  else {
+  if(NeededRole === '' || !NeededRole) {
+  
+  } else {
     if(!message.member.roles.has(NeededRole.id)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**`);
   }
     if(commandfile) commandfile.run(bot, message, args) //can you go thru files and add needed perms or roles they are blank but add like MANAGE_MESSAGES
