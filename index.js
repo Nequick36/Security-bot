@@ -17,6 +17,7 @@ const eco = require("discord-economy")
 const fs = require("fs")
 const bot = new Discord.Client()
 bot.commands = new Discord.Collection()
+bot.aliases = new Discord.Collection();
 let helpCmd = `Prefix is !\nCommands:\n\n` 
 fs.readdir("./commands", (err, files) => {
     if(err) console.log(err);
