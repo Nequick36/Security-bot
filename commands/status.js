@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  let devRole = message.guild.roles.find(`name`, "GH Bot Developer")
+  let devRole = message.guild.roles.find(r => r.name === "GH Bot Developer")
   if(!message.member.roles.has(devRole.id)) return message.channel.send("**🛑 THIS IS A DEVELOPER ONLY COMMAND! 🛑**")
     // bot.user.setStatus('available')
     // bot.user.setPresence({
@@ -17,10 +17,13 @@ module.exports.run = async (bot, message, args) => {
       if(e) message.channel.send(e)
     }
   } else {
+    let type = args[0]
+    args.shift()
+    let name = args.join(" ")
     bot.user.setPresence({
         game: {
-            name: args.shift().join(" "),
-            type: args[0],
+            type: type,
+            name: name 
         }
     })
   }

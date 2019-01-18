@@ -103,7 +103,7 @@ bot.on("guildMemberRemove", function (member) {
 bot.on('ready', () => {
     console.log("Ready")
 
-    bot.user.setStatus('idle')
+    bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
             name: 'to use commands do !help',
