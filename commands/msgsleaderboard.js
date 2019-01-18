@@ -15,5 +15,7 @@ module.exports.help = {
   name: "msgsleaderboard",
   aliases: [],
   description: "Shows leaderboard of messages.",
+  perm: "",
+  role: "",
   group:"Simple"
 }

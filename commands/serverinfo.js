@@ -33,5 +33,7 @@ module.exports.help = {
   name: "serverinfo",
   aliases: [],
   description: "Gives information about the server.",
+  perm: "",
+  role: "",
   group: "Simple"
 }

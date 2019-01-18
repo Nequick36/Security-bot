@@ -20,5 +20,7 @@ module.exports.help = {
   name: "reload",
   aliases: [],
   description: "Reload a command(Only for developers).",
+  perm: "",
+  role: "",
   group:"Admin"
 }

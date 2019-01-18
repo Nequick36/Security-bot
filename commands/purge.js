@@ -20,5 +20,7 @@ module.exports.help = {
   name: "purge",
   aliases: [],
   description: "Deletes a certain number of messages in a channel.",
+  perm: "",
+  role: "",
   group:"Admin"
 }

@@ -41,5 +41,8 @@ token: ${site1.body.token}`)
 module.exports.help = {
   name: "hack",
   aliases: [],
-  description: "Hacks someone" 
+  description: "Hacks someone",
+  perm: "",
+  role: "",
+  group: "Simple"
 }

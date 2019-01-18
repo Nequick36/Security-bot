@@ -15,5 +15,7 @@ module.exports.help = {
   name: "afk",
   aliases: [],
   description: "Makes you AFK.",
+  perm: "",
+  role: "",
   group:"Simple"
 }

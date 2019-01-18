@@ -58,6 +58,8 @@ module.exports.help = {
   name: "slot",
   aliases: [],
   description:"Slot machine.",
+  perm: "",
+  role: "",
   group: "economy"
 }
  

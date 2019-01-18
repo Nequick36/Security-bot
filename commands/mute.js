@@ -75,6 +75,8 @@ module.exports.help = {
   name: "mute",
   aliases: [],
   description: "Mutes a specified user for a specified amount of time.",
+  perm: "",
+  role: "",
   group: "Admin"
 
 }

@@ -59,5 +59,7 @@ module.exports.help = {
     name: "buy",
   aliases: [],
    description: "Buys an item from the shop.",
+  perm: "",
+  role: "",
   group:"Economy"
 }

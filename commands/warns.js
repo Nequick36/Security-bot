@@ -31,6 +31,8 @@ module.exports.help = {
     name: "warns",
   aliases: [],
    description:"The warnings of a user.",
+  perm: "",
+  role: "",
   group:"ADMIN"
 
 }

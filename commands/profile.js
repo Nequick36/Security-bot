@@ -27,5 +27,7 @@ module.exports.help = {
   name: "profile",
   aliases: [],
   description: "Checks Your own custom profile.",
+  perm: "",
+  role: "",
   group:"Simple"
 }

@@ -22,5 +22,7 @@ module.exports.help = {
   name: "setbalance",
   aliases: [],
   description:"It will set a users balance.",
+  perm: "",
+  role: "",
   group: "economy"
 }

@@ -18,5 +18,7 @@ module.exports.help = {
   name: "suggest",
   aliases: [],
   description:"Makes a suggestion.",
+  perm: "",
+  role: "",
   group: "Simple"
 }

@@ -63,8 +63,9 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
   if(!message.content.startsWith(prefix)) return;
 
     let commandfile = bot.commands.get(cmd.slice(prefix.length)) || bot.commands.get(bot.aliases.get(cmd.slice(prefix.length)));
+  let perm 
     if(commandfile) commandfile.run(bot, message, args)
-    else { 
+    else { //
       if(cmd.slice(prefix.length) === 'help') {}
       else message.channel.send(`Can't find that command! Please use !help`)
       }

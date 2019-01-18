@@ -16,5 +16,7 @@ module.exports.help = {
   name: "flip",
   aliases: [],
   description: "Flips a coin laning on either heads or tails.",
+  perm: "",
+  role: "",
   group:"Simple"
 }

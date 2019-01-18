@@ -10,5 +10,7 @@ module.exports.help = {
   name: "msgs",
   aliases: ['messages'],
   description: "Shows count of your messages.",
+  perm: "",
+  role: "",
   group:"Simple"
 }

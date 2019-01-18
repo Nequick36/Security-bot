@@ -14,5 +14,8 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "meme",
   aliases: [],
-  description: "produces memes" 
+  description: "produces memes",
+  perm: "",
+  role: "",
+  group: "simple"
 }

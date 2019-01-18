@@ -26,5 +26,7 @@ module.exports.help = {
   name: "delrole",
   aliases: [],
   description: "Removes a role from a specified user.",
+  perm: "",
+  role: "",
   group: "Admin"
 }

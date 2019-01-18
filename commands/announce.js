@@ -16,5 +16,7 @@ module.exports.help = {
   name: "announce",
   aliases: [],
   description: "Announces a message to a announcements.",
+  perm: "",
+  role: "",
   group:"Admin"
 }

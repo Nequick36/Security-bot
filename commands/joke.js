@@ -15,18 +15,18 @@ module.exports.run = async (bot, message, args) => {
 "Why don’t crabs donate? Because they're shelfish.",
 " 'You.' ",
 "If laughter is the best medicine, your face must be curing the world.",
-"I could pick up more women off Tinder by posting a picture of my shit than using a picture of your face."
-// `\`\`\`Error: Cannot find module 'MemeLoader'
-//     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
-//     at Function.Module._load (internal/modules/cjs/loader.js:506:25)
-//     at Module.require (internal/modules/cjs/loader.js:636:17)
-//     at require (internal/modules/cjs/helpers.js:20:18)
-//     at Object.<anonymous> (/Users/user/Documents/prod/MemeLoader.js)
-//     at Module._compile (internal/modules/cjs/loader.js:688:30)
-//     at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
-//     at Module.load (internal/modules/cjs/loader.js:598:32)
-//     at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
-//     at Function.Module._load (internal/modules/cjs/loader.js:529:3)\`\`\``
+"I could pick up more women off Tinder by posting a picture of my shit than using a picture of your face.",
+`\`\`\`Error: Cannot find module \'MemeLoader'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/Users/user/Documents/prod/MemeLoader.js)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)\`\`\``
 ]
   let chance = Math.floor(Math.random() * jokes.length)
   message.channel.send(jokes[chance]);
@@ -35,7 +35,10 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "joke",
   aliases: [],
-  description:"tells jokes"
+  description:"tells jokes",
+  perm: "",
+  role: "",
+  group: "simple"
 }
 
 

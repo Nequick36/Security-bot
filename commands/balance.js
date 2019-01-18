@@ -12,5 +12,7 @@ module.exports.help = {
   name: "balance",
   aliases: ['wallet', 'bal'],
   description: "Checks your balance.",
+  perm: "",
+  role: "",
   group:"Economy"
 }

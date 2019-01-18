@@ -27,6 +27,8 @@ module.exports.help = {
   name: "poll",
   aliases: [],
   description: "Make a poll",
+  perm: "",
+  role: "",
   group:"SIMPLE"
 }
   
