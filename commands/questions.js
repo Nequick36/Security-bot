@@ -4,7 +4,7 @@ module.exports.run = async (bot, message, args) => {
   let file = JSON.parse(fs.readFileSync('commands/questions.json', 'utf8')); 
   
   if(!file) message.reply("Can't find a json file!")
-  if(!file.questions) file.questions === ""
+  if(!file.questions) file.questions = ""
   let q = file.questions.split("|")
   let questions = ""
   for(let i = 0; i<q.length; i++) {
