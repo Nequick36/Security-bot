@@ -7,10 +7,14 @@ module.exports.run = async (bot, message, args) => {
   if(!code) return message.channel.send('What code do you want to eval?')
   try {
     let output = eval(code)
+    if(message.content.includes('[nolog]')) {
+      
+    } else {
     embed.setColor(0xff0000)
     embed.addField('Code', code)
     .addField('Output', output)
     message.channel.send(embed)
+    }
   } catch(e) {
     embed.addField('Error', `${e || 'No errors'}`)
   }
