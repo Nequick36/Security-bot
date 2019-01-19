@@ -6,14 +6,13 @@ module.exports.run = async (bot, message, args) => {
   if(!code) return message.channel.send('What code do you want to eval?')
   try {
     let output = eval(code)
+    embed.setColor(0xff0000)
+    embed.addField('Code', code)
+    .addField('Output', output)
+    message.channel.send(embed)
   } catch(e) {
-    if(e) message.reply(e)
+    if(e) embed.addField('Error', e)
   }
-  
-  embed.setColor(0xff0000)
-  embed.addField('Code', code)
-  embed.addField('Output', output)
-  message.channel.send(embed)
 }
 
 module.exports.help = {
