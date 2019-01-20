@@ -84,8 +84,14 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
       }
    
     if(cmd === `${prefix}help`) {
-      message.author.send(helpCmd)
-      message.channel.send(`Check DMs!`)
+      if(!args[0])  {
+        message.author.send(helpCmd)
+        message.channel.send(`Check DMs!`)
+        return
+      }
+      let command = bot.commands.get(args[0]) || bot.commands.get(bot.aliases.get(args[0]));
+      if(!command) return message.channel.send(`Can't find command named ${command}!`)
+      
     }
   
   
