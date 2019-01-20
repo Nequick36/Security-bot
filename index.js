@@ -42,11 +42,9 @@ fs.readdir("./commands", (err, files) => {
       });
       helpCmd = `${helpCmd}\n**Updates:**\`\`\`
 Added:
-Tickets: !ticket
-Coins in !profile
 Memes: !meme
 Aliases: Suggest some with !suggest
-Bot updates\`\`\`\n
+Advanced help: !help <command/alias>\`\`\`\n
 ***Bot made by Seth#7796 & \${j122}#6975***`
 });
 bot.on("message", message => {
