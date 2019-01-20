@@ -90,8 +90,15 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
         return
       }
       let command = bot.commands.get(args[0]) || bot.commands.get(bot.aliases.get(args[0]));
-      if(!command) return message.channel.send(`Can't find command named ${command}!`)
-      
+      if(!command) return message.channel.send(`Can't find command named ${args[0]}!`)
+      console.log(command)
+      let HelpEmbed = new Discord.RichEmbed()
+      .setColor(0xff0000)
+      .setTitle(command.help.name)
+      .addField(`Description`, command.help.description)
+      .addField(`Required Permission`, command.help.perm)
+      .addField(`Required Role`, command.help.role)
+      .addField(`Group`, command.help.group.)
     }
   
   
