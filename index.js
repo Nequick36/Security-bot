@@ -13,6 +13,7 @@ setInterval(() => {
 
 const Discord = require("discord.js");
 const botconfig = require("./botconfig.json");
+var replaceall = require("replaceall");
 const eco = require("discord-economy")
 const fs = require("fs")
 const bot = new Discord.Client()
@@ -94,11 +95,13 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
       console.log(command)
       let HelpEmbed = new Discord.RichEmbed()
       .setColor(0xff0000)
-      .setTitle(command.help.name)
-      .addField(`Description`, command.help.description)
-      .addField(`Required Permission`, command.help.perm)
-      .addField(`Required Role`, command.help.role)
-      .addField(`Group`, command.help.group.)
+      .addField(`Name`, `${command.help.name}`)
+      .addField(`Description`, `${command.help.description || 'None'}`)
+      .addField(`Aliases`, `${replaceall(" ", ", ", command.help.aliases.join(" ")) || 'None'}`)
+      .addField(`Required Permission`, `${command.help.perm || 'None'}`)
+      .addField(`Required Role`, `${command.help.role || 'None'}`)
+      .addField(`Group`, `${command.help.group.toLowerCase() || 'None'}`)
+      message.channel.send(HelpEmbed)
     }
   
   
