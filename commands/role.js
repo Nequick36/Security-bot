@@ -1,15 +1,11 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  let user = message.member
-  if(user.nickname) {
-    if(user.nickname.startsWith('[AFK]')) {user.setNickname(user.nickname.replace('[AFK] ', ''))
-                                           message.channel.send(`You are no longer AFK!`)}
-    else {user.setNickname(`[AFK] ${user.nickname}`)
-          message.channel.send(`You are now AFK!`)}
-  } else {user.setNickname(`[AFK] ${user.username}`)
-          message.channel.send(`You are now AFK!`)}
-}
+  let role = message.guild.roles.find(r => r.name === args.join(" "))
+  if(!role) return message.channel.send(`Can't find role named ${role.name}`)
+  let members = message.guild.members.filter(m => m.roles.has(role.id))
+  message.channel.send(`${members.size} member(s) has role ${role.name}`)
+  }   
 
 module.exports.help = {
   name: "role",
@@ -17,5 +13,5 @@ module.exports.help = {
   description: "Command used to control roles.",
   perm: "",
   role: "",
-  group:"Simple"
+  group:"Staff/Admin"
 }
