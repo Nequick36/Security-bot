@@ -5,13 +5,15 @@ module.exports.run = async (bot, message, args) => {
   if(!role) return message.channel.send(`Can't find role named ${args.join(" ")}`)
   let members = message.guild.members.filter(m => m.roles.has(role.id))
   let rEmbed = new Discord.RichEmbed()
-  message.channel.send(`${members.size} member(s) has role ${role.name}`)
+  message.channel.send(members.map(member => {
+    return `${member.nickname || member.user.username}`
+  }))
   }   
 
 module.exports.help = {
   name: "role",
   aliases: [],
-  description: "Command used to control roles.",
+  description: "Shows role's info.",
   perm: "",
   role: "",
   group:"Staff/Admin"
