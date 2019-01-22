@@ -13,7 +13,8 @@ module.exports.run = async (bot, message, args) => {
   }
 
   var db = new sqlite.Database(dbFile);
-  db.run('INSERT INTO members (id)')
+  db.run(`INSERT INTO members (id)
+VALUES (1);`)
   console.log(db.run('SELECT * FROM members;'))
 
   db.close();
