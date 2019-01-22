@@ -20,10 +20,11 @@ module.exports.run = async (bot, message, args) => {
         message.channel.send("You have not specified a reason!")
         return;
       }
+    message.delete()
      if(!warns[user.id]) warns[user.id] = {}
      if(!warns[user.id].warns) warns[user.id].warns = 0
     if(!warns[user.id].reasons) warns[user.id].reasons = ''
-    message.delete()
+    
      user.send("You have been warned in GameHub for: " + warning).catch(message.channel.send(`** ✅ ${user.tag} has been warned  **`))
     warns[user.id].warns++
     if(warns[user.id].reasons === '') warns[user.id].reasons = `${warning}`
