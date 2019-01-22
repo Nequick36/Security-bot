@@ -12,7 +12,7 @@ module.exports.run = async (bot, message, args) => {
     } else {
     embed.setColor(0xff0000)
     embed.addField('Code', code)
-    .addField('Output', output)
+    embed.addField('Output', JSON.parse(output))
     message.channel.send(embed)
     }
   } catch(e) {

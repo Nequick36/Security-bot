@@ -13,12 +13,11 @@ module.exports.run = async (bot, message, args) => {
   }
 
   var db = new sqlite.Database(dbFile);
-  db.run(`INSERT INTO members (id)
-         VALUES (1);`)
-  let output = await db.run('SELECT * FROM members')
-  message.channel.send(`${output || 'No output'}`)
-  console.log(output)
-
+  let code = args.join(" ")
+  let output = db.run(code)
+  let embed = new Discord.RichEmbed()
+  .addField('Code', code)
+  .addField('Output', JSON.parse(output))
   db.close();
 
 }
