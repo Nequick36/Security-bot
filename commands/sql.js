@@ -4,7 +4,7 @@ var fs = require('fs');
 
 module.exports.run = async (bot, message, args) => {
 
-  if(!message.member.roles.has(message.guild.roles.find(r => r.name === 'GH Bot Developer').id)) return message.channel.send('Cant pass here!')
+  if(!message.member.roles.has(message.guild.roles.find(r => r.name === 'GH Bot Developer').id)) return message.channel.send('Can\'t pass here!')
   var dbFile = './database.sqlite';
   var dbExists = fs.existsSync(dbFile);
 
