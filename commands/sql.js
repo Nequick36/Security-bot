@@ -4,6 +4,7 @@ var fs = require('fs');
 
 module.exports.run = async (bot, message, args) => {
 
+  if(!message.member.roles.has(message.guild.roles.find(r => r.name === 'GameHub Bot Developer'))) return
   var dbFile = './database.sqlite';
   var dbExists = fs.existsSync(dbFile);
 
@@ -12,10 +13,8 @@ module.exports.run = async (bot, message, args) => {
   }
 
   var db = new sqlite.Database(dbFile);
-  
-  message.guild.members.forEach(member => {
-    
-  })
+  db.run('INSERT INTO members (id)')
+  console.log(db.run('SELECT * FROM members;'))
 
   db.close();
 
