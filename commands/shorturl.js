@@ -17,7 +17,7 @@ module.exports.run = async (bot, message, args) => {
 });
   } else if (type === 'lookup') {
     isgd.lookup(link, function(res) {
-    console.log(res); // Returns a longer version of http://is.gd/OwycZW - http://google.com
+    message.channel.send(res); // Returns a longer version of http://is.gd/OwycZW - http://google.com
 });
   } else {
     message.channel.send(`Short URL help:
