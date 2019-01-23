@@ -61,7 +61,10 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
      if(message.channel.name === '🔻》advertisement' || message.channel.name === '🔸》partners') return;
     else message.delete()
   }
-  
+  if(message.content.includes("https://is.gd/" )) {
+    if(message.channel.name === '🔻》advertisement' || message.channel.name === '🔸》partners') return;
+    else message.delete()
+  }
 
     let prefix = botconfig.prefix;
     let messageArray = message.content.split(" ")
