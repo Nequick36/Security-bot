@@ -34,8 +34,8 @@ exports.run = async (bot, message) => {
   let profile = await dl.Fetch(userID)
   
   if(profile.xp >= 200) {
-      dl.SetXp(userID, 0)
-      dl.AddLevel(userID, 1)
+      dl.SetXp(userID, 1).then()//oh
+      dl.AddLevel(userID, 1).then()
       message.channel.send(`${message.author} just leveled up to level ${profile.level + 1}!`)
   }
 
