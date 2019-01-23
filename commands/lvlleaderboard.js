@@ -26,6 +26,7 @@ module.exports.run = async (bot, message, args) => {
  
 1 - ${firstplace.tag || 'None'} : ${users[0].level || 'None'} level : ${users[0].xp || 'None'} xp
 2 - ${secondplace.tag || 'None'} : ${users[1].level || 'None'} level : ${users[1].xp || 'None'} xp
+
 3 - ${thirdplace.tag || 'None'} : ${users[2].level || 'None'} level : ${users[2].xp || 'None'} xp`) 
  
       })
