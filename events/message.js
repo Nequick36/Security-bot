@@ -1,5 +1,6 @@
 const fs = require('fs')
 const discord = require('discord.js')
+const dl = require('discord-leveling')
 exports.run = async (bot, message) => {
   let logChannel = message.guild.channels.find(c => c.name === '🔸》moderation-chat-logs')
   if(message.content.startsWith('!')) logChannel.send({embed:{description: `${message.author.tag} used command ${message.content} in channel ${message.channel.name}.`, color: 0xff0000}})
@@ -22,4 +23,18 @@ exports.run = async (bot, message) => {
   // fs.appendFile('events/chatlogs.txt', `[${message.createdAt}][${message.guild.name}][${message.channel.name}] ${message.author.username}: ${message.content}\n`, (err) => {
   //       if(err) console.log(err)
   //   })
+  
+  //xp system
+  
+  let randomXp = Math.floor(Math.random() * 20)
+  let userID = message.author.id
+  dl.AddXp(userID, randomXp)
+ 
+  dl.Fetch(userID).then(l => {
+    if(l.xp > 400) {
+      dl.SetXp(userID, 0)
+      dl.AddLevel(userID, 1)
+      message.channel.send(`${message.author} just leveled up to level ${l.level + 1}!`)
+    }
+  })
 }
