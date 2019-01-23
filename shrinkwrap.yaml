@@ -2,6 +2,7 @@ dependencies:
   discord-economy: 1.1.6
   discord.js: 11.4.2
   express: 4.16.4
+  isgd: 1.1.3
   replaceall: 0.1.6
   sequelize: 4.42.0
   sqlite3: 4.0.6
@@ -593,6 +594,10 @@ packages:
     dev: false
     resolution:
       integrity: sha1-u5NdSFgsuhaMBoNJV6VKPgcSTxE=
+  /isgd/1.1.3:
+    dev: false
+    resolution:
+      integrity: sha1-mICNrBUqckdJfF0GgwgBLsz6Q1E=
   /isstream/0.1.2:
     dev: false
     resolution:
@@ -1349,6 +1354,7 @@ specifiers:
   discord-economy: ^1.1.6
   discord.js: ^11.4.2
   express: ^4.16.4
+  isgd: ^1.1.3
   replaceall: ^0.1.6
   sequelize: ^4.42.0
   sqlite3: ^4.0.6
