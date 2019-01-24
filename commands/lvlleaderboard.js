@@ -24,10 +24,9 @@ module.exports.run = async (bot, message, args) => {
  
         message.channel.send(`My leaderboard:
  
-1 - ${firstplace.tag || 'None'} : ${users[0].level || 'None'} level : ${users[0].xp || 'None'} xp
-2 - ${secondplace.tag || 'None'} : ${users[1].level || 'None'} level : ${users[1].xp || 'None'} xp
-
-3 - ${thirdplace.tag || 'None'} : ${users[2].level || 'None'} level : ${users[2].xp || 'None'} xp`) 
+1 - ${firstplace.tag || 'None'} | level ${users[0].level || 'None'} | ${users[0].xp || 'None'} xp
+2 - ${secondplace.tag || 'None'} | level ${users[1].level || 'None'} | ${users[1].xp || 'None'} xp
+3 - ${thirdplace.tag || 'None'} | level ${users[2].level || 'None'} | ${users[2].xp || 'None'} xp`) 
  
       })
  
