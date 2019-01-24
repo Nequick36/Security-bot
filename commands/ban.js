@@ -24,19 +24,19 @@ module.exports.run = async (bot, message, args) => {
          return;
        }
      var kickInfo = new Discord.RichEmbed()
-         .setTitle("Kick log")
-         .addField("Kicked user", bannedUser)
-         .addField("Kicked by", message.author)
+         .setTitle("Ban log")
+         .addField("Banned user", bannedUser)
+         .addField("Banned by", message.author)
          .addField("Reason", reason)
          .setThumbnail(bannedUser.user.avatarURL)
          .setColor(0xFF0000)
      let banChannel = message.guild.channels.find(channel => channel.name === "🔸》moderation")
      banChannel.send(kickInfo)
      message.delete()
-     bannedUser.send(`You have been banned from GameHub for: ${reason}`).catch(message.channel.send(`*** ${bannedUser.user.tag} has been banned!***`))
+     bannedUser.send(`You have been banned from GameHub for: ${reason}`).catch(message.channel.send(`** ${bannedUser.user.tag} has been banned!**`))
      setTimeout(function(){
   //code
-       message.guild.member(bannedUser).kick(reason)
+       message.guild.member(bannedUser).ban(reason, {days: 7})
               .then(console.log(reason))
               .catch(console.error);
 }, 1000);
