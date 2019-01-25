@@ -40,6 +40,7 @@ fs.readdir("./commands", (err, files) => {
      });
 
       });
+  console.log(`Loaded ${jsfile.length} commands!`)
       helpCmd = `${helpCmd}\n**Updates:**\`\`\`
 Added:
 Memes: !meme
