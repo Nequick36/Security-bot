@@ -23,15 +23,15 @@ module.exports.run = async (bot, message, args) => {
          message.channel.send("You have not specified a reason!")
          return;
        }
-     var kickInfo = new Discord.RichEmbed()
+     var banInfo = new Discord.RichEmbed()
          .setTitle("Ban log")
-         .addField("Banned user", bannedUser)
-         .addField("Banned by", message.author)
+         .addField("Banned user", bannedUser.user.username)
+         .addField("Banned by", message.author.username)
          .addField("Reason", reason)
          .setThumbnail(bannedUser.user.avatarURL)
          .setColor(0xFF0000)
      let banChannel = message.guild.channels.find(channel => channel.name === "🔸》moderation")
-     banChannel.send(kickInfo)
+     banChannel.send(banInfo)
      message.delete()
      bannedUser.send(`You have been banned from GameHub for: ${reason}`).catch(message.channel.send(`** ${bannedUser.user.tag} has been banned!**`))
      setTimeout(function(){

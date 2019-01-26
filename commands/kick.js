@@ -23,8 +23,8 @@ module.exports.run = async (bot, message, args) => {
        }
      var kickInfo = new Discord.RichEmbed()
          .setTitle("Kick log")
-         .addField("Kicked user", kickedUser)
-         .addField("Kicked by", message.author)
+         .addField("Kicked user", kickedUser.user.username)
+         .addField("Kicked by", message.author.username)
          .addField("Reason", reason)
          .setThumbnail(kickedUser.user.avatarURL)
          .setColor(0xFF0000)

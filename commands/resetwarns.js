@@ -10,7 +10,6 @@ module.exports.run = async (bot, message, args) => {
     }
     var user = message.mentions.users.first() 
     if (!user) return message.reply('cannot find user!')
-    let warning = message.content.split(" ").slice(2).join(" ");
     if(!warns[user.id]) warns[user.id] = {}
     if(!warns[user.id].warns) warns[user.id].warns = 0
    if(warns[user.id].reasons) warns[user.id].reason

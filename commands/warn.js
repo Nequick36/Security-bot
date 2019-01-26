@@ -32,8 +32,8 @@ module.exports.run = async (bot, message, args) => {
 
      var WarningInfo = new RichEmbed()
          .setTitle("Warn log")
-         .addField("Warned by", message.author)
-         .addField("User", user)
+         .addField("Warned by", message.author.username)
+         .addField("User", user.user.username)
          .addField('Warnings', warns[user.id].warns)
          .addField("Reason", warning)
          .setColor(0xFF0000)
