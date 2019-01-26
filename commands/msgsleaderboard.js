@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
   name: "msgsleaderboard",
-  aliases: [],
+  aliases: ['msglb'],
   description: "Shows leaderboard of messages.",
   perm: "",
   role: "",
