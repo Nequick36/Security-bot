@@ -18,9 +18,9 @@ module.exports.run = async (bot, message, args) => {
         limit: 3
       }).then(async users => { //make sure it is async
  
-        if(users[0]) var firstplace = await bot.fetchUser(users[0].userid) //Searches for the user object in discord for first place
-        if(users[1]) var secondplace = await bot.fetchUser(users[1].userid) //Searches for the user object in discord for second place
-        if(users[2]) var thirdplace = await bot.fetchUser(users[2].userid) //Searches for the user object in discord for third place
+        var firstplace = await bot.fetchUser(users[0].userid) //Searches for the user object in discord for first place
+        var secondplace = await bot.fetchUser(users[1].userid) //Searches for the user object in discord for second place
+        var thirdplace = await bot.fetchUser(users[2].userid) //Searches for the user object in discord for third place
  
         message.channel.send(`My leaderboard:
  
