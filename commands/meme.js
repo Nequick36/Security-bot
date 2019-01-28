@@ -4,7 +4,7 @@ const superagent = require("superagent")
 module.exports.run = async (bot, message, args) => {
  let { body } = await superagent
  .get(`https://api-to.get-a.life/meme`)
- if(!{body}) return message.channel.send("Oof i'm broke. Try again!")
+ if(!{body}) return message.channel.send("Try again!")
   let embed = new discord.RichEmbed()
   .setColor("BLUE")
   .setImage(body.url)

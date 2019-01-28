@@ -1367,4 +1367,4 @@ specifiers:
   replaceall: ^0.1.6
   sequelize: ^4.42.0
   sqlite3: ^4.0.6
-  superagent: ^4.0.0
+  superagent: ^4.1.0
