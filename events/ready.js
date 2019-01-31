@@ -14,6 +14,8 @@ exports.run = async (bot) => {
   ]
   let num = 0
   setInterval(function() {
-    if(num > colors.length) num =
+    num++
+    if(num > colors.length) num = 0
+    rainbowrole.setColor(colors[num])
   }, 3000)
 }
