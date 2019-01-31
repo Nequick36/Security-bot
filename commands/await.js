@@ -6,7 +6,7 @@ module.exports.run = async (bot, message, args) => {
   
   message.reply(`Waiting!`)
   message.channel.awaitMessages(filter, {
-    max: 1
+    max: 5
   }).then(collected => {
     message.channel.send(collected.first().content)
   })
