@@ -30,5 +30,9 @@
     "264387750525009921": {
         "warns": 1,
         "reasons": "Advertising"
+    },
+    "334288913961058304": {
+        "warns": 1,
+        "reasons": "Saying NSFW words"
     }
 }
