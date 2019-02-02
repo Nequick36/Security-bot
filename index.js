@@ -19,7 +19,7 @@ const fs = require("fs")
 const bot = new Discord.Client()
 bot.commands = new Discord.Collection()
 bot.aliases = new Discord.Collection();
-let helpCmd = `Prefix is !\nCommands:\n\n` 
+let helpCmd = `Prefix is <b>!</b><br>\nCommands:<br><br>\n\n` 
 fs.readdir("./commands", (err, files) => {
     if(err) console.log(err);
     let jsfile = files.filter(f => f.split(".").pop() === "js")
@@ -32,8 +32,8 @@ fs.readdir("./commands", (err, files) => {
          console.log(`${f} loaded!`)
          bot.commands.set(props.help.name, props)
       
-      if(props.help.description) helpCmd = `${helpCmd}<bold>${props.help.name}</bold>: ${props.help.description}\n`
-      else helpCmd = `${helpCmd}<bold>${props.help.name}</bold>: No description added.\n`
+      if(props.help.description) helpCmd = `${helpCmd}<b>${props.help.name}</b>: ${props.help.description}<br>\n`
+      else helpCmd = `${helpCmd}<b>${props.help.name}</b>: No description added.<br>\n`
            props.help.aliases.forEach(alias => {
          bot.aliases.set(alias, props.help.name);
 
@@ -41,12 +41,8 @@ fs.readdir("./commands", (err, files) => {
 
       });
   console.log(`Loaded ${jsfile.length} commands!`)
-      helpCmd = `${helpCmd}\n**Updates:**\`\`\`
-Added:
-Memes: !meme
-Aliases: Suggest some with !suggest
-Advanced help: !help <command/alias>\`\`\`\n
-***Bot made by Seth#7796 & \${j122}#6975***`
+      helpCmd = `${helpCmd}<br>\n
+  <b>Bot made by Seth#7796 & \${j122}#6975</b>b>`
 });
 bot.on("message", message => {
     if(message.channel.type === "dm" && message.author.id !== '435406608479158273' && message.author.id !== '366234394479951873') return;
@@ -90,9 +86,9 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
       if(!args[0])  {
         message.author.send(`https://gamehubhelp.glitch.me/`)
         message.channel.send(`Check DMs!`)
-        fs.writefile('./help.txt', helpCmd, (err) => {
-          if(err) console.log(err)
-        })
+    fs.writeFile('./help.txt', helpCmd, (err) => {
+ if(err) console.error(err)
+})
         return;
       }
       let command = bot.commands.get(args[0]) || bot.commands.get(bot.aliases.get(args[0]));
