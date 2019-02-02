@@ -3,7 +3,7 @@ const Discord = require("discord.js")
 module.exports.run = async (bot, message, args) => {
   let channels = message.guild.channels
   let mapped = channels.map(channel => {
-    return channel.name
+    return `\n${channel.name}`
   })
   message.channel.send(`\`\`\`${mapped}\`\`\``)
 }
