@@ -42,7 +42,7 @@ fs.readdir("./commands", (err, files) => {
       });
   console.log(`Loaded ${jsfile.length} commands!`)
       helpCmd = `${helpCmd}<br>\n
-  <b>Bot made by Seth#7796 & \${j122}#6975</b>b>`
+  <b>Bot made by Seth#7796 & \${j122}#6975</b>`
 });
 bot.on("message", message => {
     if(message.channel.type === "dm" && message.author.id !== '435406608479158273' && message.author.id !== '366234394479951873') return;
