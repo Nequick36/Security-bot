@@ -32,8 +32,8 @@ fs.readdir("./commands", (err, files) => {
          console.log(`${f} loaded!`)
          bot.commands.set(props.help.name, props)
       
-      if(props.help.description) helpCmd = `${helpCmd}**${props.help.name}**: ${props.help.description}\n`
-      else helpCmd = `${helpCmd}** ${props.help.name}**: No description added.\n`
+      if(props.help.description) helpCmd = `${helpCmd}<bold>${props.help.name}</bold>: ${props.help.description}\n`
+      else helpCmd = `${helpCmd}<bold>${props.help.name}</bold>: No description added.\n`
            props.help.aliases.forEach(alias => {
          bot.aliases.set(alias, props.help.name);
 
@@ -88,8 +88,11 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
    
     if(cmd === `${prefix}help`) {
       if(!args[0])  {
-        message.author.send(helpCmd)
+        message.author.send(`https://gamehubhelp.glitch.me/`)
         message.channel.send(`Check DMs!`)
+        fs.writefile('./help.txt', helpCmd, (err) => {
+          if(err) console.log(err)
+        })
         return;
       }
       let command = bot.commands.get(args[0]) || bot.commands.get(bot.aliases.get(args[0]));
