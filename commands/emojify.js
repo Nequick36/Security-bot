@@ -16,7 +16,8 @@ module.exports.run = async (bot, message, args) => {
     '!': ':grey_exclamation:',
     '?': ':grey_question:',
     '#': ':hash:',
-    '*': ':asterisk:'
+    '*': ':asterisk:',
+    '$': ':heavy_dollar_sign:'
 }
   'abcdefghijklmnopqrstuvwxyz'.split('').forEach(c => {
     mapping[c] = mapping[c.toUpperCase()] = ` :regional_indicator_${c}:`;
