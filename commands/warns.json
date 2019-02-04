@@ -32,7 +32,7 @@
         "reasons": "Advertising"
     },
     "334288913961058304": {
-        "warns": 1,
-        "reasons": "Saying NSFW words"
+        "warns": 2,
+        "reasons": "Saying NSFW words|!Unesscessary pinging of role"
     }
 }
