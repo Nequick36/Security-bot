@@ -8,6 +8,7 @@ module.exports.run = async (bot, message, args) => {
   message.channel.send(members.map(member => {
     return `${member.nickname || member.user.username}`
   }))
+  message.channel.send(`${members.size} members has role ${role.name}!`)
   }   
 
 module.exports.help = {
