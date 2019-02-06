@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  if(message.author.id !== '435406608479158273') return message.channel.send(`You can't use this command!`)
+  if(message.author.id !== '366234394479951873') return message.channel.send(`You can't use this command!`)
   let filter = m => m.author.id === message.author.id
   
   message.reply(`Waiting!`)
