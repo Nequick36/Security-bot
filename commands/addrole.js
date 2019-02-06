@@ -1,4 +1,4 @@
-ja const Discord = require("discord.js")
+ const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
   if(!message.member.hasPermission("ADMINISTRATOR")) return message.reply("Sorry pal, you can't do that.");//you didnt see anything lol
