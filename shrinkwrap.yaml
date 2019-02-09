@@ -1,6 +1,6 @@
 dependencies:
   discord-economy: 1.1.6
-  discord-leveling: 1.0.1
+  discord-leveling: 1.0.3
   discord.js: 11.4.2
   express: 4.16.4
   figlet: 1.2.1
@@ -276,13 +276,13 @@ packages:
     dev: false
     resolution:
       integrity: sha512-BXhJ+zwfEQ+mcu7bRUgzqsI3LLjAmtMgCyj/NqLW4Lup5KbYbTEKkEeRVtj1zS4cFHuJ327O1Yworoc32/oTqw==
-  /discord-leveling/1.0.1:
+  /discord-leveling/1.0.3:
     dependencies:
       sequelize: 4.42.0
       sqlite3: 4.0.6
     dev: false
     resolution:
-      integrity: sha512-6QiooUGkGaBBnXvmidg1J8Plq/jF6/41ep+MhD6y6frdL/aLCGopXVJGKkvkreWZ03oJHkI1lGn8CEL1pUeG4Q==
+      integrity: sha512-SSWBObKhtlFGiF5jk53tVU+ILVZOmdlQKTuEC3Lj09v2cWJaUzb3T4cSWO8hkzVOH21zoL8rU4s+LB4bers1YQ==
   /discord.js/11.4.2:
     dependencies:
       long: 4.0.0
@@ -1367,7 +1367,7 @@ shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
   discord-economy: ^1.1.6
-  discord-leveling: ^1.0.1
+  discord-leveling: ^1.0.3
   discord.js: ^11.4.2
   express: ^4.16.4
   figlet: ^1.2.1
