@@ -1,7 +1,8 @@
  const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  if(!message.member.hasPermission("ADMINISTRATOR")) return message.reply("Sorry pal, you can't do that.");//you didnt see anything lol
+  let role = message.guild.roles.find(r => r.name === 'Administrator')
+  if(!message.member.roles.has(role.id)) return message.reply("Sorry pal, you can't do that.");//you didnt see anything lol
     let rMember = message.guild.member(message.mentions.users.first()) || message.guild.members.get(args[0]);
     if(!rMember) return message.reply("Couldn't find that user");
     let roleName = args.join(" ").slice(23);

@@ -3,9 +3,9 @@ const Discord = require("discord.js")
 
 
 module.exports.run = async (bot, message, args) => {
-
+let role = message.guild.roles.find(r => r.name === 'Administrator')
   let bannedUser = message.mentions.members.first();
-   if(!message.member.hasPermission("MANAGE_MESSAGES"))
+   if(!message.member.roles.has(role.id))
        {
            message.channel.send("🛑**ACCESS DENIED! THIS IS MOD/ADMIN ONLY COMMAND.🛑**");
            return;
