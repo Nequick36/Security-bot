@@ -34,5 +34,9 @@
     "334288913961058304": {
         "warns": 2,
         "reasons": "Saying NSFW words|!Unesscessary pinging of role"
+    },
+    "472654206583570443": {
+        "warns": 1,
+        "reasons": "test"
     }
 }
