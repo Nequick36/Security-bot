@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
         let joined = user.joinedAt
         var profile = new Discord.RichEmbed()
             .addField("Name", user)
-            .addField("Joined at", joined) //what happened to the thumbnail
+            .addField("Joined at", joined) 
             .addField("Coins", userEco.balance)//no that is array  //wait what do add here then
             .addField("Roles", role_name)
             .setColor(0xFF0000)
