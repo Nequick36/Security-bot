@@ -6,11 +6,11 @@ module.exports.run = async (bot, message, args) => {
   
   if(args.join(' ').length > maxLen) return message.channel.send(`En fazla ${maxLen} karakter yazabilirsin!`) 
   
-  if(!args[0]) return message.channel.send('Lütfen bir yazı girin...');
+  if(!args[0]) return message.channel.send('Please enter a post ');
   
   figlet(`${args.join(' ')}`, function(err, data) {
       if (err) {
-          console.log('Bir hata var...');
+          console.log('Theres a mistake...');
           console.dir(err);
           return;
       }
