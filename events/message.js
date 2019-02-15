@@ -4,7 +4,10 @@ const dl = require('discord-leveling')
 exports.run = async (bot, message) => {
   let logChannel = message.guild.channels.find(c => c.name === '🔸》moderation-chat-logs')
   if(message.content.startsWith('!')) logChannel.send({embed:{description: `${message.author.tag} used command ${message.content} in channel ${message.channel.name}.`, color: 0xff0000}})
-  
+  if(message.mentions.roles >= 2) {
+     message.delete()
+    message.reply("Don't mention roles more than once please")
+  }
   
   
   //message count
@@ -24,9 +27,10 @@ exports.run = async (bot, message) => {
   //       if(err) console.log(err)
   //   })
   
+  
   //xp system
   if(message.author.bot) return
-  let randomXp = Math.floor(Math.random() * 20)
+  let randomXp = Math.floor(Math.random() * 10)
   let userID = message.author.id
   let Reset = 0
   dl.AddXp(userID, randomXp || 10)
