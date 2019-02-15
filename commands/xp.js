@@ -10,7 +10,7 @@ module.exports.run = async (bot, message, args) => {
   })
   } else {
     dl.Fetch(user.id).then(l => {
-    message.channel.send(`${user.user.tag} is level ${l.level} and have ${l.xp} xp!`)
+    message.channel.send(`${user.user.tag} is level ${l.level} and has ${l.xp} xp!`)
   })
   }
 

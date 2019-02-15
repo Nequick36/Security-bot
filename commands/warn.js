@@ -37,7 +37,7 @@ module.exports.run = async (bot, message, args) => {
          .addField('Warnings', warns[user.id].warns)
          .addField("Reason", warning)
          .setColor(0xFF0000)
-         .setThumbnail(user.avatarURL)
+         .setThumbnail(user.user.avatarURL)
          .setTimestamp()
      warnChannel.send(WarningInfo)
     if(warns[user.id].warns >= 3) {
