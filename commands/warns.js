@@ -18,7 +18,7 @@ module.exports.run = async (bot, message, args) => {
    let reasons = warns[user.id].reasons.split('|!')
    let warnsNum = reasons.length
    let embed = new Discord.RichEmbed()
-   .setTitle(`${user.username}`)
+   .setTitle(`${user.user.username}`)
    .setColor('RED')
    .addField(`Warnings`, `${warns[user.id].warns}`)
    for(let i = 0; i<reasons.length; i++) {
