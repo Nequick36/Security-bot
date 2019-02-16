@@ -1,7 +1,7 @@
 {
     "366234394479951873": {
-        "warns": 1,
-        "reasons": "test"
+        "warns": 0,
+        "reasons": ""
     },
     "349250638632452096": {
         "warns": 0,
@@ -39,8 +39,8 @@
         "warns": 0,
         "reasons": ""
     },
-    "458661096405073940": {
-        "warns": 1,
-        "reasons": "<@458661096405073940> Advertising. This warn only exists as the prior one didn't log"
-    }
+   "546394696889663529": {
+    "warns": 1,
+     "reasons": "Advertising"
+   }
 }
