@@ -38,5 +38,9 @@
     "472654206583570443": {
         "warns": 0,
         "reasons": ""
+    },
+    "458661096405073940": {
+        "warns": 1,
+        "reasons": "<@458661096405073940> Advertising. This warn only exists as the prior one didn't log"
     }
 }
