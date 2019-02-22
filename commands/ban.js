@@ -7,7 +7,7 @@ let role = message.guild.roles.find(r => r.name === 'Administrator')
   let bannedUser = message.mentions.members.first();
    if(!message.member.roles.has(role.id))
        {
-           message.channel.send("🛑**ACCESS DENIED! THIS IS MOD/ADMIN ONLY COMMAND.🛑**");
+           message.channel.send("🛑**ACCESS DENIED! THIS IS AN ADMIN ONLY COMMAND.🛑**");
            return;
        }
 
@@ -36,7 +36,7 @@ let role = message.guild.roles.find(r => r.name === 'Administrator')
      bannedUser.send(`You have been banned from GameHub for: ${reason}`).catch(message.channel.send(`** ${bannedUser.user.tag} has been banned!**`))
      setTimeout(function(){
   //code
-       message.guild.member(bannedUser).ban(reason, {days: 7})
+       message.guild.member(bannedUser).ban(7)
               .then(console.log(reason))
               .catch(console.error);
 }, 1000);
