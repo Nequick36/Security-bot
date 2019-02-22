@@ -1,15 +1,15 @@
 {
     "366234394479951873": {
-        "warns": 1,
-        "reasons": "<@!366234394479951873> test"
+        "warns": 2,
+        "reasons": "<@!366234394479951873> test|!Spamming and Impostering."
     },
     "349250638632452096": {
-        "warns": 0,
-        "reasons": ""
+        "warns": 1,
+        "reasons": "Spamming and Impostering."
     },
     "435406608479158273": {
-        "warns": 0,
-        "reasons": ""
+        "warns": 1,
+        "reasons": "Spamming and Impostering."
     },
     "474311792059875349": {
         "warns": 0,
