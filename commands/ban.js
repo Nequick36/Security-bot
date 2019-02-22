@@ -1,5 +1,5 @@
 const Discord = require("discord.js")
-
+const replaceall = require("replaceall")
 
 
 module.exports.run = async (bot, message, args) => {
@@ -23,6 +23,9 @@ let role = message.guild.roles.find(r => r.name === 'Administrator')
          message.channel.send("You have not specified a reason!")
          return;
        }
+      if(reason.includes(bannedUser)) {
+        
+      }
      var banInfo = new Discord.RichEmbed()
          .setTitle("Ban log")
          .addField("Banned user", bannedUser.user.username)
