@@ -17,15 +17,13 @@ let role = message.guild.roles.find(r => r.name === 'Administrator')
            return;
        }
       
-       let reason = message.content.split(" ").slice(2).join(' ');
+       let reason = args.slice(1).join(" ")
        if (!reason)
        {
          message.channel.send("You have not specified a reason!")
          return;
        }
-      if(reason.includes(bannedUser)) {
-        replaceall(bannedUser, " ", reason)
-      }
+     
      var banInfo = new Discord.RichEmbed()
          .setTitle("Ban log")
          .addField("Banned user", bannedUser.user.username)

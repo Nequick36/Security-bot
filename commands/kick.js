@@ -15,7 +15,7 @@ module.exports.run = async (bot, message, args) => {
        }
        
 
-       let reason = message.content.split(" ").slice(2).join(' ');
+       let reason = args.slice(1).join(" ")
        if (!reason)
        {
          message.channel.send("You have not specified a reason!")

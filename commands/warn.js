@@ -15,13 +15,13 @@ module.exports.run = async (bot, message, args) => {
      var user = message.mentions.users.first() 
      if (!user) return message.reply('cannot find user!')
     //if(message.mentions.members.first().hasPermission('MANAGE_GUILD')) return message.channel.send(`You can't warn a Server Manager!`)
-     let warning = message.content.split(" ").slice(2).join(" "); 
+     let warning = args.slice(1).join(" ")
     if (!warning)
       {
         message.channel.send("You have not specified a reason!")
         return;
       }
-  if(warning.includes(message.mentions.first)) replaceall(message.mentions.first, ".", warning)
+  
       
     message.delete()
      if(!warns[user.id]) warns[user.id] = {}
