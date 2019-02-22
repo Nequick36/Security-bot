@@ -21,7 +21,7 @@ module.exports.run = async (bot, message, args) => {
         message.channel.send("You have not specified a reason!")
         return;
       }
-  
+  console.log(warning)
       
     message.delete()
      if(!warns[user.id]) warns[user.id] = {}
@@ -45,7 +45,7 @@ module.exports.run = async (bot, message, args) => {
      warnChannel.send(WarningInfo)
     if(warns[user.id].warns >= 3) {
       user.send({embed:{description:`You have ${warns[user.id].warns} warnings in GameHub! You will be kicked, but if you break more rules you will be banned!`, color:0xff0000}})
-
+     
       message.guild.members.forEach(member => {
         if(member.roles.has(modRole.id)) member.send({embed:{description:`${user.username} has ${warns[user.id].warns} warnings!`, color:0xff0000}})
       })
