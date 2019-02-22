@@ -1,6 +1,7 @@
 const Discord = require("discord.js")
 const fs = require("fs");
 const { RichEmbed } = require("discord.js")
+const replaceall = require("replaceall")
 
 module.exports.run = async (bot, message, args) => {
     let warns = JSON.parse(fs.readFileSync('commands/warns.json', 'utf8'));
@@ -20,6 +21,9 @@ module.exports.run = async (bot, message, args) => {
         message.channel.send("You have not specified a reason!")
         return;
       }
+  if(warning.includes(user)) 
+        return replaceall(user, ".", warning)
+      
     message.delete()
      if(!warns[user.id]) warns[user.id] = {}
      if(!warns[user.id].warns) warns[user.id].warns = 0

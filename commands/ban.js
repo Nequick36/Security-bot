@@ -24,7 +24,7 @@ let role = message.guild.roles.find(r => r.name === 'Administrator')
          return;
        }
       if(reason.includes(bannedUser)) {
-        
+        replaceall(bannedUser, " ", reason)
       }
      var banInfo = new Discord.RichEmbed()
          .setTitle("Ban log")
