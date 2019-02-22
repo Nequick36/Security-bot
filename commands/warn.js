@@ -21,8 +21,7 @@ module.exports.run = async (bot, message, args) => {
         message.channel.send("You have not specified a reason!")
         return;
       }
-  if(warning.includes(user)) 
-        return replaceall(user, ".", warning)
+  if(warning.includes(message.mentions.first)) replaceall(message.mentions.first, ".", warning)
       
     message.delete()
      if(!warns[user.id]) warns[user.id] = {}
