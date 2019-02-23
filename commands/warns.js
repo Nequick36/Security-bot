@@ -8,7 +8,7 @@ module.exports.run = async (bot, message, args) => {
         message.channel.send("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**");
         return;
     }
-    var user =  message.guild.members.get(args[0]) || message.mentions.users.first()
+    var user =  message.guild.members.get(args[0]) || message.mentions.members.first()
     if (!user) return message.reply('cannot find user!')
     if(!warns[user.id]) warns[user.id] = {}
     if(!warns[user.id].warns) warns[user.id].warns = 0
