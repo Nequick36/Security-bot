@@ -3,12 +3,17 @@ const express = require('express');
 const app = express();
 app.get("/", (request, response) => {
   console.log(Date.now() + " Ping Received");
-  response.send('If you want to see help go to /help!')
+  response.send(`If you want to see help go to /help!
+To see about and credits go to /about!`)
   response.sendStatus(200);
 });
 
 app.get("/help", (req, res) => {
   res.sendFile(__dirname + '/help.html')
+})
+
+app.get("/about", (req, res) => {
+  res.sendFile(__dirname + '/about.txt')
 })
 app.listen(process.env.PORT);
 setInterval(() => {
@@ -91,7 +96,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
       if(!args[0])  {
         message.author.send(`https://gamehubbot.glitch.me/help`)
         message.channel.send(`Check DMs!`)
-    fs.writeFile('./help.txt', helpCmd, (err) => {
+    fs.writeFile('./help.html', helpCmd, (err) => {
  if(err) console.error(err)
 })
         return;
