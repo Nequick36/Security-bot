@@ -15,19 +15,32 @@ module.exports.run = async (bot, message, args) => {
     } else {
  
       dl.Leaderboard({
-        limit: 3
+        limit: 10
       }).then(async users => { //make sure it is async
  
         var firstplace = await bot.fetchUser(users[0].userid) //Searches for the user object in discord for first place
         var secondplace = await bot.fetchUser(users[1].userid) //Searches for the user object in discord for second place
         var thirdplace = await bot.fetchUser(users[2].userid) //Searches for the user object in discord for third place
+        var fourthplace = await bot.fetchUser(users[3].userid)
+        var fifthplace = await bot.fetchUser(users[4].userid)
+        var sixthplace = await bot.fetchUser(users[5].userid)
+        var seventhplace = await bot.fetchUser(users[6].userid)
+        var eigthplace = await bot.fetchUser(users[7].userid)
+        var ninethplace = await bot.fetchUser(users[8].userid)
+        var tenthplace = await bot.fetchUser(users[9].userid)
  
         message.channel.send(`My leaderboard:
  
 1 - ${firstplace.tag || 'None'} | level ${users[0].level || 'None'} | ${users[0].xp || 'None'} xp
 2 - ${secondplace.tag || 'None'} | level ${users[1].level || 'None'} | ${users[1].xp || 'None'} xp
-3 - ${thirdplace.tag || 'None'} | level ${users[2].level || 'None'} | ${users[2].xp || 'None'} xp`) 
- 
+3 - ${thirdplace.tag || 'None'} | level ${users[2].level || 'None'} | ${users[2].xp || 'None'} xp
+4 - ${fourthplace.tag || 'None'} | level ${users[3].level || 'None'} | ${users[3].xp || 'None'} xp
+
+
+
+
+`) 
+
       })
  
     }
