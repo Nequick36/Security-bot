@@ -8,8 +8,8 @@
         "reasons": ""
     },
     "435406608479158273": {
-        "warns": 1,
-        "reasons": "spam"
+        "warns": 2,
+        "reasons": "spam|!spamming"
     },
     "474311792059875349": {
         "warns": 0,
