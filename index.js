@@ -3,9 +3,13 @@ const express = require('express');
 const app = express();
 app.get("/", (request, response) => {
   console.log(Date.now() + " Ping Received");
+  response.send('If you want to see help go to /help!')
   response.sendStatus(200);
-  response.sendFile(__dirname + '/help.html')
 });
+
+app.get("/help", (req, res) => {
+  res.sendFile(__dirname + '/help.html')
+})
 app.listen(process.env.PORT);
 setInterval(() => {
   http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
