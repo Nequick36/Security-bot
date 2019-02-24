@@ -89,7 +89,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
    
     if(cmd === `${prefix}help`) {
       if(!args[0])  {
-        message.author.send(`https://gamehubhelp.glitch.me/`)
+        message.author.send(`https://gamehubbot.glitch.me/help`)
         message.channel.send(`Check DMs!`)
     fs.writeFile('./help.txt', helpCmd, (err) => {
  if(err) console.error(err)
