@@ -14,10 +14,10 @@ module.exports.run = async (bot, message, args) => {
 
   var db = new sqlite.Database(dbFile);
   let code = args.join(" ")
-  let output = db.run(code)
+  let output = await db.run(code)
   let embed = new Discord.RichEmbed()
   .addField('Code', code)
-  .addField('Output', JSON.parse(output))
+  .addField('Output', output)
   db.close();
 
 }

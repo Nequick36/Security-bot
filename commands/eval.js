@@ -1,23 +1,26 @@
 const Discord = require("discord.js")
+let developers = ['36623439447995187', '435406608479158273']
 
 module.exports.run = async (bot, message, args) => {
-  if(message.author.id !== '36623439447995187') return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A DEVELOPER ONLY COMMAND. 🛑**`)
-  let embed = new Discord.RichEmbed()
-  let code = args.join(" ")
-  if(!code) return message.channel.send('What code do you want to eval?')
-  try {
-    let output = eval(code)
-    if(message.content.includes('[nolog]')) {
-      
-    } else {
-    embed.setColor(0xff0000)
-    embed.addField('Code', code)
-    embed.addField('Output', JSON.parse(output))
-    message.channel.send(embed)
+  if(!developers.includes(message.author.id)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A DEVELOPER ONLY COMMAND. 🛑**`)
+  function clean(text) {
+  if (typeof(text) === "string")
+    return text.replace(/`/g, "`" + String.fromCharCode(8203)).replace(/@/g, "@" + String.fromCharCode(8203));
+  else
+      return text;
+}
+  
+    try {
+      const code = args.join(" ");
+      let evaled = eval(code);
+ 
+      if (typeof evaled !== "string")
+        evaled = require("util").inspect(evaled);
+ 
+      message.channel.send(clean(evaled), {code:"xl"});
+    } catch (err) {
+      message.channel.send(`\`ERROR\` \`\`\`xl\n${clean(err)}\n\`\`\``);
     }
-  } catch(e) {
-    embed.addField('Error', `${e || 'No errors'}`)
-  }
 }
 
 module.exports.help = {
