@@ -35,11 +35,12 @@ module.exports.run = async (bot, message, args) => {
 2 - ${secondplace.tag || 'None'} | level ${users[1].level || 'None'} | ${users[1].xp || 'None'} xp
 3 - ${thirdplace.tag || 'None'} | level ${users[2].level || 'None'} | ${users[2].xp || 'None'} xp
 4 - ${fourthplace.tag || 'None'} | level ${users[3].level || 'None'} | ${users[3].xp || 'None'} xp
-
-
-
-
-`) 
+5 - ${fifthplace.tag || 'None'} | level ${users[4].level || 'None'} | ${users[4].xp || 'None'} xp
+6 - ${sixthplace.tag || 'None'} | level ${users[5].level || 'None'} | ${users[5].xp || 'None'} xp
+7 - ${seventhplace.tag || 'None'} | level ${users[6].level || 'None'} | ${users[6].xp || 'None'} xp
+8 - ${eigthplace.tag || 'None'} | level ${users[7].level || 'None'} | ${users[7].xp || 'None'} xp
+9 - ${ninethplace.tag || 'None'} | level ${users[8].level || 'None'} | ${users[8].xp || 'None'} xp
+10 - ${tenthplace.tag || 'None'} | level ${users[9].level || 'None'} | ${users[9].xp || 'None'} xp`) 
 
       })
  
