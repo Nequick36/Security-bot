@@ -1,7 +1,11 @@
 const fs = require('fs')
 const discord = require('discord.js')
 const dl = require('discord-leveling')
+let developers = ['366234394479951873', '435406608479158273']
 exports.run = async (bot, message) => {
+      let messageArray = message.content.split(" ")
+    let cmd = messageArray[0]
+    let args = messageArray.slice(1);
   let logChannel = message.guild.channels.find(c => c.name === '🔸》moderation-chat-logs')
   if(message.content.startsWith('!')) logChannel.send({embed:{description: `${message.author.tag} used command ${message.content} in channel ${message.channel.name}.`, color: 0xff0000}})
   if(message.mentions.roles >= 2) {
@@ -42,5 +46,27 @@ exports.run = async (bot, message) => {
       dl.AddLevel(userID, 1).then()
       message.channel.send(`${message.author} just leveled up to level ${profile.level + 1}!`)
   }
+  
+  //console in channel
+  if(message.channel.id === '549703259057553438' && !message.author.bot) {
+    if(!developers.includes(message.author.id)) return 
+    function clean(text) {
+  if (typeof(text) === "string")
+    return text.replace(/`/g, "`" + String.fromCharCode(8203)).replace(/@/g, "@" + String.fromCharCode(8203));
+  else
+      return text;
+}
+  
+    try {
+      const code = args.join(" ");
+      let evaled = eval(code);
+ 
+      if (typeof evaled !== "string")
+        evaled = require("util").inspect(evaled);
+ 
+      message.channel.send(clean(evaled), {code:"xl"});
+    } catch (err) {
+      message.channel.send(`\`ERROR\` \`\`\`xl\n${clean(err)}\n\`\`\``);
+    }}
 
 }
