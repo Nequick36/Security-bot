@@ -1,5 +1,5 @@
 const Discord = require("discord.js")
-let developers = ['36623439447995187', '435406608479158273']
+let developers = ['366234394479951873', '435406608479158273']
 
 module.exports.run = async (bot, message, args) => {
   if(!developers.includes(message.author.id)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A DEVELOPER ONLY COMMAND. 🛑**`)
