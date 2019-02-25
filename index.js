@@ -125,8 +125,6 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 		bot.on(eventName, (...args) => eventFunc.run(bot, ...args));
 	});
 }); 
- 
-
 
 bot.on("guildMemberAdd", function (member) {
     member.send("Welcome to the server! Please read the rules.")
