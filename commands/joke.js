@@ -16,6 +16,7 @@ module.exports.run = async (bot, message, args) => {
 " 'You.' ",
 "If laughter is the best medicine, your face must be curing the world.",
 "I could pick up more women off Tinder by posting a picture of my shit than using a picture of your face.",
+
 // `\`\`\`Error: Cannot find module \'MemeLoader'
 //     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
 //     at Function.Module._load (internal/modules/cjs/loader.js:506:25)
