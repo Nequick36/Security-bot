@@ -8,10 +8,12 @@ module.exports.run = async (bot, message, args) => {
   try {
     delete require.cache[require.resolve(`./${commandName}.js`)]
     bot.commands.delete(commandName)
-    const pull = require(`./${commandName}`)
+    const pull = require(`./${commandName}.js`)
+    bot.commands.set(commandName, pull)
   } catch (err) {
-    message.channel.send(`${err}`)
+    return message.channel.send(`${err}`)
   }
+  message.channel.channel.send(`Command ${commandName} was reloaded!`)
     }
 
 module.exports.help = {
