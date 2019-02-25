@@ -5,7 +5,6 @@ app.get("/", (request, response) => {
   console.log(Date.now() + " Ping Received");
   response.send(`If you want to see help go to <a href="/help">/help!</a>
 To see about and credits go to <a href="/about">/about!</a>!`)
-  response.sendStatus(200);
 });
 
 app.get("/help", (req, res) => {

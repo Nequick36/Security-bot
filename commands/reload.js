@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
   } catch (err) {
     return message.channel.send(`${err}`)
   }
-  message.channel.channel.send(`Command ${commandName} was reloaded!`)
+  message.channel.send(`Command ${commandName} was reloaded!`)
     }
 
 module.exports.help = {
