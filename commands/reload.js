@@ -4,6 +4,11 @@ module.exports.run = async (bot, message, args) => {
   let role = message.guild.roles.find(role => role.name === 'GH Bot Developer')
   if (!message.member.roles.has(role.id)) return message.channel.send("⛔ **ACCESS DENIED** ⛔");
   
+  try {
+    
+  } catch (err) {
+    message.channel.send(`${err}`)
+  }
     }
 
 module.exports.help = {
