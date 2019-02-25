@@ -8,7 +8,7 @@ module.exports.run = async (bot, message, args) => {
   try {
     delete require.cache[require.resolve(`./${commandName}.js`)]
     bot.commands.delete(commandName)
-    const pull = require(`./${commandName}.js`)
+    let pull = require(`./${commandName}.js`)
     bot.commands.set(commandName, pull)
   } catch (err) {
     return message.channel.send(`${err}`)
