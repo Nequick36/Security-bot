@@ -3,8 +3,8 @@ const express = require('express');
 const app = express();
 app.get("/", (request, response) => {
   console.log(Date.now() + " Ping Received");
-  response.send(`If you want to see help go to /help!
-To see about and credits go to /about!`)
+  response.send(`If you want to see help go to <a href="/help">/help!</a>
+To see about and credits go to <a href="/about">/about!</a>!`)
   response.sendStatus(200);
 });
 
