@@ -12,7 +12,7 @@ module.exports.run = async (bot, message, args) => {
     if(rMember.roles.has(gRole.id)) return message.reply("They already have that role.");
 
     await(rMember.addRole(gRole.id));
-  message.channel.send(`I gave ${rMember.tag} role ${roleName}!`)
+  message.channel.send(`I gave ${rMember} role ${roleName}!`)
 
     try{
 
