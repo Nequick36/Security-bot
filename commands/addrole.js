@@ -3,7 +3,7 @@
 module.exports.run = async (bot, message, args) => {
   let role = message.guild.roles.find(r => r.name === 'Administrator')
   if(!message.member.roles.has(role.id)) return message.reply("Sorry pal, you can't do that.");//you didnt see anything lol
-    let rMember = message.guild.member(message.mentions.users.first()) || message.guild.members.get(args[0]);
+    let rMember = message.guild.member(message.mentions.members.first()) || message.guild.members.get(args[0]);
     if(!rMember) return message.reply("Couldn't find that user");
     let roleName = args.slice(1).join(" ")
     if(!roleName) return message.reply("Specify a role!");
@@ -12,7 +12,7 @@ module.exports.run = async (bot, message, args) => {
     if(rMember.roles.has(gRole.id)) return message.reply("They already have that role.");
 
     await(rMember.addRole(gRole.id));
-  message.channel.send(`I gave ${rMember} role ${roleName}!`)
+  message.channel.send(`I gave ${rMember.user.tag} role ${roleName}!`)
 
     try{
 

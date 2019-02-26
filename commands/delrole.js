@@ -3,7 +3,7 @@ const Discord = require("discord.js")
 module.exports.run = async (bot, message, args) => {
   let roleA = message.guild.roles.find(r => r.name === 'Administrator')
   if(!message.member.roles.has(roleA.id)) return message.reply("Sorry pal, you can't do that.");//you didnt see anything lol
-    let rMember = message.guild.member(message.mentions.users.first()) || message.guild.members.get(args[0]);
+    let rMember = message.guild.member(message.mentions.members.first()) || message.guild.members.get(args[0]);
     if(!rMember) return message.reply("Couldn't find that user");
     let role = args.slice(1).join(" ")
     if(!role) return message.reply("Specify a role!");
@@ -12,7 +12,7 @@ module.exports.run = async (bot, message, args) => {
     if(!rMember.roles.has(gRole.id)) return message.reply("They don't have that role.");
 
     await(rMember.removeRole(gRole.id));
-  message.channel.send(`I removed role ${role} from user ${rMember.tag}!`)
+  message.channel.send(`I removed role ${role} from user ${rMember.user.tag}!`)
 
     try{
 
