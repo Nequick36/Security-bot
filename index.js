@@ -127,7 +127,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 }); 
 
 bot.on("guildMemberAdd", function (member) {
-    member.send("Welcome to the server! Please read the rules.")
+    member.send("Welcome to the server! Please read the rules and check out role-assign channel for fun roles :D")
     let memberRole = member.guild.roles.find(role => role.name === "GameHub Member");
     member.addRole(memberRole);
   let guild = member.guild;
@@ -140,7 +140,7 @@ bot.on("guildMemberRemove", function (member) {
      channel.sendMessage(`${member.user.tag} has left the server.`).catch(console.error);
 });
 bot.on('ready', () => {
-    console.log("Ready")
+    console.log(`${bot.user.username} is online!`)
 
     bot.user.setStatus('available')
     bot.user.setPresence({
