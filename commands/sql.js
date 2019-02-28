@@ -14,9 +14,17 @@ module.exports.run = async (bot, message, args) => {
 
   var db = new sqlite.Database(dbFile);
   let code = args.join(" ")
-  let output = await db.run(code)
+  let output = ``
+  db.all(code, [], (err, rows) => {
+  if (err) {
+    throw err;
+  }
+  rows.forEach((row) => {
+    output = `${output}${row}\n`
+  });
+});
   db.close();
-  message.channel.send(`\`\`\`${output.stringify()}\`\`\``)
+  message.channel.send(`\`\`\`${output}\`\`\``)
 
 }
 
