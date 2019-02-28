@@ -15,10 +15,8 @@ module.exports.run = async (bot, message, args) => {
   var db = new sqlite.Database(dbFile);
   let code = args.join(" ")
   let output = await db.run(code)
-  let embed = new Discord.RichEmbed()
-  .addField('Code', code)
-  .addField('Output', output)
   db.close();
+  message.channel.send(`\`\`\`${output.stringify()}\`\`\``)
 
 }
 
