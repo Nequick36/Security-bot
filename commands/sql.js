@@ -15,14 +15,12 @@ module.exports.run = async (bot, message, args) => {
   var db = new sqlite.Database(dbFile);
   let code = args.join(" ")
   let output = ``
-  db.all(code, [], (err, rows) => {
-  if (err) {
-    throw err;
-  }
+  db.all(code).then(rows => {
+    if(!rows) return message.channel.send(`\`\`\`Error while executing this command!\`\`\``)
   rows.forEach((row) => {
     output = `${output}${row}\n`
   });
-});
+})
   db.close();
   message.channel.send(`\`\`\`${output}\`\`\``)
 
