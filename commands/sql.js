@@ -16,7 +16,7 @@ module.exports.run = async (bot, message, args) => {
   let code = args.join(" ")
   let output = ``
   db.each(code, (err, row) => {
-    if(!row) return message.channel.send(`\`\`\`Error while executing this command!\`\`\``)
+    if(!row) return message.channel.send(`\`\`\ Error while executing this command!\`\`\``)
  output+= `${row.userID} - ${row.balance}\n` 
 })
   db.close();
