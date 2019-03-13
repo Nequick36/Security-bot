@@ -1,14 +1,16 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  let user = message.member
-  if(user.nickname) {
-    if(user.nickname.startsWith('[AFK]')) {user.setNickname(user.nickname.replace('[AFK] ', ''))
-                                           message.channel.send(`You are no longer AFK!`)}
-    else {user.setNickname(`[AFK] ${user.nickname}`)
-          message.channel.send(`You are now AFK!`)}
-  } else {user.setNickname(`[AFK] ${user.username}`)
-          message.channel.send(`You are now AFK!`)}
+let reason = args.join(" ")
+
+let options = {
+  reason: `${reason || 'AFK'}`,
+  id: message.author.id
+}
+
+bot.afk.set(message.author.id, options)
+
+message.channel.send({embed:{description:`You are now afk!\nReason: ${reason}`, author: message.author.username, color: 0xff0000}})
 }
 
 module.exports.help = {
