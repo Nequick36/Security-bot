@@ -70,14 +70,20 @@ exports.run = async (bot, message) => {
     }}
   
 if(bot.afk.has(message.author.id)) {
+  let options = bot.afk.get(message.author.id)
+  if(options.justafk == true) {
+    options.justafk = false
+    bot.afk.set(message.author.id, options)
+  } else {
   message.reply(`You are no longer afk!`)
   bot.afk.delete(message.author.id)
+  }
 }
 if(message.mentions.members) {
   message.mentions.members.forEach(member => {
     if(bot.afk.has(member.id)) {
       let options = bot.afk.get(member.id)
-      message.channel.send({embed:{description:`${member.user.tag} is afk!\nReason: ${options.reason}`, color:0xff0000, author:message.author.id}})
+      message.channel.send({embed:{description:`${member.user.tag} is afk!\nReason: ${options.reason}`, color:0xff0000, title:message.author.username}})
     }
   })
 }
