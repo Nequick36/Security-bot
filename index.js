@@ -59,6 +59,7 @@ bot.on("message", message => {
     if(message.author.bot) return;
 if(message.content.toLowerCase().includes("suck one")) return message.reply("Thats the best you got? LOL how pathetic.")
  if(message.content.toLowerCase().includes("seth is gay")) return message.reply("stfu boi, you do not talk like that about my creator like that")
+    if(message.content.toLowerCase().includes("j122 is gay")) return message.reply("||dont tell him i told you this but he is gay||")
  if(message.content.toLowerCase().includes("your mom")) return message.reply("Wow, *how orginal*")
   if(message.content.includes("https://discord.gg/" )) {
     if(message.channel.name === '🔻》advertisement' || message.channel.name === '🔸》partners') return;
