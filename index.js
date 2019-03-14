@@ -62,15 +62,15 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     if(message.content.toLowerCase().includes("j122 is gay")) return message.reply("||dont tell him i told you this but he is gay||")
  if(message.content.toLowerCase().includes("your mom")) return message.reply("Wow, *how orginal*")
   if(message.content.includes("https://discord.gg/" )) {
-    if(message.channel.name === '🔻》advertisement' || message.channel.name === '🔸》partners') return;
+    if(message.channel.name === '🔻》advertisement' || message.channel.name === '🔸》partners' || message.channel.name === '⚫》staff-announcements') return;
     else message.delete()
   }
   if(message.content.includes("https://discordapp.com/invite/")) {
-     if(message.channel.name === '🔻》advertisement' || message.channel.name === '🔸》partners') return;
+     if(message.channel.name === '🔻》advertisement' || message.channel.name === '🔸》partners' || message.channel.name === '⚫》staff-announcements') return;
     else message.delete()
   }
   if(message.content.includes("https://is.gd/" )) {
-    if(message.channel.name === '🔻》advertisement' || message.channel.name === '🔸》partners') return;
+    if(message.channel.name === '🔻》advertisement' || message.channel.name === '🔸》partners' || message.channel.anme === '⚫》staff-announcements') return;
     else message.delete()
   }
 
