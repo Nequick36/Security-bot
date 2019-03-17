@@ -15,7 +15,7 @@ module.exports.run = async (bot, message, args) => {
    if(warns[user.id].reasons) warns[user.id].reason
    warns[user.id].warns = 0
    warns[user.id].reasons = ''
-   message.channel.send({embed:{description:`Reseted ${user.user.username}'s warnings to 0.`, color:0xff0000}})
+   message.channel.send({embed:{description:`Reseted ${user.username}'s warnings to 0.`, color:0xff0000}})
    fs.writeFile('commands/warns.json', JSON.stringify(warns, null, 4), (err) => {
 if(err) console.error(err)
 })
