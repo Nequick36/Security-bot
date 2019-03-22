@@ -1,5 +1,4 @@
 const Discord = require("discord.js");
-const eco = require("discord-economy");
 const dl = require('discord-leveling')
 
 module.exports.run = async (bot, message, args) => {
