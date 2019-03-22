@@ -7,10 +7,12 @@ module.exports.run = async (bot, message, args) => {
              message.channel.send("🛑**ACCESS DENIED! THIS IS A ADMIN-ONLY COMMAND.🛑**");
              return;
          }
-        let announcement = message.content.split(" ").slice(1).join(" ");
-       if(!announcement) return message.reply("You have not specified a message to announce!")
-        message.guild.channels.get("391268693964881920").send(announcement)
-       message.reply("**Your message has been announced!**")
+  let channel = message.mentions.channels.first()
+  if(!channel) return message.channel.send(`Please mention a channel that you want to send announcement!`)
+  let announcement = args.slice(1).join(" ")
+  if(!announcement) return message.reply("You have not specified a message to announce!")
+  channel.send(announcement)
+  message.reply("**Your message has been announced!**")
 }
 
 module.exports.help = {
@@ -18,6 +20,6 @@ module.exports.help = {
   aliases: [],
   description: "Announces a message to a announcements.",
   perm: "",
-  role: "",
+  role: "Administrator",
   group:"Admin"
 }
