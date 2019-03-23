@@ -328,3 +328,22 @@ Have you done this application at the best of your ability?
 [23.03.2019][10:31:07][🔸》moderation-chat-logs] Administrative Message#3861: 
 [23.03.2019][10:31:07][🔸》welcome] GameHub#0549: Medardus#1863 has left the server.
 [23.03.2019][10:31:07][🔸》join-leave-logs] InviteManager#3907: Medardus **left**; Invited by **Josh | GH**
+[23.03.2019][10:42:40][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:42:40][🔸》welcome] GameHub#0549: Welcome <@322446079884787723> to this server.
+[23.03.2019][10:42:40][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:42:41][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][10:42:41][🔸》join-leave-logs] InviteManager#3907: <@322446079884787723> **joined**; Invited by **Seth | GH** (**43** invites)
+[23.03.2019][10:42:41][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:44:05][🔹》main-lounge] Archeon#2036: https://discord.gg/Qb4V3ej
+[23.03.2019][10:44:05][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:44:05][🔹》main-lounge] Administrative Message#3861: <@322446079884787723> No invite links.
+[23.03.2019][10:44:05][🔸》chat-logs] GameHub#0549: 
+[23.03.2019][10:44:05][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:44:05][🔸》chat-logs] GameHub#0549: 
+[23.03.2019][10:44:05][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:44:05][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:44:11][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:44:11][🔸》chat-logs] GameHub#0549: 
+[23.03.2019][10:44:27][🔸》welcome] GameHub#0549: Archeon#2036 has left the server.
+[23.03.2019][10:44:27][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:44:28][🔸》join-leave-logs] InviteManager#3907: Archeon **left**; Invited by **Seth | GH**
