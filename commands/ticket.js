@@ -10,7 +10,7 @@ module.exports.run = async (bot, message, args) => {
   }
   if(args[0] === `new`) {
       if(ticketChannel) return message.reply(`You can only have one ticket!`)
-      if(!ticketChannel) message.guild.createChannel(`ticket-${message.author.username}`, 'text').then(channel => {
+      if(ticketchannel) message.guild.createChannel(`ticket-${message.author.username}`, 'text').then(channel => {
     channel.send(`Hello, ${message.author}. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)`)
           channel.overwritePermissions(message.guild.roles.find(r => r.name === 'GameHub Member'), {
   VIEW_CHANNEL: false,
@@ -34,7 +34,7 @@ module.exports.run = async (bot, message, args) => {
 })
 })
     ticketChannel = message.guild.channels.find(c => c.name === `ticket-${message.author.username}`) 
-
+      }
   }
   else if(args[0] === `close`) {
     if(message.channel.name.startsWith(`ticket-`)) {
@@ -44,6 +44,7 @@ module.exports.run = async (bot, message, args) => {
     }
   }
 }
+
 
 module.exports.help = {
   name: "ticket",

@@ -117,3 +117,123 @@ Have you done this application at the best of your ability?
 [23.03.2019][09:03:31][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: im here to help
 [23.03.2019][09:03:57][ticket-seth] Seth | GH#7796: im just doing the occasional test
 [23.03.2019][09:04:05][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ok
+[23.03.2019][09:04:19][ticket-seth] Seth | GH#7796: !ticket new
+[23.03.2019][09:04:21][ticket-seth] GameHub#0549: Hello, <@366234394479951873>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[23.03.2019][09:04:21][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:04:22][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:04:23][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:04:26][ticket-seth] Seth | GH#7796: um
+[23.03.2019][09:04:27][ticket-seth] GameHub#0549: <@366234394479951873> just leveled up to level 88!
+[23.03.2019][09:04:43][ticket-seth] Seth | GH#7796: i dont think this is meant to happen
+[23.03.2019][09:05:12][ticket-seth] Seth | GH#7796: !reload ticket
+[23.03.2019][09:05:12][ticket-seth] GameHub#0549: Command ticket was reloaded!
+[23.03.2019][09:05:14][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:05:50][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: the only thing that is kinda bad is that every program i install i  need to install it with terminal
+[23.03.2019][09:06:03][ticket-seth] Seth | GH#7796: hmm
+[23.03.2019][09:06:07][ticket-seth] Seth | GH#7796: !ticket close
+[23.03.2019][09:06:08][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:06:09][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:06:10][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:06:16][ticket-seth] Seth | GH#7796: !ticket new
+[23.03.2019][09:06:17][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:06:17][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:06:17][ticket-seth] GameHub#0549: Hello, <@366234394479951873>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[23.03.2019][09:06:19][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:06:20][ticket-seth] Seth | GH#7796: wtf
+[23.03.2019][09:06:29][ticket-seth] Seth | GH#7796: why the hell is this hapening
+[23.03.2019][09:06:33][ticket-seth] AL€X3411#9775: Idk
+[23.03.2019][09:06:34][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: idk
+[23.03.2019][09:06:37][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: lol
+[23.03.2019][09:06:38][ticket-seth] AL€X3411#9775: oof
+[23.03.2019][09:06:52][ticket-seth] Seth | GH#7796: that line of code just failed line of code
+[23.03.2019][09:06:59][🔸》chat-logs] GameHub#0549: 
+[23.03.2019][09:07:13][ticket-seth] Seth | GH#7796: !ticket close
+[23.03.2019][09:07:15][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:07:15][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:07:15][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:07:20][ticket-seth] Seth | GH#7796: !ticket close
+[23.03.2019][09:07:22][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:07:22][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:07:23][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:08:09][🔹》bot-commands] Seth | GH#7796: !reload ticket
+[23.03.2019][09:08:10][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:08:10][🔹》bot-commands] GameHub#0549: Command ticket was reloaded!
+[23.03.2019][09:08:14][🔹》bot-commands] Seth | GH#7796: !ticket
+[23.03.2019][09:08:14][🔹》bot-commands] GameHub#0549: Ticket help:
+!ticket new - Makes new ticket
+!ticket close - Deletes the ticket
+[23.03.2019][09:08:14][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:08:19][🔹》bot-commands] Seth | GH#7796: !ticket new
+[23.03.2019][09:08:21][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:08:22][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:08:22][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:08:24][ticket-seth] GameHub#0549: Hello, <@366234394479951873>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[23.03.2019][09:08:40][ticket-seth] Seth | GH#7796: is the bot just lagging
+[23.03.2019][09:09:03][ticket-seth] Seth | GH#7796: <@!435406608479158273>
+[23.03.2019][09:09:10][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: nope
+[23.03.2019][09:09:18][ticket-seth] Seth | GH#7796: theres no errors
+[23.03.2019][09:09:25][🔸》chat-logs] GameHub#0549: 
+[23.03.2019][09:09:38][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: you can create unlimeted tickets
+[23.03.2019][09:09:49][ticket-seth] Seth | GH#7796: ``` if(ticketChannel) return message.reply(`You can only have one ticket!`)```
+[23.03.2019][09:09:56][ticket-seth] Seth | GH#7796: then why is that there
+[23.03.2019][09:10:08][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: it doesnt work i think
+[23.03.2019][09:10:22][ticket-seth] Seth | GH#7796: hmm i'll make into an else
+[23.03.2019][09:11:23][ticket-seth] Seth | GH#7796: !ticket
+[23.03.2019][09:11:24][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:11:24][ticket-seth] GameHub#0549: Ticket help:
+!ticket new - Makes new ticket
+!ticket close - Deletes the ticket
+[23.03.2019][09:11:29][ticket-seth] Seth | GH#7796: !ticket new
+[23.03.2019][09:11:30][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:11:30][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:11:30][ticket-seth] GameHub#0549: Hello, <@366234394479951873>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[23.03.2019][09:11:31][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:11:38][ticket-seth] AL€X3411#9775: jsjsj
+[23.03.2019][09:11:40][ticket-seth] Seth | GH#7796: !ticket close
+[23.03.2019][09:11:42][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:11:43][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:11:44][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:11:49][ticket-seth] Seth | GH#7796: !reload ticket
+[23.03.2019][09:11:49][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:11:50][ticket-seth] GameHub#0549: Command ticket was reloaded!
+[23.03.2019][09:12:04][ticket-seth] Seth | GH#7796: !ticket new
+[23.03.2019][09:12:05][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:12:07][ticket-seth] GameHub#0549: Hello, <@366234394479951873>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[23.03.2019][09:12:07][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:12:08][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:12:20][ticket-seth] Seth | GH#7796: i swear this used to work
+[23.03.2019][09:12:35][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: i didnt
+[23.03.2019][09:12:40][🔸》chat-logs] GameHub#0549: 
+[23.03.2019][09:12:46][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: i have an idea
+[23.03.2019][09:12:48][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: to make it work
+[23.03.2019][09:12:57][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !ticket close
+[23.03.2019][09:12:58][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:12:59][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:13:00][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:13:04][ticket-seth] Seth | GH#7796: i added an else
+[23.03.2019][09:13:11][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: that will not work
+[23.03.2019][09:13:29][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: we can make like topic of this channel owner:${message.author.id}
+[23.03.2019][09:13:40][ticket-seth] Seth | GH#7796: !reload ticket
+[23.03.2019][09:13:40][ticket-seth] GameHub#0549: Command ticket was reloaded!
+[23.03.2019][09:13:42][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:13:46][ticket-seth] Seth | GH#7796: !ticket new
+[23.03.2019][09:13:48][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:13:50][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:13:50][ticket-seth] GameHub#0549: Hello, <@366234394479951873>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[23.03.2019][09:13:51][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:14:02][ticket-seth] Seth | GH#7796: !ticket new
+[23.03.2019][09:14:03][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:14:06][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:14:06][ticket-seth] GameHub#0549: Hello, <@366234394479951873>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[23.03.2019][09:14:06][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:14:11][ticket-seth] Seth | GH#7796: !ticket close
+[23.03.2019][09:14:13][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:14:13][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:14:14][ticket-seth] AL€X3411#9775: It opens and closes and opens again
+[23.03.2019][09:14:14][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:14:19][ticket-seth] Seth | GH#7796: !ticket close
+[23.03.2019][09:14:21][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:14:22][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][09:14:22][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][09:14:32][ticket-seth] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: do you want me to fix it???
+[23.03.2019][09:14:35][🔸》chat-logs] GameHub#0549: 
