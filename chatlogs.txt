@@ -40,3 +40,6 @@ You now own :money_with_wings: 771
 Balance from AL€X3411#9775: 770
 Balance to Bot 2.0#6953: 1
 [23.03.2019][04:09:48][🔹》bot-commands] AL€X3411#9775: yay
+[23.03.2019][04:17:23][🔸》welcome] GameHub#0549: ainsly#0956 has left the server.
+[23.03.2019][04:17:23][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][04:17:24][🔸》join-leave-logs] InviteManager#3907: ainsly **left**; Invited by **Josh | GH**
