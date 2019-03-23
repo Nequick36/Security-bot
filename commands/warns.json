@@ -54,5 +54,9 @@
     "324525125116362752": {
         "warns": 0,
         "reasons": ""
+    },
+    "386222669181353984": {
+        "warns": 1,
+        "reasons": "Using commands in main lounge"
     }
 }
