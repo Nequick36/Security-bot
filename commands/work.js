@@ -15,10 +15,10 @@ You now own :money_with_wings: ${output.balance}`)
 }
 
 module.exports.help = {
-  name: "role",
+  name: "work",
   aliases: [],
-  description: "Shows role's info.",
+  description: "Allows you to work a job",
   perm: "",
   role: "",
-  group:"Staff/Admin"
+  group:"Economy"
 }
