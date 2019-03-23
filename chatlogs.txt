@@ -314,3 +314,14 @@ Have you done this application at the best of your ability?
 [23.03.2019][09:27:54][🔸》moderation-chat-logs] GameHub#0549: 
 [23.03.2019][09:48:34][🔸》chat-logs] GameHub#0549: 
 [23.03.2019][09:49:15][🔸》chat-logs] GameHub#0549: 
+[23.03.2019][10:00:28][🔸》welcome] GameHub#0549: Welcome <@481810078031282176> to this server.
+[23.03.2019][10:00:28][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:00:29][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][10:00:29][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:00:29][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:00:29][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:01:25][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:01:27][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:03:40][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][10:03:41][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][10:03:56][bump] ServerMate#2478: 
