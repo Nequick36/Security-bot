@@ -46,3 +46,6 @@ Balance to Bot 2.0#6953: 1
 [23.03.2019][06:42:38][🔸》moderation-chat-logs] Administrative Message#3861: 
 [23.03.2019][06:42:38][🔸》welcome] GameHub#0549: HeartenedEar022#7079 has left the server.
 [23.03.2019][06:42:39][🔸》join-leave-logs] InviteManager#3907: HeartenedEar022 **left**; Invited by **Unknown**
+[23.03.2019][07:09:21][🔹》bot-commands] Seth | GH#7796: !serverinfo
+[23.03.2019][07:09:21][🔹》bot-commands] GameHub#0549: 
+[23.03.2019][07:09:21][🔸》moderation-chat-logs] GameHub#0549: 
