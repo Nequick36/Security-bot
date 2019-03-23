@@ -53,3 +53,15 @@ Balance to Bot 2.0#6953: 1
 [23.03.2019][07:36:51][🔸》moderation-chat-logs] Administrative Message#3861: 
 [23.03.2019][07:37:01][🔸》moderation-chat-logs] Administrative Message#3861: 
 [23.03.2019][07:37:13][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][07:40:13][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: first time loading discord on linux
+[23.03.2019][07:41:56][🔸》roles-info] Karma is a Bitch | GH#1542: **__Owner__**```To start off owners are the head of everything so they are the people who always have a final say in everything no questions asked! Owners watch over the server and expect to be respected while leading the staff team. This doesn't mean that you can't talk back to the owner if you think that they are being unreasonable.```
+
+**__Server Manager__**```Now! Onto Server Managers they are the next to owner they manage the server and deal with issues in the owners absence. There main job is to make sure all staff members are doing there job to the best of there abilities. They have the authority to warn, mute, kick and ban members. Additionally they have tge power to demote and kick staff members below if they see fit.```
+
+**__Administrator__**```Now Administrators watch over the Moderators while looking after the behind the scenes stuff such as bot set-up, channels, raids, dramaqueens and so on. They have the authority to warn, mute, kick and ban.```
+
+**__Moderator__**```FINALLY! Onto the Mods! Yes you are all are important too. You enforce rules being the first line of defence for the server and first to welcome new members so first impressions are a must. Not to mention to keep peace and encourage chat activity! They have the authority to warn, mute and possibly kick.```
+[23.03.2019][07:44:38][🔹》main-lounge] Josh | GH#4954: how is it
+[23.03.2019][07:44:50][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: good
+[23.03.2019][07:44:57][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: but i have some problems with apps
+[23.03.2019][07:48:42][🔹》main-lounge] Josh | GH#4954: dam
