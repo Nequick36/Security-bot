@@ -43,3 +43,6 @@ Balance to Bot 2.0#6953: 1
 [23.03.2019][04:17:23][🔸》welcome] GameHub#0549: ainsly#0956 has left the server.
 [23.03.2019][04:17:23][🔸》moderation-chat-logs] Administrative Message#3861: 
 [23.03.2019][04:17:24][🔸》join-leave-logs] InviteManager#3907: ainsly **left**; Invited by **Josh | GH**
+[23.03.2019][06:42:38][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][06:42:38][🔸》welcome] GameHub#0549: HeartenedEar022#7079 has left the server.
+[23.03.2019][06:42:39][🔸》join-leave-logs] InviteManager#3907: HeartenedEar022 **left**; Invited by **Unknown**
