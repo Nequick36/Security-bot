@@ -37,7 +37,7 @@ module.exports.run = async (bot, message, args) => {
   READ_MESSAGE_HISTORY: true
 })
 })
-    ticketChannel = message.guild.channels.find(c => c.name === `ticket-${message.author.username}`) 
+    ticketChannel = message.guild.channels.find(c => c.name === `ticket-${message.author.username}`)
         }
       }
     })
