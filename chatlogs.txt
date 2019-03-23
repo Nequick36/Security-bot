@@ -49,3 +49,7 @@ Balance to Bot 2.0#6953: 1
 [23.03.2019][07:09:21][🔹》bot-commands] Seth | GH#7796: !serverinfo
 [23.03.2019][07:09:21][🔹》bot-commands] GameHub#0549: 
 [23.03.2019][07:09:21][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][07:36:49][🔵》league-of-nations-1] Seth | GH#7796: No it's -buy land 1 confirm
+[23.03.2019][07:36:51][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][07:37:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.03.2019][07:37:13][🔸》moderation-chat-logs] Administrative Message#3861: 
