@@ -2,6 +2,7 @@ const Discord = require("discord.js")
 const eco = require('discord-economy')
 
 module.exports.run = async (bot, message, args) => {
+  if
     var output = await eco.Work(message.author.id, {
       failurerate: 10,
       money: Math.floor(Math.random() * 500),
