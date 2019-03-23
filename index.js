@@ -121,7 +121,8 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 })
  fs.readdir("./events/", (err, files) => {
 	if (err) console.log(err);
-	files.forEach(file => {
+   let jsfiles = files.filter(f => f.split(".").pop() === "js")
+	jsfiles.forEach(file => {
 		let eventFunc = require(`./events/${file}`);
 		let eventName = file.split(".")[0];
 		bot.on(eventName, (...args) => eventFunc.run(bot, ...args));
