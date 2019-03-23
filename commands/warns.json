@@ -56,7 +56,7 @@
         "reasons": ""
     },
     "386222669181353984": {
-        "warns": 1,
-        "reasons": "Using commands in main lounge"
+        "warns": 2,
+        "reasons": "Using commands in main lounge|!spamming"
     }
 }
