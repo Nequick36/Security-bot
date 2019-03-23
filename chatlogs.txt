@@ -65,3 +65,6 @@ Balance to Bot 2.0#6953: 1
 [23.03.2019][07:44:50][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: good
 [23.03.2019][07:44:57][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: but i have some problems with apps
 [23.03.2019][07:48:42][🔹》main-lounge] Josh | GH#4954: dam
+[23.03.2019][07:50:43][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: for some reason i cant do apt-get install <app>
+[23.03.2019][07:50:58][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: it gives me error something like i cant install required depends
+[23.03.2019][07:51:00][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: like git
