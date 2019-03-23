@@ -23,3 +23,20 @@
 [23.03.2019][03:20:50][🔹》pictures] Josh | GH#4954: ...
 [23.03.2019][03:36:12][🔹》pictures] TTV_its_eannaBTW#8015: Lol
 [23.03.2019][03:59:55][🔸》chat-logs] GameHub#0549: 
+[23.03.2019][04:09:02][🔹》bot-commands] AL€X3411#9775: !work
+[23.03.2019][04:09:02][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][04:09:02][🔹》bot-commands] GameHub#0549: AL€X3411
+You worked as a ` Teacher ` and earned :money_with_wings: 115
+You now own :money_with_wings: 771
+[23.03.2019][04:09:08][🔹》bot-commands] AL€X3411#9775: NOOO
+[23.03.2019][04:09:11][🔹》bot-commands] AL€X3411#9775: TEACHER
+[23.03.2019][04:09:15][🔹》bot-commands] Josh | GH#4954: lol
+[23.03.2019][04:09:23][🔹》bot-commands] AL€X3411#9775: !suicide
+[23.03.2019][04:09:23][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][04:09:23][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[23.03.2019][04:09:40][🔹》bot-commands] AL€X3411#9775: !transfer <@397112796418015233> 1
+[23.03.2019][04:09:40][🔸》moderation-chat-logs] GameHub#0549: 
+[23.03.2019][04:09:41][🔹》bot-commands] GameHub#0549: <@471447002207617024>, Transfering coins succesfully done!
+Balance from AL€X3411#9775: 770
+Balance to Bot 2.0#6953: 1
+[23.03.2019][04:09:48][🔹》bot-commands] AL€X3411#9775: yay
