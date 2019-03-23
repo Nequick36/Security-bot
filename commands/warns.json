@@ -8,8 +8,8 @@
         "reasons": "using commands in <#358634388461715457>"
     },
     "435406608479158273": {
-        "warns": 0,
-        "reasons": ""
+        "warns": 1,
+        "reasons": "<@!435406608479158273> warning the owner when he is not a moderator"
     },
     "474311792059875349": {
         "warns": 0,
