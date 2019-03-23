@@ -30,7 +30,7 @@ exports.run = async (bot, message) => {
   
   //chat logs
   let date = message.createdTimestamp
-  fs.appendFile('./chatlogs.txt', `[${moment(date).format('DD.MM.YYYY')}][${moment(date).format('hh:mm:ss')}][${message.channel.name}] ${message.member.nickname || message.author.username}${message.author.tag.split('#').slice(1).join(" ")}: ${message.content}\n`, (err) => {
+  fs.appendFile('./chatlogs.txt', `[${moment(date).format('DD.MM.YYYY')}][${moment(date).format('hh:mm:ss')}][${message.channel.name}] ${message.member.nickname || message.author.username}#${message.author.tag.split('#').slice(1).join(" ")}: ${message.content}\n`, (err) => {
     if(err) console.log(err)
   })
   // fs.appendFile('events/chatlogs.txt', `[${message.createdAt}][${message.guild.name}][${message.channel.name}] ${message.author.username}: ${message.content}\n`, (err) => {

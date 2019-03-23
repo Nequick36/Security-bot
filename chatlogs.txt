@@ -1,0 +1,12 @@
+[23.03.2019][02:18:17][🔹development-chat] Josh | GH4954: yes
+[23.03.2019][02:19:55][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH9847: you see we are chatting now
+[23.03.2019][02:19:59][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH9847: but its store
+[23.03.2019][02:20:01][🔸》moderation-chat-logs] Administrative Message3861: 
+[23.03.2019][02:20:01][🔸》chat-logs] GameHub0549: 
+[23.03.2019][02:20:43][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH9847: ```
+[23.03.2019][02:18:17][🔹development-chat] Josh | GH4954: yes
+[23.03.2019][02:19:55][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH9847: you see we are chatting now
+[23.03.2019][02:19:59][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH9847: but its store
+[23.03.2019][02:20:01][🔸》moderation-chat-logs] Administrative Message3861: 
+[23.03.2019][02:20:01][🔸》chat-logs] GameHub0549: 
+```
