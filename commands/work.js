@@ -2,7 +2,13 @@ const Discord = require("discord.js")
 const eco = require('discord-economy')
 
 module.exports.run = async (bot, message, args) => {
-  if
+  if(bot.workCooldown.has(message.author.id)) return message.channel.send(`You need to wait 5 minutes!`)
+  else {
+    bot.workCooldown.set(message.author.id)
+    setTimeout(function() {
+      if(bot.workCooldown.has(message.author.id)) bot.workCooldown.delete(message.author)
+    }, 300000)
+  }
     var output = await eco.Work(message.author.id, {
       failurerate: 10,
       money: Math.floor(Math.random() * 500),
