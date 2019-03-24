@@ -1032,3 +1032,4 @@ Promise { <pending> }
 [24.03.2019][04:34:28][🔸》moderation-chat-logs] Administrative Message#3861: 
 [24.03.2019][04:34:29][🔸》join-leave-logs] InviteManager#3907: <@338021233708761090> **joined**; Invited by **Josh | GH** (**404** invites)
 [24.03.2019][04:34:52][🔹》main-lounge] Josh | GH#4954: <@338021233708761090> welcome
+[24.03.2019][04:45:04][🔹》main-lounge] CameronT05092002#4064: 🖐🖐
