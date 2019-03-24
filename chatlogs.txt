@@ -347,3 +347,12 @@ Have you done this application at the best of your ability?
 [23.03.2019][10:44:27][🔸》welcome] GameHub#0549: Archeon#2036 has left the server.
 [23.03.2019][10:44:27][🔸》moderation-chat-logs] Administrative Message#3861: 
 [23.03.2019][10:44:28][🔸》join-leave-logs] InviteManager#3907: Archeon **left**; Invited by **Seth | GH**
+[24.03.2019][02:59:15][🔹》pictures] MSThrowbacks😎 | GH#9776: !say hi
+[24.03.2019][02:59:15][🔹》pictures] GameHub#0549: Can't find that command! Please use !help
+[24.03.2019][02:59:15][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][02:59:20][🔹》pictures] MSThrowbacks😎 | GH#9776: !help
+[24.03.2019][02:59:20][🔹》pictures] ServerMate#2478: :arrows_counterclockwise: **Sending...**
+[24.03.2019][02:59:20][🔹》pictures] GameHub#0549: Check DMs!
+[24.03.2019][02:59:20][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][02:59:20][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][02:59:25][🔸》chat-logs] GameHub#0549: 
