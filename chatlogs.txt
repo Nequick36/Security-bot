@@ -1033,3 +1033,11 @@ Promise { <pending> }
 [24.03.2019][04:34:29][🔸》join-leave-logs] InviteManager#3907: <@338021233708761090> **joined**; Invited by **Josh | GH** (**404** invites)
 [24.03.2019][04:34:52][🔹》main-lounge] Josh | GH#4954: <@338021233708761090> welcome
 [24.03.2019][04:45:04][🔹》main-lounge] CameronT05092002#4064: 🖐🖐
+[24.03.2019][06:01:08][🔷》office-of-josh] Karma is a Bitch | GH#1542: <@349250638632452096> 13 is too low just being honest
+[24.03.2019][06:01:28][🔷》office-of-josh] Josh | GH#4954: now you reply
+[24.03.2019][06:01:37][🔷》office-of-josh] Josh | GH#4954: yes 13 is low
+[24.03.2019][06:02:07][🔷》office-of-josh] Karma is a Bitch | GH#1542: lowest id go is 15
+[24.03.2019][06:02:32][🔷》office-of-josh] Karma is a Bitch | GH#1542: or even 16
+[24.03.2019][06:02:32][🔷》office-of-josh] Josh | GH#4954: nah 14
+[24.03.2019][06:02:36][🔷》office-of-josh] Karma is a Bitch | GH#1542: No
+[24.03.2019][06:02:43][🔷》office-of-josh] Karma is a Bitch | GH#1542: Too low
