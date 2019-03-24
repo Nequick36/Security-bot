@@ -566,3 +566,110 @@ You now own :money_with_wings: 99900019987831
 [24.03.2019][12:11:10][🔸》moderation-chat-logs] GameHub#0549: 
 [24.03.2019][12:11:10][🔹》bot-commands] GameHub#0549: Hey Zakiz! You own 8178 coins.
 [24.03.2019][12:11:14][🔹》bot-commands] Jordan | GH#9218: I'm poor
+[24.03.2019][12:11:18][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !transfer <@!324525125116362752> 9999999
+[24.03.2019][12:11:18][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:11:19][🔹》bot-commands] GameHub#0549: <@!435406608479158273>, Transfering coins succesfully done!
+Balance from ${j122}#9847: 99900009987832
+Balance to Zakiz#9218: 10008177
+[24.03.2019][12:11:21][🔹》bot-commands] Jordan | GH#9218: ty
+[24.03.2019][12:11:22][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: you sure?
+[24.03.2019][12:11:27][🔹》bot-commands] Jordan | GH#9218: omg
+[24.03.2019][12:11:30][🔹》bot-commands] Jordan | GH#9218: im rich
+[24.03.2019][12:11:31][🔹》bot-commands] Jordan | GH#9218: !bal
+[24.03.2019][12:11:31][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:11:31][🔹》bot-commands] GameHub#0549: Hey Zakiz! You own 10008177 coins.
+[24.03.2019][12:11:36][🔹》bot-commands] Jordan | GH#9218: /e dance
+[24.03.2019][12:11:39][🔹》bot-commands] Jordan | GH#9218: !shop
+[24.03.2019][12:11:39][🔹》bot-commands] GameHub#0549: 
+[24.03.2019][12:11:39][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:11:40][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: lol
+[24.03.2019][12:11:50][🔹》bot-commands] Jordan | GH#9218: !buy Platinum
+[24.03.2019][12:11:50][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:11:50][🔹》bot-commands] GameHub#0549: Sorry but you need the Diamond role in order to purchase this role.
+[24.03.2019][12:11:55][🔹》bot-commands] Jordan | GH#9218: !buy gold
+[24.03.2019][12:11:55][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:11:56][🔹》bot-commands] GameHub#0549: <@324525125116362752> bought Gold role!
+[24.03.2019][12:11:56][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][12:11:59][🔹》bot-commands] Jordan | GH#9218: !buy diamond
+[24.03.2019][12:11:59][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:12:00][🔹》bot-commands] GameHub#0549: <@324525125116362752> bought Diamond role!
+[24.03.2019][12:12:00][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][12:12:04][🔹》bot-commands] Jordan | GH#9218: !buy Platinum
+[24.03.2019][12:12:04][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:12:05][🔹》bot-commands] GameHub#0549: <@324525125116362752> bought Platinum role!
+[24.03.2019][12:12:05][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][12:12:12][🔹》bot-commands] Jordan | GH#9218: Rich as f boi
+[24.03.2019][12:12:18][🔹》bot-commands] Jordan | GH#9218: !shop 2
+[24.03.2019][12:12:18][🔹》bot-commands] GameHub#0549: 
+[24.03.2019][12:12:21][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: lol look at me
+[24.03.2019][12:12:22][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !bal
+[24.03.2019][12:12:22][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:12:22][🔹》bot-commands] GameHub#0549: Hey ${j122}! You own 99900009987832 coins.
+[24.03.2019][12:12:31][🔹》bot-commands] Jordan | GH#9218: Cheat.exe could not be found.
+[24.03.2019][12:12:42][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: eval.exe could be found
+[24.03.2019][12:12:50][🔹》bot-commands] Jordan | GH#9218: oh
+[24.03.2019][12:12:57][🔹》bot-commands] Jordan | GH#9218: !leaderboard
+[24.03.2019][12:12:57][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[24.03.2019][12:12:57][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:13:00][🔹》bot-commands] Jordan | GH#9218: !help
+[24.03.2019][12:13:00][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:13:00][🔹》bot-commands] ServerMate#2478: :arrows_counterclockwise: **Sending...**
+[24.03.2019][12:13:00][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:13:06][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:13:34][🔹》bot-commands] Seth | GH#7796: !ticket new
+[24.03.2019][12:13:34][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:13:46][🔹》bot-commands] Jordan | GH#9218: !evelleaderboard
+[24.03.2019][12:13:46][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:13:46][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[24.03.2019][12:13:48][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: <@!366234394479951873> should i recode the ticket command?
+[24.03.2019][12:13:50][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:13:50][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][12:13:51][🔹》bot-commands] Jordan | GH#9218: !levelleaderboard
+[24.03.2019][12:13:51][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:13:51][🔹》bot-commands] GameHub#0549: My leaderboard:
+ 
+1 - Joshua#4954 | level 97 | 102 xp
+2 - Seth#7796 | level 89 | 106 xp
+3 - ${j122}#9847 | level 80 | 65 xp
+4 - ~ Karma😜#1542 | level 41 | 11 xp
+5 - sheg#1726 | level 35 | 25 xp
+6 - Zakiz#9218 | level 30 | 131 xp
+7 - AL€X3411#9775 | level 23 | 151 xp
+8 - MySwordingThrowbacks#9776 | level 21 | 164 xp
+9 - ACE#0001 | level 13 | 26 xp
+10 - DavidB#5793 | level 10 | 173 xp
+[24.03.2019][12:13:53][🔹》bot-commands] Seth | GH#7796: Yea
+[24.03.2019][12:13:55][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ok
+[24.03.2019][12:14:06][🔹》bot-commands] Jordan | GH#9218: !msgsleaderboard
+[24.03.2019][12:14:06][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:14:08][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: i just setuped everything for coding
+[24.03.2019][12:14:12][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: like atom vsc and node
+[24.03.2019][12:14:12][🔹》bot-commands] Seth | GH#7796: That if statemeny messed shit up somehow
+[24.03.2019][12:14:25][🔹》bot-commands] Jordan | GH#9218: Some commands doesn't work
+[24.03.2019][12:14:27][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:14:36][🔹》bot-commands] Jordan | GH#9218: !setlevel
+[24.03.2019][12:14:36][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:14:41][🔹》bot-commands] Seth | GH#7796: Msglb never worked
+[24.03.2019][12:14:44][🔹》bot-commands] Jordan | GH#9218: !setxp
+[24.03.2019][12:14:45][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:14:44][🔹》bot-commands] GameHub#0549: LOL did you really want to cheat?
+[24.03.2019][12:14:47][🔹》bot-commands] Jordan | GH#9218: yes
+[24.03.2019][12:14:51][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: lol
+[24.03.2019][12:15:12][🔹》bot-commands] Jordan | GH#9218: I want Cheat.exe could not to be to Cheat.exe could be found
+[24.03.2019][12:16:00][🔹》bot-commands] Seth | GH#7796: How you making it  <@435406608479158273>
+[24.03.2019][12:16:07][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: what?
+[24.03.2019][12:16:30][🔹》bot-commands] Seth | GH#7796: The ticket
+[24.03.2019][12:16:34][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: in atom
+[24.03.2019][12:16:42][🔹》bot-commands] Seth | GH#7796: Oh
+[24.03.2019][12:17:00][🔹》bot-commands] Seth | GH#7796: You gonna test with another bot then
+[24.03.2019][12:17:18][🔹》bot-commands] Seth | GH#7796: Or do you have bot token
+[24.03.2019][12:17:42][🔹》bot-commands] Seth | GH#7796: <@435406608479158273>
+[24.03.2019][12:18:01][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: im not gonna test it i will just put it on put
+[24.03.2019][12:18:12][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:18:24][🔹》bot-commands] Seth | GH#7796: Oh ok
+[24.03.2019][12:19:20][🔹》bot-commands] Seth | GH#7796: Also we should have nickname changed with afk again
+[24.03.2019][12:19:28][🔹》bot-commands] Jordan | GH#9218: !afk test
+[24.03.2019][12:19:28][🔹》bot-commands] GameHub#0549: 
+[24.03.2019][12:19:28][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:19:31][🔹》bot-commands] Jordan | GH#9218: back
+[24.03.2019][12:19:32][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, You are no longer afk!

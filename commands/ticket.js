@@ -11,8 +11,9 @@ module.exports.run = async (bot, message, args) => {
   if(args[0] === `new`) {
     message.guild.channels.forEach(channel => {
       if(channel.name.startsWith('ticket')) {
-        if(channel.topic === `owner:${message.author.id}`) return message.channel.send(`You can only have one ticket!`)
-        else {
+        if(channel.topic === `owner:${message.author.id}`) { 
+          return message.channel.send(`You can only have one ticket!`)
+        } else {
               message.guild.createChannel(`ticket-${message.author.username}`, 'text').then(channel => {
         channel.setTopic(`owner:${message.author.id}`)
     channel.send(`Hello, ${message.author}. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)`)
