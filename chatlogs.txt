@@ -673,3 +673,32 @@ Balance to Zakiz#9218: 10008177
 [24.03.2019][12:19:28][🔸》moderation-chat-logs] GameHub#0549: 
 [24.03.2019][12:19:31][🔹》bot-commands] Jordan | GH#9218: back
 [24.03.2019][12:19:32][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, You are no longer afk!
+[24.03.2019][12:37:22][🔹》bot-commands] [AFK] OfficialHypro#6821: %apply
+[24.03.2019][12:37:22][🔹》bot-commands] Administrative Message#3861: Welcome back <@452128432458039296>, I removed your AFK
+[24.03.2019][12:37:22][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:37:22][🔹》bot-commands] Application Bot#7283: You have already submitted an application.
+[24.03.2019][12:37:26][🔹》bot-commands] OfficialHypro#6821: ?
+[24.03.2019][12:37:31][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:37:31][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][12:37:51][🔹》bot-commands] OfficialHypro#6821: <@!366234394479951873> um
+[24.03.2019][12:37:59][🔹》bot-commands] OfficialHypro#6821: shall I use a diffrent account
+[24.03.2019][12:38:02][🔹》bot-commands] OfficialHypro#6821: or
+[24.03.2019][12:38:48][🔹》bot-commands] Seth | GH#7796: Hold on
+[24.03.2019][12:38:58][🔹》bot-commands] OfficialHypro#6821: alriight
+[24.03.2019][12:39:29][🔹》bot-commands] OfficialHypro#6821: um so
+[24.03.2019][12:39:41][🔹》bot-commands] Seth | GH#7796: %reject <@452128432458039296> you should be able to try now
+[24.03.2019][12:39:41][🔹》bot-commands] Application Bot#7283: 
+[24.03.2019][12:39:50][🔹》bot-commands] Seth | GH#7796: !purge 3
+[24.03.2019][12:39:50][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:39:50][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:39:50][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][12:40:08][🔹》bot-commands] Seth | GH#7796: There
+[24.03.2019][12:40:14][🔹》bot-commands] OfficialHypro#6821: %apply
+[24.03.2019][12:40:16][🔹》bot-commands] Application Bot#7283: 
+[24.03.2019][12:40:50][🔹》bot-commands] Seth | GH#7796: !ticket new
+[24.03.2019][12:40:50][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:40:58][🔹》bot-commands] Seth | GH#7796: Hmm
+[24.03.2019][12:42:51][🔹》bot-commands] Josh | GH#4954: Back
+[24.03.2019][12:42:51][🔹》bot-commands] Administrative Message#3861: Welcome back <@349250638632452096>, I removed your AFK
+[24.03.2019][12:43:01][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:43:01][🔸》moderation-chat-logs] Administrative Message#3861: 
