@@ -396,3 +396,9 @@ Have you done this application at the best of your ability?
 [24.03.2019][08:16:02][🔴》nsfw-chat] BoobBot™#5382: 
 [24.03.2019][08:16:06][🔴》nsfw-chat] Josh | GH#4954: Bbgif
 [24.03.2019][08:16:06][🔴》nsfw-chat] BoobBot™#5382: 
+[24.03.2019][08:36:51][🔸》welcome] GameHub#0549: Welcome <@452128432458039296> to this server.
+[24.03.2019][08:36:51][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][08:36:51][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][08:36:52][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][08:36:52][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][08:36:52][🔸》join-leave-logs] InviteManager#3907: <@452128432458039296> **joined**; Invited by **Josh | GH** (**403** invites)
