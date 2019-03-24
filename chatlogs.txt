@@ -1089,3 +1089,37 @@ Image 1 - https://cdn.discordapp.com/attachments/475994436342513677/556546036655
 [24.03.2019][06:57:55][🔹development-chat] Josh | GH#4954: just remove the whole thing
 [24.03.2019][06:58:00][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: i will comment it
 [24.03.2019][06:59:20][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: <@!349250638632452096> i deleted it
+[24.03.2019][07:04:04][🔹development-chat] Josh | GH#4954: k
+[24.03.2019][07:04:04][🔹development-chat] GameHub#0549: <@349250638632452096> just leveled up to level 98!
+[24.03.2019][07:04:05][🔹development-chat] Josh | GH#4954: ty
+[24.03.2019][07:07:36][🔹console] Seth | GH#7796: message.reply("daddd")
+[24.03.2019][07:07:36][🔹console] GameHub#0549: <@!366234394479951873>, daddd
+[24.03.2019][07:07:36][🔹console] GameHub#0549: ```xl
+Promise { <pending> }
+```
+[24.03.2019][07:08:12][🔹console] Seth | GH#7796: message.channel.send("reeee<:GWqlabsHyperRage:393085095285882881>")
+[24.03.2019][07:08:12][🔹console] GameHub#0549: reeee:GWqlabsHyperRage:
+[24.03.2019][07:08:12][🔹console] GameHub#0549: ```xl
+Promise { <pending> }
+```
+[24.03.2019][07:08:37][🔸》serverinfo] Josh | GH#4954: ```css
+Welcome to Gamehub advertise! We are a advertising server, which is a sub server of the main GameHub server. We are here to make your server grow in members in just days. We also have games on our server to make our server more than just an advertising server, we hope you will enjoy this server, thank you. ```
+
+__**WHAT WE OFFER:**__
+
+👉** Increase server members.**
+
+👉 **Free advertising**
+
+👉 **We are also looking for staff members**
+
+👉 **Friendly people**
+
+👉 **No limit in server members**
+
+**WE ARE ALSO HIRING STAFF MEMBERS TO MODERATE OUR CHATS**
+
+ Invite link - https://discord.gg/2rbWKW6
+Image 1 - https://cdn.discordapp.com/attachments/475994436342513677/556546036655456297/gamehub_-_Copy_2.png
+[24.03.2019][07:08:37][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][07:08:55][🔸》serverinfo] Josh | GH#4954: @everyone Make sure to join our advertising server.
