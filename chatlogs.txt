@@ -1014,3 +1014,15 @@ undefined
 [24.03.2019][01:32:39][🔹console] GameHub#0549: ```xl
 Promise { <pending> }
 ```
+[24.03.2019][03:03:33][🔹》bot-commands] Seth | GH#7796: !ticket new
+[24.03.2019][03:03:33][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][03:03:33][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][03:03:33][ticket-366234394479951873] GameHub#0549: Hello, <@366234394479951873>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[24.03.2019][03:03:33][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][03:03:51][ticket-366234394479951873] Seth | GH#7796: !ticket new
+[24.03.2019][03:03:51][ticket-366234394479951873] GameHub#0549: You can only have one ticket!
+[24.03.2019][03:03:51][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][03:04:01][ticket-366234394479951873] Seth | GH#7796: !ticket close
+[24.03.2019][03:04:01][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][03:04:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][03:04:01][🔸》moderation-chat-logs] GameHub#0549: 
