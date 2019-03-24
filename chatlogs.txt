@@ -407,3 +407,29 @@ Have you done this application at the best of your ability?
 [24.03.2019][09:06:47][🔹》main-lounge] OfficialHypro#6821: <@!349250638632452096> Done my application.
 [24.03.2019][09:07:11][🔹》main-lounge] Josh | GH#4954: To what role
 [24.03.2019][09:09:12][🔹》main-lounge] Josh | GH#4954: <@452128432458039296>
+[24.03.2019][09:21:14][🔹》main-lounge] OfficialHypro#6821: um support
+[24.03.2019][09:21:20][🔹》main-lounge] OfficialHypro#6821: <@!349250638632452096>
+[24.03.2019][09:21:56][🔹》main-lounge] Josh | GH#4954: Ok
+[24.03.2019][09:22:30][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][09:22:33][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][09:22:54][🔹》bot-commands] OfficialHypro#6821: !help
+[24.03.2019][09:22:54][🔹》bot-commands] ServerMate#2478: :arrows_counterclockwise: **Sending...**
+[24.03.2019][09:22:54][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][09:22:54][🔹》bot-commands] GameHub#0549: Check DMs!
+[24.03.2019][09:23:00][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][09:23:29][🔹》bot-commands] OfficialHypro#6821: !afk Going somewhere
+[24.03.2019][09:23:29][🔹》bot-commands] GameHub#0549: 
+[24.03.2019][09:23:29][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][09:23:36][🔹》bot-commands] OfficialHypro#6821: ?
+[24.03.2019][09:23:36][🔹》bot-commands] GameHub#0549: <@452128432458039296>, You are no longer afk!
+[24.03.2019][09:23:41][🔹》bot-commands] OfficialHypro#6821: <@!366234394479951873>
+[24.03.2019][09:23:48][🔹》bot-commands] OfficialHypro#6821: look
+[24.03.2019][09:23:53][🔹》bot-commands] OfficialHypro#6821: !afk going somewhere
+[24.03.2019][09:23:53][🔹》bot-commands] GameHub#0549: 
+[24.03.2019][09:23:53][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][09:23:58][🔹》bot-commands] Josh | GH#4954: Do ?afk
+[24.03.2019][09:24:09][🔹》bot-commands] OfficialHypro#6821: ?afk going somewhere
+[24.03.2019][09:24:09][🔹》bot-commands] GameHub#0549: <@452128432458039296>, You are no longer afk!
+[24.03.2019][09:24:09][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][09:24:09][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][09:24:09][🔹》bot-commands] Administrative Message#3861: <@452128432458039296> I set your AFK: going somewhere
