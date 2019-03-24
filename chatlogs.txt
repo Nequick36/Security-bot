@@ -702,3 +702,76 @@ Balance to Zakiz#9218: 10008177
 [24.03.2019][12:42:51][🔹》bot-commands] Administrative Message#3861: Welcome back <@349250638632452096>, I removed your AFK
 [24.03.2019][12:43:01][🔸》chat-logs] GameHub#0549: 
 [24.03.2019][12:43:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][12:47:10][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !reload ticket
+[24.03.2019][12:47:10][🔹》bot-commands] GameHub#0549: Command ticket was reloaded!
+[24.03.2019][12:47:10][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:47:12][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !ticket
+[24.03.2019][12:47:13][🔹》bot-commands] GameHub#0549: Ticket help:
+!ticket new - Makes new ticket
+!ticket close - Deletes the ticket
+[24.03.2019][12:47:13][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:47:16][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !ticket new
+[24.03.2019][12:47:16][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:48:21][🔸》application-logs] Application Bot#7283: 
+[24.03.2019][12:49:27][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !reload ticket
+[24.03.2019][12:49:27][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:49:27][🔹》bot-commands] GameHub#0549: Command ticket was reloaded!
+[24.03.2019][12:49:29][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !ticket new
+[24.03.2019][12:49:29][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:49:30][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][12:49:30][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:49:30][ticket-435406608479158273] GameHub#0549: Hello, <@435406608479158273>. This is your ticket.
+[24.03.2019][12:49:32][🔹》bot-commands] OfficialHypro#6821: well I've done and i tried my best but probably wont succeed lol
+[24.03.2019][12:49:38][ticket-435406608479158273] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !ticket new
+[24.03.2019][12:49:38][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:49:42][ticket-435406608479158273] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !ticket new
+[24.03.2019][12:49:42][ticket-435406608479158273] GameHub#0549: You can only have one ticket!
+[24.03.2019][12:49:42][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:49:46][ticket-435406608479158273] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !ticket close
+[24.03.2019][12:49:46][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:49:46][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][12:50:02][🔹》bot-commands] OfficialHypro#6821: whenever u go and type in !help why does it show a website
+[24.03.2019][12:50:36][🔹》bot-commands] OfficialHypro#6821: go to <#465992245649342484>
+[24.03.2019][12:51:19][🔹》check-your-score] OfficialHypro#6821: t!top
+[24.03.2019][12:51:19][🔹》check-your-score] Tatsumaki#8792: 🏙  |  **Guild Score Leaderboards for GameHub**
+
+```pl
+📋 Rank | Name
+
+[1]     > #Joshua
+			Total Score: 37627     
+[2]     > #Seth
+			Total Score: 34608     
+[3]     > #${j122}
+			Total Score: 18364     
+[4]     > #𝖒𝖔𝖔𝖉
+			Total Score: 9921      
+[5]     > #~ Karma😜
+			Total Score: 8954      
+[6]     > #AL€X3411
+			Total Score: 8492      
+[7]     > #OfficialHypro
+			Total Score: 7400      
+[8]     > #sheg
+			Total Score: 5868      
+[9]     > #👑King Felidae😸
+			Total Score: 4491      
+[10]    > #popyoshi06🐸jack🥚
+			Total Score: 4270      
+-------------------------------------
+# Your Guild Placing Stats
+😐 Rank: 7	Total Score: 7400
+```
+[24.03.2019][12:51:43][🔹》check-your-score] OfficialHypro#6821: <@474267834957037576> hi?
+[24.03.2019][12:52:34][🔹》suggestions] OfficialHypro#6821: !suggest Add some detail to ur help website/
+[24.03.2019][12:52:34][🔸》suggestion-log] GameHub#0549: 
+[24.03.2019][12:52:34][🔹》suggestions] GameHub#0549: **Your suggestion has been submitted** <@452128432458039296>
+[24.03.2019][12:52:35][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][12:52:35][🔹》suggestions] ServerMate#2478: :arrows_counterclockwise: **Please wait...**
+[24.03.2019][12:52:35][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:52:45][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:52:46][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: <@452128432458039296>
+[24.03.2019][12:52:49][🔹》bot-commands] OfficialHypro#6821: yes
+[24.03.2019][12:52:57][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: it shuld give you website for help command
+[24.03.2019][12:53:04][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:53:12][🔹》bot-commands] OfficialHypro#6821: well back them it doesn't lol
