@@ -472,3 +472,97 @@ Have you done this application at the best of your ability?
 [24.03.2019][09:27:59][🔹》bot-commands] OfficialHypro#6821: ?afk chruch
 [24.03.2019][09:27:59][🔹》bot-commands] Administrative Message#3861: <@452128432458039296> I set your AFK: chruch
 [24.03.2019][09:27:59][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:04:56][🔹》bot-commands] Jordan | GH#9218: !ticket test
+[24.03.2019][12:04:57][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:05:04][🔹》bot-commands] Jordan | GH#9218: ?ticket test
+[24.03.2019][12:05:14][🔹》bot-commands] Jordan | GH#9218: There is no ticket <@!435406608479158273>
+[24.03.2019][12:05:25][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ?
+[24.03.2019][12:05:27][🔹》bot-commands] Seth | GH#7796: You're doing it wrong
+[24.03.2019][12:05:31][🔹》bot-commands] Jordan | GH#9218: O.
+[24.03.2019][12:05:33][🔹》bot-commands] Seth | GH#7796: *sigh*
+[24.03.2019][12:05:35][🔹》bot-commands] Jordan | GH#9218: How?
+[24.03.2019][12:05:35][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: .!ticket new
+[24.03.2019][12:05:41][🔹》bot-commands] Jordan | GH#9218: !ticket new test
+[24.03.2019][12:05:41][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:05:51][🔹》bot-commands] Jordan | GH#9218: !ticket new
+[24.03.2019][12:05:52][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:05:54][🔹》bot-commands] Jordan | GH#9218: -_-
+[24.03.2019][12:06:02][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !ticket new
+[24.03.2019][12:06:02][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:06:30][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !eval
+[24.03.2019][12:06:30][🔹》bot-commands] GameHub#0549: ```xl
+undefined
+```
+[24.03.2019][12:06:30][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:06:33][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: hmm
+[24.03.2019][12:06:34][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !ticket
+[24.03.2019][12:06:34][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:06:35][🔹》bot-commands] GameHub#0549: Ticket help:
+!ticket new - Makes new ticket
+!ticket close - Deletes the ticket
+[24.03.2019][12:06:38][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !ticket close
+[24.03.2019][12:06:38][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:06:38][🔹》bot-commands] GameHub#0549: <@!435406608479158273>, This channel isn't a ticket!
+[24.03.2019][12:06:42][🔹》bot-commands] Jordan | GH#9218: !ticket new
+[24.03.2019][12:06:42][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:06:45][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !ticket new
+[24.03.2019][12:06:45][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:06:46][🔹》bot-commands] Jordan | GH#9218: !ticket
+[24.03.2019][12:06:46][🔹》bot-commands] GameHub#0549: Ticket help:
+!ticket new - Makes new ticket
+!ticket close - Deletes the ticket
+[24.03.2019][12:06:46][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:06:50][🔹》bot-commands] Jordan | GH#9218: !ticket new
+[24.03.2019][12:06:50][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:06:55][🔹》bot-commands] Jordan | GH#9218: Something wrong.
+[24.03.2019][12:06:59][🔹》bot-commands] Seth | GH#7796: !ticket new
+[24.03.2019][12:06:59][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:07:11][🔹》bot-commands] Seth | GH#7796: Huh no errors or anything
+[24.03.2019][12:07:16][🔹》bot-commands] Jordan | GH#9218: Make it support - mod+ can have access to ticket
+[24.03.2019][12:07:52][🔹》bot-commands] Seth | GH#7796: The code you put in probs finals to make new tickets now  <@435406608479158273>
+[24.03.2019][12:08:01][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: idk
+[24.03.2019][12:08:03][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:08:18][🔹》bot-commands] Jordan | GH#9218: Try re making it
+[24.03.2019][12:08:46][🔹》bot-commands] Seth | GH#7796: We never tetsed remaking ticket after yesterday
+[24.03.2019][12:09:08][🔹》bot-commands] Jordan | GH#9218: tetsed?
+[24.03.2019][12:09:14][🔹》bot-commands] Jordan | GH#9218: tested you mean.
+[24.03.2019][12:09:17][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: should i recode it?
+[24.03.2019][12:09:18][🔹》bot-commands] GameHub#0549: <@435406608479158273> just leveled up to level 80!
+[24.03.2019][12:09:22][🔹》bot-commands] Jordan | GH#9218: Mhm
+[24.03.2019][12:09:25][🔹》bot-commands] Jordan | GH#9218: Just to make sure
+[24.03.2019][12:09:27][🔹》bot-commands] Jordan | GH#9218: !work
+[24.03.2019][12:09:27][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:09:27][🔹》bot-commands] GameHub#0549: Zakiz
+You worked as a ` Assistant ` and earned :money_with_wings: 90
+You now own :money_with_wings: 8178
+[24.03.2019][12:09:40][🔹》bot-commands] Jordan | GH#9218: Also, why it says "as a assistant"
+[24.03.2019][12:09:49][🔹》bot-commands] Seth | GH#7796: !ticket
+[24.03.2019][12:09:49][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:09:49][🔹》bot-commands] GameHub#0549: Ticket help:
+!ticket new - Makes new ticket
+!ticket close - Deletes the ticket
+[24.03.2019][12:09:56][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: becuase its eanligsh
+[24.03.2019][12:10:00][🔹》bot-commands] Seth | GH#7796: !ticket new
+[24.03.2019][12:10:00][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:10:01][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:10:12][🔹》bot-commands] Jordan | GH#9218: an assistant.... -.-
+[24.03.2019][12:10:35][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: because that is how its made
+[24.03.2019][12:10:36][🔹》bot-commands] Seth | GH#7796: Multiple jobs
+[24.03.2019][12:10:41][🔹》bot-commands] Jordan | GH#9218: OH
+[24.03.2019][12:10:46][🔹》bot-commands] Jordan | GH#9218: I get it.
+[24.03.2019][12:10:47][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !work
+[24.03.2019][12:10:47][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:10:48][🔹》bot-commands] GameHub#0549: ${j122}
+You worked as a ` Cleaner ` and earned :money_with_wings: 429
+You now own :money_with_wings: 99900019987831
+[24.03.2019][12:10:52][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: you see
+[24.03.2019][12:10:52][🔹》bot-commands] Jordan | GH#9218: That csah
+[24.03.2019][12:10:55][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][12:10:58][🔹》bot-commands] Jordan | GH#9218: you don't need to work lol
+[24.03.2019][12:10:59][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: that cheat
+[24.03.2019][12:11:04][🔹》bot-commands] Jordan | GH#9218: donate pls
+[24.03.2019][12:11:04][🔹》bot-commands] GameHub#0549: <@324525125116362752> just leveled up to level 30!
+[24.03.2019][12:11:10][🔹》bot-commands] Jordan | GH#9218: !bal
+[24.03.2019][12:11:10][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][12:11:10][🔹》bot-commands] GameHub#0549: Hey Zakiz! You own 8178 coins.
+[24.03.2019][12:11:14][🔹》bot-commands] Jordan | GH#9218: I'm poor
