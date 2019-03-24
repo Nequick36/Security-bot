@@ -404,3 +404,6 @@ Have you done this application at the best of your ability?
 [24.03.2019][08:36:52][🔸》join-leave-logs] InviteManager#3907: <@452128432458039296> **joined**; Invited by **Josh | GH** (**403** invites)
 [24.03.2019][08:40:43][🔸》moderation-chat-logs] Administrative Message#3861: 
 [24.03.2019][09:01:23][🔹》main-lounge] OfficialHypro#6821: ...
+[24.03.2019][09:06:47][🔹》main-lounge] OfficialHypro#6821: <@!349250638632452096> Done my application.
+[24.03.2019][09:07:11][🔹》main-lounge] Josh | GH#4954: To what role
+[24.03.2019][09:09:12][🔹》main-lounge] Josh | GH#4954: <@452128432458039296>
