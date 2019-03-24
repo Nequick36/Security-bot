@@ -10,18 +10,19 @@ dependencies:
   path: 0.12.7
   readline: 1.3.0
   replaceall: 0.1.6
-  sequelize: 4.42.0
+  sequelize: 5.1.1
   sqlite3: 4.0.6
   superagent: 4.1.0
+  vue: 2.6.10
 packages:
   /@types/geojson/1.0.6:
     dev: false
     resolution:
       integrity: sha512-Xqg/lIZMrUd0VRmSRbCAewtwGZiAk3mEUDvV4op1tGl+LvyPcb/MIOSxTl9z+9+J+R4/vpjiCAT4xeKzH9ji1w==
-  /@types/node/10.12.18:
+  /@types/node/11.11.6:
     dev: false
     resolution:
-      integrity: sha512-fh+pAqt4xRzPfqA6eh3Z2y6fyZavRIumvjhaCL753+TVkGKGhpPeyrJG2JftD0T9q4GF00KjefsQ+PQNDdWQaQ==
+      integrity: sha512-Exw4yUWMBXM3X+8oqzJNRqZSwUAaS4+7NdvHqQuFi/d+synz++xmX3QIf+BFqneW8N31R8Ky+sikfZUXq07ggQ==
   /abbrev/1.1.1:
     dev: false
     resolution:
@@ -56,6 +57,10 @@ packages:
       node: '>=4'
     resolution:
       integrity: sha1-7QMXwyIGT3lGbAKWa922Bas32Zg=
+  /any-promise/1.3.0:
+    dev: false
+    resolution:
+      integrity: sha1-q8av7tzqUugJzcA3au0845Y10X8=
   /aproba/1.2.0:
     dev: false
     resolution:
@@ -262,6 +267,12 @@ packages:
       node: '>= 0.6'
     resolution:
       integrity: sha1-m81S4UwJd2PnSbJ0xDRu0uVgtak=
+  /depd/2.0.0:
+    dev: false
+    engines:
+      node: '>= 0.8'
+    resolution:
+      integrity: sha512-g7nH6P6dyDioJogAAGprGpCtVImJhpPk/roCzdb3fIh61/s/nPsfR6onyMwkCAR/OlC3yBC0lESvUoQEAssIrw==
   /destroy/1.0.4:
     dev: false
     resolution:
@@ -1043,6 +1054,12 @@ packages:
     dev: false
     resolution:
       integrity: sha1-zZdO5P2bX+A8vzGHHuSCIcB3N7c=
+  /retry-as-promised/3.2.0:
+    dependencies:
+      any-promise: 1.3.0
+    dev: false
+    resolution:
+      integrity: sha512-CybGs60B7oYU/qSQ6kuaFmRd9sTZ6oXSc0toqePvV74Ac6/IFZSI1ReFQmtCN+uvW1Mtqdwpvt/LGOiCBAY2Mg==
   /rimraf/2.6.3:
     dependencies:
       glob: 7.1.3
@@ -1087,6 +1104,14 @@ packages:
       node: '>= 0.8.0'
     resolution:
       integrity: sha512-E64YFPUssFHEFBvpbbjr44NCLtI1AohxQ8ZSiJjQLskAdKuriYEP6VyGEsRDH8ScozGpkaX1BGvhanqCwkcEZw==
+  /sequelize-pool/1.0.2:
+    dependencies:
+      bluebird: 3.5.3
+    dev: false
+    engines:
+      node: '>= 6.0.0'
+    resolution:
+      integrity: sha512-VMKl/gCCdIvB1gFZ7p+oqLFEyZEz3oMMYjkKvfEC7GoO9bBcxmfOOU9RdkoltfXGgBZFigSChihRly2gKtsh2w==
   /sequelize/4.42.0:
     dependencies:
       bluebird: 3.5.3
@@ -1111,6 +1136,29 @@ packages:
       node: '>=4.0.0'
     resolution:
       integrity: sha512-qxAYnX4rcv7PbNtEidb56REpxNJCdbN0qyk1jb3+e6sE7OrmS0nYMU+MFVbNTJtZfSpOEEL1TX0TkMw+wzZBxg==
+  /sequelize/5.1.1:
+    dependencies:
+      bluebird: 3.5.3
+      cls-bluebird: 2.1.0
+      debug: 4.1.1
+      depd: 2.0.0
+      dottie: 2.0.1
+      inflection: 1.12.0
+      lodash: 4.17.11
+      moment: 2.24.0
+      moment-timezone: 0.5.23
+      retry-as-promised: 3.2.0
+      semver: 5.6.0
+      sequelize-pool: 1.0.2
+      toposort-class: 1.0.1
+      uuid: 3.3.2
+      validator: 10.11.0
+      wkx: 0.4.6
+    dev: false
+    engines:
+      node: '>=6.0.0'
+    resolution:
+      integrity: sha512-AaFZQ578yCNrQ1ewQQJ4w8Xe4eEnJ/jz5XX8f14kG5eHajWGkRrq6q9CWo8OFWfz2Nh9Z6kRQtvg5kQGOx9lBQ==
   /serve-static/1.13.2:
     dependencies:
       encodeurl: 1.0.2
@@ -1372,6 +1420,10 @@ packages:
       '0': node >=0.6.0
     resolution:
       integrity: sha1-OhBcoXBTr1XW4nDB+CiGguGNpAA=
+  /vue/2.6.10:
+    dev: false
+    resolution:
+      integrity: sha512-ImThpeNU9HbdZL3utgMCq0oiMzAkt1mcgy3/E6zWC/G6AaQoeuFdsl9nDhTDU3X1R6FK7nsIUuRACVcjI+A2GQ==
   /wide-align/1.1.3:
     dependencies:
       string-width: 2.1.1
@@ -1380,7 +1432,7 @@ packages:
       integrity: sha512-QGkOQc8XL6Bt5PwnsExKBPuMKBxnGxWWW3fU55Xt4feHozMUhdUMaBCk290qpm/wG5u/RSKzwdAC4i51YigihA==
   /wkx/0.4.6:
     dependencies:
-      '@types/node': 10.12.18
+      '@types/node': 11.11.6
     dev: false
     resolution:
       integrity: sha512-LHxXlzRCYQXA9ZHgs8r7Gafh0gVOE8o3QmudM1PIkOdkXXjW7Thcl+gb2P2dRuKgW8cqkitCRZkkjtmWzpHi7A==
@@ -1414,6 +1466,7 @@ specifiers:
   path: ^0.12.7
   readline: ^1.3.0
   replaceall: ^0.1.6
-  sequelize: ^4.42.0
+  sequelize: ^5.1.1
   sqlite3: ^4.0.6
   superagent: ^4.1.0
+  vue: ^2.6.8

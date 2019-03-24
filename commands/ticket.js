@@ -59,7 +59,7 @@ READ_MESSAGE_HISTORY: true
     }
   }
 }
-
+//we should make the help site look more sleek by using vue or soemthing
 
 
 module.exports.help = {
