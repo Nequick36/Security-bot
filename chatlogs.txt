@@ -1041,3 +1041,5 @@ Promise { <pending> }
 [24.03.2019][06:02:32][🔷》office-of-josh] Josh | GH#4954: nah 14
 [24.03.2019][06:02:36][🔷》office-of-josh] Karma is a Bitch | GH#1542: No
 [24.03.2019][06:02:43][🔷》office-of-josh] Karma is a Bitch | GH#1542: Too low
+[24.03.2019][06:33:24][🔷》office-of-josh] Seth | GH#7796: We can't always assume from age tho
+[24.03.2019][06:37:20][🔷》office-of-josh] Seth | GH#7796: Like I know a 14 year old who happens to be an administrator in a 10k.memeber server and he seems pretty mature to me tbh
