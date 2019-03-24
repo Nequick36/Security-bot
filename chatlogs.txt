@@ -1130,3 +1130,7 @@ Image 1 - https://cdn.discordapp.com/attachments/475994436342513677/556546036655
 [24.03.2019][08:35:54][🔸》application-logs] Application Bot#7283: 
 [24.03.2019][09:01:30][🔸》chat-logs] GameHub#0549: 
 [24.03.2019][09:06:47][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][09:28:03][🔹》bot-commands] CameronT05092002#4064: %apply
+[24.03.2019][09:28:04][🔹》bot-commands] Application Bot#7283: 
+[24.03.2019][09:32:50][🔸》application-logs] Application Bot#7283: 
+[24.03.2019][09:33:06][🔹》main-lounge] CameronT05092002#4064: Just applied!
