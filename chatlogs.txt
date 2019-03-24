@@ -1026,3 +1026,9 @@ Promise { <pending> }
 [24.03.2019][03:04:01][🔸》moderation-chat-logs] GameHub#0549: 
 [24.03.2019][03:04:01][🔸》moderation-chat-logs] Administrative Message#3861: 
 [24.03.2019][03:04:01][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][04:34:28][🔸》welcome] GameHub#0549: Welcome <@338021233708761090> to this server.
+[24.03.2019][04:34:28][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][04:34:28][🔸》moderation-chat-logs] GameHub#0549: 
+[24.03.2019][04:34:28][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][04:34:29][🔸》join-leave-logs] InviteManager#3907: <@338021233708761090> **joined**; Invited by **Josh | GH** (**404** invites)
+[24.03.2019][04:34:52][🔹》main-lounge] Josh | GH#4954: <@338021233708761090> welcome
