@@ -1128,3 +1128,5 @@ Image 1 - https://cdn.discordapp.com/attachments/475994436342513677/556546036655
 [24.03.2019][08:33:10][🔹》bot-commands] The Wоlf#8999: %apply
 [24.03.2019][08:33:12][🔹》bot-commands] Application Bot#7283: 
 [24.03.2019][08:35:54][🔸》application-logs] Application Bot#7283: 
+[24.03.2019][09:01:30][🔸》chat-logs] GameHub#0549: 
+[24.03.2019][09:06:47][🔸》chat-logs] GameHub#0549: 
