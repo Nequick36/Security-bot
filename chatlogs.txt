@@ -1125,3 +1125,6 @@ Image 1 - https://cdn.discordapp.com/attachments/475994436342513677/556546036655
 [24.03.2019][07:08:55][🔸》serverinfo] Josh | GH#4954: @everyone Make sure to join our advertising server.
 [24.03.2019][07:15:08][🔹》main-lounge] I suck and blow#9153: Well
 [24.03.2019][07:40:45][🔷》office-of-josh] Seth | GH#7796: So this is how it's gonna be huh
+[24.03.2019][08:33:10][🔹》bot-commands] The Wоlf#8999: %apply
+[24.03.2019][08:33:12][🔹》bot-commands] Application Bot#7283: 
+[24.03.2019][08:35:54][🔸》application-logs] Application Bot#7283: 
