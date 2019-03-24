@@ -64,7 +64,7 @@ exports.run = async (bot, message) => {
 }
   
     try {
-      const code = args.join(" ");
+      const code = message.content
       let evaled = eval(code);
  
       if (typeof evaled !== "string")

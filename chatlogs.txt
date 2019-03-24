@@ -995,3 +995,22 @@ Bot made by Seth#7796 & ${j122}#6975
 [24.03.2019][01:19:58][🔹》pictures] Administrative Message#3861: It's alright.I'm here to help!
 [24.03.2019][01:20:03][🔹》pictures] OfficialHypro#6821: ok
 [24.03.2019][01:24:48][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][01:25:38][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.03.2019][01:26:12][🔸》poll] Seth | GH#7796: Guys stop reacting the poll is closed
+[24.03.2019][01:27:57][🔹console] Seth | GH#7796: 5
+[24.03.2019][01:27:57][🔹console] GameHub#0549: ```xl
+undefined
+```
+[24.03.2019][01:28:26][🔹console] Seth | GH#7796: message.channel.send("do you work")
+[24.03.2019][01:28:26][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[24.03.2019][01:28:43][🔹console] Seth | GH#7796: Ugh
+[24.03.2019][01:28:43][🔹console] GameHub#0549: ```xl
+undefined
+```
+[24.03.2019][01:32:38][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: message.reply('ts')
+[24.03.2019][01:32:38][🔹console] GameHub#0549: <@!435406608479158273>, ts
+[24.03.2019][01:32:39][🔹console] GameHub#0549: ```xl
+Promise { <pending> }
+```
