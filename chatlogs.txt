@@ -1392,3 +1392,8 @@ Map {
 [25.03.2019][06:50:08][🔸》chat-logs] GameHub#0549: 
 [25.03.2019][06:50:08][🔹》bot-commands] GameHub#0549: <@!435406608479158273>, You are no longer afk!
 [25.03.2019][06:50:08][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][07:25:56][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !afk studying english
+[25.03.2019][07:25:56][🔹》bot-commands] GameHub#0549: 
+[25.03.2019][07:25:56][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][07:25:56][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][07:25:56][🔸》chat-logs] GameHub#0549: 
