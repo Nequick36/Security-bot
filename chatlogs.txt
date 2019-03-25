@@ -1670,3 +1670,13 @@ Map {
 [25.03.2019][08:08:08][🔹》bot-commands] Josh | GH#4954: Idk
 [25.03.2019][08:08:08][🔹》bot-commands] Seth | GH#7796: Through ownership
 [25.03.2019][08:08:08][🔹》bot-commands] GameHub#0549: <@!349250638632452096>, You are no longer afk!
+[25.03.2019][08:08:27][🔹》bot-commands] Seth | GH#7796: !afk revision
+[25.03.2019][08:08:27][🔹》bot-commands] GameHub#0549: 
+[25.03.2019][08:08:27][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][08:08:27][🔸》chat-logs] GameHub#0549: 
+[25.03.2019][08:08:27][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][08:09:04][🔹》bot-commands] Josh | GH#4954: <@!366234394479951873> test
+[25.03.2019][08:09:04][🔹》bot-commands] GameHub#0549: 
+[25.03.2019][08:09:30][🔹》bot-commands] Josh | GH#4954: !afk revision
+[25.03.2019][08:09:30][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][08:09:30][🔹》bot-commands] GameHub#0549: 
