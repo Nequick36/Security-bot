@@ -1684,3 +1684,8 @@ Map {
 [25.03.2019][09:00:07][🔸》moderation-chat-logs] Administrative Message#3861: 
 [25.03.2019][09:00:48][🔸》moderation-chat-logs] Administrative Message#3861: 
 [25.03.2019][09:18:58][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][09:55:30][🔹》main-lounge] [AFK] Seth | GH#7796: Mh
+[25.03.2019][09:55:30][🔹》main-lounge] GameHub#0549: <@!366234394479951873>, You are no longer afk!
+[25.03.2019][09:55:30][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][09:55:30][🔸》chat-logs] GameHub#0549: 
+[25.03.2019][09:55:54][🔹》main-lounge] Seth | GH#7796: So it does work outside the channel you set it in
