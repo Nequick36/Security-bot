@@ -1689,3 +1689,17 @@ Map {
 [25.03.2019][09:55:30][🔸》moderation-chat-logs] Administrative Message#3861: 
 [25.03.2019][09:55:30][🔸》chat-logs] GameHub#0549: 
 [25.03.2019][09:55:54][🔹》main-lounge] Seth | GH#7796: So it does work outside the channel you set it in
+[25.03.2019][10:59:50][🔹》bot-commands] Seth | GH#7796: !afk sleeping
+[25.03.2019][10:59:50][🔹》bot-commands] GameHub#0549: 
+[25.03.2019][10:59:50][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][10:59:50][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][10:59:50][🔸》chat-logs] GameHub#0549: 
+[25.03.2019][11:02:25][🔹》bot-commands] [AFK] Seth | GH#7796: J
+[25.03.2019][11:02:26][🔹》bot-commands] GameHub#0549: <@!366234394479951873>, You are no longer afk!
+[25.03.2019][11:02:26][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][11:02:26][🔸》chat-logs] GameHub#0549: 
+[25.03.2019][11:02:37][🔹》bot-commands] Seth | GH#7796: !afk sleeping
+[25.03.2019][11:02:37][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][11:02:37][🔹》bot-commands] GameHub#0549: 
+[25.03.2019][11:02:37][🔸》chat-logs] GameHub#0549: 
+[25.03.2019][11:02:37][🔸》moderation-chat-logs] Administrative Message#3861: 
