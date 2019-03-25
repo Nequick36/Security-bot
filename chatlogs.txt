@@ -1319,3 +1319,50 @@ You must be at least 15 years old to apply but depending how you present yoursel
 [25.03.2019][06:10:44][🔵》akinator] Aki#9694: 
 [25.03.2019][06:10:49][🔵》akinator] ACE | GH#9846: Y
 [25.03.2019][06:10:50][🔵》akinator] Aki#9694: 
+[25.03.2019][06:32:21][🔹》bot-commands] Josh | GH#4954: <@!366234394479951873>
+[25.03.2019][06:32:26][🔹》bot-commands] Seth | GH#7796: What
+[25.03.2019][06:32:39][🔹》bot-commands] Josh | GH#4954: Look it's not changing their nickname
+[25.03.2019][06:32:40][🔹》bot-commands] Josh | GH#4954: Look it's not changing their nickname
+[25.03.2019][06:32:42][🔹》bot-commands] Josh | GH#4954: Look it's not changing their nickname
+[25.03.2019][06:32:43][🔹》bot-commands] Josh | GH#4954: Look it's not changing their nickname
+[25.03.2019][06:32:50][🔹》bot-commands] Josh | GH#4954: Omg my iPad
+[25.03.2019][06:33:10][🔹》bot-commands] Seth | GH#7796: SJ removed while remaking it ages ago
+[25.03.2019][06:33:24][🔹》bot-commands] Seth | GH#7796: Dunno how you only noticed this now
+[25.03.2019][06:33:43][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: lol
+[25.03.2019][06:33:49][🔹》bot-commands] Josh | GH#4954: Well then add it back
+[25.03.2019][06:34:21][🔹》bot-commands] Josh | GH#4954: <@338021233708761090>
+[25.03.2019][06:34:21][🔹》bot-commands] GameHub#0549: 
+[25.03.2019][06:34:30][🔹》bot-commands] Josh | GH#4954: Nice
+[25.03.2019][06:34:43][🔹》bot-commands] Josh | GH#4954: Change nickname as well
+[25.03.2019][06:34:59][🔹》bot-commands] Josh | GH#4954: Sorry for ping cam
+[25.03.2019][06:39:55][🔹》bot-commands] CameronT05092002#4064: Nah, it's fine.
+[25.03.2019][06:41:41][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !reload afk
+[25.03.2019][06:41:42][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][06:41:42][🔹》bot-commands] GameHub#0549: Command afk was reloaded!
+[25.03.2019][06:41:43][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !afk
+[25.03.2019][06:41:43][🔹》bot-commands] GameHub#0549: 
+[25.03.2019][06:41:44][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][06:41:44][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][06:41:46][🔹》bot-commands] [AFK] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !afk
+[25.03.2019][06:41:46][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][06:41:46][🔹》bot-commands] GameHub#0549: 
+[25.03.2019][06:41:46][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][06:41:52][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !afk testing
+[25.03.2019][06:41:52][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][06:41:52][🔹》bot-commands] GameHub#0549: 
+[25.03.2019][06:41:52][🔸》chat-logs] GameHub#0549: 
+[25.03.2019][06:41:52][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][06:41:55][🔹》bot-commands] [AFK] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: <@!435406608479158273>
+[25.03.2019][06:41:55][🔹》bot-commands] GameHub#0549: <@!435406608479158273>, You are no longer afk!
+[25.03.2019][06:42:02][🔹》bot-commands] [AFK] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !afk
+[25.03.2019][06:42:02][🔹》bot-commands] GameHub#0549: 
+[25.03.2019][06:42:02][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][06:42:02][🔸》chat-logs] GameHub#0549: 
+[25.03.2019][06:42:03][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][06:42:04][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: hmmm
+[25.03.2019][06:42:04][🔹》bot-commands] GameHub#0549: <@!435406608479158273>, You are no longer afk!
+[25.03.2019][06:42:12][🔹》bot-commands] CameronT05092002#4064: <@338021233708761090>
+[25.03.2019][06:42:18][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: i need to ping you
+[25.03.2019][06:42:22][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: do !afk
+[25.03.2019][06:42:33][🔹》bot-commands] CameronT05092002#4064: Still hasn't said I'm not AFK anymore :p
+[25.03.2019][06:42:43][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: do !afk

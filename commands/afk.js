@@ -12,6 +12,15 @@ let options = {
 bot.afk.set(message.author.id, options)
 
 message.channel.send({embed:{description:`You are now afk!\nReason: ${reason || 'AFK'}`, title: message.author.username, color: 0xff0000}})
+  if(message.member.nickname) {
+    if(message.member.nickname.includes('[AFK] ')) {
+      message.member.setNickname(message.member.nickname.replace('[AFK] ', ''))
+    } else {
+      message.member.setNickname(`[AFK] ${message.member.nickname}`)
+    }
+  } else {
+    message.member.setNickname(`[AFK] ${message.member.nickname}`)
+  }
 }
 
 module.exports.help = {
