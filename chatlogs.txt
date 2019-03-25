@@ -1238,3 +1238,37 @@ You must be at least 15 years old to apply but depending how you present yoursel
 [25.03.2019][05:37:34][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ok
 [25.03.2019][05:40:09][🔸》chat-logs] GameHub#0549: 
 [25.03.2019][05:43:16][🔸》chat-logs] GameHub#0549: 
+[25.03.2019][05:53:45][🔹》bot-commands] Jordan | GH#9218: !ticket new
+[25.03.2019][05:53:45][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][05:53:45][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][05:53:45][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][05:53:45][ticket-324525125116362752] GameHub#0549: Hello, <@324525125116362752>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[25.03.2019][05:53:51][ticket-324525125116362752] Jordan | GH#9218: !ticket close
+[25.03.2019][05:53:51][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][05:53:51][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][05:53:51][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][05:53:57][🔹》bot-commands] Jordan | GH#9218: Worked.
+[25.03.2019][05:54:06][🔹》bot-commands] Jordan | GH#9218: Wait..
+[25.03.2019][05:54:08][🔹》bot-commands] Jordan | GH#9218: !ticket new
+[25.03.2019][05:54:08][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][05:54:08][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][05:54:08][ticket-324525125116362752] GameHub#0549: Hello, <@324525125116362752>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[25.03.2019][05:54:08][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][05:54:28][🔹》bot-commands] Jordan | GH#9218: Does Staff members get pinged?
+[25.03.2019][05:54:32][ticket-324525125116362752] Jordan | GH#9218: !ticket close
+[25.03.2019][05:54:32][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][05:54:32][🔸》moderation-chat-logs] Administrative Message#3861: 
+[25.03.2019][05:54:32][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][05:54:48][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: nope
+[25.03.2019][05:54:49][🔹》bot-commands] Jordan | GH#9218: If so sorry for the png.
+[25.03.2019][05:54:51][🔹》bot-commands] Jordan | GH#9218: O.
+[25.03.2019][05:54:54][🔹》bot-commands] Jordan | GH#9218: ing*
+[25.03.2019][05:56:38][🔹》main-lounge] Jordan | GH#9218: <@338021233708761090> welcome
+[25.03.2019][05:57:02][🔹》bot-commands] Jordan | GH#9218: !afk sleeping
+[25.03.2019][05:57:02][🔹》bot-commands] GameHub#0549: 
+[25.03.2019][05:57:02][🔸》moderation-chat-logs] GameHub#0549: 
+[25.03.2019][05:57:08][🔹》bot-commands] Jordan | GH#9218: .
+[25.03.2019][05:57:08][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, You are no longer afk!
+[25.03.2019][05:57:14][🔹》bot-commands] Jordan | GH#9218: !afk sleeping do NOT ping
+[25.03.2019][05:57:14][🔹》bot-commands] GameHub#0549: 
+[25.03.2019][05:57:14][🔸》moderation-chat-logs] GameHub#0549: 
