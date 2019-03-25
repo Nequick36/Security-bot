@@ -83,6 +83,11 @@ if(bot.afk.has(message.author.id)) {
   } else {
   message.reply(`You are no longer afk!`)
   bot.afk.delete(message.author.id)
+  if(message.member.nickname) {
+    if(message.member.nickname.includes('[AFK] ')) {
+      message.member.setNickname(message.member.nickname.replace('[AFK] ', ''))
+    }
+  }
   }
 }
 if(message.mentions.members) {
