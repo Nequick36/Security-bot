@@ -2402,3 +2402,15 @@ You now own :money_with_wings: 10745
 [26.03.2019][02:03:59][🔸》moderation-chat-logs] GameHub#0549: 
 [26.03.2019][02:04:00][🔸》chat-logs] GameHub#0549: 
 [26.03.2019][02:04:00][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][02:38:09][🔹》bot-commands] [AFK] Jordan | GH#9218: ddddddddddddddddddddddddd`ddddddddddddddddddddddddddddddddddddddddd
+[26.03.2019][02:38:09][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][02:38:09][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, You are no longer afk!
+[26.03.2019][02:38:09][🔸》chat-logs] GameHub#0549: 
+[26.03.2019][02:38:09][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][02:38:09][🔸》chat-logs] GameHub#0549: 
+[26.03.2019][02:38:10][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][02:38:18][🔹》bot-commands] Jordan | GH#9218: !afk revise
+[26.03.2019][02:38:18][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][02:38:18][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][02:38:18][🔸》chat-logs] GameHub#0549: 
+[26.03.2019][02:38:18][🔸》moderation-chat-logs] Administrative Message#3861: 
