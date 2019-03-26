@@ -3085,3 +3085,68 @@ Map {
 [26.03.2019][08:25:49][🔸》chat-logs] GameHub#0549: 
 [26.03.2019][08:35:07][🔹》main-lounge] gay bot#6821: Reee
 [26.03.2019][09:27:42][🔹》main-lounge] Jif#4310: Yay
+[26.03.2019][09:51:41][🔹》bot-commands] Seth | GH#7796: !work
+[26.03.2019][09:51:41][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
+[26.03.2019][09:51:41][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:51:56][🔹》bot-commands] Jif#4310: !work
+[26.03.2019][09:51:56][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:51:56][🔹》bot-commands] GameHub#0549: Jif
+You worked as a ` Electrician ` and earned :money_with_wings: 433
+You now own :money_with_wings: 985533
+[26.03.2019][09:52:03][🔹》bot-commands] Jif#4310: Yay
+[26.03.2019][09:53:11][🔹》bot-commands] Jif#4310: !daily
+[26.03.2019][09:53:11][🔹》bot-commands] GameHub#0549: Sorry, you already claimed your daily coins!
+But no worries, over 0d 2h 6m 48s you can use daily again!
+[26.03.2019][09:53:11][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:53:28][🔹》bot-commands] Jif#4310: !slot 1000000
+[26.03.2019][09:53:28][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:53:28][🔹》bot-commands] GameHub#0549: <@401927239828242432>, You don't have that much money!
+[26.03.2019][09:53:50][🔹》bot-commands] Jif#4310: !slot 10000
+[26.03.2019][09:53:50][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][09:53:50][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:54:00][🔹》bot-commands] Jif#4310: !slot 10000
+[26.03.2019][09:54:00][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:54:00][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][09:54:01][🔹》bot-commands] Jif#4310: !slot 10000
+[26.03.2019][09:54:01][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:54:01][🔹》bot-commands] Jif#4310: !slot 10000
+[26.03.2019][09:54:01][🔹》bot-commands] Jif#4310: !slot 10000
+[26.03.2019][09:54:01][🔹》bot-commands] Jif#4310: !slot 10000
+[26.03.2019][09:54:02][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:54:02][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][09:54:02][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:54:02][🔹》bot-commands] Jif#4310: !slot 10000!slot 10000
+[26.03.2019][09:54:02][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:54:02][🔹》bot-commands] Jif#4310: !slot 10000
+[26.03.2019][09:54:02][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][09:54:02][🔹》bot-commands] Jif#4310: !slot 10000!slot 10000
+[26.03.2019][09:54:03][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][09:54:03][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][09:54:03][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][09:54:05][🔹》bot-commands] Jif#4310: !slot 10000!slot 10000
+[26.03.2019][09:54:06][🔹》bot-commands] Jif#4310: !slot 10000
+[26.03.2019][09:54:06][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][09:54:07][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][09:54:07][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][09:54:07][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:54:07][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:54:07][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][09:54:07][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][09:54:07][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][09:54:07][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:54:08][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:54:10][🔹》bot-commands] Jif#4310: !slot 10000
+[26.03.2019][09:54:13][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:54:14][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][09:54:21][🔹》bot-commands] Jif#4310: !bal
+[26.03.2019][09:54:21][🔹》bot-commands] GameHub#0549: Hey Jif! You own 925533 coins.
+[26.03.2019][09:55:09][🔹》bot-commands] Jif#4310: Who want money
+[26.03.2019][09:55:40][🔵》league-of-nations-1] Jif#4310: !tax
+[26.03.2019][09:55:40][🔵》league-of-nations-1] GameHub#0549: Can't find that command! Please use !help
+[26.03.2019][09:55:40][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][09:55:45][🔵》league-of-nations-1] Jif#4310: -tax
+[26.03.2019][09:55:45][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][09:55:50][🔵》league-of-nations-1] Jif#4310: -bill
+[26.03.2019][09:55:50][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][09:55:57][🔵》league-of-nations-1] Jif#4310: -tax collect
+[26.03.2019][09:55:57][🔵》league-of-nations-1] League Of Nations#6458: 
