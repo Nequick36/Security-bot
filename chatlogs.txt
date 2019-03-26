@@ -2214,3 +2214,5 @@ Promise { <pending> }
 [26.03.2019][12:59:54][🔸》moderation-chat-logs] Administrative Message#3861: 
 [26.03.2019][12:59:54][🔸》moderation-chat-logs] Administrative Message#3861: 
 [26.03.2019][12:59:59][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][01:09:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][01:09:01][🔸》moderation] Administrative Message#3861: 
