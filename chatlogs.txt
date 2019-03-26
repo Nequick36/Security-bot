@@ -2553,3 +2553,161 @@ You now own :money_with_wings: 10745
 [26.03.2019][04:09:20][🔵》league-of-nations-1] League Of Nations#6458: 
 [26.03.2019][04:09:34][🔵》league-of-nations-1] Jif#4310: -tax collect
 [26.03.2019][04:09:34][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:10:14][🔹》main-lounge] Jordan | GH#9218: where is skeppu
+[26.03.2019][04:10:17][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:10:17][🔸》chat-logs] GameHub#0549: 
+[26.03.2019][04:10:30][🔵》league-of-nations-1] Jif#4310: -help
+[26.03.2019][04:10:31][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:10:32][🔵》league-of-nations-1] Jordan | GH#9218: !bal
+[26.03.2019][04:10:32][🔵》league-of-nations-1] GameHub#0549: Hey Zakiz! You own 2142388197 coins.
+[26.03.2019][04:10:32][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:10:36][🔵》league-of-nations-1] Jordan | GH#9218: 😎
+[26.03.2019][04:10:46][🔵》league-of-nations-1] Jif#4310: !bal
+[26.03.2019][04:10:46][🔵》league-of-nations-1] GameHub#0549: Hey Jif! You own 0 coins.
+[26.03.2019][04:10:46][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:10:48][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:10:50][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:10:53][🔵》league-of-nations-1] Jif#4310: :(
+[26.03.2019][04:10:58][🔵》league-of-nations-1] Jordan | GH#9218: <#477954966556770311>
+[26.03.2019][04:11:02][🔵》league-of-nations-1] Jordan | GH#9218: I'll show you something
+[26.03.2019][04:11:08][🔹》bot-commands] Jif#4310: ?
+[26.03.2019][04:11:08][🔹》bot-commands] Jordan | GH#9218: Wait.
+[26.03.2019][04:11:11][🔹》bot-commands] Jif#4310: K
+[26.03.2019][04:11:33][🔹》bot-commands] Jordan | GH#9218: !transfer <@401927239828242432> 1000000
+[26.03.2019][04:11:34][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:11:35][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, Transfering coins succesfully done!
+Balance from Zakiz#9218: 2141388197
+Balance to Jif#4310: 1000000
+[26.03.2019][04:11:40][🔹》bot-commands] Jordan | GH#9218: Here's 1M
+[26.03.2019][04:11:47][🔹》bot-commands] Jif#4310: Thanks
+[26.03.2019][04:11:50][🔹》bot-commands] Jordan | GH#9218: You can do "!daily, !work and !shop"
+[26.03.2019][04:11:58][🔹》bot-commands] Jif#4310: K
+[26.03.2019][04:12:02][🔹》bot-commands] Jordan | GH#9218: For more information "!help"
+[26.03.2019][04:12:07][🔹》bot-commands] Jif#4310: !daily
+[26.03.2019][04:12:07][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:12:08][🔹》bot-commands] GameHub#0549: <@401927239828242432>, You claimed your daily coins succesfully! You now own 1000100 coins.
+[26.03.2019][04:12:25][🔹》bot-commands] Jordan | GH#9218: !work
+[26.03.2019][04:12:25][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
+[26.03.2019][04:12:25][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:12:29][🔹》bot-commands] Jordan | GH#9218: wat
+[26.03.2019][04:12:29][🔹》bot-commands] GameHub#0549: <@324525125116362752> just leveled up to level 36!
+[26.03.2019][04:12:33][🔹》bot-commands] Jordan | GH#9218: It been 3 hours
+[26.03.2019][04:12:37][🔹》bot-commands] Jif#4310: !work
+[26.03.2019][04:12:37][🔹》bot-commands] GameHub#0549: <@401927239828242432>, Aww, you did not do your job well so you earned nothing!
+[26.03.2019][04:12:37][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:12:46][🔹》bot-commands] Jif#4310: :(
+[26.03.2019][04:13:14][🔹》bot-commands] Jif#4310: !work
+[26.03.2019][04:13:15][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:13:34][🔹》bot-commands] Jif#4310: !shop
+[26.03.2019][04:13:34][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:13:34][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:13:43][🔹》bot-commands] Jordan | GH#9218: Buy low to high
+[26.03.2019][04:13:48][🔹》bot-commands] Jif#4310: K
+[26.03.2019][04:14:02][🔹》bot-commands] Jif#4310: !buy bronze
+[26.03.2019][04:14:03][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:03][🔹》bot-commands] GameHub#0549: <@401927239828242432> bought Bronze role!
+[26.03.2019][04:14:04][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:14:11][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:11][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:11][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:12][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:12][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:12][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:13][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:13][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:14][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:14][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:14][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:15][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:15][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:15][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:15][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:16][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:17][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:18][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:18][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:18][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:18][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:24][🔹》bot-commands] Jordan | GH#9218: It's raining lost
+[26.03.2019][04:14:34][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:34][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:35][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:35][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:35][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:36][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:36][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:36][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:37][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:37][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:37][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:38][🔹》bot-commands] Jif#4310: !buy gold
+[26.03.2019][04:14:38][🔹》bot-commands] Jordan | GH#9218: !bal
+[26.03.2019][04:14:38][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:39][🔹》bot-commands] GameHub#0549: <@401927239828242432> bought Gold role!
+[26.03.2019][04:14:40][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:14:40][🔹》bot-commands] GameHub#0549: Hey Zakiz! You own 2141398197 coins.
+[26.03.2019][04:14:40][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:40][🔹》bot-commands] Jordan | GH#9218: wow
+[26.03.2019][04:14:44][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:44][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:44][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:45][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:45][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:45][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:45][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:46][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:46][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:47][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:47][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:47][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:47][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:48][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:14:48][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:48][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:48][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:48][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:49][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:50][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:50][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:51][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:51][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:52][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:52][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:14:53][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][04:14:53][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:14:53][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:15:03][🔹》bot-commands] Jif#4310: !buy diamond
+[26.03.2019][04:15:04][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:15:05][🔹》bot-commands] GameHub#0549: <@401927239828242432> bought Diamond role!
+[26.03.2019][04:15:05][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:15:16][🔹》bot-commands] Jordan | GH#9218: Platinum last role
+[26.03.2019][04:15:33][🔹》bot-commands] Jif#4310: !buy platinum
+[26.03.2019][04:15:33][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:15:33][🔹》bot-commands] GameHub#0549: <@401927239828242432> just leveled up to level 1!
+[26.03.2019][04:15:34][🔹》bot-commands] GameHub#0549: <@401927239828242432> bought Platinum role!
+[26.03.2019][04:15:34][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:15:38][🔹》bot-commands] Jordan | GH#9218: 👏
+[26.03.2019][04:15:40][🔹》bot-commands] Jif#4310: Yay
+[26.03.2019][04:15:45][🔹》bot-commands] Jordan | GH#9218: I made you cheat easy lel
+[26.03.2019][04:15:51][🔹》bot-commands] Jif#4310: Lol
+[26.03.2019][04:15:54][🔹》bot-commands] Jordan | GH#9218: <#358634388461715457>
+[26.03.2019][04:15:57][🔹》bot-commands] Jif#4310: !bal
+[26.03.2019][04:15:57][🔹》bot-commands] GameHub#0549: Hey Jif! You own 985100 coins.
+[26.03.2019][04:15:57][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:16:06][🔹》main-lounge] Jif#4310: Idk
+[26.03.2019][04:16:07][🔹》bot-commands] Jordan | GH#9218: You still have 900k
+[26.03.2019][04:16:17][🔹》main-lounge] Jordan | GH#9218: Did you eat 'em?
+[26.03.2019][04:16:26][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:16:26][🔸》chat-logs] GameHub#0549: 
+[26.03.2019][04:16:41][🔹》main-lounge] Jif#4310: No we pvped earlier tho
+[26.03.2019][04:16:46][🔹》main-lounge] Jordan | GH#9218: Ah
+[26.03.2019][04:16:56][🔹》main-lounge] Jif#4310: Yea
+[26.03.2019][04:16:57][🔹》main-lounge] Jordan | GH#9218: MC?
+[26.03.2019][04:17:16][🔹》main-lounge] Jif#4310: Ye
+[26.03.2019][04:17:30][🔹》main-lounge] Jif#4310: I want rainbow :(
+[26.03.2019][04:18:21][🔹》main-lounge] Jif#4310: 😥
+[26.03.2019][04:18:56][🔹》bot-commands] Jif#4310: Lol
+[26.03.2019][04:19:20][🔹》bot-commands] Jif#4310: !buy platinum
+[26.03.2019][04:19:21][🔹》bot-commands] GameHub#0549: You have already purchased the platinum role!
+[26.03.2019][04:19:21][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:19:39][🔹》main-lounge] Jordan | GH#9218: Win a giveaway hosted by admin+ or get more active and talk alot!
