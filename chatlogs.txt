@@ -2906,3 +2906,70 @@ But no worries, over 0d 7h 36m 21s you can use daily again!
 [26.03.2019][04:42:49][🔵》league-of-nations-1] Jordan | GH#9218: -tax collect
 [26.03.2019][04:42:49][🔵》league-of-nations-1] League Of Nations#6458: 
 [26.03.2019][04:43:04][🔵》league-of-nations-1] Jordan | GH#9218: -land
+[26.03.2019][04:43:11][🔵》league-of-nations-1] Jif#4310: -buy tech 100 confirm
+[26.03.2019][04:43:12][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:43:17][🔵》league-of-nations-1] Jordan | GH#9218: -resource
+[26.03.2019][04:43:20][🔵》league-of-nations-1] Jordan | GH#9218: -resource
+[26.03.2019][04:43:26][🔵》league-of-nations-1] Jordan | GH#9218: - resource me
+[26.03.2019][04:43:32][🔵》league-of-nations-1] Jordan | GH#9218: -resource me
+[26.03.2019][04:43:32][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:43:36][🔵》league-of-nations-1] Jif#4310: resource
+[26.03.2019][04:43:43][🔵》league-of-nations-1] Jordan | GH#9218: Ok
+[26.03.2019][04:43:45][🔵》league-of-nations-1] Jordan | GH#9218: yes
+[26.03.2019][04:43:47][🔵》league-of-nations-1] Jif#4310: -resource me
+[26.03.2019][04:43:47][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:43:54][🔵》league-of-nations-1] Jordan | GH#9218: -resource me
+[26.03.2019][04:43:54][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:43:58][🔵》league-of-nations-1] Jordan | GH#9218: Ag
+[26.03.2019][04:44:09][🔵》league-of-nations-1] Jordan | GH#9218: -resource select 1
+[26.03.2019][04:44:09][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:44:12][🔵》league-of-nations-1] Jif#4310: -trade  <@324525125116362752> pigs
+[26.03.2019][04:44:17][🔵》league-of-nations-1] Jordan | GH#9218: -resource select Spice
+[26.03.2019][04:44:17][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:44:22][🔵》league-of-nations-1] Jordan | GH#9218: -trade
+[26.03.2019][04:44:34][🔵》league-of-nations-1] Jif#4310: -help
+[26.03.2019][04:44:34][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:45:04][🔵》league-of-nations-1] Jif#4310: -resource trade <@324525125116362752>
+[26.03.2019][04:45:18][🔵》league-of-nations-1] Jordan | GH#9218: -resource trade <@401927239828242432>
+[26.03.2019][04:45:25][🔵》league-of-nations-1] Jif#4310: Bruh
+[26.03.2019][04:45:34][🔵》league-of-nations-1] Jordan | GH#9218: -resource trade <@401927239828242432> water
+[26.03.2019][04:45:45][🔵》league-of-nations-1] Jif#4310: -help
+[26.03.2019][04:45:45][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:46:46][🔵》league-of-nations-1] Jif#4310: -buy tech 50 confirm
+[26.03.2019][04:46:46][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:47:42][🔵》league-of-nations-1] Jordan | GH#9218: -bill
+[26.03.2019][04:47:42][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:47:53][🔵》league-of-nations-1] Jordan | GH#9218: -bill pay
+[26.03.2019][04:47:54][🔵》league-of-nations-1] GameHub#0549: <@324525125116362752> just leveled up to level 39!
+[26.03.2019][04:47:54][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:47:56][🔵》league-of-nations-1] Jif#4310: -change name Croock State
+[26.03.2019][04:47:56][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:48:08][🔵》league-of-nations-1] Jif#4310: -tax
+[26.03.2019][04:48:08][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:48:26][🔵》league-of-nations-1] Jif#4310: -tax collect
+[26.03.2019][04:48:27][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:48:30][🔵》league-of-nations-1] Jif#4310: -bill
+[26.03.2019][04:48:31][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:48:47][🔵》league-of-nations-1] Jif#4310: Bye
+[26.03.2019][04:48:56][🔵》league-of-nations-1] Jif#4310: I got to go
+[26.03.2019][04:49:25][🔹》main-lounge] Jif#4310: K
+[26.03.2019][04:49:37][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:49:37][🔸》chat-logs] GameHub#0549: 
+[26.03.2019][04:50:41][🔹》main-lounge] Jif#4310: Bye I got to go
+[26.03.2019][04:51:27][🔹》main-lounge] Jordan | GH#9218: Bye
+[26.03.2019][04:51:54][🔹》main-lounge] Jif#4310: Bye
+[26.03.2019][04:51:54][🔹》main-lounge] GameHub#0549: <@401927239828242432> just leveled up to level 3!
+[26.03.2019][04:51:58][🔹》main-lounge] Jif#4310: Lol
+[26.03.2019][04:52:02][🔹》main-lounge] Jif#4310: !rank
+[26.03.2019][04:52:03][🔹》main-lounge] GameHub#0549: Can't find that command! Please use !help
+[26.03.2019][04:52:03][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:52:37][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:52:42][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:53:18][🔹》main-lounge] Jordan | GH#9218: <#477954966556770311> Last time I'm telling you
+[26.03.2019][04:53:26][🔹》main-lounge] Jif#4310: Ok
+[26.03.2019][04:53:56][🔹》bot-commands] Jif#4310: !work
+[26.03.2019][04:53:56][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:53:56][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
+[26.03.2019][04:54:06][🔹》bot-commands] Jif#4310: !rank
+[26.03.2019][04:54:06][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:54:06][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
