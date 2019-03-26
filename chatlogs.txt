@@ -1713,3 +1713,83 @@ Map {
 [26.03.2019][10:16:40][🔹》main-lounge] I love my sis💞💖💕💗#9153: Hi
 [26.03.2019][12:01:24][🔸》chat-logs] GameHub#0549: 
 [26.03.2019][12:04:59][🔹》bot-commands] Jordan | GH#9218: .
+[26.03.2019][12:12:31][🔹》bot-commands] Jordan | GH#9218: !afk test
+[26.03.2019][12:12:31][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:12:31][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][12:12:31][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][12:12:31][🔸》chat-logs] GameHub#0549: 
+[26.03.2019][12:12:36][🔹》bot-commands] [AFK] Jordan | GH#9218: YES WORKED
+[26.03.2019][12:12:36][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, You are no longer afk!
+[26.03.2019][12:12:36][🔸》chat-logs] GameHub#0549: 
+[26.03.2019][12:12:36][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][12:12:55][🔹》bot-commands] Jordan | GH#9218: /e dance
+[26.03.2019][12:14:27][🔹》main-lounge] Jordan | GH#9218: Hello.
+[26.03.2019][12:15:02][🔹》main-lounge] [AFK] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: am i afk?
+[26.03.2019][12:15:04][🔹》main-lounge] [AFK] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: nope
+[26.03.2019][12:15:13][🔹》main-lounge] Jordan | GH#9218: Why do you have AFK tag?
+[26.03.2019][12:15:40][🔹》main-lounge] Jordan | GH#9218: Change  you're name m8
+[26.03.2019][12:16:05][🔹》bot-commands] Jordan | GH#9218: !bal
+[26.03.2019][12:16:06][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:16:12][🔹》bot-commands] Jordan | GH#9218: !help
+[26.03.2019][12:16:13][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:16:13][🔹》bot-commands] ServerMate#2478: :arrows_counterclockwise: **Sending...**
+[26.03.2019][12:16:13][🔹》bot-commands] GameHub#0549: Check DMs!
+[26.03.2019][12:16:13][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:16:19][🔸》chat-logs] GameHub#0549: 
+[26.03.2019][12:17:01][🔹》bot-commands] Jordan | GH#9218: Anything else we can use in money?
+[26.03.2019][12:17:11][🔹》bot-commands] Jordan | GH#9218: !shop
+[26.03.2019][12:17:11][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][12:17:11][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:17:55][🔹》bot-commands] Jordan | GH#9218: Josh how about you add more stuff like roles, etc. [bj Also pls]
+[26.03.2019][12:18:02][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][12:18:02][🔸》chat-logs] GameHub#0549: 
+[26.03.2019][12:18:05][🔸》chat-logs] GameHub#0549: 
+[26.03.2019][12:18:05][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][12:18:23][🔹》bot-commands] Jordan | GH#9218: In shop for roles
+[26.03.2019][12:18:56][🔹》bot-commands] Jordan | GH#9218: !slot
+[26.03.2019][12:18:56][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, How much do you want to bet?
+[26.03.2019][12:18:56][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:19:02][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][12:19:02][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:19:02][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][12:19:06][🔹》bot-commands] Jordan | GH#9218: !bal
+[26.03.2019][12:19:06][🔹》bot-commands] GameHub#0549: Hey Zakiz! You own 10043677 coins.
+[26.03.2019][12:19:06][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:19:10][🔹》bot-commands] Jordan | GH#9218: look at dat
+[26.03.2019][12:19:23][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][12:19:23][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:19:26][🔹》bot-commands] Jordan | GH#9218: FFFF
+[26.03.2019][12:19:29][🔹》bot-commands] Jordan | GH#9218: !bal
+[26.03.2019][12:19:29][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:19:29][🔹》bot-commands] GameHub#0549: Hey Zakiz! You own 10033677 coins.
+[26.03.2019][12:19:34][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[26.03.2019][12:19:34][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][12:19:34][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:19:37][🔹》bot-commands] Jordan | GH#9218: !slot 100000
+[26.03.2019][12:19:37][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][12:19:37][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:19:40][🔹》bot-commands] Jordan | GH#9218: !bal
+[26.03.2019][12:19:40][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:19:40][🔹》bot-commands] GameHub#0549: Hey Zakiz! You own 10523677 coins.
+[26.03.2019][12:19:42][🔹》bot-commands] Jordan | GH#9218: eh
+[26.03.2019][12:19:54][🔹》bot-commands] Jordan | GH#9218: j112 pls give me 1T
+[26.03.2019][12:19:58][🔹》bot-commands] Jordan | GH#9218: I need monay
+[26.03.2019][12:20:03][🔹》bot-commands] Jordan | GH#9218: !work
+[26.03.2019][12:20:03][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:20:03][🔹》bot-commands] GameHub#0549: Zakiz
+You worked as a ` Nurse ` and earned :money_with_wings: 319
+You now own :money_with_wings: 10523996
+[26.03.2019][12:20:05][🔹》bot-commands] Jordan | GH#9218: !daily
+[26.03.2019][12:20:06][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:20:07][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, You claimed your daily coins succesfully! You now own 10524096 coins.
+[26.03.2019][12:20:31][🔹》bot-commands] Jordan | GH#9218: !bj
+[26.03.2019][12:20:31][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:20:31][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[26.03.2019][12:20:39][🔹》bot-commands] Jordan | GH#9218: !slot 100000
+[26.03.2019][12:20:39][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:20:39][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][12:20:39][🔹》bot-commands] GameHub#0549: <@324525125116362752> just leveled up to level 32!
+[26.03.2019][12:20:44][🔹》bot-commands] Jordan | GH#9218: !bal
+[26.03.2019][12:20:44][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][12:20:44][🔹》bot-commands] GameHub#0549: Hey Zakiz! You own 11024096 coins.
+[26.03.2019][12:20:47][🔹》bot-commands] Jordan | GH#9218: yes
