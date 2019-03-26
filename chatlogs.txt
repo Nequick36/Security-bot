@@ -2414,3 +2414,6 @@ You now own :money_with_wings: 10745
 [26.03.2019][02:38:18][🔹》bot-commands] GameHub#0549: 
 [26.03.2019][02:38:18][🔸》chat-logs] GameHub#0549: 
 [26.03.2019][02:38:18][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][02:53:16][🔹》bot-commands] [AFK] Jordan | GH#9218: !afk writing essay
+[26.03.2019][02:53:16][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][02:53:16][🔹》bot-commands] GameHub#0549: 
