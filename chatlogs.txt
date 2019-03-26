@@ -2973,3 +2973,41 @@ But no worries, over 0d 7h 36m 21s you can use daily again!
 [26.03.2019][04:54:06][🔹》bot-commands] Jif#4310: !rank
 [26.03.2019][04:54:06][🔸》moderation-chat-logs] GameHub#0549: 
 [26.03.2019][04:54:06][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[26.03.2019][04:54:19][🔹development-chat] Josh | GH#4954: <@&493687374002520074> Look at that... someone already has platinum role
+[26.03.2019][04:54:19][🔹development-chat] GameHub#0549: <@!349250638632452096>, You are no longer afk!
+[26.03.2019][04:54:26][🔹》main-lounge] Jif#4310: But bye
+[26.03.2019][04:54:41][🔹development-chat] Josh | GH#4954: Make the work command only be used once a day
+[26.03.2019][04:54:48][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:54:51][🔹development-chat] Josh | GH#4954: 
+[26.03.2019][04:54:51][🔸》chat-logs] GameHub#0549: 
+[26.03.2019][04:55:01][🔸》chat-logs] GameHub#0549: 
+[26.03.2019][04:55:02][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:55:03][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:55:07][🔹development-chat] Seth | GH#7796: The work CMD is broken right now
+[26.03.2019][04:55:16][🔹development-chat] Seth | GH#7796: The cooldown is fucked
+[26.03.2019][04:55:16][🔹development-chat] Josh | GH#4954: Great
+[26.03.2019][04:55:29][🔹development-chat] Seth | GH#7796: You can't even use it
+[26.03.2019][04:55:32][🔹development-chat] Seth | GH#7796: !work
+[26.03.2019][04:55:32][🔹development-chat] GameHub#0549: You need to wait 5 minutes!
+[26.03.2019][04:55:32][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:55:37][🔹development-chat] Josh | GH#4954: Oof
+[26.03.2019][04:55:40][🔵》league-of-nations-1] Jif#4310: <@401927239828242432>
+[26.03.2019][04:55:41][🔹development-chat] Josh | GH#4954: !work
+[26.03.2019][04:55:41][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:55:41][🔹development-chat] GameHub#0549: Joshua
+You worked as a ` Security Guard ` and earned :money_with_wings: 475
+You now own :money_with_wings: 86104
+[26.03.2019][04:55:46][🔹development-chat] Seth | GH#7796: Jordan has had that for a day
+[26.03.2019][04:55:52][🔹development-chat] Josh | GH#4954: O
+[26.03.2019][04:55:57][🔹development-chat] Josh | GH#4954: !afk Tutoring
+[26.03.2019][04:55:57][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:55:57][🔹development-chat] GameHub#0549: 
+[26.03.2019][04:56:05][🔹development-chat] Seth | GH#7796: Tutoring?
+[26.03.2019][04:56:05][🔹development-chat] GameHub#0549: <@366234394479951873> just leveled up to level 93!
+[26.03.2019][04:56:08][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:56:17][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:56:26][🔹development-chat] Seth | GH#7796: Tf
+[26.03.2019][04:56:39][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:57:02][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.03.2019][04:57:07][🔹development-chat] Seth | GH#7796: <@349250638632452096> since when did you tutor
+[26.03.2019][04:57:07][🔹development-chat] GameHub#0549: 
