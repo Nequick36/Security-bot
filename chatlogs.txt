@@ -2711,3 +2711,38 @@ Balance to Jif#4310: 1000000
 [26.03.2019][04:19:21][🔹》bot-commands] GameHub#0549: You have already purchased the platinum role!
 [26.03.2019][04:19:21][🔸》moderation-chat-logs] GameHub#0549: 
 [26.03.2019][04:19:39][🔹》main-lounge] Jordan | GH#9218: Win a giveaway hosted by admin+ or get more active and talk alot!
+[26.03.2019][04:21:55][🔹》main-lounge] Jif#4310: K
+[26.03.2019][04:22:07][🔹》main-lounge] Jif#4310: Can u host a giveaway
+[26.03.2019][04:22:59][🔹》check-your-score] Jif#4310: T!top
+[26.03.2019][04:23:28][🔹》bot-commands] Jif#4310: !shop
+[26.03.2019][04:23:28][🔹》bot-commands] GameHub#0549: 
+[26.03.2019][04:23:28][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:23:38][🔹》bot-commands] Jif#4310: !daily
+[26.03.2019][04:23:38][🔹》bot-commands] GameHub#0549: Sorry, you already claimed your daily coins!
+But no worries, over 0d 7h 36m 21s you can use daily again!
+[26.03.2019][04:23:38][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:23:47][🔹》bot-commands] Jif#4310: K
+[26.03.2019][04:23:55][🔹》bot-commands] Jif#4310: !work
+[26.03.2019][04:23:55][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
+[26.03.2019][04:23:55][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:24:08][🔹》bot-commands] Jif#4310: Its been 5 minutes
+[26.03.2019][04:27:07][🔹》bot-commands] Jif#4310: !work
+[26.03.2019][04:27:07][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
+[26.03.2019][04:27:07][🔸》moderation-chat-logs] GameHub#0549: 
+[26.03.2019][04:27:37][🔹》shit-posting] Jif#4310: ?whois
+[26.03.2019][04:27:37][🔹》shit-posting] Administrative Message#3861: 
+[26.03.2019][04:30:24][🔹》bot-commands] Jif#4310: K
+[26.03.2019][04:30:54][🔵》league-of-nations-1] Jif#4310: -change name
+[26.03.2019][04:30:54][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:31:26][🔵》league-of-nations-1] Jif#4310: -change name Houston
+[26.03.2019][04:31:27][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:31:30][🔹》main-lounge] Jordan | GH#9218: No.
+[26.03.2019][04:31:31][🔹》main-lounge] Jordan | GH#9218: Admin_
+[26.03.2019][04:31:33][🔹》shit-posting] Jordan | GH#9218: <#477954966556770311>
+[26.03.2019][04:31:36][🔹》bot-commands] Jordan | GH#9218: It's a bug.
+[26.03.2019][04:31:43][🔵》league-of-nations-1] Jif#4310: -change name Texas
+[26.03.2019][04:31:44][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:31:51][🔵》league-of-nations-1] Jordan | GH#9218: -start
+[26.03.2019][04:31:51][🔵》league-of-nations-1] League Of Nations#6458: 
+[26.03.2019][04:32:01][🔵》league-of-nations-1] Jordan | GH#9218: -start zakiz
+[26.03.2019][04:32:01][🔵》league-of-nations-1] League Of Nations#6458: 
