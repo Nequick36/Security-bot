@@ -3193,3 +3193,11 @@ You now own :money_with_wings: 474
 [27.03.2019][12:16:06][🔹》main-lounge] Jif#4310: Hey
 [27.03.2019][12:17:16][🔹》bot-commands] Jif#4310: ?whois
 [27.03.2019][12:17:17][🔹》bot-commands] Administrative Message#3861: 
+[27.03.2019][12:29:49][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][12:29:49][🔸》welcome] GameHub#0549: Welcome <@446564753226072065> to this server.
+[27.03.2019][12:29:49][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][12:29:50][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][12:29:50][🔸》join-leave-logs] InviteManager#3907: <@446564753226072065> **joined**; Invited by **Seth | GH** (**43** invites)
+[27.03.2019][12:30:31][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][12:30:31][🔸》welcome] GameHub#0549: apoc#0286 has left the server.
+[27.03.2019][12:30:31][🔸》join-leave-logs] InviteManager#3907: apoc **left**; Invited by **Seth | GH**
