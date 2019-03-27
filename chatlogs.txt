@@ -3278,3 +3278,11 @@ You now own :money_with_wings: 10403
 [27.03.2019][12:13:09][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !work
 [27.03.2019][12:13:09][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
 [27.03.2019][12:13:09][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:25:28][🔸》welcome] GameHub#0549: Welcome <@466258971775336448> to this server.
+[27.03.2019][01:25:28][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:25:28][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][01:25:28][🔸》join-leave-logs] InviteManager#3907: <@466258971775336448> **joined**; Invited by **Seth | GH** (**43** invites)
+[27.03.2019][01:25:29][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][01:26:01][🔸》welcome] GameHub#0549: Jäger Braun#6005 has left the server.
+[27.03.2019][01:26:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][01:26:02][🔸》join-leave-logs] InviteManager#3907: Jäger Braun **left**; Invited by **Seth | GH**
