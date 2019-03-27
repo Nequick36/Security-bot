@@ -3256,3 +3256,25 @@ You now own :money_with_wings: 2141488576
 [27.03.2019][12:06:39][🔹》bot-commands] Jordan | GH#9218: !daily
 [27.03.2019][12:06:39][🔸》moderation-chat-logs] GameHub#0549: 
 [27.03.2019][12:06:39][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, You claimed your daily coins succesfully! You now own 2141488676 coins.
+[27.03.2019][12:11:07][🔵》league-of-nations-1] Jordan | GH#9218: -daily
+[27.03.2019][12:11:13][🔵》league-of-nations-1] Jordan | GH#9218: -help
+[27.03.2019][12:11:13][🔵》league-of-nations-1] League Of Nations#6458: 
+[27.03.2019][12:11:14][🔵》league-of-nations-1] Jordan | GH#9218: -tax
+[27.03.2019][12:11:14][🔵》league-of-nations-1] League Of Nations#6458: 
+[27.03.2019][12:11:22][🔵》league-of-nations-1] Jordan | GH#9218: -tax collect
+[27.03.2019][12:11:23][🔵》league-of-nations-1] League Of Nations#6458: 
+[27.03.2019][12:11:30][🔵》league-of-nations-1] Jordan | GH#9218: -bill
+[27.03.2019][12:11:30][🔵》league-of-nations-1] League Of Nations#6458: 
+[27.03.2019][12:11:35][🔵》league-of-nations-1] Jordan | GH#9218: -bill pay
+[27.03.2019][12:11:35][🔵》league-of-nations-1] League Of Nations#6458: 
+[27.03.2019][12:12:29][🔵》league-of-nations-1] Jordan | GH#9218: -improvment me
+[27.03.2019][12:12:32][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][12:12:32][🔸》chat-logs] GameHub#0549: 
+[27.03.2019][12:13:06][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !work
+[27.03.2019][12:13:06][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][12:13:07][🔹》bot-commands] GameHub#0549: ${j122}
+You worked as a ` Cleaner ` and earned :money_with_wings: 99
+You now own :money_with_wings: 10403
+[27.03.2019][12:13:09][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !work
+[27.03.2019][12:13:09][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
+[27.03.2019][12:13:09][🔸》moderation-chat-logs] GameHub#0549: 
