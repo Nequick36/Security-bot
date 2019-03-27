@@ -3660,3 +3660,9 @@ We are currently looking for people to partner up with, so if you have 50+ membe
 [27.03.2019][07:51:20][🔸》moderation-chat-logs] Administrative Message#3861: 
 [27.03.2019][07:51:20][🔸》join-leave-logs] InviteManager#3907: <@538791565167034378> joined the server using a temporary or vanity invite, so I can't figure out who invited them.
 [27.03.2019][07:51:33][⚫》partner-names] ACE | GH#8942: Server-Weeaboo warriors
+[27.03.2019][07:52:07][⚫》staff-chat] ACE | GH#8942: Partner done
+[27.03.2019][07:52:18][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][07:52:19][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][07:59:32][🔸》welcome] GameHub#0549: the gamer#2757 has left the server.
+[27.03.2019][07:59:32][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][07:59:32][🔸》join-leave-logs] InviteManager#3907: the gamer **left**; Invited by **Unknown**
