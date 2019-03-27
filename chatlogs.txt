@@ -3609,3 +3609,11 @@ You now own :money_with_wings: 86442
 [27.03.2019][06:21:19][🔸》moderation-chat-logs] GameHub#0549: 
 [27.03.2019][06:21:19][🔸》chat-logs] GameHub#0549: 
 [27.03.2019][06:21:19][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][07:39:14][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][07:39:14][🔸》welcome] GameHub#0549: Welcome <@231554394238353409> to this server.
+[27.03.2019][07:39:14][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][07:39:14][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][07:39:14][🔸》join-leave-logs] InviteManager#3907: <@231554394238353409> joined the server using a temporary or vanity invite, so I can't figure out who invited them.
+[27.03.2019][07:39:24][🔹》main-lounge] FrozenStreams_Youtube#3113: yo
+[27.03.2019][07:40:27][🔸》chat-logs] GameHub#0549: 
+[27.03.2019][07:40:37][🔹》main-lounge] Seth | GH#7796: Hey
