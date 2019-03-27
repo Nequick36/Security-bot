@@ -3534,3 +3534,35 @@ You now own :money_with_wings: 2141488905
 [27.03.2019][04:22:44][🔸》chat-logs] GameHub#0549: 
 [27.03.2019][04:46:22][🔹》bot-commands] Seth | GH#7796: Thought so
 [27.03.2019][05:02:46][🔹》main-lounge] Jordan | GH#9218: bored af
+[27.03.2019][05:18:22][🔹》bot-commands] Josh | GH#4954: oof
+[27.03.2019][05:18:28][🔹》bot-commands] Josh | GH#4954: !lvllb
+[27.03.2019][05:18:28][🔹》bot-commands] GameHub#0549: My leaderboard:
+ 
+1 - Joshua#4954 | level 100 | 164 xp
+2 - Seth#7796 | level 93 | 86 xp
+3 - ${j122}#9847 | level 85 | 108 xp
+4 - ~ Karma😜#1542 | level 42 | 1 xp
+5 - Zakiz#9218 | level 39 | 108 xp
+6 - sheg#1726 | level 35 | 25 xp
+7 - AL€X3411#9775 | level 23 | 151 xp
+8 - MySwordingThrowbacks#9776 | level 21 | 164 xp
+9 - ACE#8942 | level 13 | 97 xp
+10 - DavidB#5793 | level 10 | 181 xp
+[27.03.2019][05:18:28][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][05:20:45][🔹》bot-commands] Seth | GH#7796: !work
+[27.03.2019][05:20:45][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][05:20:46][🔹》bot-commands] GameHub#0549: Seth
+You worked as a ` Dancer ` and earned :money_with_wings: 321
+You now own :money_with_wings: 2484
+[27.03.2019][05:21:59][🔹》bot-commands] Seth | GH#7796: !work
+[27.03.2019][05:21:59][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
+[27.03.2019][05:21:59][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][05:22:55][🔸》announcements] Seth | GH#7796: Last day to apply guys, make sure you don't miss out!
+[27.03.2019][05:24:21][🔹》bot-commands] CameronT05092002#4064: !work
+[27.03.2019][05:24:21][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][05:24:21][🔹》bot-commands] GameHub#0549: CameronT05092002
+You worked as a ` Cashier ` and earned :money_with_wings: 487
+You now own :money_with_wings: 487
+[27.03.2019][05:28:53][🔹》bot-commands] Seth | GH#7796: !work
+[27.03.2019][05:28:54][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
+[27.03.2019][05:28:54][🔸》moderation-chat-logs] GameHub#0549: 
