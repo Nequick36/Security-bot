@@ -3674,3 +3674,18 @@ We are currently looking for people to partner up with, so if you have 50+ membe
 [27.03.2019][08:20:15][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
 [27.03.2019][08:21:39][🔹》main-lounge] The Wоlf#8999: <@231554394238353409> hey
 [27.03.2019][08:21:44][🔹》main-lounge] The Wоlf#8999: remember me?
+[27.03.2019][08:26:55][🔹》main-lounge] FrozenStreams_Youtube#3113: yep
+[27.03.2019][08:26:58][🔹》main-lounge] FrozenStreams_Youtube#3113: wassup wolf
+[27.03.2019][08:27:36][🔹》bot-commands] FrozenStreams_Youtube#3113: !work
+[27.03.2019][08:27:36][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][08:27:36][🔹》bot-commands] GameHub#0549: FrozenStreams_Youtube
+You worked as a ` Accountants ` and earned :money_with_wings: 251
+You now own :money_with_wings: 251
+[27.03.2019][08:27:42][🔹》bot-commands] FrozenStreams_Youtube#3113: !jobs
+[27.03.2019][08:27:42][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][08:27:42][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[27.03.2019][08:27:45][🔹》bot-commands] FrozenStreams_Youtube#3113: !job
+[27.03.2019][08:27:45][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[27.03.2019][08:27:45][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][08:28:09][🔹》bot-commands] Josh | GH#4954: The jobs are random xD
+[27.03.2019][08:33:35][🔸》chat-logs] GameHub#0549: 
