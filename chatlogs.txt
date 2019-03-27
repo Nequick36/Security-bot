@@ -3201,3 +3201,45 @@ You now own :money_with_wings: 474
 [27.03.2019][12:30:31][🔸》moderation-chat-logs] Administrative Message#3861: 
 [27.03.2019][12:30:31][🔸》welcome] GameHub#0549: apoc#0286 has left the server.
 [27.03.2019][12:30:31][🔸》join-leave-logs] InviteManager#3907: apoc **left**; Invited by **Seth | GH**
+[27.03.2019][01:05:46][🔹》bot-commands] Jif#4310: !work
+[27.03.2019][01:05:47][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
+[27.03.2019][01:05:47][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:05:56][🔹》bot-commands] Jif#4310: !dailt
+[27.03.2019][01:05:56][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[27.03.2019][01:05:56][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:06:00][🔹》bot-commands] Jif#4310: !daily
+[27.03.2019][01:06:00][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:06:00][🔹》bot-commands] GameHub#0549: Sorry, you already claimed your daily coins!
+But no worries, over 0d 22h 53m 59s you can use daily again!
+[27.03.2019][01:06:12][🔹》bot-commands] Jif#4310: !bal
+[27.03.2019][01:06:12][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:06:12][🔹》bot-commands] GameHub#0549: Hey Jif! You own 474 coins.
+[27.03.2019][01:06:25][🔹》bot-commands] Jif#4310: !slot 100
+[27.03.2019][01:06:25][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:06:25][🔹》bot-commands] GameHub#0549: 
+[27.03.2019][01:06:32][🔹》bot-commands] Jif#4310: !slot 100
+[27.03.2019][01:06:32][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:06:32][🔹》bot-commands] GameHub#0549: 
+[27.03.2019][01:06:37][🔹》bot-commands] Jif#4310: !slit 100
+[27.03.2019][01:06:37][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[27.03.2019][01:06:37][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:06:43][🔹》bot-commands] Jif#4310: !slot 100
+[27.03.2019][01:06:43][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:06:43][🔹》bot-commands] GameHub#0549: 
+[27.03.2019][01:06:50][🔹》bot-commands] Jif#4310: !slot 100
+[27.03.2019][01:06:50][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:06:59][🔹》bot-commands] Jif#4310: !slot 100
+[27.03.2019][01:06:59][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:06:59][🔹》bot-commands] GameHub#0549: <@401927239828242432>, You don't have that much money!
+[27.03.2019][01:07:05][🔹》bot-commands] Jif#4310: !bal
+[27.03.2019][01:07:05][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:07:05][🔹》bot-commands] GameHub#0549: Hey Jif! You own 74 coins.
+[27.03.2019][01:07:12][🔹》bot-commands] Jif#4310: !slit 50
+[27.03.2019][01:07:12][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:07:13][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[27.03.2019][01:07:17][🔹》bot-commands] Jif#4310: !slit 50
+[27.03.2019][01:07:18][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[27.03.2019][01:07:18][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][01:07:27][🔹》bot-commands] Jif#4310: !slot 50
+[27.03.2019][01:07:27][🔹》bot-commands] GameHub#0549: 
+[27.03.2019][01:07:27][🔸》moderation-chat-logs] GameHub#0549: 
