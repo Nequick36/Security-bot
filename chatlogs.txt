@@ -3587,3 +3587,8 @@ You now own :money_with_wings: 86442
 [27.03.2019][05:42:54][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
 [27.03.2019][05:43:31][🔹》bot-commands] Seth | GH#7796: About a day I'd say
 [27.03.2019][05:43:39][🔹》bot-commands] Seth | GH#7796: I'm not sure about the actual time
+[27.03.2019][05:47:51][🔹》bot-commands] Jordan | GH#9218: !work
+[27.03.2019][05:47:52][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][05:47:52][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
+[27.03.2019][05:48:09][🔹》bot-commands] Jordan | GH#9218: It been an hour
+[27.03.2019][05:48:31][🔹》bot-commands] Jordan | GH#9218: Is it 5 mins or 5 hours?
