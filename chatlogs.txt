@@ -3169,3 +3169,27 @@ But no worries, over 0d 2h 6m 48s you can use daily again!
 [27.03.2019][12:14:04][🔸》moderation-chat-logs] GameHub#0549: 
 [27.03.2019][12:14:04][🔹》bot-commands] GameHub#0549: 
 [27.03.2019][12:14:04][🔹》bot-commands] GameHub#0549: <@401927239828242432> just leveled up to level 4!
+[27.03.2019][12:14:09][🔹》bot-commands] Jif#4310: !bal
+[27.03.2019][12:14:09][🔹》bot-commands] GameHub#0549: Hey Jif! You own 0 coins.
+[27.03.2019][12:14:09][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][12:14:11][🔹》bot-commands] Jif#4310: Lmao
+[27.03.2019][12:14:21][🔹》bot-commands] Jif#4310: !work
+[27.03.2019][12:14:21][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][12:14:22][🔹》bot-commands] GameHub#0549: Jif
+You worked as a ` Cashier ` and earned :money_with_wings: 474
+You now own :money_with_wings: 474
+[27.03.2019][12:14:28][🔹》bot-commands] Jif#4310: !crime
+[27.03.2019][12:14:28][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][12:14:28][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[27.03.2019][12:14:35][🔹》bot-commands] Jif#4310: !slut
+[27.03.2019][12:14:35][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][12:14:35][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[27.03.2019][12:14:43][🔹》bot-commands] Jif#4310: !help
+[27.03.2019][12:14:43][🔹》bot-commands] GameHub#0549: Check DMs!
+[27.03.2019][12:14:43][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][12:14:44][🔹》bot-commands] ServerMate#2478: :arrows_counterclockwise: **Sending...**
+[27.03.2019][12:14:44][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][12:14:50][🔸》chat-logs] GameHub#0549: 
+[27.03.2019][12:16:06][🔹》main-lounge] Jif#4310: Hey
+[27.03.2019][12:17:16][🔹》bot-commands] Jif#4310: ?whois
+[27.03.2019][12:17:17][🔹》bot-commands] Administrative Message#3861: 
