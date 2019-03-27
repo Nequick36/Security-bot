@@ -3690,3 +3690,20 @@ You now own :money_with_wings: 251
 [27.03.2019][08:28:09][🔹》bot-commands] Josh | GH#4954: The jobs are random xD
 [27.03.2019][08:33:35][🔸》chat-logs] GameHub#0549: 
 [27.03.2019][11:13:00][🔸》chat-logs] GameHub#0549: 
+[27.03.2019][11:23:30][🔹》bot-commands] Seth | GH#7796: !afk sleeping
+[27.03.2019][11:23:30][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][11:23:30][🔹》bot-commands] GameHub#0549: 
+[27.03.2019][11:23:30][🔸》chat-logs] GameHub#0549: 
+[27.03.2019][11:23:30][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][11:26:16][🔹development-chat] [AFK] Seth | GH#7796: !setstatus WATCHING For commands do !help
+[27.03.2019][11:26:17][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][11:26:17][🔹development-chat] GameHub#0549: <@!366234394479951873>, You are no longer afk!
+[27.03.2019][11:26:17][🔸》chat-logs] GameHub#0549: 
+[27.03.2019][11:26:17][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][11:26:39][🔹development-chat] Seth | GH#7796: !work
+[27.03.2019][11:26:40][🔹development-chat] GameHub#0549: You need to wait 5 minutes!
+[27.03.2019][11:26:39][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][11:26:50][🔹development-chat] Seth | GH#7796: !afk sleeping
+[27.03.2019][11:26:50][🔹development-chat] GameHub#0549: 
+[27.03.2019][11:26:50][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.03.2019][11:26:50][🔸》chat-logs] GameHub#0549: 
