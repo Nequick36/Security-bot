@@ -3566,3 +3566,24 @@ You now own :money_with_wings: 487
 [27.03.2019][05:28:53][🔹》bot-commands] Seth | GH#7796: !work
 [27.03.2019][05:28:54][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
 [27.03.2019][05:28:54][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][05:35:01][🔹》bot-commands] CameronT05092002#4064: !work
+[27.03.2019][05:35:01][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][05:35:01][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
+[27.03.2019][05:35:08][🔹》bot-commands] CameronT05092002#4064: ?_?
+[27.03.2019][05:40:28][🔹》bot-commands] Josh | GH#4954: its a cooldown xd
+[27.03.2019][05:40:44][🔹》bot-commands] Josh | GH#4954: <@!366234394479951873> make the cooldown for a day
+[27.03.2019][05:40:58][🔹》bot-commands] Seth | GH#7796: It's already a day
+[27.03.2019][05:41:55][🔹》bot-commands] Josh | GH#4954: Then why does it say 5 min
+[27.03.2019][05:42:17][🔹》bot-commands] Seth | GH#7796: Because it was intended to 5 minutes but cool down is broken so it's a day
+[27.03.2019][05:42:39][🔹》bot-commands] Josh | GH#4954: Well change the words
+[27.03.2019][05:42:40][🔹》bot-commands] GameHub#0549: <@349250638632452096> just leveled up to level 101!
+[27.03.2019][05:42:51][🔹》bot-commands] Josh | GH#4954: !work
+[27.03.2019][05:42:51][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][05:42:51][🔹》bot-commands] GameHub#0549: Joshua
+You worked as a ` Dishwasher ` and earned :money_with_wings: 338
+You now own :money_with_wings: 86442
+[27.03.2019][05:42:54][🔹》bot-commands] Josh | GH#4954: !work
+[27.03.2019][05:42:54][🔸》moderation-chat-logs] GameHub#0549: 
+[27.03.2019][05:42:54][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
+[27.03.2019][05:43:31][🔹》bot-commands] Seth | GH#7796: About a day I'd say
+[27.03.2019][05:43:39][🔹》bot-commands] Seth | GH#7796: I'm not sure about the actual time
