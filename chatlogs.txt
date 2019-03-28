@@ -4003,3 +4003,5 @@ But no worries, over 0d 9h 13m 49s you can use daily again!
 [28.03.2019][02:47:04][⚫》staff-bot-commands] Jordan | GH#9218: Why the Rainbow role is broken?
 [28.03.2019][02:56:01][🔸》moderation] Administrative Message#3861: 
 [28.03.2019][02:56:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][03:18:59][🔷》office-of-josh] Seth | GH#7796: Oh shit we need to choose another person
+[28.03.2019][03:19:25][🔷》office-of-josh] Seth | GH#7796: <@&485522743823958027> who else should be mod?
