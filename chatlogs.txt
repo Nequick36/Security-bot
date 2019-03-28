@@ -4084,3 +4084,4 @@ You now own :money_with_wings: 690
 [28.03.2019][06:24:44][🔵》league-of-nations-1] CameronT05092002#4064: !deposit
 [28.03.2019][06:24:44][🔸》moderation-chat-logs] GameHub#0549: 
 [28.03.2019][06:24:44][🔵》league-of-nations-1] GameHub#0549: Can't find that command! Please use !help
+[28.03.2019][07:45:25][🔸》chat-logs] GameHub#0549: 
