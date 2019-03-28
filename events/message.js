@@ -39,7 +39,7 @@ exports.run = async (bot, message) => {
   
   
   //xp system
-  if(message.author.bot) return
+  if(message.author.bot) return;
   let randomXp = Math.floor(Math.random() * 10)
   let userID = message.author.id
   let Reset = 0
