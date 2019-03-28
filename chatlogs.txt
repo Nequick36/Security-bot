@@ -4124,3 +4124,5 @@ I hope these new mods will make a great addition to the staff team as well as th
 [28.03.2019][08:41:41][🔹》bot-commands] GameHub#0549: 
 [28.03.2019][08:41:42][🔸》chat-logs] GameHub#0549: 
 [28.03.2019][08:45:34][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][08:46:59][🔸》chat-logs] GameHub#0549: 
+[28.03.2019][08:53:35][🔸》chat-logs] GameHub#0549: 
