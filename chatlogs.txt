@@ -3898,3 +3898,106 @@ You now own :money_with_wings: 251
 [28.03.2019][12:34:23][🔸》moderation-chat-logs] Administrative Message#3861: 
 [28.03.2019][12:36:46][🔸》gta-v-chat] Jordan | GH#9218: I have gta v on PS4 but it won't download with a stupid error
 [28.03.2019][02:22:40][🔸》chat-logs] GameHub#0549: 
+[28.03.2019][02:43:50][🔹》bot-commands] Jordan | GH#9218: !ticket test
+[28.03.2019][02:43:50][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:43:57][🔹》bot-commands] Jordan | GH#9218: !help
+[28.03.2019][02:43:57][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:43:57][🔹》bot-commands] GameHub#0549: Check DMs!
+[28.03.2019][02:43:57][🔹》bot-commands] ServerMate#2478: :arrows_counterclockwise: **Sending...**
+[28.03.2019][02:43:57][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:43:58][🔹》bot-commands] Jordan | GH#9218: !work
+[28.03.2019][02:43:58][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:43:59][🔹》bot-commands] GameHub#0549: Zakiz
+You worked as a ` Teacher ` and earned :money_with_wings: 486
+You now own :money_with_wings: 2141489763
+[28.03.2019][02:44:05][🔸》chat-logs] GameHub#0549: 
+[28.03.2019][02:44:18][🔹》bot-commands] Jordan | GH#9218: !ticket new
+[28.03.2019][02:44:19][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:44:19][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][02:44:19][ticket-324525125116362752] GameHub#0549: Hello, <@324525125116362752>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[28.03.2019][02:44:32][ticket-324525125116362752] Jordan | GH#9218: !ticket close
+[28.03.2019][02:44:33][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:44:33][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][02:44:33][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:44:55][⚫》staff-bot-commands] Jordan | GH#9218: !warn <@!324525125116362752> Just 4 test m8
+[28.03.2019][02:44:55][⚫》staff-bot-commands] GameHub#0549: ** ✅ Zakiz#9218 has been warned  **
+[28.03.2019][02:44:55][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:44:55][⚫》warn-logs] GameHub#0549: 
+[28.03.2019][02:44:55][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][02:44:55][🔸》chat-logs] GameHub#0549: 
+[28.03.2019][02:45:10][⚫》staff-bot-commands] Jordan | GH#9218: !resetwarns <@!324525125116362752>
+[28.03.2019][02:45:10][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:45:10][⚫》staff-bot-commands] GameHub#0549: 
+[28.03.2019][02:45:16][⚫》staff-bot-commands] Jordan | GH#9218: !mute <@!324525125116362752> 5h Just 4 test m8
+[28.03.2019][02:45:17][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:45:17][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][02:45:17][🔸》moderation] GameHub#0549: 
+[28.03.2019][02:45:17][⚫》staff-bot-commands] GameHub#0549: <@!324525125116362752>, <@324525125116362752> has been muted for 5h
+[28.03.2019][02:45:30][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][02:45:32][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][02:45:53][⚫》staff-bot-commands] Jordan | GH#9218: !unmute <@!324525125116362752>
+[28.03.2019][02:45:53][🔸》moderation] GameHub#0549: 
+[28.03.2019][02:45:53][⚫》staff-bot-commands] GameHub#0549: <@!324525125116362752>, <@!324525125116362752> has been unmuted!
+[28.03.2019][02:45:53][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][02:45:53][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:10][🔹》bot-commands] Jordan | GH#9218: !daily
+[28.03.2019][02:46:10][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:10][🔹》bot-commands] GameHub#0549: Sorry, you already claimed your daily coins!
+But no worries, over 0d 9h 13m 49s you can use daily again!
+[28.03.2019][02:46:12][🔹》bot-commands] Jordan | GH#9218: !slot 10
+[28.03.2019][02:46:12][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:12][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:15][🔹》bot-commands] Jordan | GH#9218: !slot 1000
+[28.03.2019][02:46:15][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:15][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:16][🔹》bot-commands] Jordan | GH#9218: !slot 1000
+[28.03.2019][02:46:16][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:16][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:16][🔹》bot-commands] Jordan | GH#9218: !slot 1000
+[28.03.2019][02:46:16][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:16][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:17][🔹》bot-commands] Jordan | GH#9218: !slot 1000
+[28.03.2019][02:46:17][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:17][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:18][🔹》bot-commands] Jordan | GH#9218: !slot 1000
+[28.03.2019][02:46:18][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][02:46:18][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:18][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:19][🔹》bot-commands] Jordan | GH#9218: !slot 1000
+[28.03.2019][02:46:20][🔹》bot-commands] Jordan | GH#9218: !slot 1000
+[28.03.2019][02:46:21][🔹》bot-commands] Jordan | GH#9218: !slot 1000
+[28.03.2019][02:46:22][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:22][🔹》bot-commands] Jordan | GH#9218: !slot 1000
+[28.03.2019][02:46:22][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:22][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:22][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:22][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:22][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:22][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:22][🔹》bot-commands] Jordan | GH#9218: !slot 1000
+[28.03.2019][02:46:22][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:22][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:22][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][02:46:22][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:26][🔹》bot-commands] Jordan | GH#9218: !bal
+[28.03.2019][02:46:29][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:29][🔹》bot-commands] GameHub#0549: Hey Zakiz! You own 2141491753 coins.
+[28.03.2019][02:46:34][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[28.03.2019][02:46:34][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:34][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:35][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[28.03.2019][02:46:35][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:35][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:35][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[28.03.2019][02:46:35][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:35][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:35][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[28.03.2019][02:46:36][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:36][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:36][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[28.03.2019][02:46:36][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][02:46:36][🔸》moderation-chat-logs] GameHub#0549: 
+[28.03.2019][02:46:36][🔹》bot-commands] GameHub#0549: 
+[28.03.2019][02:46:36][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][02:46:36][🔸》moderation-chat-logs] Administrative Message#3861: 
+[28.03.2019][02:47:04][⚫》staff-bot-commands] Jordan | GH#9218: Why the Rainbow role is broken?
