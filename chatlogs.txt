@@ -4215,3 +4215,31 @@ You now own :money_with_wings: 813
 [29.03.2019][08:16:47][🔶》training-session] ACE | GH#8942: Ofc
 [29.03.2019][08:17:02][🔶》training-session] ACE | GH#8942: <@322437490428346369>
 [29.03.2019][08:17:11][🔶》training-session] ACE | GH#8942: <:GWnekomakiSmolmiku:395628357414551574>
+[29.03.2019][08:18:47][🔶》training-session] Karma is a Bitch | GH#1542: Alright so, give me examples of situations where a mod would act in general chat
+[29.03.2019][08:20:32][🔹》main-lounge] GamesOnly#4197: Jesus
+[29.03.2019][08:20:41][🔹》main-lounge] GamesOnly#4197: Can I raid the server tho?
+[29.03.2019][08:22:24][🔶》training-session] ACE | GH#8942: Well I tend to act in drama
+[29.03.2019][08:22:29][🔶》training-session] Karma is a Bitch | GH#1542: Say if someone came into the server and started spam pinging? Dor example?
+[29.03.2019][08:22:33][🔶》training-session] ACE | GH#8942: No where else
+[29.03.2019][08:22:37][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.03.2019][08:22:37][🔸》chat-logs] GameHub#0549: 
+[29.03.2019][08:22:42][🔸》chat-logs] GameHub#0549: 
+[29.03.2019][08:22:42][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.03.2019][08:22:45][🔶》training-session] ACE | GH#8942: Hey man
+[29.03.2019][08:22:50][🔶》training-session] ACE | GH#8942: Welcome to the club
+[29.03.2019][08:22:59][🔶》training-session] Karma is a Bitch | GH#1542: No
+[29.03.2019][08:23:30][🔶》training-session] ACE | GH#8942: Ik
+[29.03.2019][08:23:44][🔶》training-session] ACE | GH#8942: @User, stop.
+[29.03.2019][08:24:17][🔶》training-session] Karma is a Bitch | GH#1542: If someone starts spam pinging you verbally warn once if continued  immediately mute or kick and inform me or one of the owners
+[29.03.2019][08:24:39][🔸》chat-logs] GameHub#0549: 
+[29.03.2019][08:25:59][🔶》training-session] ACE | GH#8942: Yee
+[29.03.2019][08:26:18][🔶》training-session] Karma is a Bitch | GH#1542: Show me how you mute someone
+[29.03.2019][08:27:30][🔶》training-session] ACE | GH#8942: !mute  <@322437490428346369>
+[29.03.2019][08:27:30][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][08:27:30][🔶》training-session] GameHub#0549: <@!471400155904475158>, 🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**
+[29.03.2019][08:28:12][🔶》training-session] Karma is a Bitch | GH#1542: How do you earn?
+[29.03.2019][08:28:19][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.03.2019][08:28:19][🔸》chat-logs] GameHub#0549: 
+[29.03.2019][08:28:46][🔶》training-session] ACE | GH#8942: !warn  <@322437490428346369>
+[29.03.2019][08:28:46][🔶》training-session] GameHub#0549: 🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**
+[29.03.2019][08:28:46][🔸》moderation-chat-logs] GameHub#0549: 
