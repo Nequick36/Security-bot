@@ -4275,3 +4275,6 @@ You now own :money_with_wings: 813
 [29.03.2019][08:37:20][🔹》main-lounge] ACE | GH#8942: You should know me by now
 [29.03.2019][08:37:26][🔹》main-lounge] ACE | GH#8942: YOU'RE ON MY STAFF TEAM
 [29.03.2019][09:32:54][🔸》chat-logs] GameHub#0549: 
+[29.03.2019][11:27:47][🔸》welcome] GameHub#0549: Mystery Flavored Ice Cream#3113 has left the server.
+[29.03.2019][11:27:47][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.03.2019][11:27:48][🔸》join-leave-logs] InviteManager#3907: Mystery Flavored Ice Cream **left**; Invited by **Unknown**
