@@ -4161,3 +4161,7 @@ You now own :money_with_wings: 813
 [29.03.2019][07:32:25][🔹development-chat] GameHub#0549: <@!366234394479951873>, You are no longer afk!
 [29.03.2019][07:32:25][🔸》moderation-chat-logs] Administrative Message#3861: 
 [29.03.2019][07:32:25][🔸》chat-logs] GameHub#0549: 
+[29.03.2019][07:43:01][🔸》partners] ACE | GH#8942: @everyone https://discord.gg/x2MEayP
+[29.03.2019][07:43:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.03.2019][07:43:48][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.03.2019][07:43:48][🔸》chat-logs] GameHub#0549: 
