@@ -4386,3 +4386,30 @@ Format: DD:MM:YYYY
 [29.03.2019][07:59:09][🔹》bot-commands] Seth | GH#7796: !serverinfo
 [29.03.2019][07:59:10][🔹》bot-commands] GameHub#0549: 
 [29.03.2019][07:59:10][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][08:54:22][🔹》memes] AL€X3411#9775: <@338021233708761090> do bots commands on <#477954966556770311>
+[29.03.2019][08:54:30][🔹》memes] AL€X3411#9775: Thanks
+[29.03.2019][08:55:21][🔹》bot-commands] CameronT05092002#4064: !commands
+[29.03.2019][08:55:21][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[29.03.2019][08:55:21][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][08:55:24][🔹》bot-commands] CameronT05092002#4064: !help
+[29.03.2019][08:55:24][🔹》bot-commands] ServerMate#2478: :arrows_counterclockwise: **Sending...**
+[29.03.2019][08:55:24][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][08:55:24][🔹》bot-commands] GameHub#0549: Check DMs!
+[29.03.2019][08:55:24][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][08:55:31][🔸》chat-logs] GameHub#0549: 
+[29.03.2019][08:56:21][🔹》bot-commands] CameronT05092002#4064: !work
+[29.03.2019][08:56:21][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][08:56:21][🔹》bot-commands] GameHub#0549: CameronT05092002
+You worked as a ` Dishwasher ` and earned :money_with_wings: 143
+You now own :money_with_wings: 1273
+[29.03.2019][08:56:24][🔹》bot-commands] CameronT05092002#4064: :D
+[29.03.2019][08:56:36][🔹》bot-commands] AL€X3411#9775: !work
+[29.03.2019][08:56:36][🔹》bot-commands] GameHub#0549: <@471447002207617024>, Aww, you did not do your job well so you earned nothing!
+[29.03.2019][08:56:36][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][08:56:45][🔹》bot-commands] AL€X3411#9775: noooooo
+[29.03.2019][08:56:53][🔹》bot-commands] AL€X3411#9775: !shop
+[29.03.2019][08:56:53][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][08:56:53][🔹》bot-commands] GameHub#0549: 
+[29.03.2019][08:56:57][🔹》bot-commands] AL€X3411#9775: !bal
+[29.03.2019][08:56:57][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][08:56:57][🔹》bot-commands] GameHub#0549: Hey AL€X3411! You own 913 coins.
