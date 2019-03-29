@@ -4338,3 +4338,6 @@ You now own :money_with_wings: 1130
 [29.03.2019][05:52:41][🔹》bot-commands] GameHub#0549: Seth
 You worked as a ` Nurse ` and earned :money_with_wings: 15
 You now own :money_with_wings: 3032
+[29.03.2019][06:29:44][🔹》bot-commands] Seth | GH#7796: !work
+[29.03.2019][06:29:44][🔹》bot-commands] GameHub#0549: You need to wait 5 minutes!
+[29.03.2019][06:29:44][🔸》moderation-chat-logs] GameHub#0549: 
