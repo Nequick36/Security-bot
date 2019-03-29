@@ -4300,3 +4300,6 @@ You now own :money_with_wings: 2141502255
 [29.03.2019][01:27:16][🔹》bot-commands] GameHub#0549: 
 [29.03.2019][01:27:28][🔹》bot-commands] Jordan | GH#9218: !slot 1000000
 [29.03.2019][01:27:28][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][01:34:29][🔵》league-of-nations-1] Cody's Flower#0314: -bill
+[29.03.2019][01:35:01][🔵》league-of-nations-1] Cody's Flower#0314: -help
+[29.03.2019][01:35:01][🔵》league-of-nations-1] League Of Nations#6458: 
