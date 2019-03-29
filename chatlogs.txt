@@ -4369,3 +4369,20 @@ Format: DD:MM:YYYY
 [29.03.2019][07:24:05][🔸》moderation-chat-logs] GameHub#0549: 
 [29.03.2019][07:25:14][🔸》moderation-chat-logs] Administrative Message#3861: 
 [29.03.2019][07:25:16][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.03.2019][07:57:26][🔹》bot-commands] Seth | GH#7796: !chatlogs 29:03:2019
+[29.03.2019][07:57:26][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][07:57:36][🔹》bot-commands] Seth | GH#7796: !chatlogs
+[29.03.2019][07:57:36][🔹》bot-commands] GameHub#0549: Please enter date for chat logs!
+Format: DD:MM:YYYY
+[29.03.2019][07:57:36][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][07:57:42][🔹》bot-commands] Seth | GH#7796: !help
+[29.03.2019][07:57:42][🔹》bot-commands] ServerMate#2478: :arrows_counterclockwise: **Sending...**
+[29.03.2019][07:57:42][🔹》bot-commands] GameHub#0549: Check DMs!
+[29.03.2019][07:57:42][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][07:57:42][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][07:57:49][🔸》chat-logs] GameHub#0549: 
+[29.03.2019][07:58:45][🔹》bot-commands] Seth | GH#7796: !chatlogs 29 03 19
+[29.03.2019][07:58:45][🔸》moderation-chat-logs] GameHub#0549: 
+[29.03.2019][07:59:09][🔹》bot-commands] Seth | GH#7796: !serverinfo
+[29.03.2019][07:59:10][🔹》bot-commands] GameHub#0549: 
+[29.03.2019][07:59:10][🔸》moderation-chat-logs] GameHub#0549: 
