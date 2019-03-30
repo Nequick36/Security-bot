@@ -126,6 +126,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 		let eventFunc = require(`./events/${file}`);
 		let eventName = file.split(".")[0];
 		bot.on(eventName, (...args) => eventFunc.run(bot, ...args));
+    console.log(`${file} loaded!`)
 	});
 }); 
 
