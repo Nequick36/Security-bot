@@ -4727,3 +4727,15 @@ You now own :money_with_wings: 3666
 Map { '366234394479951873' => undefined }
 ```
 [30.03.2019][09:33:30][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][09:38:54][🔹》bot-commands] Seth | GH#7796: !eval bot.workCooldown
+[30.03.2019][09:38:54][🔹》bot-commands] GameHub#0549: ```xl
+Map { '366234394479951873' => undefined }
+```
+[30.03.2019][09:38:54][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][09:39:06][🔹》bot-commands] Seth | GH#7796: !work
+[30.03.2019][09:39:06][🔹》bot-commands] GameHub#0549: You need to wait at least a day!
+[30.03.2019][09:39:15][🔹》bot-commands] Seth | GH#7796: !eval bot.workCooldown
+[30.03.2019][09:39:15][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][09:39:15][🔹》bot-commands] GameHub#0549: ```xl
+Map { '366234394479951873' => undefined }
+```
