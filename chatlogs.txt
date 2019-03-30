@@ -4739,3 +4739,11 @@ Map { '366234394479951873' => undefined }
 [30.03.2019][09:39:15][🔹》bot-commands] GameHub#0549: ```xl
 Map { '366234394479951873' => undefined }
 ```
+[30.03.2019][10:31:58][🔹》bot-commands] Seth | GH#7796: !eval bot.workCooldown
+[30.03.2019][10:31:58][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][10:31:58][🔹》bot-commands] GameHub#0549: ```xl
+Map { '366234394479951873' => undefined }
+```
+[30.03.2019][10:32:14][🔹》bot-commands] Seth | GH#7796: !work
+[30.03.2019][10:32:14][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][10:32:14][🔹》bot-commands] GameHub#0549: You need to wait at least a day!
