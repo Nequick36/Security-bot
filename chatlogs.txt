@@ -4533,3 +4533,22 @@ You now own :money_with_wings: 3523
 [30.03.2019][10:01:28][🔵》league-of-nations-1] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: -tax collect
 [30.03.2019][10:01:29][🔵》league-of-nations-1] League Of Nations#6458: 
 [30.03.2019][10:09:11][🔸》chat-logs] GameHub#0549: 
+[30.03.2019][12:03:10][🔹》bot-commands] Seth | GH#7796: !work
+[30.03.2019][12:03:10][🔹》bot-commands] GameHub#0549: You need to wait at least a day!
+[30.03.2019][12:03:10][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][12:03:16][🔹》bot-commands] Seth | GH#7796: !ticket new
+[30.03.2019][12:03:16][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][12:03:16][🔸》moderation-chat-logs] Administrative Message#3861: 
+[30.03.2019][12:03:16][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][12:03:16][ticket-366234394479951873] GameHub#0549: Hello, <@366234394479951873>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[30.03.2019][12:03:29][ticket-366234394479951873] Seth | GH#7796: !ticket new
+[30.03.2019][12:03:29][ticket-366234394479951873] GameHub#0549: You can only have one ticket!
+[30.03.2019][12:03:29][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][12:03:34][ticket-366234394479951873] Seth | GH#7796: !ticket close
+[30.03.2019][12:03:35][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][12:03:35][🔸》moderation-chat-logs] Administrative Message#3861: 
+[30.03.2019][12:03:35][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][12:04:25][⚫》staff-chat] Seth | GH#7796: Pei
+[30.03.2019][12:04:28][🔸》moderation-chat-logs] Administrative Message#3861: 
+[30.03.2019][12:04:28][🔸》chat-logs] GameHub#0549: 
+[30.03.2019][12:04:51][🔸》chat-logs] GameHub#0549: 
