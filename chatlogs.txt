@@ -4503,3 +4503,16 @@ You now own :money_with_wings: 2138502376
 [30.03.2019][08:58:18][🔵》league-of-nations-1] League Of Nations#6458: 
 [30.03.2019][09:13:09][🔶》chat] gay bot#6821: <@!349250638632452096> When is my training
 [30.03.2019][09:35:42][🔹》bot-commands] gay bot#6821: oo
+[30.03.2019][09:48:39][🔹》bot-commands] [AFK] Seth | GH#7796: !work
+[30.03.2019][09:48:40][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][09:48:41][🔹》bot-commands] GameHub#0549: Seth
+You worked as a ` Miner ` and earned :money_with_wings: 119
+You now own :money_with_wings: 3523
+[30.03.2019][09:48:55][🔹development-chat] [AFK] Seth | GH#7796: H
+[30.03.2019][09:48:59][🔹development-chat] [AFK] Seth | GH#7796: Uu
+[30.03.2019][09:49:03][🔹development-chat] [AFK] Seth | GH#7796: !afk
+[30.03.2019][09:49:03][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][09:49:06][🔹development-chat] [AFK] Seth | GH#7796: J
+[30.03.2019][09:49:06][🔹development-chat] GameHub#0549: <@!366234394479951873>, You are no longer afk!
+[30.03.2019][09:49:06][🔸》chat-logs] GameHub#0549: 
+[30.03.2019][09:49:06][🔸》moderation-chat-logs] Administrative Message#3861: 
