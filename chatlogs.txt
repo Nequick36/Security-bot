@@ -4662,3 +4662,9 @@ You now own :money_with_wings: 3523
 [30.03.2019][08:53:43][🔹》bot-commands] GameHub#0549: Seth
 You worked as a ` Assistant ` and earned :money_with_wings: 75
 You now own :money_with_wings: 3598
+[30.03.2019][09:11:32][🔹》bot-commands] AL€X3411 | GH#9775: !work
+[30.03.2019][09:11:32][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][09:11:32][🔹》bot-commands] GameHub#0549: AL€X3411
+You worked as a ` Drugdealer ` and earned :money_with_wings: 213
+You now own :money_with_wings: 1126
+[30.03.2019][09:11:37][🔹》bot-commands] AL€X3411 | GH#9775: yes
