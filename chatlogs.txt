@@ -4477,3 +4477,16 @@ You now own :money_with_wings: 86444
 [30.03.2019][04:46:32][🔹》main-lounge] AL€X3411#9775: <#502168624597827604>
 [30.03.2019][04:46:45][🔹》pictures] AL€X3411#9775: BOOM!
 [30.03.2019][04:46:50][🔹》pictures] AL€X3411#9775: Face reveal!!
+[30.03.2019][05:09:17][🔹》bot-commands] Jordan | GH#9218: !daily
+[30.03.2019][05:09:17][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][05:09:17][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, You claimed your daily coins succesfully! You now own 2138502355 coins.
+[30.03.2019][05:09:44][🔹》bot-commands] Jordan | GH#9218: !work
+[30.03.2019][05:09:44][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][05:09:44][🔹》bot-commands] GameHub#0549: Zakiz
+You worked as a ` Teacher ` and earned :money_with_wings: 21
+You now own :money_with_wings: 2138502376
+[30.03.2019][05:09:47][🔹》bot-commands] Jordan | GH#9218: fff
+[30.03.2019][05:09:54][🔹》bot-commands] Jordan | GH#9218: !slot 100000
+[30.03.2019][05:09:55][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][05:09:55][🔹》bot-commands] GameHub#0549: 
+[30.03.2019][05:10:00][🔹》bot-commands] Jordan | GH#9218: Really?
