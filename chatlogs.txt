@@ -4657,3 +4657,8 @@ You now own :money_with_wings: 3523
 [30.03.2019][05:58:55][🔸》chat-logs] GameHub#0549: 
 [30.03.2019][05:59:43][⚫》staff-chat] AL€X3411 | GH#9775: <@452128432458039296> congrats on your promotion for support
 [30.03.2019][06:20:48][⚫》staff-chat] Seth | GH#7796: Yea congratz
+[30.03.2019][08:53:41][🔹》bot-commands] Seth | GH#7796: !work
+[30.03.2019][08:53:42][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][08:53:43][🔹》bot-commands] GameHub#0549: Seth
+You worked as a ` Assistant ` and earned :money_with_wings: 75
+You now own :money_with_wings: 3598
