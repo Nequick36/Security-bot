@@ -4553,3 +4553,39 @@ You now own :money_with_wings: 3523
 [30.03.2019][12:04:28][🔸》chat-logs] GameHub#0549: 
 [30.03.2019][12:04:51][🔸》chat-logs] GameHub#0549: 
 [30.03.2019][01:06:15][🔶》chat] Josh | GH#4954: <@338021233708761090> training now?
+[30.03.2019][01:39:54][🔹》bot-commands] Jordan | GH#9218: !work
+[30.03.2019][01:39:54][🔹》bot-commands] GameHub#0549: You need to wait at least a day!
+[30.03.2019][01:39:54][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][01:39:56][🔹》bot-commands] Jordan | GH#9218: a day wth
+[30.03.2019][01:40:11][🔹》bot-commands] Jordan | GH#9218: OH
+[30.03.2019][01:40:14][🔹》bot-commands] Jordan | GH#9218: Like rl
+[30.03.2019][01:40:33][🔹》bot-commands] Jordan | GH#9218: !bj
+[30.03.2019][01:40:33][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[30.03.2019][01:40:33][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][01:40:36][🔹》bot-commands] Jordan | GH#9218: !slot 10000
+[30.03.2019][01:40:36][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][01:40:36][🔹》bot-commands] GameHub#0549: 
+[30.03.2019][01:40:41][🔹》bot-commands] Jordan | GH#9218: how lucky
+[30.03.2019][01:40:44][🔹》bot-commands] Jordan | GH#9218: !slot 100000
+[30.03.2019][01:40:44][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][01:40:44][🔹》bot-commands] GameHub#0549: 
+[30.03.2019][01:40:48][🔹》bot-commands] Jordan | GH#9218: !slot 100000
+[30.03.2019][01:40:48][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][01:40:48][🔹》bot-commands] GameHub#0549: 
+[30.03.2019][01:40:50][🔹》bot-commands] Jordan | GH#9218: !slot 100000
+[30.03.2019][01:40:51][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][01:40:54][🔹》bot-commands] Jordan | GH#9218: !slot 100000
+[30.03.2019][01:40:54][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][01:40:54][🔹》bot-commands] GameHub#0549: 
+[30.03.2019][01:41:00][🔹》bot-commands] Jordan | GH#9218: !slot 1000000
+[30.03.2019][01:41:00][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][01:41:00][🔹》bot-commands] GameHub#0549: 
+[30.03.2019][01:41:04][🔹》bot-commands] Jordan | GH#9218: !slot10000
+[30.03.2019][01:41:04][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[30.03.2019][01:41:04][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][01:41:09][🔹》bot-commands] Jordan | GH#9218: !slot 999999
+[30.03.2019][01:41:09][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][01:41:09][🔹》bot-commands] GameHub#0549: 
+[30.03.2019][01:41:12][🔹》bot-commands] Jordan | GH#9218: !bal
+[30.03.2019][01:41:12][🔸》moderation-chat-logs] GameHub#0549: 
+[30.03.2019][01:41:12][🔹》bot-commands] GameHub#0549: Hey Zakiz! You own 2135992377 coins.
