@@ -4532,3 +4532,4 @@ You now own :money_with_wings: 3523
 [30.03.2019][10:01:20][🔵》league-of-nations-1] League Of Nations#6458: 
 [30.03.2019][10:01:28][🔵》league-of-nations-1] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: -tax collect
 [30.03.2019][10:01:29][🔵》league-of-nations-1] League Of Nations#6458: 
+[30.03.2019][10:09:11][🔸》chat-logs] GameHub#0549: 
