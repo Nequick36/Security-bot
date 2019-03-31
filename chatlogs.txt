@@ -4886,3 +4886,8 @@ You now own :money_with_wings: 2135992478
 [31.03.2019][12:30:40][🔹》bot-commands] Jordan | GH#9218: 1$ wow
 [31.03.2019][12:30:56][🔹》bot-commands] Jordan | GH#9218: I can get that without doing anything
 [31.03.2019][12:31:04][🔹》bot-commands] Jordan | GH#9218: Ok maybe not
+[31.03.2019][12:31:46][🔹》main-lounge] Seth | GH#7796: I'll do it
+[31.03.2019][12:32:00][🔸》moderation-chat-logs] Administrative Message#3861: 
+[31.03.2019][12:32:00][🔸》chat-logs] GameHub#0549: 
+[31.03.2019][12:32:40][🔹》main-lounge] Jordan | GH#9218: Alright.
+[31.03.2019][12:32:56][🔹》main-lounge] Jordan | GH#9218: I just realized Mod can change nicknames
