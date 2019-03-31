@@ -4982,3 +4982,5 @@ Map { '366234394479951873' => undefined }
 [31.03.2019][05:00:38][🔹》main-lounge] Josh | GH#4954: thanks for reminding me
 [31.03.2019][05:00:40][🔹》main-lounge] Josh | GH#4954: LOL
 [31.03.2019][05:02:35][🔹》main-lounge] Jordan | GH#9218: np
+[31.03.2019][05:34:58][🔹》main-lounge] Seth | GH#7796: Omg
+[31.03.2019][05:35:13][🔹》main-lounge] Seth | GH#7796: The rainbow role messing with me
