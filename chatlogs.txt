@@ -4996,3 +4996,4 @@ Map { '366234394479951873' => undefined }
 [31.03.2019][05:48:27][🔸》moderation-chat-logs] Administrative Message#3861: 
 [31.03.2019][05:48:28][🔸》chat-logs] GameHub#0549: 
 [31.03.2019][05:48:33][🔸》chat-logs] GameHub#0549: 
+[31.03.2019][05:48:48][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: you can say discord .gg/anything to do it
