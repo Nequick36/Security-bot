@@ -4849,3 +4849,7 @@ You now own :money_with_wings: 3898
 [31.03.2019][10:34:56][🔸》moderation-chat-logs] Administrative Message#3861: 
 [31.03.2019][10:34:56][🔸》chat-logs] GameHub#0549: 
 [31.03.2019][10:35:32][🔹》bot-commands] Seth | GH#7796: The afk still doesn't nick properly
+[31.03.2019][12:10:41][🔸》chat-logs] GameHub#0549: 
+[31.03.2019][12:11:09][⚫》staff-chat] Jordan | GH#9218: Add | GH next to you're name, <@!452128432458039296>
+[31.03.2019][12:11:51][🔹》main-lounge] Jordan | GH#9218: Welcome <@561510097772085248> to this server.
+[31.03.2019][12:12:04][🔹》main-lounge] Jordan | GH#9218: I wish you're not  Sad now
