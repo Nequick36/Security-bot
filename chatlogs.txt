@@ -5001,3 +5001,4 @@ Map { '366234394479951873' => undefined }
 13th May - 14th June : I have major exams during this period
 ```
 [31.03.2019][06:44:02][🔸》moderation-chat-logs] Administrative Message#3861: 
+[31.03.2019][06:57:06][🔹》main-lounge] Seth | GH#7796: Nvm it's broke again
