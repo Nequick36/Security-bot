@@ -4908,3 +4908,11 @@ You now own :money_with_wings: 2135992478
 [31.03.2019][01:23:44][🔸》moderation-chat-logs] Administrative Message#3861: 
 [31.03.2019][01:23:44][🔸》moderation-chat-logs] Administrative Message#3861: 
 [31.03.2019][01:23:55][🔸》moderation-chat-logs] Administrative Message#3861: 
+[31.03.2019][02:14:58][🔵》league-of-nations-1] Jif#4310: -tax
+[31.03.2019][02:14:59][🔵》league-of-nations-1] League Of Nations#6458: 
+[31.03.2019][02:15:07][🔵》league-of-nations-1] Jif#4310: -bill
+[31.03.2019][02:15:07][🔵》league-of-nations-1] League Of Nations#6458: 
+[31.03.2019][02:15:18][🔵》league-of-nations-1] Jif#4310: -bill pay
+[31.03.2019][02:15:20][🔵》league-of-nations-1] League Of Nations#6458: 
+[31.03.2019][02:15:36][🔵》league-of-nations-1] Jif#4310: -tax collect
+[31.03.2019][02:15:36][🔵》league-of-nations-1] League Of Nations#6458: 
