@@ -5024,3 +5024,36 @@ Map { '366234394479951873' => undefined }
 [31.03.2019][09:13:15][🔸》moderation-chat-logs] Administrative Message#3861: 
 [31.03.2019][09:13:15][🔸》moderation] Administrative Message#3861: 
 [31.03.2019][09:13:15][🔸》moderation-chat-logs] Administrative Message#3861: 
+[31.03.2019][09:16:44][🔹》main-lounge] Josh | GH#4954: ....
+[31.03.2019][09:17:01][🔹》main-lounge] Josh | GH#4954: !warn <@348818683419820033> spamming
+[31.03.2019][09:17:01][🔸》moderation-chat-logs] GameHub#0549: 
+[31.03.2019][09:17:01][🔹》main-lounge] GameHub#0549: ** ✅ tea#8321 has been warned  **
+[31.03.2019][09:17:01][⚫》warn-logs] GameHub#0549: 
+[31.03.2019][09:17:01][🔸》moderation-chat-logs] GameHub#0549: 
+[31.03.2019][09:17:01][🔸》chat-logs] GameHub#0549: 
+[31.03.2019][09:17:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[31.03.2019][09:17:24][🔹》main-lounge] Josh | GH#4954: !purge <@348818683419820033> 5
+[31.03.2019][09:17:24][🔹》main-lounge] GameHub#0549: <@!349250638632452096>, specify the number of messages between 1 and 100.
+[31.03.2019][09:17:24][🔸》moderation-chat-logs] GameHub#0549: 
+[31.03.2019][09:17:35][🔹》main-lounge] Josh | GH#4954: !purge 5 <@348818683419820033>
+[31.03.2019][09:17:35][🔸》moderation-chat-logs] GameHub#0549: 
+[31.03.2019][09:17:35][🔸》chat-logs] GameHub#0549: 
+[31.03.2019][09:17:35][🔸》moderation-chat-logs] Administrative Message#3861: 
+[31.03.2019][09:17:49][🔹》main-lounge] Josh | GH#4954: !purge 5
+[31.03.2019][09:17:49][🔸》moderation-chat-logs] GameHub#0549: 
+[31.03.2019][09:17:49][🔸》chat-logs] GameHub#0549: 
+[31.03.2019][09:17:49][🔸》moderation-chat-logs] Administrative Message#3861: 
+[31.03.2019][09:17:53][🔹》main-lounge] Josh | GH#4954: !purge 5
+[31.03.2019][09:17:53][🔸》moderation-chat-logs] GameHub#0549: 
+[31.03.2019][09:17:53][🔸》chat-logs] GameHub#0549: 
+[31.03.2019][09:17:54][🔸》moderation-chat-logs] Administrative Message#3861: 
+[31.03.2019][09:17:58][🔹》main-lounge] Josh | GH#4954: !purge 5
+[31.03.2019][09:17:58][🔸》moderation-chat-logs] GameHub#0549: 
+[31.03.2019][09:17:58][🔸》chat-logs] GameHub#0549: 
+[31.03.2019][09:17:58][🔸》moderation-chat-logs] Administrative Message#3861: 
+[31.03.2019][09:18:02][🔹》main-lounge] Josh | GH#4954: !purge 5
+[31.03.2019][09:18:03][🔸》moderation-chat-logs] GameHub#0549: 
+[31.03.2019][09:18:03][🔸》chat-logs] GameHub#0549: 
+[31.03.2019][09:18:03][🔸》moderation-chat-logs] Administrative Message#3861: 
+[31.03.2019][09:23:02][🔸》moderation-chat-logs] Administrative Message#3861: 
+[31.03.2019][09:23:02][🔸》moderation] Administrative Message#3861: 
