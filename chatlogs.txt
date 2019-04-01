@@ -5451,3 +5451,24 @@ Thanks.
 [01.04.2019][07:48:13][⚫》staff-chat] call me daddy | GH#6821: called GameHuv
 [01.04.2019][07:48:17][⚫》staff-chat] call me daddy | GH#6821: hub
 [01.04.2019][07:48:27][⚫》staff-chat] call me daddy | GH#6821: where we do live events
+[01.04.2019][07:48:52][⚫》staff-chat] Seth | GH#7796: You don't represent us
+[01.04.2019][07:49:53][🔹》bot-commands] Seth | GH#7796: !msgs
+[01.04.2019][07:49:53][🔸》moderation-chat-logs] GameHub#0549: 
+[01.04.2019][07:49:53][🔹》bot-commands] GameHub#0549: 
+[01.04.2019][07:49:59][🔹》bot-commands] Seth | GH#7796: !lvllb
+[01.04.2019][07:49:59][🔸》moderation-chat-logs] GameHub#0549: 
+[01.04.2019][07:49:59][🔹》bot-commands] GameHub#0549: My leaderboard:
+ 
+1 - Joshua#4954 | level 105 | 67 xp
+2 - Seth#7796 | level 99 | 124 xp
+3 - ${j122}#9847 | level 86 | 122 xp
+4 - ~ Karma😜#1542 | level 44 | 85 xp
+5 - Jordan.#9218 | level 42 | 69 xp
+6 - sheg#1726 | level 35 | 52 xp
+7 - AL€X3411#9775 | level 24 | 164 xp
+8 - MySwordingThrowbacks#9776 | level 21 | 170 xp
+9 - ACE#8942 | level 15 | 27 xp
+10 - DavidB#5793 | level 10 | 191 xp
+[01.04.2019][07:50:06][🔹》bot-commands] Seth | GH#7796: Mmm
+[01.04.2019][07:51:54][⚫》staff-chat] call me daddy | GH#6821: what do mean?
+[01.04.2019][07:51:56][⚫》staff-chat] call me daddy | GH#6821: u#
