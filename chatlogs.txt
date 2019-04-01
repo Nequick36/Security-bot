@@ -5058,3 +5058,4 @@ Map { '366234394479951873' => undefined }
 [31.03.2019][09:23:02][🔸》moderation-chat-logs] Administrative Message#3861: 
 [31.03.2019][09:23:02][🔸》moderation] Administrative Message#3861: 
 [01.04.2019][12:19:07][🔸》chat-logs] GameHub#0549: 
+[01.04.2019][07:35:49][⚫》staff-chat] Karma is a Bitch | GH#1542: Happy April fools
