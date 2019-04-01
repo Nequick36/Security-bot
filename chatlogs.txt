@@ -5472,3 +5472,6 @@ Thanks.
 [01.04.2019][07:50:06][🔹》bot-commands] Seth | GH#7796: Mmm
 [01.04.2019][07:51:54][⚫》staff-chat] call me daddy | GH#6821: what do mean?
 [01.04.2019][07:51:56][⚫》staff-chat] call me daddy | GH#6821: u#
+[01.04.2019][09:19:22][🔸》welcome] GameHub#0549: just call me Kiwi#1487 has left the server.
+[01.04.2019][09:19:22][🔸》moderation-chat-logs] Administrative Message#3861: 
+[01.04.2019][09:19:22][🔸》join-leave-logs] InviteManager#3907: just call me Kiwi **left**; Invited by **LaZyYYY_T1//YTBR**
