@@ -5749,3 +5749,11 @@ Map { '366234394479951873' => undefined }
 [02.04.2019][03:44:43][🔸》moderation-chat-logs] GameHub#0549: 
 [02.04.2019][03:46:27][🔹》main-lounge] Karma is a Bitch | GH#1542: Why didn't know
 [02.04.2019][03:46:35][🔸》chat-logs] GameHub#0549: 
+[02.04.2019][03:57:10][🔹》bot-commands] Seth | GH#7796: !report
+[02.04.2019][03:57:11][🔸》moderation-chat-logs] GameHub#0549: 
+[02.04.2019][03:57:11][🔹》bot-commands] GameHub#0549: <@!366234394479951873>, You have not mentioned a user to report!
+[02.04.2019][03:57:18][🔹》bot-commands] Seth | GH#7796: !report <@!366234394479951873>
+[02.04.2019][03:57:18][🔸》moderation-chat-logs] GameHub#0549: 
+[02.04.2019][03:57:18][🔹》bot-commands] GameHub#0549: <@!366234394479951873>, You have not specified a reason
+[02.04.2019][03:57:39][🔹》bot-commands] Seth | GH#7796: !report <@!349250638632452096> just testing
+[02.04.2019][03:57:39][🔸》moderation-chat-logs] GameHub#0549: 
