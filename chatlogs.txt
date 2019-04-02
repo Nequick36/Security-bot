@@ -5721,3 +5721,8 @@ Map { '366234394479951873' => undefined }
 [02.04.2019][02:52:04][🔸》moderation-chat-logs] Administrative Message#3861: 
 [02.04.2019][02:52:04][🔸》chat-logs] GameHub#0549: 
 [02.04.2019][02:52:04][🔸》moderation-chat-logs] GameHub#0549: 
+[02.04.2019][02:58:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][02:58:01][🔸》moderation] Administrative Message#3861: 
+[02.04.2019][03:05:01][⚫》staff-chat] Karma is a Bitch | GH#1542: Xd
+[02.04.2019][03:05:30][⚫》staff-chat] Karma is a Bitch | GH#1542: Do I even need to say I knew it,m
+[02.04.2019][03:05:35][🔸》chat-logs] GameHub#0549: 
