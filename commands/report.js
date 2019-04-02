@@ -14,7 +14,8 @@ module.exports.run = async (bot, message, args) => {
   .setColor("GREEN")
   .setTimestamp()
   reportChannel.send(embed)
-  message.channel.send()
+  message.channel.send("That user has been reported!")
+  message.delete()
   
   
   
