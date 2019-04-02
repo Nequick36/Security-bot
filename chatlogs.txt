@@ -5784,3 +5784,6 @@ Map { '366234394479951873' => undefined }
 [02.04.2019][04:08:28][🔹》bot-commands] GameHub#0549: Check DMs!
 [02.04.2019][04:08:28][🔸》moderation-chat-logs] GameHub#0549: 
 [02.04.2019][04:08:28][🔸》moderation-chat-logs] GameHub#0549: 
+[02.04.2019][07:07:52][🔸》welcome] GameHub#0549: happydog34#3782 has left the server.
+[02.04.2019][07:07:52][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][07:07:52][🔸》join-leave-logs] InviteManager#3907: happydog34 **left**; Invited by **Josh | GH**
