@@ -5604,3 +5604,10 @@ Thanks.
 [02.04.2019][09:49:41][🔸》moderation-chat-logs] Administrative Message#3861: 
 [02.04.2019][09:49:41][🔸》join-leave-logs] InviteManager#3907: GamerWei **left**; Invited by **Joshua**
 [02.04.2019][10:01:56][⚫》staff-chat] Seth | GH#7796: Yes 👏
+[02.04.2019][10:42:53][🔹》bot-commands] Seth | GH#7796: !
+[02.04.2019][10:42:53][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[02.04.2019][10:42:59][🔹》bot-commands] Seth | GH#7796: !work
+[02.04.2019][10:42:59][🔸》moderation-chat-logs] GameHub#0549: 
+[02.04.2019][10:42:59][🔹》bot-commands] GameHub#0549: Seth
+You worked as a ` Accountants ` and earned :money_with_wings: 75
+You now own :money_with_wings: 5079
