@@ -5499,3 +5499,6 @@ Thanks.
 [01.04.2019][11:01:39][🔸》chat-logs] GameHub#0549: 
 [01.04.2019][11:01:42][🔸》moderation-chat-logs] Administrative Message#3861: 
 [01.04.2019][11:01:41][🔸》chat-logs] GameHub#0549: 
+[02.04.2019][06:03:26][🔸》welcome] GameHub#0549: CameronT05092002#4064 has left the server.
+[02.04.2019][06:03:26][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][06:03:26][🔸》join-leave-logs] InviteManager#3907: CameronT05092002 **left**; Invited by **Joshua**
