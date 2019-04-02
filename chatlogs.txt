@@ -5672,3 +5672,20 @@ Map { '366234394479951873' => undefined }
 [02.04.2019][12:06:49][🔹》bot-commands] Seth | GH#7796: !serverinfo
 [02.04.2019][12:06:49][🔸》moderation-chat-logs] GameHub#0549: 
 [02.04.2019][12:06:49][🔹》bot-commands] GameHub#0549: 
+[02.04.2019][02:29:14][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][02:29:14][🔸》welcome] GameHub#0549: Welcome <@349250638632452096> to this server.
+[02.04.2019][02:29:14][🔸》moderation-chat-logs] GameHub#0549: 
+[02.04.2019][02:29:14][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][02:29:15][🔸》join-leave-logs] InviteManager#3907: <@349250638632452096> **joined**; Invited by **Joshua** (**402** invites)
+[02.04.2019][02:30:25][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][02:30:27][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][02:30:34][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][02:30:34][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][02:30:36][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][02:31:22][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][02:32:58][🔸》announcements] Joshua#4954: @everyone SIKE APRIL FOOLS
+[02.04.2019][02:33:02][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][02:33:02][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][02:33:39][🔹》main-lounge] Jordan | GH#9218: lol
+[02.04.2019][02:33:42][🔹》main-lounge] Jordan | GH#9218: i knew it xd
+[02.04.2019][02:34:00][🔹》main-lounge] Seth | GH#7796: It was obvious
