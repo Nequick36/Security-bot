@@ -5732,3 +5732,7 @@ Map { '366234394479951873' => undefined }
 [02.04.2019][03:08:28][⚫》staff-chat] Josh | GH#4954: Oh really
 [02.04.2019][03:08:53][⚫》staff-chat] Josh | GH#4954: Nah you got trolled
 [02.04.2019][03:08:55][⚫》staff-chat] Josh | GH#4954: Lolol
+[02.04.2019][03:17:11][🔹》bot-commands] Seth | GH#7796: Great I need to update this cmd
+[02.04.2019][03:20:23][⚫》staff-chat] Karma is a Bitch | GH#1542: But I knew?😂
+[02.04.2019][03:20:50][⚫》staff-chat] Karma is a Bitch | GH#1542: Your not good at lieing
+[02.04.2019][03:21:20][⚫》staff-chat] Karma is a Bitch | GH#1542: Sure I called it out at the start
