@@ -5600,3 +5600,6 @@ Thanks.
 [02.04.2019][07:50:48][🔷》office-of-seth] Karma is a Bitch | GH#1542: cya later
 [02.04.2019][07:52:46][⚫》staff-chat] Karma is a Bitch | GH#1542: Hey! <@&465983097394167808> So we lost 3 staff members. I need you all to help run this server
 [02.04.2019][07:53:19][⚫》staff-chat] Karma is a Bitch | GH#1542: We need to get in vcs play games and just encourage communication
+[02.04.2019][09:49:41][🔸》welcome] GameHub#0549: GamerWei#3954 has left the server.
+[02.04.2019][09:49:41][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.04.2019][09:49:41][🔸》join-leave-logs] InviteManager#3907: GamerWei **left**; Invited by **Joshua**
