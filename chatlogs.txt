@@ -5531,3 +5531,7 @@ Thanks.
 [02.04.2019][07:09:08][🔸》moderation-chat-logs] Administrative Message#3861: 
 [02.04.2019][07:09:08][🔸》welcome] GameHub#0549: OfficialHypro#6821 has left the server.
 [02.04.2019][07:09:09][🔸》join-leave-logs] InviteManager#3907: OfficialHypro **left**; Invited by **Joshua**
+[02.04.2019][07:31:41][🔹》main-lounge] Seth | GH#7796: !purge 50
+[02.04.2019][07:31:41][🔸》moderation-chat-logs] GameHub#0549: 
+[02.04.2019][07:31:41][🔸》chat-logs] GameHub#0549: 
+[02.04.2019][07:31:41][🔸》moderation-chat-logs] Administrative Message#3861: 
