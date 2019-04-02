@@ -9,7 +9,7 @@ module.exports.run = async (bot, message, args) => {
         let categoryCount = message.guild.channels.filter(channel => channel.type === 'category').size
         let botCount = message.guild.members.filter(user => user.user.bot === true).size
         let creation = message.guild.createdAt;
-        let owner = message.guild.members.get("366234394479951873");
+        let owner = message.guild.owner.id
         let roleNum = message.guild.roles.size
         let TextchanNum = message.guild.channels.filter(channel => channel.type === 'text').size
         let VoiceChanNum = message.guild.channels.filter(channel => channel.type === 'voice').size
