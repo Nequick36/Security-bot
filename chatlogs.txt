@@ -6223,3 +6223,6 @@ You now own :money_with_wings: 5530
 [03.04.2019][06:17:42][🔸》moderation-chat-logs] GameHub#0549: 
 [03.04.2019][06:17:42][🔹》bot-commands] GameHub#0549: 
 [03.04.2019][06:42:51][⚫》staff-chat] ACE | GH#8942: <@349250638632452096> can I have a go at training?
+[03.04.2019][07:24:26][🔸》welcome] GameHub#0549: ⭐🌟Mr Fish Sticks 🌟⭐#1771 has left the server.
+[03.04.2019][07:24:26][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][07:24:26][🔸》join-leave-logs] InviteManager#3907: ⭐🌟Mr Fish Sticks 🌟⭐ **left**; Invited by **Josh | GH**
