@@ -5983,3 +5983,69 @@ You now own :money_with_wings: 5530
 [03.04.2019][03:14:27][🔸》moderation-chat-logs] Administrative Message#3861: 
 [03.04.2019][03:24:01][🔸》moderation-chat-logs] Administrative Message#3861: 
 [03.04.2019][03:24:01][🔸》moderation] Administrative Message#3861: 
+[03.04.2019][03:52:59][🔹》main-lounge] Josh | GH#4954: .
+[03.04.2019][03:53:02][🔹》main-lounge] Josh | GH#4954: Stupid bot
+[03.04.2019][03:53:14][🔹》main-lounge] Josh | GH#4954: !warns <@348818683419820033>
+[03.04.2019][03:53:14][🔹》main-lounge] GameHub#0549: 
+[03.04.2019][03:53:14][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][03:53:24][🔹》main-lounge] Josh | GH#4954: !warn <@348818683419820033> spamming
+[03.04.2019][03:53:24][🔹》main-lounge] GameHub#0549: ** ✅ tea#8321 has been warned  **
+[03.04.2019][03:53:24][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][03:53:24][⚫》warn-logs] GameHub#0549: 
+[03.04.2019][03:53:24][🔸》chat-logs] GameHub#0549: 
+[03.04.2019][03:53:24][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][03:53:24][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:53:24][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][03:53:24][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][03:53:24][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][03:53:31][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][03:53:31][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][03:53:31][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][03:53:31][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][03:53:51][🔹》main-lounge] Josh | GH#4954: !kick <@348818683419820033> For having 3 warns and constantly spamming
+[03.04.2019][03:53:51][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][03:53:51][🔹》main-lounge] GameHub#0549: ** tea#8321 has been kicked!**
+[03.04.2019][03:53:51][🔸》moderation] GameHub#0549: 
+[03.04.2019][03:53:51][🔸》chat-logs] GameHub#0549: 
+[03.04.2019][03:53:52][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:53:52][🔸》welcome] GameHub#0549: tea#8321 has left the server.
+[03.04.2019][03:53:53][🔸》join-leave-logs] InviteManager#3907: tea **left**; Invited by **ACE | GH**
+[03.04.2019][03:54:07][🔹》main-lounge] Josh | GH#4954: ?purge <@348818683419820033> 5
+[03.04.2019][03:54:08][🔹》main-lounge] Administrative Message#3861: <:dynoError:314691684455809024> Enter a number of messages to purge.
+[03.04.2019][03:54:17][🔹》main-lounge] Josh | GH#4954: ?purge 2 <@348818683419820033>
+[03.04.2019][03:54:18][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:54:18][🔸》chat-logs] GameHub#0549: 
+[03.04.2019][03:54:18][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:54:18][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:54:28][🔹》main-lounge] Josh | GH#4954: ?purge 3 <@348818683419820033>
+[03.04.2019][03:54:29][🔸》chat-logs] GameHub#0549: 
+[03.04.2019][03:54:29][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:54:29][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:54:29][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:54:41][🔹》main-lounge] ACE | GH#8942: tea is on third sanction
+[03.04.2019][03:54:43][🔹》main-lounge] Josh | GH#4954: ?purge <@348818683419820033> 10
+[03.04.2019][03:54:43][🔹》main-lounge] Administrative Message#3861: <:dynoError:314691684455809024> Enter a number of messages to purge.
+[03.04.2019][03:54:50][🔹》main-lounge] Josh | GH#4954: ?purge 10 <@348818683419820033>
+[03.04.2019][03:54:51][🔸》chat-logs] GameHub#0549: 
+[03.04.2019][03:54:51][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:54:51][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:54:51][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:55:05][🔹》main-lounge] Josh | GH#4954: ?purge 100 <@348818683419820033>
+[03.04.2019][03:55:05][🔸》chat-logs] GameHub#0549: 
+[03.04.2019][03:55:05][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:55:06][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:55:06][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:55:13][🔹》main-lounge] ACE | GH#8942: ?purge 20
+[03.04.2019][03:55:18][🔹》main-lounge] Josh | GH#4954: !purge 5
+[03.04.2019][03:55:18][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][03:55:18][🔸》chat-logs] GameHub#0549: 
+[03.04.2019][03:55:18][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:55:28][🔹》main-lounge] Josh | GH#4954: !purge 2
+[03.04.2019][03:55:28][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][03:55:28][🔸》chat-logs] GameHub#0549: 
+[03.04.2019][03:55:28][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][03:55:35][🔹》main-lounge] ACE | GH#8942: josh, stop
+[03.04.2019][03:55:44][🔹》main-lounge] ACE | GH#8942: k good
+[03.04.2019][03:56:57][🔹》main-lounge] Karma is a Bitch | GH#1542: What happened
+[03.04.2019][03:57:56][🔹》main-lounge] Josh | GH#4954: Stupid tea keeps on spamming
+[03.04.2019][03:58:07][🔸》moderation-chat-logs] Administrative Message#3861: 
