@@ -5832,3 +5832,17 @@ Map { '366234394479951873' => undefined }
 [03.04.2019][05:27:40][🔸》moderation-chat-logs] GameHub#0549: 
 [03.04.2019][05:27:41][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, You have not mentioned a user to report!
 [03.04.2019][05:27:44][🔹》bot-commands] Jordan | GH#9218: omg
+[03.04.2019][05:27:55][🔹》bot-commands] Jordan | GH#9218: !report <@!324525125116362752> test
+[03.04.2019][05:27:55][🔹》bot-commands] GameHub#0549: That user has been reported!
+[03.04.2019][05:27:55][⚫》user-reports] GameHub#0549: 
+[03.04.2019][05:27:55][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][05:27:55][🔸》chat-logs] GameHub#0549: 
+[03.04.2019][05:27:55][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][05:28:15][🔹》bot-commands] Jordan | GH#9218: !report <@!324525125116362752> test
+[03.04.2019][05:28:15][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][05:28:15][🔹》bot-commands] GameHub#0549: That user has been reported!
+[03.04.2019][05:28:15][⚫》user-reports] GameHub#0549: 
+[03.04.2019][05:28:15][🔸》chat-logs] GameHub#0549: 
+[03.04.2019][05:28:15][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.04.2019][05:28:38][🔹》bot-commands] Jordan | GH#9218: there
+[03.04.2019][05:28:44][🔹》bot-commands] Jordan | GH#9218: It worked for the 2nd time
