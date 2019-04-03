@@ -5921,3 +5921,38 @@ Map { '366234394479951873' => undefined }
 [03.04.2019][11:46:58][🔵》cafe] Cafe#6498: 
 [03.04.2019][11:47:38][🔵》cafe] Jif#4310: cf!setprefix -
 [03.04.2019][11:48:35][🔶》chat] Jif#4310: Hi
+[03.04.2019][12:44:34][🔹》bot-commands] Seth | GH#7796: !work
+[03.04.2019][12:44:34][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][12:44:35][🔹》bot-commands] GameHub#0549: Seth
+You worked as a ` Assistant ` and earned :money_with_wings: 396
+You now own :money_with_wings: 5530
+[03.04.2019][12:44:52][🔹》bot-commands] Seth | GH#7796: !help
+[03.04.2019][12:44:52][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][12:44:52][🔹》bot-commands] GameHub#0549: Check DMs!
+[03.04.2019][12:44:52][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][12:46:35][🔹》memes] Seth | GH#7796: !meme
+[03.04.2019][12:46:36][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][12:47:07][🔹》memes] Seth | GH#7796: !meme
+[03.04.2019][12:47:07][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][12:47:18][🔹》memes] Seth | GH#7796: Really
+[03.04.2019][12:47:33][🔹》memes] Seth | GH#7796: !reload meme
+[03.04.2019][12:47:33][🔹》memes] GameHub#0549: Command meme was reloaded!
+[03.04.2019][12:47:33][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][12:47:42][🔹》memes] Seth | GH#7796: !meme
+[03.04.2019][12:47:42][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][12:50:07][🔹》memes] Seth | GH#7796: !meme
+[03.04.2019][12:50:07][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][12:50:07][🔹》memes] GameHub#0549: 
+[03.04.2019][12:50:13][🔹》memes] Seth | GH#7796: There we go
+[03.04.2019][12:50:34][🔹》memes] Seth | GH#7796: !meme
+[03.04.2019][12:50:34][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][12:50:34][🔹》memes] GameHub#0549: 
+[03.04.2019][12:50:45][🔹》memes] Seth | GH#7796: !meme
+[03.04.2019][12:50:45][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][12:50:45][🔹》memes] GameHub#0549: 
+[03.04.2019][12:50:55][🔹》memes] Seth | GH#7796: !meme
+[03.04.2019][12:50:55][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][12:50:56][🔹》memes] GameHub#0549: 
+[03.04.2019][12:51:02][🔹》memes] Seth | GH#7796: !meme
+[03.04.2019][12:51:02][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][12:51:03][🔹》memes] GameHub#0549: 
