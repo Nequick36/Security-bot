@@ -5956,3 +5956,6 @@ You now own :money_with_wings: 5530
 [03.04.2019][12:51:02][🔹》memes] Seth | GH#7796: !meme
 [03.04.2019][12:51:02][🔸》moderation-chat-logs] GameHub#0549: 
 [03.04.2019][12:51:03][🔹》memes] GameHub#0549: 
+[03.04.2019][02:01:31][🔹》bot-commands] Seth | GH#7796: !work
+[03.04.2019][02:01:31][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][02:01:31][🔹》bot-commands] GameHub#0549: You need to wait at least a day!
