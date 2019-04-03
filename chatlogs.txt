@@ -6052,3 +6052,21 @@ You now own :money_with_wings: 5530
 [03.04.2019][04:03:01][🔹》main-lounge] ACE | GH#8942: <@!349250638632452096> idea
 [03.04.2019][04:03:30][🔹》main-lounge] ACE | GH#8942: not everything on GH advertising is games, so, I think it should be called AdHub
 [03.04.2019][04:10:55][🔹》main-lounge] Josh | GH#4954: Meh
+[03.04.2019][04:28:20][🔹》main-lounge] Seth | GH#7796: It's only called GH advertise because it's linked with this server  <@471400155904475158>
+[03.04.2019][04:30:27][🔹》bot-commands] Seth | GH#7796: !help g
+[03.04.2019][04:30:27][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][04:30:27][🔹》bot-commands] GameHub#0549: Can't find command named g!
+[03.04.2019][04:30:36][🔹》bot-commands] Seth | GH#7796: !help report
+[03.04.2019][04:30:36][🔹》bot-commands] GameHub#0549: 
+[03.04.2019][04:30:36][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][04:30:57][🔹》bot-commands] Seth | GH#7796: Need to change that
+[03.04.2019][04:31:46][🔹》main-lounge] ACE | GH#8942: <@!366234394479951873> Still
+[03.04.2019][04:31:50][🔹》main-lounge] ACE | GH#8942: It makes more sense
+[03.04.2019][04:32:37][🔹》main-lounge] Seth | GH#7796: I guess but renaming would disconnecting it from here which we're not planning to do anytime soon
+[03.04.2019][04:33:12][🔸》chat-logs] GameHub#0549: 
+[03.04.2019][04:33:38][🔹》bot-commands] Seth | GH#7796: !help help
+[03.04.2019][04:33:38][🔹》bot-commands] GameHub#0549: Can't find command named help!
+[03.04.2019][04:33:38][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][04:33:50][🔹》bot-commands] Seth | GH#7796: !help meme
+[03.04.2019][04:33:50][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][04:33:50][🔹》bot-commands] GameHub#0549: 
