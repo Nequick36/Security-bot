@@ -5852,3 +5852,7 @@ Map { '366234394479951873' => undefined }
 [03.04.2019][05:46:30][⚫》staff-chat] Jordan | GH#9218: Josh, is <#473195368767553546> disabled for GHM ? [GH members]
 [03.04.2019][05:46:44][🔸》chat-logs] GameHub#0549: 
 [03.04.2019][07:32:08][⚫》staff-chat] Seth | GH#7796: No because because only staff have access to warning whereas everyone can report  <@471447002207617024>
+[03.04.2019][08:40:30][⚫》user-reports] Seth | GH#7796: !purge 5
+[03.04.2019][08:40:30][🔸》moderation-chat-logs] GameHub#0549: 
+[03.04.2019][08:40:30][🔸》chat-logs] GameHub#0549: 
+[03.04.2019][08:40:30][🔸》moderation-chat-logs] Administrative Message#3861: 
