@@ -5813,3 +5813,12 @@ Map { '366234394479951873' => undefined }
 🔺 *`Bryon`*
 [03.04.2019][01:43:48][🔵》yggdrasil] Josue#6953: oof
 [03.04.2019][01:44:00][🔵》yggdrasil] Josue#6953: <@518198144023003147>
+[03.04.2019][01:44:56][🔵》yggdrasil] Josue#6953: <@471447002207617024>
+[03.04.2019][01:45:09][🔵》yggdrasil] Josue#6953: --ship Bryan Bryon
+[03.04.2019][01:45:09][🔵》yggdrasil] Yggdrasil#4195: 💗 **MATCHMAKING** 💗
+🔻 *`Bryan`*
+🔺 *`Bryon`*
+[03.04.2019][01:45:25][🔵》yggdrasil] Josue#6953: --ship Bryan Briana
+[03.04.2019][01:45:25][🔵》yggdrasil] Yggdrasil#4195: 💗 **MATCHMAKING** 💗
+🔻 *`Bryan`*
+🔺 *`Briana`*
