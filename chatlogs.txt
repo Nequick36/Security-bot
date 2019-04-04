@@ -6237,3 +6237,5 @@ You now own :money_with_wings: 5530
 [04.04.2019][09:26:11][🔸》join-leave-logs] InviteManager#3907: Zinadox **left**; Invited by **AL€X3411 | GH**
 [04.04.2019][12:14:16][⚫》council-chat] Seth | GH#7796: do council even do anything anymore?
 [04.04.2019][02:26:31][⚫》council-chat] Josh | GH#4954: No delete it
+[04.04.2019][03:17:10][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.04.2019][03:17:10][🔸》moderation-chat-logs] GameHub#0549: 
