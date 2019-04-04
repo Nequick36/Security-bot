@@ -6235,3 +6235,4 @@ You now own :money_with_wings: 5530
 [04.04.2019][09:26:10][🔸》moderation-chat-logs] Administrative Message#3861: 
 [04.04.2019][09:26:11][🔸》welcome] GameHub#0549: Zinadox#1780 has left the server.
 [04.04.2019][09:26:11][🔸》join-leave-logs] InviteManager#3907: Zinadox **left**; Invited by **AL€X3411 | GH**
+[04.04.2019][12:14:16][⚫》council-chat] Seth | GH#7796: do council even do anything anymore?
