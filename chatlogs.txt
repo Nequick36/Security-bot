@@ -6318,3 +6318,18 @@ You now own :money_with_wings: 5530
 [05.04.2019][03:36:25][🔸》admin-chat] Karma is a Bitch | GH#1542: Aidon?
 [05.04.2019][03:37:36][🔸》admin-chat] Seth | GH#7796: Hmm I was thinking Joseph
 [05.04.2019][03:37:55][🔸》admin-chat] Seth | GH#7796: They both did ok on their apps
+[05.04.2019][03:57:10][🔸》admin-chat] Seth | GH#7796: Look ik you guys don't really give one and tbh I can't either but it's just one those things that need to be addressed
+[05.04.2019][04:11:07][🔹development-chat] Seth | GH#7796: !channelinfo
+[05.04.2019][04:11:07][🔸》moderation-chat-logs] GameHub#0549: 
+[05.04.2019][04:11:07][🔹development-chat] GameHub#0549: <@!366234394479951873>, Please mention a channel you want info on!
+[05.04.2019][04:11:21][🔹development-chat] Seth | GH#7796: !channelinfo <#466987703292919808>
+[05.04.2019][04:11:21][🔹development-chat] GameHub#0549: 
+[05.04.2019][04:11:21][🔸》moderation-chat-logs] GameHub#0549: 
+[05.04.2019][04:12:01][🔹development-chat] Seth | GH#7796: !reload channelinfo
+[05.04.2019][04:12:01][🔸》moderation-chat-logs] GameHub#0549: 
+[05.04.2019][04:12:01][🔹development-chat] GameHub#0549: Command channelinfo was reloaded!
+[05.04.2019][04:12:47][🔹development-chat] Seth | GH#7796: !channelinfo <#501460596563378206>
+[05.04.2019][04:12:47][🔸》moderation-chat-logs] GameHub#0549: 
+[05.04.2019][04:12:47][🔹development-chat] GameHub#0549: 
+[05.04.2019][04:13:00][🔹development-chat] Seth | GH#7796: Woot woot
+[05.04.2019][04:13:22][🔹development-chat] Seth | GH#7796: So you can access the topic property from channels
