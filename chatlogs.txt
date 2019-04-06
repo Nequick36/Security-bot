@@ -6418,3 +6418,6 @@ You now own :money_with_wings: 5530
 [06.04.2019][09:19:26][🔸》chat-logs] GameHub#0549: 
 [06.04.2019][09:19:58][🔸》chat-logs] GameHub#0549: 
 [06.04.2019][10:25:44][🔸》moderation-chat-logs] GameHub#0549: 
+[06.04.2019][10:46:16][🔹development-chat] Seth | GH#7796: !channelinfo <#559135204049158166>
+[06.04.2019][10:46:16][🔹development-chat] GameHub#0549: 
+[06.04.2019][10:46:16][🔸》moderation-chat-logs] GameHub#0549: 
