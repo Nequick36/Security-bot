@@ -6375,3 +6375,40 @@ You now own :money_with_wings: 5530
 [06.04.2019][11:13:55][🔸》admin-chat] Josh | GH#4954: Give people some responsibility
 [06.04.2019][11:14:59][🔸》admin-chat] Seth | GH#7796: Ok then
 [06.04.2019][11:15:15][🔸》admin-chat] Seth | GH#7796: No point bothering you abt this shit
+[06.04.2019][03:53:57][🔹》bot-commands] AL€X3411 | GH#9775: !xp
+[06.04.2019][03:53:57][🔹》bot-commands] GameHub#0549: You are level 25 and you have 51 xp!
+[06.04.2019][03:53:57][🔸》moderation-chat-logs] GameHub#0549: 
+[06.04.2019][03:54:07][🔹》bot-commands] AL€X3411 | GH#9775: yay
+[06.04.2019][03:54:14][🔹》bot-commands] AL€X3411 | GH#9775: !lb
+[06.04.2019][03:54:15][🔸》moderation-chat-logs] GameHub#0549: 
+[06.04.2019][03:54:15][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[06.04.2019][03:54:24][🔹》bot-commands] AL€X3411 | GH#9775: !leaderboard
+[06.04.2019][03:54:25][🔸》moderation-chat-logs] GameHub#0549: 
+[06.04.2019][03:54:25][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[06.04.2019][03:54:33][🔹》bot-commands] AL€X3411 | GH#9775: !help
+[06.04.2019][03:54:33][🔸》moderation-chat-logs] GameHub#0549: 
+[06.04.2019][03:54:33][🔹》bot-commands] GameHub#0549: Check DMs!
+[06.04.2019][03:54:33][🔸》moderation-chat-logs] GameHub#0549: 
+[06.04.2019][03:55:37][🔹》bot-commands] AL€X3411 | GH#9775: !levelleaderboard
+[06.04.2019][03:55:37][🔹》bot-commands] GameHub#0549: My leaderboard:
+ 
+1 - Joshua#4954 | level 107 | 15 xp
+2 - Seth#7796 | level 104 | 90 xp
+3 - ${j122}#9847 | level 86 | 196 xp
+4 - ~ Karma😜#1542 | level 46 | 27 xp
+5 - Jordan.#9218 | level 42 | 144 xp
+6 - sheg#1726 | level 35 | 52 xp
+7 - AL€X3411#9775 | level 25 | 85 xp
+8 - MySwordingThrowbacks#9776 | level 21 | 170 xp
+9 - ACE#8942 | level 17 | 16 xp
+10 - DavidB#5793 | level 11 | 4 xp
+[06.04.2019][03:55:37][🔸》moderation-chat-logs] GameHub#0549: 
+[06.04.2019][03:55:51][🔹》bot-commands] AL€X3411 | GH#9775: Hmm
+[06.04.2019][03:57:14][🔸》bump] AL€X3411 | GH#9775: !bump
+[06.04.2019][03:57:14][🔸》bump] ServerMate#2478: :x: `03` **Invalid Channel** Please create a channel called `#bump` and set it's topic to your partner message
+
+**If you need some support, read this guide:** https://devlinbots.gitbook.io/servermate/general/bump
+[06.04.2019][03:57:14][🔸》bump] GameHub#0549: Can't find that command! Please use !help
+[06.04.2019][03:57:19][🔸》chat-logs] GameHub#0549: 
+[06.04.2019][03:57:22][🔸》bump] AL€X3411 | GH#9775: hm
+[06.04.2019][03:58:09][🔸》chat-logs] GameHub#0549: 
