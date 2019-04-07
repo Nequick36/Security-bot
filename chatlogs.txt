@@ -6446,3 +6446,12 @@ You now own :money_with_wings: 5530
 [07.04.2019][11:56:41][🔸》moderation-chat-logs] GameHub#0549: 
 [07.04.2019][11:56:46][🔸》moderation-chat-logs] Administrative Message#3861: 
 [07.04.2019][11:56:46][🔸》chat-logs] GameHub#0549: 
+[07.04.2019][12:20:26][🔸》bump] Josh | GH#4954: !purge 3
+[07.04.2019][12:20:26][🔸》moderation-chat-logs] GameHub#0549: 
+[07.04.2019][12:20:26][🔸》chat-logs] GameHub#0549: 
+[07.04.2019][12:20:26][🔸》moderation-chat-logs] Administrative Message#3861: 
+[07.04.2019][12:20:31][🔸》bump] Josh | GH#4954: !purge 3
+[07.04.2019][12:20:31][🔸》moderation-chat-logs] GameHub#0549: 
+[07.04.2019][12:20:31][🔸》chat-logs] GameHub#0549: 
+[07.04.2019][12:20:31][🔸》moderation-chat-logs] Administrative Message#3861: 
+[07.04.2019][12:20:36][🔸》moderation-chat-logs] Administrative Message#3861: 
