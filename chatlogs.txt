@@ -6541,3 +6541,13 @@ Promise { <pending> }
 [08.04.2019][03:54:33][🔸》chat-logs] GameHub#0549: 
 [08.04.2019][03:54:33][🔸》moderation-chat-logs] Administrative Message#3861: 
 [08.04.2019][04:44:21][🔸》chat-logs] GameHub#0549: 
+[08.04.2019][05:00:34][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][05:00:37][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][05:01:03][🔸》moderation-chat-logs] Seth | GH#7796: !purge 5
+[08.04.2019][05:01:03][🔸》chat-logs] GameHub#0549: 
+[08.04.2019][05:01:03][🔸》moderation-chat-logs] GameHub#0549: 
+[08.04.2019][05:01:04][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][05:01:13][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][05:01:13][🔸》chat-logs] GameHub#0549: 
+[08.04.2019][05:01:21][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][05:01:32][🔸》moderation-chat-logs] Administrative Message#3861: 
