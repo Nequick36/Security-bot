@@ -6554,3 +6554,5 @@ Promise { <pending> }
 [08.04.2019][05:14:49][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: who is using my client?
 [08.04.2019][05:14:58][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: or just seth doing with commands
 [08.04.2019][05:14:58][🔹》main-lounge] GameHub#0549: <@435406608479158273> just leveled up to level 87!
+[08.04.2019][05:58:52][🔹》main-lounge] Seth | GH#7796: <@435406608479158273> it's me lol
+[08.04.2019][05:59:06][🔹》main-lounge] Seth | GH#7796: With the client
