@@ -6569,3 +6569,35 @@ Promise { <pending> }
 [08.04.2019][10:25:37][🔹》main-lounge] AL€X3411 | GH#9775: *fight!! fight!! fight!!*
 [08.04.2019][10:52:42][🔸》moderation-chat-logs] Administrative Message#3861: 
 [08.04.2019][10:52:42][🔸》moderation-chat-logs] GameHub#0549: 
+[08.04.2019][10:55:29][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][10:55:29][🔸》welcome] GameHub#0549: Welcome <@319533843482673152> to this server.
+[08.04.2019][10:55:29][🔸》moderation-chat-logs] GameHub#0549: 
+[08.04.2019][10:55:29][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][10:55:29][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][10:55:29][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][10:57:46][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][10:57:58][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][10:59:57][🔵》slav-bot] Seth | GH#7796: !help
+[08.04.2019][10:59:57][🔵》slav-bot] Slav Bot#9008: View the entire command list on Slav Bot's site.
+
+To enable Slav Bot's respond system, use `!respond enable`.
+To get the entire command list via a DM, use `!help all` (If DMs are disabled, then the list will be sent to the channel).
+
+https://merriemweebster.github.io/SlavBot/
+[08.04.2019][10:59:57][🔸》moderation-chat-logs] GameHub#0549: 
+[08.04.2019][10:59:57][🔵》slav-bot] GameHub#0549: Check DMs!
+[08.04.2019][10:59:57][🔵》slav-bot] Slav Bot#9008: For any further help, visit our support server
+
+https://discord.gg/2T259Pf
+[08.04.2019][10:59:58][🔸》moderation-chat-logs] GameHub#0549: 
+[08.04.2019][11:00:12][🔵》slav-bot] Seth | GH#7796: !help all
+[08.04.2019][11:00:12][🔵》slav-bot] GameHub#0549: Can't find command named all!
+[08.04.2019][11:00:12][🔸》moderation-chat-logs] GameHub#0549: 
+[08.04.2019][11:00:25][🔵》slav-bot] Slav Bot#9008: <@366234394479951873> Sent you a DM with information.
+[08.04.2019][11:02:24][🔵》slav-bot] Seth | GH#7796: !prefix
+[08.04.2019][11:02:24][🔸》moderation-chat-logs] GameHub#0549: 
+[08.04.2019][11:02:24][🔵》slav-bot] GameHub#0549: Can't find that command! Please use !help
+[08.04.2019][11:02:48][🔵》slav-bot] Seth | GH#7796: !prefix s!
+[08.04.2019][11:02:48][🔵》slav-bot] Slav Bot#9008: <@366234394479951873> Set the command prefix to `s!`. To run commands, use `s! command` or `@Slav Bot#9008 command`.
+[08.04.2019][11:02:48][🔸》moderation-chat-logs] GameHub#0549: 
+[08.04.2019][11:02:48][🔵》slav-bot] GameHub#0549: Can't find that command! Please use !help
