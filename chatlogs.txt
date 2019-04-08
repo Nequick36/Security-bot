@@ -6551,3 +6551,6 @@ Promise { <pending> }
 [08.04.2019][05:01:13][🔸》chat-logs] GameHub#0549: 
 [08.04.2019][05:01:21][🔸》moderation-chat-logs] Administrative Message#3861: 
 [08.04.2019][05:01:32][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][05:14:49][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: who is using my client?
+[08.04.2019][05:14:58][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: or just seth doing with commands
+[08.04.2019][05:14:58][🔹》main-lounge] GameHub#0549: <@435406608479158273> just leveled up to level 87!
