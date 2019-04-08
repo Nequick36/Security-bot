@@ -6601,3 +6601,48 @@ https://discord.gg/2T259Pf
 [08.04.2019][11:02:48][🔵》slav-bot] Slav Bot#9008: <@366234394479951873> Set the command prefix to `s!`. To run commands, use `s! command` or `@Slav Bot#9008 command`.
 [08.04.2019][11:02:48][🔸》moderation-chat-logs] GameHub#0549: 
 [08.04.2019][11:02:48][🔵》slav-bot] GameHub#0549: Can't find that command! Please use !help
+[08.04.2019][11:03:55][🔵》slav-bot] Seth | GH#7796: !purge 10
+[08.04.2019][11:03:55][🔸》moderation-chat-logs] GameHub#0549: 
+[08.04.2019][11:03:55][🔸》chat-logs] GameHub#0549: 
+[08.04.2019][11:03:55][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][11:04:04][🔵》slav-bot] Seth | GH#7796: !purge 5
+[08.04.2019][11:04:04][🔸》moderation-chat-logs] GameHub#0549: 
+[08.04.2019][11:04:04][🔸》chat-logs] GameHub#0549: 
+[08.04.2019][11:04:04][🔸》moderation-chat-logs] Administrative Message#3861: 
+[08.04.2019][11:04:10][🔵》slav-bot] Seth | GH#7796: @here Slav bot is back if anybody wants to use it and new prefix is `s!`
+[08.04.2019][11:04:22][🔵》slav-bot] jiffydabulletguy#3973: s!help
+[08.04.2019][11:04:22][🔵》slav-bot] Slav Bot#9008: View the entire command list on Slav Bot's site.
+
+To enable Slav Bot's respond system, use `s!respond enable`.
+To get the entire command list via a DM, use `s!help all` (If DMs are disabled, then the list will be sent to the channel).
+
+https://merriemweebster.github.io/SlavBot/
+[08.04.2019][11:04:22][🔵》slav-bot] Slav Bot#9008: For any further help, visit our support server
+
+https://discord.gg/2T259Pf
+[08.04.2019][11:04:47][🔵》slav-bot] Seth | GH#7796: s!stab
+[08.04.2019][11:04:48][🔵》slav-bot] Slav Bot#9008: <@366234394479951873> ***has committed sudoku***
+[08.04.2019][11:05:05][🔵》slav-bot] jiffydabulletguy#3973: s!stab
+[08.04.2019][11:05:27][🔵》slav-bot] Slav Bot#9008: <@530108436462043136> ***has committed sudoku***
+[08.04.2019][11:06:27][🔵》slav-bot] Seth | GH#7796: s!sharpen
+[08.04.2019][11:06:27][🔵》slav-bot] Slav Bot#9008: ***taking image***
+[08.04.2019][11:06:28][🔵》slav-bot] Slav Bot#9008: ***Sharpen***
+[08.04.2019][11:06:39][🔵》slav-bot] Seth | GH#7796: s!sepia
+[08.04.2019][11:06:40][🔵》slav-bot] Slav Bot#9008: ***taking image***
+[08.04.2019][11:06:41][🔵》slav-bot] Slav Bot#9008: ***Sepia***
+[08.04.2019][11:08:10][🔵》slav-bot] Seth | GH#7796: s!shot
+[08.04.2019][11:08:41][🔵》slav-bot] Slav Bot#9008: ***Getting another bottle of Vodka...***
+[08.04.2019][11:08:43][🔵》slav-bot] Slav Bot#9008: ***Opening Bottle...***
+[08.04.2019][11:08:44][🔵》slav-bot] Slav Bot#9008: ***Pouring Shot...***
+[08.04.2019][11:08:45][🔵》slav-bot] Slav Bot#9008: ***Taking 5 shot(s) of Vodka...***
+[08.04.2019][11:08:46][🔵》slav-bot] Slav Bot#9008: <@366234394479951873>** is piss drunk...**
+[08.04.2019][11:08:48][🔵》slav-bot] Slav Bot#9008: <@366234394479951873> ***is pissing their tracksuit while squatting***
+[08.04.2019][11:09:08][🔵》slav-bot] Seth | GH#7796: s!shoot
+[08.04.2019][11:10:05][🔵》slav-bot] Seth | GH#7796: s!kill
+[08.04.2019][11:12:22][🔵》slav-bot] Seth | GH#7796: s!execute
+[08.04.2019][11:12:22][🔵》slav-bot] Slav Bot#9008: ***taking images***
+[08.04.2019][11:12:23][🔵》slav-bot] Slav Bot#9008: ***Executed***
+[08.04.2019][11:12:51][🔵》slav-bot] Seth | GH#7796: s!kidnap <@349250638632452096>
+[08.04.2019][11:12:56][🔵》slav-bot] Slav Bot#9008: <@366234394479951873> ***kidnapped*** <@349250638632452096>
+[08.04.2019][11:13:18][🔵》slav-bot] Seth | GH#7796: s!stab <@349250638632452096>
+[08.04.2019][11:13:34][🔵》slav-bot] Slav Bot#9008: <@366234394479951873> ***stabbed*** <@349250638632452096>
