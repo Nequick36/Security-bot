@@ -6556,3 +6556,9 @@ Promise { <pending> }
 [08.04.2019][05:14:58][🔹》main-lounge] GameHub#0549: <@435406608479158273> just leveled up to level 87!
 [08.04.2019][05:58:52][🔹》main-lounge] Seth | GH#7796: <@435406608479158273> it's me lol
 [08.04.2019][05:59:06][🔹》main-lounge] Seth | GH#7796: With the client
+[08.04.2019][06:33:24][🔹》bot-commands] Josh | GH#4954: !dm
+[08.04.2019][06:33:24][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[08.04.2019][06:35:19][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: can you give me a copy lol i formated hard disk
+[08.04.2019][06:35:28][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: and i dontwant to make it again
+[08.04.2019][06:42:06][🔹》main-lounge] Seth | GH#7796: Ok
+[08.04.2019][06:42:14][🔹》main-lounge] Josh | GH#4954: twat
