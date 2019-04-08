@@ -6566,3 +6566,4 @@ Promise { <pending> }
 [08.04.2019][10:13:11][🔹》main-lounge] Seth | GH#7796: You wanna fight?
 [08.04.2019][10:13:46][🔹》main-lounge] Seth | GH#7796: <@435406608479158273> I'll give ya it tomorrow
 [08.04.2019][10:14:11][🔹》bot-commands] Seth | GH#7796: *so inconspicuous*
+[08.04.2019][10:25:37][🔹》main-lounge] AL€X3411 | GH#9775: *fight!! fight!! fight!!*
