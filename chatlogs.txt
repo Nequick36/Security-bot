@@ -6735,3 +6735,6 @@ https://discord.gg/2T259Pf
 [09.04.2019][04:13:38][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: just found my client on my phone
 [09.04.2019][04:49:31][🔹》main-lounge] Seth | GH#7796: Ok
 [09.04.2019][10:15:08][🔸》chat-logs] GameHub#0549: 
+[09.04.2019][10:27:20][🔵》slav-bot] AL€X3411 | GH#9775: s!pant
+[09.04.2019][10:27:20][🔵》slav-bot] Slav Bot#9008: ***taking image***
+[09.04.2019][10:27:24][🔵》slav-bot] Slav Bot#9008: ***Eat Pant***
