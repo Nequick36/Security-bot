@@ -6731,3 +6731,4 @@ https://discord.gg/2T259Pf
 [09.04.2019][02:56:22][🔸》welcome] GameHub#0549: DaDerpyCarrot#2030 has left the server.
 [09.04.2019][02:56:22][🔸》moderation-chat-logs] Administrative Message#3861: 
 [09.04.2019][02:56:27][🔸》join-leave-logs] InviteManager#3907: DaDerpyCarrot **left**; Invited by **MSThrowbacks😎 | GH**
+[09.04.2019][03:55:22][🔸》chat-logs] GameHub#0549: 
