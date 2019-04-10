@@ -6739,3 +6739,9 @@ https://discord.gg/2T259Pf
 [09.04.2019][10:27:20][🔵》slav-bot] Slav Bot#9008: ***taking image***
 [09.04.2019][10:27:24][🔵》slav-bot] Slav Bot#9008: ***Eat Pant***
 [10.04.2019][08:23:16][🔸》chat-logs] GameHub#0549: 
+[10.04.2019][11:38:07][🔵》slav-bot-warzone] Seth | GH#7796: s!ww
+[10.04.2019][11:38:07][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> There is no on-going WW session. Use `s!ww start` to start a new one.
+[10.04.2019][11:38:20][🔵》slav-bot-warzone] Seth | GH#7796: s!ww start
+[10.04.2019][11:38:20][🔵》slav-bot-warzone] Slav Bot#9008: 
+[10.04.2019][11:39:02][🔵》slav-bot-warzone] Seth | GH#7796: s!ww collect
+[10.04.2019][11:39:02][🔵》slav-bot-warzone] Slav Bot#9008: 
