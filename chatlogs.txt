@@ -6897,3 +6897,4 @@ https://merriemweebster.github.io/SlavBot/
 [10.04.2019][03:27:21][🔵》slav-bot] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: s!slav
 [10.04.2019][03:27:22][🔵》slav-bot] Slav Bot#9008: ***taking image***
 [10.04.2019][03:27:23][🔵》slav-bot] Slav Bot#9008: ***Slav'd***
+[10.04.2019][03:40:56][🔸》moderation-chat-logs] Administrative Message#3861: 
