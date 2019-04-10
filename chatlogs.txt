@@ -6882,3 +6882,18 @@ https://discord.gg/2T259Pf
 [10.04.2019][12:42:52][⚫》staff-chat] Aarib | GH#2092: Ok
 [10.04.2019][12:43:13][⚫》staff-chat] Aarib | GH#2092: I will be inactive for a while cuz I’m watching back to the future 3
 [10.04.2019][03:26:41][🔵》slav-bot] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: s!peds
+[10.04.2019][03:26:45][🔵》slav-bot] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: s!help
+[10.04.2019][03:26:45][🔵》slav-bot] Slav Bot#9008: View the entire command list on Slav Bot's site.
+
+To enable Slav Bot's respond system, use `s!respond enable`.
+To get the entire command list via a DM, use `s!help all` (If DMs are disabled, then the list will be sent to the channel).
+
+https://merriemweebster.github.io/SlavBot/
+[10.04.2019][03:26:50][🔵》slav-bot] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: s!help all
+[10.04.2019][03:27:04][🔵》slav-bot] Slav Bot#9008: <@435406608479158273> Sent you a DM with information.
+[10.04.2019][03:27:13][🔵》slav-bot] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: s!slav
+[10.04.2019][03:27:13][🔵》slav-bot] Slav Bot#9008: ***taking image***
+[10.04.2019][03:27:16][🔵》slav-bot] Slav Bot#9008: ***Slav'd***
+[10.04.2019][03:27:21][🔵》slav-bot] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: s!slav
+[10.04.2019][03:27:22][🔵》slav-bot] Slav Bot#9008: ***taking image***
+[10.04.2019][03:27:23][🔵》slav-bot] Slav Bot#9008: ***Slav'd***
