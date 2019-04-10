@@ -6783,3 +6783,57 @@ https://discord.gg/2T259Pf
 [10.04.2019][12:12:01][🔶》training-session] Aarib#2092: Yea I know
 [10.04.2019][12:12:13][🔶》training-session] Aarib#2092: !warn <@!366234394479951873> harassing someone
 [10.04.2019][12:12:13][🔸》moderation-chat-logs] GameHub#0549: 
+[10.04.2019][12:12:18][🔶》training-session] Aarib#2092: OwO
+[10.04.2019][12:12:37][🔶》training-session] Seth | GH#7796: Ok good don't worry you please get the perms after training
+[10.04.2019][12:12:42][🔶》training-session] Seth | GH#7796: Will
+[10.04.2019][12:12:45][🔶》training-session] Aarib#2092: Ok
+[10.04.2019][12:13:09][🔶》training-session] Seth | GH#7796: Ok what reasons would you mute someone
+[10.04.2019][12:13:28][🔶》training-session] Aarib#2092: When swearing or being gay
+[10.04.2019][12:13:44][🔶》training-session] Seth | GH#7796: Um being gay?
+[10.04.2019][12:13:44][🔶》training-session] Aarib#2092: Or being off topic
+[10.04.2019][12:14:08][🔶》training-session] Aarib#2092: Yea people do that I have come across them
+[10.04.2019][12:14:14][🔶》training-session] Seth | GH#7796: Ya know we don't tolerate homophobic stuff right?
+[10.04.2019][12:14:21][🔶》training-session] Aarib#2092: Yea
+[10.04.2019][12:14:31][🔶》training-session] Aarib#2092: Cuz this is a family friendly server
+[10.04.2019][12:14:39][🔶》training-session] Aarib#2092: Expect from <#529288281561759755>
+[10.04.2019][12:14:39][🔶》training-session] GameHub#0549: <@334288913961058304> just leveled up to level 1!
+[10.04.2019][12:14:39][🔶》training-session] Seth | GH#7796: Not really
+[10.04.2019][12:14:43][🔶》training-session] Aarib#2092: Ok
+[10.04.2019][12:15:10][🔶》training-session] Seth | GH#7796: Swearjng is also allowed but not when excessively targeted at someone
+[10.04.2019][12:15:19][🔶》training-session] Aarib#2092: Ok
+[10.04.2019][12:15:31][🔶》training-session] Seth | GH#7796: Refer to <#391268085153267712> for more details
+[10.04.2019][12:15:38][🔶》training-session] Aarib#2092: Ok
+[10.04.2019][12:15:46][🔶》training-session] Seth | GH#7796: Ok now do you know how to use the mute CMD?
+[10.04.2019][12:15:51][🔶》training-session] Aarib#2092: Yea
+[10.04.2019][12:15:54][🔶》training-session] Aarib#2092: !mute
+[10.04.2019][12:15:54][🔶》training-session] GameHub#0549: <@334288913961058304>, 🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**
+[10.04.2019][12:15:54][🔸》moderation-chat-logs] GameHub#0549: 
+[10.04.2019][12:16:10][🔶》training-session] Seth | GH#7796: You need to add all the arguments
+[10.04.2019][12:16:15][🔶》training-session] Aarib#2092: Yea
+[10.04.2019][12:16:27][🔶》training-session] Aarib#2092: !mute <@!366234394479951873> swearing
+[10.04.2019][12:16:27][🔶》training-session] GameHub#0549: <@334288913961058304>, 🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**
+[10.04.2019][12:16:27][🔸》moderation-chat-logs] GameHub#0549: 
+[10.04.2019][12:16:44][🔶》training-session] Seth | GH#7796: !mute mention time reason
+[10.04.2019][12:16:44][🔸》moderation-chat-logs] GameHub#0549: 
+[10.04.2019][12:16:44][🔶》training-session] GameHub#0549: <@!366234394479951873>, Couldn't find user.
+[10.04.2019][12:16:55][🔶》training-session] Seth | GH#7796: That's how you do it
+[10.04.2019][12:16:55][🔶》training-session] Aarib#2092: Oh yeah time
+[10.04.2019][12:17:00][🔶》training-session] Aarib#2092: Forgot about that
+[10.04.2019][12:17:37][🔶》training-session] Seth | GH#7796: Yea it's best to use seconds because sometimes hourly mites might not work due to technical reasons
+[10.04.2019][12:17:37][🔶》training-session] GameHub#0549: <@366234394479951873> just leveled up to level 107!
+[10.04.2019][12:17:44][🔶》training-session] Seth | GH#7796: Mutes
+[10.04.2019][12:17:55][🔶》training-session] Aarib#2092: Lol
+[10.04.2019][12:18:15][🔶》training-session] Aarib#2092: Like !mute <@!366234394479951873> 60s swearing
+[10.04.2019][12:18:20][🔶》training-session] Seth | GH#7796: Yes
+[10.04.2019][12:18:35][🔶》training-session] Seth | GH#7796: Now what reason would you kick someone?
+[10.04.2019][12:18:56][🔶》training-session] Aarib#2092: When breaking rules and has been warned 3 times
+[10.04.2019][12:19:13][🔶》training-session] Seth | GH#7796: Yep now you know how to use CMD?
+[10.04.2019][12:19:23][🔶》training-session] Aarib#2092: Yea I already did
+[10.04.2019][12:19:31][🔶》training-session] Aarib#2092: I have a bot just like <@529799064783421440>
+[10.04.2019][12:19:56][🔶》training-session] Seth | GH#7796: Yea well you know it's !kick mention reason as standard
+[10.04.2019][12:20:16][🔶》training-session] Aarib#2092: Yea
+[10.04.2019][12:20:22][🔶》training-session] Seth | GH#7796: Alright that should be it for commands now
+[10.04.2019][12:20:26][🔶》training-session] Aarib#2092: Ok next question
+[10.04.2019][12:20:27][🔶》training-session] Aarib#2092: Ok
+[10.04.2019][12:21:32][🔶》training-session] Seth | GH#7796: Do you accept that you need to act professionally when dealing with certain situations and not let your emotions cloud your judgement?
+[10.04.2019][12:21:43][🔶》training-session] Aarib#2092: Yes I do
