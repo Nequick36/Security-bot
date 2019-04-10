@@ -6837,3 +6837,39 @@ https://discord.gg/2T259Pf
 [10.04.2019][12:20:27][🔶》training-session] Aarib#2092: Ok
 [10.04.2019][12:21:32][🔶》training-session] Seth | GH#7796: Do you accept that you need to act professionally when dealing with certain situations and not let your emotions cloud your judgement?
 [10.04.2019][12:21:43][🔶》training-session] Aarib#2092: Yes I do
+[10.04.2019][12:22:16][🔶》training-session] Seth | GH#7796: Do you understand that if you abuse your power for any reason whatsoever it'll be instant demotion
+[10.04.2019][12:22:37][🔶》training-session] Aarib#2092: But before I make that decision I need to contact josh or you
+[10.04.2019][12:22:48][🔶》training-session] Seth | GH#7796: What decision
+[10.04.2019][12:23:21][🔶》training-session] Aarib#2092: That to ban someone or kick or mute
+[10.04.2019][12:23:58][🔶》training-session] Seth | GH#7796: Well if they are breaking the rules you have the authority to warn/kick them
+[10.04.2019][12:24:03][🔶》training-session] Aarib#2092: Ok
+[10.04.2019][12:24:05][🔶》training-session] Seth | GH#7796: And you can't ban
+[10.04.2019][12:24:21][🔶》training-session] Aarib#2092: K
+[10.04.2019][12:24:23][🔶》training-session] Seth | GH#7796: Only admins can
+[10.04.2019][12:24:53][🔶》training-session] Seth | GH#7796: Also you got any questions you can contact me Josh or karma
+[10.04.2019][12:25:01][🔶》training-session] Aarib#2092: Ok
+[10.04.2019][12:25:16][🔶》training-session] Seth | GH#7796: I think that should be it
+[10.04.2019][12:25:22][🔶》training-session] Aarib#2092: K
+[10.04.2019][12:25:34][🔶》training-session] Seth | GH#7796: I'll give you the roles now
+[10.04.2019][12:25:41][🔶》training-session] Aarib#2092: Ok
+[10.04.2019][12:25:56][🔸》moderation-chat-logs] Administrative Message#3861: 
+[10.04.2019][12:25:58][🔸》moderation-chat-logs] Administrative Message#3861: 
+[10.04.2019][12:26:00][🔸》moderation-chat-logs] Administrative Message#3861: 
+[10.04.2019][12:26:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[10.04.2019][12:26:54][⚫》staff-chat] Seth | GH#7796: <@&465983097394167808> guys please welcome our newly trained mod <@334288913961058304> !
+[10.04.2019][12:26:58][⚫》staff-chat] Aarib#2092: Hello
+[10.04.2019][12:27:27][🔶》training-session] Seth | GH#7796: !purge 100
+[10.04.2019][12:27:28][🔸》moderation-chat-logs] GameHub#0549: 
+[10.04.2019][12:27:28][🔸》chat-logs] GameHub#0549: 
+[10.04.2019][12:27:28][🔸》moderation-chat-logs] Administrative Message#3861: 
+[10.04.2019][12:28:36][⚫》staff-chat] Seth | GH#7796: <@334288913961058304> also add | GH next to your nick plz
+[10.04.2019][12:28:42][⚫》staff-chat] Aarib#2092: O
+[10.04.2019][12:28:53][🔸》moderation-chat-logs] Administrative Message#3861: 
+[10.04.2019][12:28:58][⚫》staff-chat] Aarib | GH#2092: Ok*
+[10.04.2019][12:29:16][⚫》staff-chat] Seth | GH#7796: Alright thx
+[10.04.2019][12:30:03][⚫》staff-chat] Aarib | GH#2092: Np
+[10.04.2019][12:30:25][🔸》moderation-chat-logs] Administrative Message#3861: 
+[10.04.2019][12:30:25][🔸》welcome] GameHub#0549: Welcome <@542346780679864329> to this server.
+[10.04.2019][12:30:25][🔸》moderation-chat-logs] GameHub#0549: 
+[10.04.2019][12:30:26][🔸》join-leave-logs] InviteManager#3907: <@542346780679864329> **joined**; Invited by **Aarib | GH** (**1** invites)
+[10.04.2019][12:30:26][🔸》moderation-chat-logs] Administrative Message#3861: 
