@@ -6745,3 +6745,26 @@ https://discord.gg/2T259Pf
 [10.04.2019][11:38:20][🔵》slav-bot-warzone] Slav Bot#9008: 
 [10.04.2019][11:39:02][🔵》slav-bot-warzone] Seth | GH#7796: s!ww collect
 [10.04.2019][11:39:02][🔵》slav-bot-warzone] Slav Bot#9008: 
+[10.04.2019][11:40:29][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy uk
+[10.04.2019][11:40:29][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[10.04.2019][11:40:42][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy UK
+[10.04.2019][11:40:42][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[10.04.2019][11:40:57][🔵》slav-bot-warzone] Seth | GH#7796: s!ww list
+[10.04.2019][11:40:57][🔵》slav-bot-warzone] Slav Bot#9008: 
+[10.04.2019][11:41:16][🔵》slav-bot-warzone] Seth | GH#7796: s!ww list
+[10.04.2019][11:41:16][🔵》slav-bot-warzone] Slav Bot#9008: 
+[10.04.2019][11:42:08][🔵》slav-bot-warzone] Seth | GH#7796: s!ww list
+[10.04.2019][11:42:08][🔵》slav-bot-warzone] Slav Bot#9008: 
+[10.04.2019][11:42:15][🔵》slav-bot-warzone] Seth | GH#7796: Oh ffs
+[10.04.2019][11:42:29][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy india
+[10.04.2019][11:42:29][🔵》slav-bot-warzone] Slav Bot#9008: 
+[10.04.2019][11:42:47][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy england
+[10.04.2019][11:42:48][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[10.04.2019][11:43:04][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy United Kingdom
+[10.04.2019][11:43:04][🔵》slav-bot-warzone] Slav Bot#9008: 
+[10.04.2019][11:43:23][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy us
+[10.04.2019][11:43:23][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[10.04.2019][11:43:44][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy United States
+[10.04.2019][11:43:44][🔵》slav-bot-warzone] Slav Bot#9008: 
+[10.04.2019][11:44:02][🔵》slav-bot-warzone] Seth | GH#7796: s!ww profile
+[10.04.2019][11:44:02][🔵》slav-bot-warzone] Slav Bot#9008: 
