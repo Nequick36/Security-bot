@@ -7059,3 +7059,19 @@ https://merriemweebster.github.io/SlavBot/
 [11.04.2019][12:13:38][🔸》suggestion-log] GameHub#0549: 
 [11.04.2019][12:13:38][🔸》moderation-chat-logs] GameHub#0549: 
 [11.04.2019][12:13:53][⚫》staff-bot-commands] Aarib | GH#2092: Done
+[11.04.2019][02:48:35][🔹》main-lounge] Josh | GH#4954: Wassup
+[11.04.2019][02:55:43][🔹》bot-commands] Seth | GH#7796: !lvllb
+[11.04.2019][02:55:43][🔸》moderation-chat-logs] GameHub#0549: 
+[11.04.2019][02:55:43][🔹》bot-commands] GameHub#0549: My leaderboard:
+ 
+1 - Joshua#4954 | level 108 | 103 xp
+2 - Seth#7796 | level 108 | 12 xp
+3 - ${j122}#9847 | level 87 | 53 xp
+4 - ~ Karma😜#1542 | level 46 | 58 xp
+5 - Jordan.#9218 | level 42 | 177 xp
+6 - sheg#1726 | level 35 | 52 xp
+7 - AL€X3411#9775 | level 26 | 11 xp
+8 - MySwordingThrowbacks#9776 | level 21 | 189 xp
+9 - ACE#8942 | level 17 | 16 xp
+10 - DavidB#5793 | level 11 | 4 xp
+[11.04.2019][02:55:55][🔹》bot-commands] Seth | GH#7796: Hmnnn
