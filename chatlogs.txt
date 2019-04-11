@@ -7107,3 +7107,10 @@ https://discord.gg/naJkSGE
 [11.04.2019][04:30:06][⚫》staff-bot-commands] Seth | GH#7796: ?modlogs
 [11.04.2019][04:30:06][⚫》staff-bot-commands] Administrative Message#3861: 
 [11.04.2019][04:30:06][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.04.2019][04:40:18][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.04.2019][04:40:18][🔸》welcome] GameHub#0549: Welcome <@564391407444426773> to this server.
+[11.04.2019][04:40:18][🔸》moderation-chat-logs] GameHub#0549: 
+[11.04.2019][04:40:19][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.04.2019][04:40:19][🔸》join-leave-logs] InviteManager#3907: <@564391407444426773> **joined**; Invited by **Seth | GH** (**45** invites)
+[11.04.2019][04:40:50][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.04.2019][04:40:50][🔸》join-leave-logs] InviteManager#3907: Me **left**; Invited by **Seth | GH**
