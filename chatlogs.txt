@@ -7114,3 +7114,246 @@ https://discord.gg/naJkSGE
 [11.04.2019][04:40:19][🔸》join-leave-logs] InviteManager#3907: <@564391407444426773> **joined**; Invited by **Seth | GH** (**45** invites)
 [11.04.2019][04:40:50][🔸》moderation-chat-logs] Administrative Message#3861: 
 [11.04.2019][04:40:50][🔸》join-leave-logs] InviteManager#3907: Me **left**; Invited by **Seth | GH**
+[11.04.2019][05:48:27][🔸》welcome] GameHub#0549: Welcome <@332373069651771405> to this server.
+[11.04.2019][05:48:27][🔸》moderation-chat-logs] GameHub#0549: 
+[11.04.2019][05:48:27][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.04.2019][05:48:27][🔸》join-leave-logs] InviteManager#3907: <@332373069651771405> **joined**; Invited by **Seth | GH** (**45** invites)
+[11.04.2019][05:48:55][🔵》akinator] MoltenWarrior#5284: ?
+[11.04.2019][05:49:28][🔵》akinator] MoltenWarrior#5284: !aki start
+[11.04.2019][05:49:28][🔵》akinator] GameHub#0549: Can't find that command! Please use !help
+[11.04.2019][05:49:28][🔸》moderation-chat-logs] GameHub#0549: 
+[11.04.2019][05:49:30][🔵》akinator] Aki#9694: 
+[11.04.2019][05:49:34][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:49:35][🔵》akinator] Aki#9694: 
+[11.04.2019][05:49:38][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:49:39][🔵》akinator] Aki#9694: 
+[11.04.2019][05:49:43][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:49:44][🔵》akinator] Aki#9694: 
+[11.04.2019][05:49:47][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:49:48][🔵》akinator] Aki#9694: 
+[11.04.2019][05:49:50][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:49:51][🔵》akinator] Aki#9694: 
+[11.04.2019][05:49:55][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:49:56][🔵》akinator] Aki#9694: 
+[11.04.2019][05:49:59][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:50:00][🔵》akinator] Aki#9694: 
+[11.04.2019][05:50:05][🔵》akinator] MoltenWarrior#5284: pn
+[11.04.2019][05:50:06][🔵》akinator] Aki#9694: 
+[11.04.2019][05:50:14][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:50:15][🔵》akinator] Aki#9694: 
+[11.04.2019][05:50:22][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:50:23][🔵》akinator] Aki#9694: 
+[11.04.2019][05:50:25][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:50:26][🔵》akinator] Aki#9694: 
+[11.04.2019][05:50:28][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:50:29][🔵》akinator] Aki#9694: 
+[11.04.2019][05:50:34][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:50:35][🔵》akinator] Aki#9694: 
+[11.04.2019][05:50:38][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:50:39][🔵》akinator] Aki#9694: 
+[11.04.2019][05:50:42][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:50:43][🔵》akinator] Aki#9694: 
+[11.04.2019][05:50:45][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:50:46][🔵》akinator] Aki#9694: 
+[11.04.2019][05:50:48][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:50:49][🔵》akinator] Aki#9694: 
+[11.04.2019][05:50:51][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:50:52][🔵》akinator] Aki#9694: 
+[11.04.2019][05:50:55][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:50:56][🔵》akinator] Aki#9694: 
+[11.04.2019][05:50:59][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:51:00][🔵》akinator] Aki#9694: 
+[11.04.2019][05:51:02][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:51:04][🔵》akinator] Aki#9694: 
+[11.04.2019][05:51:10][🔵》akinator] MoltenWarrior#5284: o
+[11.04.2019][05:51:12][🔵》akinator] MoltenWarrior#5284: p
+[11.04.2019][05:51:12][🔵》akinator] Aki#9694: 
+[11.04.2019][05:51:15][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:51:16][🔵》akinator] Aki#9694: 
+[11.04.2019][05:51:19][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:51:20][🔵》akinator] Aki#9694: 
+[11.04.2019][05:51:23][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:51:24][🔵》akinator] Aki#9694: 
+[11.04.2019][05:51:28][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:51:29][🔵》akinator] Aki#9694: 
+[11.04.2019][05:51:32][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:51:32][🔵》akinator] Aki#9694: 
+[11.04.2019][05:51:36][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:51:37][🔵》akinator] Aki#9694: 
+[11.04.2019][05:51:40][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:51:41][🔵》akinator] Aki#9694: 
+[11.04.2019][05:51:43][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:51:44][🔵》akinator] Aki#9694: 
+[11.04.2019][05:51:48][🔵》akinator] MoltenWarrior#5284: p
+[11.04.2019][05:51:49][🔵》akinator] Aki#9694: 
+[11.04.2019][05:51:51][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:51:52][🔵》akinator] Aki#9694: 
+[11.04.2019][05:51:56][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:51:57][🔵》akinator] Aki#9694: <:destroyedthink:463770728936767498>
+[11.04.2019][05:52:00][🔵》akinator] Aki#9694: 
+[11.04.2019][05:52:08][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:52:09][🔵》akinator] Aki#9694: 
+[11.04.2019][05:52:15][🔵》akinator] MoltenWarrior#5284: !aki start
+[11.04.2019][05:52:16][🔵》akinator] GameHub#0549: Can't find that command! Please use !help
+[11.04.2019][05:52:16][🔸》moderation-chat-logs] GameHub#0549: 
+[11.04.2019][05:52:16][🔵》akinator] GameHub#0549: <@332373069651771405> just leveled up to level 1!
+[11.04.2019][05:52:17][🔵》akinator] Aki#9694: 
+[11.04.2019][05:52:23][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:52:24][🔵》akinator] Aki#9694: 
+[11.04.2019][05:52:43][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:52:44][🔵》akinator] Aki#9694: 
+[11.04.2019][05:52:47][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:52:48][🔵》akinator] Aki#9694: 
+[11.04.2019][05:52:50][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:52:51][🔵》akinator] Aki#9694: 
+[11.04.2019][05:52:54][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:52:55][🔵》akinator] Aki#9694: 
+[11.04.2019][05:52:57][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:52:59][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:01][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:53:02][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:04][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:53:05][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:08][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:53:09][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:11][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:53:12][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:15][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:53:15][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:18][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:53:19][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:21][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:53:22][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:24][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:53:25][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:32][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:53:33][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:36][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:53:37][🔵》akinator] Aki#9694: <:thinkingwithblobs:463767299950641155>
+[11.04.2019][05:53:40][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:44][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:53:44][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:48][🔵》akinator] MoltenWarrior#5284: !aki start
+[11.04.2019][05:53:48][🔸》moderation-chat-logs] GameHub#0549: 
+[11.04.2019][05:53:48][🔵》akinator] GameHub#0549: Can't find that command! Please use !help
+[11.04.2019][05:53:50][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:54][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:53:55][🔵》akinator] Aki#9694: 
+[11.04.2019][05:53:57][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:53:58][🔵》akinator] Aki#9694: 
+[11.04.2019][05:54:00][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:54:01][🔵》akinator] Aki#9694: 
+[11.04.2019][05:54:09][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:54:10][🔵》akinator] Aki#9694: 
+[11.04.2019][05:54:12][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:54:13][🔵》akinator] Aki#9694: 
+[11.04.2019][05:54:15][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:54:16][🔵》akinator] Aki#9694: 
+[11.04.2019][05:54:22][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:54:23][🔵》akinator] Aki#9694: 
+[11.04.2019][05:54:25][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:54:26][🔵》akinator] Aki#9694: 
+[11.04.2019][05:54:29][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:54:30][🔵》akinator] Aki#9694: 
+[11.04.2019][05:54:32][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:54:33][🔵》akinator] Aki#9694: 
+[11.04.2019][05:54:36][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:54:37][🔵》akinator] Aki#9694: 
+[11.04.2019][05:54:39][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:54:40][🔵》akinator] Aki#9694: 
+[11.04.2019][05:54:44][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:54:44][🔵》akinator] Aki#9694: 
+[11.04.2019][05:54:47][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:54:48][🔵》akinator] Aki#9694: <:frenching:463770730157441058>
+[11.04.2019][05:54:50][🔵》akinator] Aki#9694: 
+[11.04.2019][05:54:59][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:55:00][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:05][🔵》akinator] MoltenWarrior#5284: !aki starts=
+[11.04.2019][05:55:05][🔸》moderation-chat-logs] GameHub#0549: 
+[11.04.2019][05:55:05][🔵》akinator] GameHub#0549: Can't find that command! Please use !help
+[11.04.2019][05:55:06][🔵》akinator] GameHub#0549: <@332373069651771405> just leveled up to level 2!
+[11.04.2019][05:55:07][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:10][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:55:11][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:14][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:55:14][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:17][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:55:18][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:20][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:55:21][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:23][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:55:24][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:26][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:55:27][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:29][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:55:31][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:33][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:55:34][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:36][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:55:37][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:39][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:55:40][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:42][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:55:43][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:45][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:55:46][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:48][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:55:48][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:51][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:55:52][🔵》akinator] Aki#9694: 
+[11.04.2019][05:55:56][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:55:57][🔵》akinator] Aki#9694: 
+[11.04.2019][05:56:01][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:56:02][🔵》akinator] Aki#9694: 
+[11.04.2019][05:56:04][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:56:05][🔵》akinator] Aki#9694: 
+[11.04.2019][05:56:08][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:56:09][🔵》akinator] Aki#9694: <:blobhyperthonkangonfire:463767299925475350>
+[11.04.2019][05:56:11][🔵》akinator] Aki#9694: 
+[11.04.2019][05:56:31][🔵》akinator] MoltenWarrior#5284: !aki start
+[11.04.2019][05:56:31][🔵》akinator] GameHub#0549: Can't find that command! Please use !help
+[11.04.2019][05:56:31][🔸》moderation-chat-logs] GameHub#0549: 
+[11.04.2019][05:56:32][🔵》akinator] Aki#9694: 
+[11.04.2019][05:56:35][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:56:36][🔵》akinator] Aki#9694: 
+[11.04.2019][05:56:39][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:56:40][🔵》akinator] Aki#9694: 
+[11.04.2019][05:56:42][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:56:43][🔵》akinator] Aki#9694: 
+[11.04.2019][05:56:45][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:56:46][🔵》akinator] Aki#9694: 
+[11.04.2019][05:56:48][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:56:49][🔵》akinator] Aki#9694: 
+[11.04.2019][05:56:51][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:56:52][🔵》akinator] Aki#9694: 
+[11.04.2019][05:56:54][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:56:55][🔵》akinator] Aki#9694: 
+[11.04.2019][05:56:57][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:56:58][🔵》akinator] Aki#9694: 
+[11.04.2019][05:57:00][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:57:01][🔵》akinator] Aki#9694: 
+[11.04.2019][05:57:03][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:57:04][🔵》akinator] Aki#9694: 
+[11.04.2019][05:57:09][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:57:09][🔵》akinator] Aki#9694: 
+[11.04.2019][05:57:14][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:57:14][🔵》akinator] Aki#9694: 
+[11.04.2019][05:57:19][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:57:20][🔵》akinator] Aki#9694: 
+[11.04.2019][05:57:23][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:57:23][🔵》akinator] Aki#9694: 
+[11.04.2019][05:57:26][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:57:31][🔵》akinator] Aki#9694: 
+[11.04.2019][05:57:33][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:57:34][🔵》akinator] GameHub#0549: <@332373069651771405> just leveled up to level 3!
+[11.04.2019][05:57:34][🔵》akinator] Aki#9694: 
+[11.04.2019][05:57:38][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:57:39][🔵》akinator] Aki#9694: 
+[11.04.2019][05:57:41][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:57:42][🔵》akinator] Aki#9694: 
+[11.04.2019][05:57:44][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:57:45][🔵》akinator] Aki#9694: 
+[11.04.2019][05:57:47][🔵》akinator] MoltenWarrior#5284: y
+[11.04.2019][05:57:48][🔵》akinator] Aki#9694: 
+[11.04.2019][05:57:52][🔵》akinator] MoltenWarrior#5284: n
+[11.04.2019][05:57:53][🔵》akinator] Aki#9694: 
