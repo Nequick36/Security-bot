@@ -7102,3 +7102,8 @@ https://cdn.discordapp.com/attachments/390420477912416256/409556852440039434/AYS
 https://discord.gg/naJkSGE
 <@&530727744179273728>
 [11.04.2019][03:14:41][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.04.2019][04:29:57][⚫》staff-bot-commands] Seth | GH#7796: ?modloga
+[11.04.2019][04:30:01][⚫》staff-bot-commands] Seth | GH#7796: ?modloga
+[11.04.2019][04:30:06][⚫》staff-bot-commands] Seth | GH#7796: ?modlogs
+[11.04.2019][04:30:06][⚫》staff-bot-commands] Administrative Message#3861: 
+[11.04.2019][04:30:06][🔸》moderation-chat-logs] Administrative Message#3861: 
