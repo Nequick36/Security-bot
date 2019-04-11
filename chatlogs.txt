@@ -7054,3 +7054,8 @@ https://merriemweebster.github.io/SlavBot/
 [11.04.2019][12:10:54][⚫》staff-bot-commands] Aarib | GH#2092: You should add a command that shows the history of all warns
 [11.04.2019][12:10:54][⚫》staff-bot-commands] GameHub#0549: <@334288913961058304> just leveled up to level 2!
 [11.04.2019][12:12:48][⚫》staff-bot-commands] Seth | GH#7796: Add that in <#484741634425225249> using !suggest  <@334288913961058304>
+[11.04.2019][12:13:38][🔹》suggestions] Aarib | GH#2092: !suggest !warnlogs command for staff to check everyones warns in the server
+[11.04.2019][12:13:38][🔹》suggestions] GameHub#0549: **Your suggestion has been submitted** <@334288913961058304>
+[11.04.2019][12:13:38][🔸》suggestion-log] GameHub#0549: 
+[11.04.2019][12:13:38][🔸》moderation-chat-logs] GameHub#0549: 
+[11.04.2019][12:13:53][⚫》staff-bot-commands] Aarib | GH#2092: Done
