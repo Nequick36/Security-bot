@@ -7442,3 +7442,17 @@ https://discord.gg/naJkSGE
 [12.04.2019][11:11:55][🔹》bot-commands] Seth | GH#7796: !work
 [12.04.2019][11:11:55][🔸》moderation-chat-logs] GameHub#0549: 
 [12.04.2019][11:11:55][🔹》bot-commands] GameHub#0549: <@!366234394479951873>, Aww, you did not do your job well so you earned nothing!
+[12.04.2019][11:12:18][🔵》slav-bot-warzone] Seth | GH#7796: s!ww collect
+[12.04.2019][11:12:18][🔵》slav-bot-warzone] Slav Bot#9008: 
+[12.04.2019][11:12:51][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy canada
+[12.04.2019][11:12:51][🔵》slav-bot-warzone] Slav Bot#9008: 
+[12.04.2019][11:13:05][🔵》slav-bot-warzone] Seth | GH#7796: s!ww profile
+[12.04.2019][11:13:05][🔵》slav-bot-warzone] Slav Bot#9008: 
+[12.04.2019][11:13:33][🔹》main-lounge] Seth | GH#7796: <@311490111495995394> welcome man
+[12.04.2019][11:14:45][🔵》slav-bot] Seth | GH#7796: s!shot
+[12.04.2019][11:14:45][🔵》slav-bot] Slav Bot#9008: ***Getting another bottle of Vodka...***
+[12.04.2019][11:14:46][🔵》slav-bot] Slav Bot#9008: ***Opening Bottle...***
+[12.04.2019][11:14:48][🔵》slav-bot] Slav Bot#9008: ***Pouring Shot...***
+[12.04.2019][11:14:48][🔵》slav-bot] Slav Bot#9008: ***Taking 7 shot(s) of Vodka...***
+[12.04.2019][11:14:50][🔵》slav-bot] Slav Bot#9008: <@366234394479951873> *remains sober...*
+[12.04.2019][11:14:51][🔵》slav-bot] Slav Bot#9008: *A True Slav!*
