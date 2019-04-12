@@ -7549,3 +7549,6 @@ https://discord.gg/naJkSGE
 [12.04.2019][04:52:15][🔸》moderation-chat-logs] Administrative Message#3861: 
 [12.04.2019][04:52:15][🔸》chat-logs] GameHub#0549: 
 [12.04.2019][04:55:23][⚫》timezones] Aarib | GH#2092: London, UK (GMT+1)
+[12.04.2019][06:56:39][🔹》bot-commands] Josh | GH#4954: What a twat
+[12.04.2019][06:56:56][🔹》bot-commands] Josh | GH#4954: Keep spamming commands
+[12.04.2019][06:56:58][🔹》bot-commands] Josh | GH#4954: Cheater
