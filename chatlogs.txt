@@ -7439,3 +7439,6 @@ https://discord.gg/naJkSGE
 [12.04.2019][10:20:02][🔸》moderation-chat-logs] Administrative Message#3861: 
 [12.04.2019][10:20:02][🔸》moderation-chat-logs] GameHub#0549: 
 [12.04.2019][10:20:02][🔸》join-leave-logs] InviteManager#3907: <@311490111495995394> **joined**; Invited by **Aarib | GH** (**2** invites)
+[12.04.2019][11:11:55][🔹》bot-commands] Seth | GH#7796: !work
+[12.04.2019][11:11:55][🔸》moderation-chat-logs] GameHub#0549: 
+[12.04.2019][11:11:55][🔹》bot-commands] GameHub#0549: <@!366234394479951873>, Aww, you did not do your job well so you earned nothing!
