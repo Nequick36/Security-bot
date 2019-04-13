@@ -7682,3 +7682,7 @@ https://discord.gg/2T259Pf
 [13.04.2019][07:34:40][🔸》join-leave-logs] InviteManager#3907: Trydent. **left**; Invited by **Brandonite**
 [13.04.2019][09:42:31][🔸》chat-logs] GameHub#0549: 
 [13.04.2019][09:46:03][🔸》chat-logs] GameHub#0549: 
+[13.04.2019][10:29:47][🔸》moderation-chat-logs] Administrative Message#3861: 
+[13.04.2019][10:31:26][⚫》reports] Seth | GH#7796: Should we get rid of this channel?
+[13.04.2019][10:32:23][🔸》moderation-chat-logs] Administrative Message#3861: 
+[13.04.2019][10:32:26][🔸》moderation-chat-logs] Administrative Message#3861: 
