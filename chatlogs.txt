@@ -7560,3 +7560,19 @@ https://discord.gg/naJkSGE
 [12.04.2019][10:07:54][🔹》bot-commands] Seth | GH#7796: <@349250638632452096> bitch
 [12.04.2019][10:51:34][🔹》main-lounge] AL€X3411 | GH#9775: MOMMY PIG
 [12.04.2019][10:51:40][🔹》main-lounge] AL€X3411 | GH#9775: IM PAPA PIG
+[13.04.2019][12:34:51][🔵》slav-bot] AL€X3411 | GH#9775: s!dog
+[13.04.2019][12:34:55][🔵》slav-bot] AL€X3411 | GH#9775: s!cst
+[13.04.2019][12:34:59][🔵》slav-bot] AL€X3411 | GH#9775: s!help
+[13.04.2019][12:34:59][🔵》slav-bot] Slav Bot#9008: View the entire command list on Slav Bot's site.
+
+To enable Slav Bot's respond system, use `s!respond enable`.
+To get the entire command list via a DM, use `s!help all` (If DMs are disabled, then the list will be sent to the channel).
+
+https://merriemweebster.github.io/SlavBot/
+[13.04.2019][12:34:59][🔵》slav-bot] Slav Bot#9008: For any further help, visit our support server
+
+https://discord.gg/2T259Pf
+[13.04.2019][12:35:09][🔵》slav-bot] AL€X3411 | GH#9775: s!help all
+[13.04.2019][12:35:21][🔵》slav-bot] Slav Bot#9008: <@471447002207617024> Sent you a DM with information.
+[13.04.2019][12:35:28][🔵》slav-bot] AL€X3411 | GH#9775: s!greentext
+[13.04.2019][12:35:29][🔵》slav-bot] Slav Bot#9008: ***Anon posts on reddit***
