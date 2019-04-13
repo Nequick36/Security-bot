@@ -7623,3 +7623,5 @@ https://discord.gg/2T259Pf
 [13.04.2019][01:02:05][🔵》slav-bot-warzone] Slav Bot#9008: <@349250638632452096> No parameter given. Use `s!help ww` for help.
 [13.04.2019][01:02:12][🔵》slav-bot-warzone] Josh | GH#4954: s!ww collect
 [13.04.2019][01:02:12][🔵》slav-bot-warzone] Slav Bot#9008: 
+[13.04.2019][01:02:26][🔵》slav-bot-warzone] Josh | GH#4954: s!ww profile
+[13.04.2019][01:02:26][🔵》slav-bot-warzone] Slav Bot#9008: 
