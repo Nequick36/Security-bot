@@ -7660,3 +7660,20 @@ https://discord.gg/2T259Pf
 [13.04.2019][04:17:51][🔵》slav-bot-warzone] Slav Bot#9008: 
 [13.04.2019][04:18:22][🔵》slav-bot-warzone] Josh | GH#4954: s!ww buy Germany
 [13.04.2019][04:18:22][🔵》slav-bot-warzone] Slav Bot#9008: 
+[13.04.2019][04:27:38][🔵》slav-bot-warzone] AL€X3411 | GH#9775: s!buy Venezuela
+[13.04.2019][04:27:46][🔵》slav-bot-warzone] AL€X3411 | GH#9775: s!ww buy Venezuela
+[13.04.2019][04:27:46][🔵》slav-bot-warzone] Slav Bot#9008: <@471447002207617024> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[13.04.2019][04:28:21][🔵》slav-bot-warzone] AL€X3411 | GH#9775: s!ww buy 241
+[13.04.2019][04:28:22][🔵》slav-bot-warzone] Slav Bot#9008: 
+[13.04.2019][04:28:26][🔵》slav-bot-warzone] AL€X3411 | GH#9775: yay
+[13.04.2019][04:28:50][🔵》slav-bot-warzone] AL€X3411 | GH#9775: Please don't buy it again, that's my birthplace
+[13.04.2019][04:29:19][🔵》slav-bot-warzone] AL€X3411 | GH#9775: s!ww daily
+[13.04.2019][04:29:20][🔵》slav-bot-warzone] Slav Bot#9008: <@471447002207617024> No parameter given. Use `s!help ww` for help.
+[13.04.2019][04:29:27][🔵》slav-bot-warzone] AL€X3411 | GH#9775: s!help ww
+[13.04.2019][04:29:28][🔵》slav-bot-warzone] Slav Bot#9008: <@471447002207617024> Sent you a DM with information.
+[13.04.2019][04:29:57][🔵》slav-bot-warzone] AL€X3411 | GH#9775: s!ww collect
+[13.04.2019][04:29:57][🔵》slav-bot-warzone] Slav Bot#9008: 
+[13.04.2019][04:31:50][🔵》slav-bot-warzone] AL€X3411 | GH#9775: s!ww buy 103
+[13.04.2019][04:31:51][🔵》slav-bot-warzone] Slav Bot#9008: 
+[13.04.2019][04:32:22][🔵》slav-bot-warzone] AL€X3411 | GH#9775: s!ww buy 215
+[13.04.2019][04:32:22][🔵》slav-bot-warzone] Slav Bot#9008: 
