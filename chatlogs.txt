@@ -7610,3 +7610,16 @@ https://discord.gg/2T259Pf
 [13.04.2019][11:20:35][🔹》main-lounge] Jordan | GH#9218: Something wrong with this server?
 [13.04.2019][11:20:58][🔸》chat-logs] GameHub#0549: 
 [13.04.2019][11:35:54][🔹》main-lounge] Seth | GH#7796: What
+[13.04.2019][12:53:20][🔵》slav-bot-warzone] Seth | GH#7796: s!ww collect
+[13.04.2019][12:53:20][🔵》slav-bot-warzone] Slav Bot#9008: 
+[13.04.2019][12:53:42][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy Australia
+[13.04.2019][12:53:42][🔵》slav-bot-warzone] Slav Bot#9008: 
+[13.04.2019][12:54:00][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy new Zealand
+[13.04.2019][12:54:00][🔵》slav-bot-warzone] Slav Bot#9008: 
+[13.04.2019][12:54:16][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy china
+[13.04.2019][12:54:17][🔵》slav-bot-warzone] Slav Bot#9008: 
+[13.04.2019][01:01:58][🔵》slav-bot-warzone] Josh | GH#4954: oh not this
+[13.04.2019][01:02:05][🔵》slav-bot-warzone] Josh | GH#4954: s!ww
+[13.04.2019][01:02:05][🔵》slav-bot-warzone] Slav Bot#9008: <@349250638632452096> No parameter given. Use `s!help ww` for help.
+[13.04.2019][01:02:12][🔵》slav-bot-warzone] Josh | GH#4954: s!ww collect
+[13.04.2019][01:02:12][🔵》slav-bot-warzone] Slav Bot#9008: 
