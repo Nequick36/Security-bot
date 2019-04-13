@@ -7677,3 +7677,6 @@ https://discord.gg/2T259Pf
 [13.04.2019][04:31:51][🔵》slav-bot-warzone] Slav Bot#9008: 
 [13.04.2019][04:32:22][🔵》slav-bot-warzone] AL€X3411 | GH#9775: s!ww buy 215
 [13.04.2019][04:32:22][🔵》slav-bot-warzone] Slav Bot#9008: 
+[13.04.2019][07:32:15][🔸》welcome] GameHub#0549: Trydent.#3689 has left the server.
+[13.04.2019][07:32:15][🔸》moderation-chat-logs] Administrative Message#3861: 
+[13.04.2019][07:34:40][🔸》join-leave-logs] InviteManager#3907: Trydent. **left**; Invited by **Brandonite**
