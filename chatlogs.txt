@@ -7725,3 +7725,4 @@ Map {}
 [14.04.2019][04:14:05][🔵》slav-bot-warzone] Slav Bot#9008: 
 [14.04.2019][04:14:22][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy india
 [14.04.2019][04:14:22][🔵》slav-bot-warzone] Slav Bot#9008: 
+[14.04.2019][09:36:18][🔸》chat-logs] GameHub#0549: 
