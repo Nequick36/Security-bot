@@ -7716,3 +7716,12 @@ SyntaxError: Unexpected number
 ```
 [14.04.2019][04:11:31][🔸》chat-logs] GameHub#0549: 
 [14.04.2019][04:11:31][🔸》moderation-chat-logs] Administrative Message#3861: 
+[14.04.2019][04:13:41][🔹console] Seth | GH#7796: bot.workCooldown
+[14.04.2019][04:13:41][🔹console] GameHub#0549: ```xl
+Map {}
+```
+[14.04.2019][04:13:55][🔹console] Josh | GH#4954: Can you piss off
+[14.04.2019][04:14:05][🔵》slav-bot-warzone] Seth | GH#7796: s!ww collect
+[14.04.2019][04:14:05][🔵》slav-bot-warzone] Slav Bot#9008: 
+[14.04.2019][04:14:22][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy india
+[14.04.2019][04:14:22][🔵》slav-bot-warzone] Slav Bot#9008: 
