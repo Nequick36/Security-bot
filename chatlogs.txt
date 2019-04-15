@@ -7741,3 +7741,6 @@ ReferenceError: What is not defined
 [15.04.2019][07:13:11][🔹》main-lounge] Josh | GH#4954: 
 [15.04.2019][08:23:06][🔹》main-lounge] Seth | GH#7796: Oh no no no
 [15.04.2019][09:51:53][🔹》main-lounge] Josh | GH#4954: Hahaaaaaaa
+[15.04.2019][11:00:24][🔹》main-lounge] AL€X3411 | GH#9775: Why it says image0.jpg?
+[15.04.2019][11:00:28][🔹》main-lounge] AL€X3411 | GH#9775: Hmm
+[15.04.2019][11:00:45][🔹》main-lounge] AL€X3411 | GH#9775: Oh is a photo
