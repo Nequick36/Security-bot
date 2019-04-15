@@ -7744,3 +7744,4 @@ ReferenceError: What is not defined
 [15.04.2019][11:00:24][🔹》main-lounge] AL€X3411 | GH#9775: Why it says image0.jpg?
 [15.04.2019][11:00:28][🔹》main-lounge] AL€X3411 | GH#9775: Hmm
 [15.04.2019][11:00:45][🔹》main-lounge] AL€X3411 | GH#9775: Oh is a photo
+[15.04.2019][11:48:37][🔸》chat-logs] GameHub#0549: 
