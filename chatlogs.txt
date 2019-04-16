@@ -7749,3 +7749,5 @@ ReferenceError: What is not defined
 [16.04.2019][01:26:23][🔸》welcome] GameHub#0549: Dots#4336 has left the server.
 [16.04.2019][01:26:23][🔸》join-leave-logs] InviteManager#3907: Dots **left**; Invited by **Josh | GH**
 [16.04.2019][02:10:19][🔸》chat-logs] GameHub#0549: 
+[16.04.2019][02:40:32][🔸》chat-logs] GameHub#0549: 
+[16.04.2019][02:43:20][🔸》chat-logs] GameHub#0549: 
