@@ -7763,3 +7763,4 @@ ReferenceError: What is not defined
 [16.04.2019][03:04:57][🔵》slav-bot] Seth | GH#7796: s!greentext
 [16.04.2019][03:04:58][🔵》slav-bot] Slav Bot#9008: ***Anon drinks hot chocolate***
 [16.04.2019][03:06:32][🔵》slav-bot] Seth | GH#7796: Omg
+[16.04.2019][05:15:14][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ||```did you know that you can do this?```||
