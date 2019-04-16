@@ -7751,3 +7751,5 @@ ReferenceError: What is not defined
 [16.04.2019][02:10:19][🔸》chat-logs] GameHub#0549: 
 [16.04.2019][02:40:32][🔸》chat-logs] GameHub#0549: 
 [16.04.2019][02:43:20][🔸》chat-logs] GameHub#0549: 
+[16.04.2019][03:48:16][🔴》nsfw-chat] Krin#4786: Bbgif
+[16.04.2019][03:48:16][🔴》nsfw-chat] BoobBot🐰#5382: 
