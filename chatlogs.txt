@@ -7887,3 +7887,4 @@ Promise { <pending> }
 SyntaxError: Unexpected token <
 ```
 [16.04.2019][06:45:02][🔸》moderation-chat-logs] Administrative Message#3861: 
+[16.04.2019][07:00:08][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ?members
