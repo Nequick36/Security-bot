@@ -7914,3 +7914,49 @@ SyntaxError: Unexpected token <
 8 - MySwordingThrowbacks#9776 | level 21 | 189 xp
 9 - Hacylon#0001 | level 17 | 83 xp
 10 - DavidB#5793 | level 11 | 4 xp
+[16.04.2019][08:17:15][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: !lvllb
+[16.04.2019][08:17:15][🔸》moderation-chat-logs] GameHub#0549: 
+[16.04.2019][08:17:15][🔹》bot-commands] GameHub#0549: My leaderboard:
+ 
+1 - Seth#7796 | level 110 | 5 xp
+2 - Joshua#4954 | level 109 | 31 xp
+3 - ${j122}#9847 | level 87 | 195 xp
+4 - ~ Karma😜#1542 | level 46 | 58 xp
+5 - Jordan.#9218 | level 42 | 178 xp
+6 - sheg#1726 | level 35 | 52 xp
+7 - AL€X3411#9775 | level 26 | 159 xp
+8 - MySwordingThrowbacks#9776 | level 21 | 189 xp
+9 - Hacylon#0001 | level 17 | 83 xp
+10 - DavidB#5793 | level 11 | 4 xp
+[16.04.2019][08:17:20][🔹》check-your-score] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: t!top
+[16.04.2019][08:17:21][🔹》check-your-score] GameHub#0549: <@435406608479158273> just leveled up to level 88!
+[16.04.2019][08:17:21][🔹》check-your-score] Tatsumaki#8792: 🏙  |  **Guild Score Leaderboards for GameHub**
+
+```pl
+📋 Rank | Name
+
+[1]     > #Joshua
+			Total Score: 38588     
+[2]     > #Seth
+			Total Score: 36701     
+[3]     > #${j122}
+			Total Score: 19218     
+[4]     > #𝖒𝖔𝖔𝖉
+			Total Score: 9921      
+[5]     > #~ Karma😜
+			Total Score: 9320      
+[6]     > #AL€X3411
+			Total Score: 8799      
+[7]     > #OfficialHypro
+			Total Score: 8010      
+[8]     > #sheg
+			Total Score: 5885      
+[9]     > #👑King Felidae😸
+			Total Score: 4491      
+[10]    > #popyoshi06🐸jack🥚
+			Total Score: 4270      
+-------------------------------------
+# Your Guild Placing Stats
+😐 Rank: 3	Total Score: 19218
+```
+[16.04.2019][08:20:33][🔸》chat-logs] GameHub#0549: 
