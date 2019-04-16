@@ -7755,3 +7755,11 @@ ReferenceError: What is not defined
 [16.04.2019][03:48:16][🔴》nsfw-chat] BoobBot🐰#5382: 
 [16.04.2019][01:39:02][🔸》chat-logs] GameHub#0549: 
 [16.04.2019][01:40:15][🔸》chat-logs] GameHub#0549: 
+[16.04.2019][03:01:26][🔵》slav-bot-warzone] Seth | GH#7796: s!ww collect
+[16.04.2019][03:01:47][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy United States
+[16.04.2019][03:01:47][🔵》slav-bot-warzone] Slav Bot#9008: 
+[16.04.2019][03:02:28][🔵》slav-bot-warzone] Seth | GH#7796: s!ww profile
+[16.04.2019][03:02:29][🔵》slav-bot-warzone] Slav Bot#9008: 
+[16.04.2019][03:04:57][🔵》slav-bot] Seth | GH#7796: s!greentext
+[16.04.2019][03:04:58][🔵》slav-bot] Slav Bot#9008: ***Anon drinks hot chocolate***
+[16.04.2019][03:06:32][🔵》slav-bot] Seth | GH#7796: Omg
