@@ -7882,3 +7882,7 @@ Promise { <pending> }
 [16.04.2019][05:47:28][🔸》chat-logs] GameHub#0549: 
 [16.04.2019][05:47:28][🔸》moderation-chat-logs] Administrative Message#3861: 
 [16.04.2019][05:47:43][🔹》main-lounge] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: sry for using command i used just to test something
+[16.04.2019][06:37:13][🔹console] Seth | GH#7796: <@435406608479158273> guess
+[16.04.2019][06:37:13][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected token <
+```
