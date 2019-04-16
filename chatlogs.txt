@@ -7888,3 +7888,13 @@ SyntaxError: Unexpected token <
 ```
 [16.04.2019][06:45:02][🔸》moderation-chat-logs] Administrative Message#3861: 
 [16.04.2019][07:00:08][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ?members
+[16.04.2019][07:12:45][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ?joke
+[16.04.2019][07:12:45][🔹development-chat] Administrative Message#3861: <:dynoError:314691684455809024> Error 404: Humor module not found!
+[16.04.2019][07:12:50][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ?joke
+[16.04.2019][07:12:50][🔹development-chat] Administrative Message#3861: <:dynoError:314691684455809024> Error 404: Humor module not found!
+[16.04.2019][07:12:52][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ?joke
+[16.04.2019][07:12:53][🔹development-chat] Administrative Message#3861: <:dynoError:314691684455809024> Error 404: Humor module not found!
+[16.04.2019][07:14:48][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ?dog
+[16.04.2019][07:14:48][🔹development-chat] Administrative Message#3861: Looking for a doggo...
+[16.04.2019][07:15:07][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ?invite
+[16.04.2019][07:15:11][🔹development-chat] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ?help
