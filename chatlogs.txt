@@ -7801,3 +7801,59 @@ SyntaxError: await is only valid in async function
 SyntaxError: Unexpected identifier
 ```
 [16.04.2019][05:34:18][🔸》chat-logs] GameHub#0549: 
+[16.04.2019][05:35:45][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: message.guild.fetchInvites().then(invites => {
+message.channel.send(invites.map())
+})
+[16.04.2019][05:35:46][🔹console] GameHub#0549: ```xl
+Promise { <pending> }
+```
+[16.04.2019][05:36:02][🔸》moderation-chat-logs] Administrative Message#3861: 
+[16.04.2019][05:36:02][🔸》chat-logs] GameHub#0549: 
+[16.04.2019][05:36:08][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: message.guild.fetchInvites().then(invites => {
+message.channel.send(invites.map(r => {
+return r.code
+}))
+})
+[16.04.2019][05:36:08][🔹console] GameHub#0549: ```xl
+Promise { <pending> }
+```
+[16.04.2019][05:36:08][🔹console] GameHub#0549: 6qnuaJ
+8PYHwNB
+CKa3X5a
+DJYFzmX
+EwbfEmj
+Z7Vqcnj
+bzGWEjC
+ePqRTbH
+n4Zw5ZC
+[16.04.2019][05:36:16][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: <@!366234394479951873> you see
+[16.04.2019][05:36:16][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected token <
+```
+[16.04.2019][05:36:24][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: these are the invite codes
+[16.04.2019][05:36:24][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[16.04.2019][05:36:40][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: https://discord.gg/6qnuaJ
+[16.04.2019][05:36:40][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected end of input
+```
+[16.04.2019][05:36:40][🔸》moderation-chat-logs] Administrative Message#3861: 
+[16.04.2019][05:36:40][🔸》chat-logs] GameHub#0549: 
+[16.04.2019][05:36:40][🔸》moderation-chat-logs] Administrative Message#3861: 
+[16.04.2019][05:36:40][🔸》chat-logs] GameHub#0549: 
+[16.04.2019][05:36:40][🔸》moderation-chat-logs] Administrative Message#3861: 
+[16.04.2019][05:36:46][🔸》chat-logs] GameHub#0549: 
+[16.04.2019][05:37:17][🔹console] Seth | GH#7796: Yea ok I get it
+[16.04.2019][05:37:17][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[16.04.2019][05:37:37][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: btw why does floating ninja has perms
+[16.04.2019][05:37:37][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[16.04.2019][05:38:47][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: message.member.addRole(message.guild.roles.find(r => r.name === 'Alpha Tester'))
+[16.04.2019][05:38:47][🔸》moderation-chat-logs] Administrative Message#3861: 
+[16.04.2019][05:38:47][🔹console] GameHub#0549: ```xl
+Promise { <pending> }
+```
