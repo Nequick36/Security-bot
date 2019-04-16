@@ -7886,3 +7886,4 @@ Promise { <pending> }
 [16.04.2019][06:37:13][🔹console] GameHub#0549: `ERROR` ```xl
 SyntaxError: Unexpected token <
 ```
+[16.04.2019][06:45:02][🔸》moderation-chat-logs] Administrative Message#3861: 
