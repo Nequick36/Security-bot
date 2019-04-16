@@ -7745,3 +7745,6 @@ ReferenceError: What is not defined
 [15.04.2019][11:00:28][🔹》main-lounge] AL€X3411 | GH#9775: Hmm
 [15.04.2019][11:00:45][🔹》main-lounge] AL€X3411 | GH#9775: Oh is a photo
 [15.04.2019][11:48:37][🔸》chat-logs] GameHub#0549: 
+[16.04.2019][01:26:23][🔸》moderation-chat-logs] Administrative Message#3861: 
+[16.04.2019][01:26:23][🔸》welcome] GameHub#0549: Dots#4336 has left the server.
+[16.04.2019][01:26:23][🔸》join-leave-logs] InviteManager#3907: Dots **left**; Invited by **Josh | GH**
