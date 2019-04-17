@@ -7968,3 +7968,10 @@ SyntaxError: Unexpected token <
 [17.04.2019][05:23:51][🔸》chat-logs] GameHub#0549: 
 [17.04.2019][05:32:13][🔸》chat-logs] GameHub#0549: 
 [17.04.2019][01:57:04][🔸》chat-logs] GameHub#0549: 
+[17.04.2019][02:00:03][🔹》bot-commands] Jordan | GH#9218: !bal
+[17.04.2019][02:00:03][🔸》moderation-chat-logs] GameHub#0549: 
+[17.04.2019][02:00:03][🔹》bot-commands] GameHub#0549: Hey Jordan.! You own 2135992478 coins.
+[17.04.2019][02:00:05][🔹》bot-commands] Jordan | GH#9218: !daily
+[17.04.2019][02:00:05][🔸》moderation-chat-logs] GameHub#0549: 
+[17.04.2019][02:00:06][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, You claimed your daily coins succesfully! You now own 2135992578 coins.
+[17.04.2019][02:05:11][🔸》chat-logs] GameHub#0549: 
