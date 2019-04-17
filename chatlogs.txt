@@ -7983,3 +7983,23 @@ SyntaxError: Unexpected token <
 [17.04.2019][05:46:39][🔹》bot-commands] GameHub#0549: <@!435406608479158273>, You claimed your daily coins succesfully! You now own 11495 coins.
 [17.04.2019][07:26:58][🔸》chat-logs] GameHub#0549: 
 [17.04.2019][07:48:31][🔸》chat-logs] GameHub#0549: 
+[17.04.2019][08:13:12][🔹console] Seth | GH#7796: let h = message.guild.members.get("435406608479158273")
+h.send("Josh has a big gay")
+[17.04.2019][08:13:12][🔹console] GameHub#0549: ```xl
+Promise { <pending> }
+```
+[17.04.2019][08:13:13][🔸》moderation-chat-logs] GameHub#0549: 
+[17.04.2019][08:13:59][🔹console] Josh | GH#4954: .
+[17.04.2019][08:14:03][🔹console] Josh | GH#4954: what a twat
+[17.04.2019][08:14:34][🔹console] Josh | GH#4954: 366234394479951873
+[17.04.2019][08:14:54][🔹console] Josh | GH#4954: let h = message.guild.members.get("366234394479951873")
+h.send("You are a gay fat faggot")
+[17.04.2019][08:15:04][🔸》moderation-chat-logs] Administrative Message#3861: 
+[17.04.2019][08:15:08][🔹console] Josh | GH#4954: let h = message.guild.members.get("366234394479951873")
+h.send("You are a gay fat faggot")
+[17.04.2019][08:15:21][🔹console] Josh | GH#4954: doesnt even work
+[17.04.2019][08:15:26][🔹console] Josh | GH#4954: !eval
+[17.04.2019][08:15:26][🔹console] GameHub#0549: 🛑 **ACCESS DENIED! THIS IS A DEVELOPER ONLY COMMAND. 🛑**
+[17.04.2019][08:15:26][🔸》moderation-chat-logs] GameHub#0549: 
+[17.04.2019][08:15:31][🔹console] Josh | GH#4954: great
+[17.04.2019][08:15:40][🔸》moderation-chat-logs] Administrative Message#3861: 
