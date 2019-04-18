@@ -8007,3 +8007,4 @@ h.send("You are a gay fat faggot")
 [18.04.2019][01:23:16][🔸》welcome] GameHub#0549: LigmaLukas#2309 has left the server.
 [18.04.2019][01:23:16][🔸》moderation-chat-logs] Administrative Message#3861: 
 [18.04.2019][01:23:16][🔸》join-leave-logs] InviteManager#3907: LigmaLukas **left**; Invited by **Josh | GH**
+[18.04.2019][04:49:54][🔸》chat-logs] GameHub#0549: 
