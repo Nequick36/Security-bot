@@ -8171,3 +8171,4 @@ ReferenceError: regex is not defined
 [18.04.2019][06:21:11][🔹console] GameHub#0549: `ERROR` ```xl
 ReferenceError: Regex is not defined
 ```
+[18.04.2019][08:16:04][🔸》chat-logs] GameHub#0549: 
