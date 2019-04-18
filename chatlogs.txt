@@ -8172,3 +8172,29 @@ ReferenceError: regex is not defined
 ReferenceError: Regex is not defined
 ```
 [18.04.2019][08:16:04][🔸》chat-logs] GameHub#0549: 
+[18.04.2019][10:34:01][🔵》slav-bot-warzone] Seth | GH#7796: s!ww collect
+[18.04.2019][10:34:01][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][10:34:56][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy new Zealand
+[18.04.2019][10:34:56][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][10:35:10][🔵》slav-bot-warzone] Seth | GH#7796: s!ww profile
+[18.04.2019][10:35:11][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][10:35:56][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy virgin islands
+[18.04.2019][10:35:57][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[18.04.2019][10:36:10][🔵》slav-bot-warzone] Seth | GH#7796: s!ww list
+[18.04.2019][10:36:10][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][10:36:10][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][10:36:11][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][10:36:11][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][10:36:11][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][10:36:17][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][10:36:17][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][10:36:17][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][10:37:15][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy Antarctica
+[18.04.2019][10:37:16][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][10:37:36][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy Afghanistan
+[18.04.2019][10:37:36][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][10:37:48][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy nigera
+[18.04.2019][10:37:48][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[18.04.2019][10:38:02][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy Nigeria
+[18.04.2019][10:38:02][🔵》slav-bot-warzone] GameHub#0549: <@366234394479951873> just leveled up to level 111!
+[18.04.2019][10:38:02][🔵》slav-bot-warzone] Slav Bot#9008: 
