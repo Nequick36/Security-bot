@@ -8014,3 +8014,7 @@ h.send("You are a gay fat faggot")
 [18.04.2019][10:11:57][🔸》moderation-chat-logs] Administrative Message#3861: 
 [18.04.2019][10:12:01][🔸》moderation-chat-logs] Administrative Message#3861: 
 [18.04.2019][10:12:15][🔸》moderation-chat-logs] Administrative Message#3861: 
+[18.04.2019][01:08:39][🔹console] Seth | GH#7796: Lol
+[18.04.2019][01:08:39][🔹console] GameHub#0549: `ERROR` ```xl
+ReferenceError: Lol is not defined
+```
