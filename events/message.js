@@ -5,9 +5,9 @@ let moment = require('moment')
 require("moment-duration-format");
 exports.run = async (bot, message) => {
   let developers = bot.devs
-      let messageArray = message.content.split(" ")
-    let cmd = messageArray[0]
-    let args = messageArray.slice(1);
+  let messageArray = message.content.split(" ")
+  let cmd = messageArray[0]
+  let args = messageArray.slice(1);
   let logChannel = message.guild.channels.find(c => c.name === '🔸》moderation-chat-logs')
   if(message.content.startsWith('!')) logChannel.send({embed:{description: `${message.author.tag} used command ${message.content} in channel ${message.channel.name}.`, color: 0xff0000}})
   if(message.mentions.roles.size >= 2) {
@@ -55,7 +55,8 @@ exports.run = async (bot, message) => {
   
   //console in channel
   if(message.channel.id === '549703259057553438' && !message.author.bot) {
-    if(!developers.includes(message.author.id)) return 
+    if(!developers.includes(message.author.id)) return
+    if(message.content.startsWith('//')) return
     function clean(text) {
   if (typeof(text) === "string")
     return text.replace(/`/g, "`" + String.fromCharCode(8203)).replace(/@/g, "@" + String.fromCharCode(8203));

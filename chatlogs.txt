@@ -8028,3 +8028,87 @@ ReferenceError: Lol is not defined
 [18.04.2019][05:57:55][🔹console] GameHub#0549: `ERROR` ```xl
 SyntaxError: Unexpected token <
 ```
+[18.04.2019][06:07:01][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: <@!366234394479951873> are you here?
+[18.04.2019][06:07:01][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected token <
+```
+[18.04.2019][06:07:06][🔹console] Seth | GH#7796: Yea
+[18.04.2019][06:07:06][🔹console] GameHub#0549: `ERROR` ```xl
+ReferenceError: Yea is not defined
+```
+[18.04.2019][06:07:50][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: message.channel.fetchMessages().then(msgs => {message.channel.send(msgs.size())})
+[18.04.2019][06:07:50][🔹console] GameHub#0549: ```xl
+Promise { <pending> }
+```
+[18.04.2019][06:07:56][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: message.channel.fetchMessages().then(msgs => {message.channel.send(msgs.size())})
+[18.04.2019][06:07:56][🔹console] GameHub#0549: ```xl
+Promise { <pending> }
+```
+[18.04.2019][06:08:04][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: message.channel.fetchMessages().then(msgs => {message.channel.send(msgs.size)})
+[18.04.2019][06:08:05][🔹console] GameHub#0549: ```xl
+Promise { <pending> }
+```
+[18.04.2019][06:08:05][🔹console] GameHub#0549: 50
+[18.04.2019][06:08:11][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: you see 50 messages
+[18.04.2019][06:08:11][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[18.04.2019][06:08:20][🔹console] Seth | GH#7796: Ok
+[18.04.2019][06:08:20][🔹console] GameHub#0549: `ERROR` ```xl
+ReferenceError: Ok is not defined
+```
+[18.04.2019][06:08:24][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //you see only 50 messages but in channel there is more
+[18.04.2019][06:08:25][🔹console] GameHub#0549: ```xl
+undefined
+```
+[18.04.2019][06:08:42][🔹console] Seth | GH#7796: Damnit
+[18.04.2019][06:08:42][🔹console] GameHub#0549: `ERROR` ```xl
+ReferenceError: Damnit is not defined
+```
+[18.04.2019][06:09:01][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //you think that i didnt thought like you
+[18.04.2019][06:09:01][🔹console] GameHub#0549: ```xl
+undefined
+```
+[18.04.2019][06:09:13][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //i wanted to make it like that when josh first said it
+[18.04.2019][06:09:13][🔹console] GameHub#0549: ```xl
+undefined
+```
+[18.04.2019][06:09:33][🔹console] Seth | GH#7796: Well I didn't know that did I?
+[18.04.2019][06:09:33][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[18.04.2019][06:09:44][🔹console] Seth | GH#7796: You never said
+[18.04.2019][06:09:44][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[18.04.2019][06:10:08][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //i didnt because i knew it will not work because of this
+[18.04.2019][06:10:08][🔹console] GameHub#0549: ```xl
+undefined
+```
+[18.04.2019][06:10:23][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: why you care now?
+[18.04.2019][06:10:23][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[18.04.2019][06:10:28][🔹console] Seth | GH#7796: Wdym
+[18.04.2019][06:10:29][🔹console] GameHub#0549: `ERROR` ```xl
+ReferenceError: Wdym is not defined
+```
+[18.04.2019][06:10:30][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //test
+[18.04.2019][06:10:43][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //if you want to chat do //text
+[18.04.2019][06:10:52][🔹console] Seth | GH#7796: //I don't care about who knows more than who
+[18.04.2019][06:11:17][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //i dont care neither?
+[18.04.2019][06:11:20][🔹console] Seth | GH#7796: //why the hell do you care so much
+[18.04.2019][06:11:32][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //what do i care
+[18.04.2019][06:11:52][🔹console] Seth | GH#7796: //you brought it up
+[18.04.2019][06:12:00][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //ok
+[18.04.2019][06:13:22][🔹console] Seth | GH#7796: //well rainbow role is stuck again
+[18.04.2019][06:13:46][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //ik i saw it
+[18.04.2019][06:13:56][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //btw discord.host works
+[18.04.2019][06:14:04][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //but you can install packages
+[18.04.2019][06:14:33][🔹console] Seth | GH#7796: //wdym
+[18.04.2019][06:14:35][🔸》moderation-chat-logs] Administrative Message#3861: 
+[18.04.2019][06:14:35][🔸》chat-logs] GameHub#0549: 
+[18.04.2019][06:14:43][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //typo
+[18.04.2019][06:15:01][🔹console] Seth | GH#7796: //oh well wasn't even thinking of using it
+[18.04.2019][06:15:15][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //why
+[18.04.2019][06:15:25][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //i thinkn that nicke will add some packages
