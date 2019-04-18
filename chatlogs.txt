@@ -8112,3 +8112,62 @@ ReferenceError: Wdym is not defined
 [18.04.2019][06:15:01][🔹console] Seth | GH#7796: //oh well wasn't even thinking of using it
 [18.04.2019][06:15:15][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //why
 [18.04.2019][06:15:25][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //i thinkn that nicke will add some packages
+[18.04.2019][06:15:50][🔹console] Seth | GH#7796: //I already have 2 bots on glitch what more do I need
+[18.04.2019][06:15:51][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //and if i can install packages it will be more better than glitch
+[18.04.2019][06:16:03][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //2 bots that doesnt reset
+[18.04.2019][06:16:26][🔹console] Seth | GH#7796: //in what sense
+[18.04.2019][06:16:54][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //work cooldown doesnt work because bot resets here but there it would work
+[18.04.2019][06:17:11][🔹console] Seth | GH#7796: //hmm
+[18.04.2019][06:17:13][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //work cooldown just for example
+[18.04.2019][06:17:21][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: like mute
+[18.04.2019][06:17:21][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[18.04.2019][06:17:32][🔹console] Seth | GH#7796: //I guess but what about uptimw
+[18.04.2019][06:17:33][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //mute woulnd work here
+[18.04.2019][06:17:40][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //99.99%
+[18.04.2019][06:18:04][🔹console] Seth | GH#7796: //not bad as the MC servers hmm
+[18.04.2019][06:18:16][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //that means only 7 hours per mounth
+[18.04.2019][06:18:39][🔹console] Seth | GH#7796: //7 hrs of downtime?
+[18.04.2019][06:18:46][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //i think
+[18.04.2019][06:18:56][🔹console] Seth | GH#7796: //hmm
+[18.04.2019][06:19:09][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: //idk i think 99.99% of one month is 7h
+[18.04.2019][06:19:39][🔹console] Seth | GH#7796: //ok
+[18.04.2019][06:19:54][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: /idk i think nick said that
+[18.04.2019][06:19:54][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Invalid regular expression: missing /
+```
+[18.04.2019][06:19:59][🔹console] Seth | GH#7796: //imma check it out then
+[18.04.2019][06:20:06][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: /test/g
+[18.04.2019][06:20:06][🔹console] GameHub#0549: ```xl
+/test/g
+```
+[18.04.2019][06:20:13][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: /no error/g
+[18.04.2019][06:20:13][🔹console] GameHub#0549: ```xl
+/no error/g
+```
+[18.04.2019][06:20:20][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: new RE()
+[18.04.2019][06:20:20][🔹console] GameHub#0549: <@435406608479158273> just leveled up to level 89!
+[18.04.2019][06:20:20][🔹console] GameHub#0549: `ERROR` ```xl
+ReferenceError: RE is not defined
+```
+[18.04.2019][06:20:28][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: re
+[18.04.2019][06:20:28][🔹console] GameHub#0549: `ERROR` ```xl
+ReferenceError: re is not defined
+```
+[18.04.2019][06:20:33][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: re.match()
+[18.04.2019][06:20:33][🔹console] GameHub#0549: `ERROR` ```xl
+ReferenceError: re is not defined
+```
+[18.04.2019][06:21:02][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: 'hello world world'.replace(/world/g, 'guys')
+[18.04.2019][06:21:02][🔹console] GameHub#0549: ```xl
+hello guys guys
+```
+[18.04.2019][06:21:07][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: regex
+[18.04.2019][06:21:07][🔹console] GameHub#0549: `ERROR` ```xl
+ReferenceError: regex is not defined
+```
+[18.04.2019][06:21:10][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: new Regex()
+[18.04.2019][06:21:11][🔹console] GameHub#0549: `ERROR` ```xl
+ReferenceError: Regex is not defined
+```
