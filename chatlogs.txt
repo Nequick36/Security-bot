@@ -8018,3 +8018,9 @@ h.send("You are a gay fat faggot")
 [18.04.2019][01:08:39][🔹console] GameHub#0549: `ERROR` ```xl
 ReferenceError: Lol is not defined
 ```
+[18.04.2019][03:38:13][🔵》slav-bot-warzone] Seth | GH#7796: s!ww collect
+[18.04.2019][03:38:14][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][03:38:30][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy Australia
+[18.04.2019][03:38:30][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][03:38:45][🔵》slav-bot-warzone] Seth | GH#7796: s!ww profile
+[18.04.2019][03:38:45][🔵》slav-bot-warzone] Slav Bot#9008: 
