@@ -8024,3 +8024,7 @@ ReferenceError: Lol is not defined
 [18.04.2019][03:38:30][🔵》slav-bot-warzone] Slav Bot#9008: 
 [18.04.2019][03:38:45][🔵》slav-bot-warzone] Seth | GH#7796: s!ww profile
 [18.04.2019][03:38:45][🔵》slav-bot-warzone] Slav Bot#9008: 
+[18.04.2019][05:57:55][🔹console] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: <@!349250638632452096> you dont have access to the console
+[18.04.2019][05:57:55][🔹console] GameHub#0549: `ERROR` ```xl
+SyntaxError: Unexpected token <
+```

@@ -3,8 +3,8 @@ const discord = require('discord.js')
 const dl = require('discord-leveling')
 let moment = require('moment')
 require("moment-duration-format");
-let developers = ['366234394479951873', '435406608479158273']
 exports.run = async (bot, message) => {
+  let developers = bot.devs
       let messageArray = message.content.split(" ")
     let cmd = messageArray[0]
     let args = messageArray.slice(1);
