@@ -8008,3 +8008,9 @@ h.send("You are a gay fat faggot")
 [18.04.2019][01:23:16][🔸》moderation-chat-logs] Administrative Message#3861: 
 [18.04.2019][01:23:16][🔸》join-leave-logs] InviteManager#3907: LigmaLukas **left**; Invited by **Josh | GH**
 [18.04.2019][04:49:54][🔸》chat-logs] GameHub#0549: 
+[18.04.2019][10:11:41][🔸》moderation-chat-logs] Administrative Message#3861: 
+[18.04.2019][10:11:55][🔸》moderation-chat-logs] Administrative Message#3861: 
+[18.04.2019][10:11:55][🔸》moderation-chat-logs] Administrative Message#3861: 
+[18.04.2019][10:11:57][🔸》moderation-chat-logs] Administrative Message#3861: 
+[18.04.2019][10:12:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[18.04.2019][10:12:15][🔸》moderation-chat-logs] Administrative Message#3861: 
