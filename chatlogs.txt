@@ -8275,3 +8275,18 @@ Thank you.
 [19.04.2019][10:22:50][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: because too much commands cant fit in message
 [19.04.2019][10:23:00][🔹》bot-commands] Director#1849: use a reaction menu
 [19.04.2019][10:23:18][🔹》bot-commands] Director#1849: join my server - **NOT TO PROMOTE**
+[19.04.2019][10:23:29][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: ik what reaction menu is
+[19.04.2019][10:23:39][🔹》bot-commands] Director#1849: ^ to look at that
+[19.04.2019][10:23:40][🔹》bot-commands] Director#1849: ok
+[19.04.2019][10:23:42][🔹》bot-commands] Director#1849: nice
+[19.04.2019][10:23:55][🔹》bot-commands] Director#1849: !jike
+[19.04.2019][10:23:55][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[19.04.2019][10:23:55][🔸》moderation-chat-logs] GameHub#0549: 
+[19.04.2019][10:23:59][🔹》bot-commands] Director#1849: !joke
+[19.04.2019][10:23:59][🔸》moderation-chat-logs] GameHub#0549: 
+[19.04.2019][10:23:59][🔹》bot-commands] GameHub#0549: What do you call a bear without any teeth? A gummy bear!
+[19.04.2019][10:24:12][🔹》bot-commands] ${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH#9847: btw those jokes are meant to be bad
+[19.04.2019][10:24:23][🔹》bot-commands] Director#1849: lol
+[19.04.2019][10:25:06][🔸》welcome] GameHub#0549: Director#1849 has left the server.
+[19.04.2019][10:25:06][🔸》moderation-chat-logs] Administrative Message#3861: 
+[19.04.2019][10:25:06][🔸》join-leave-logs] InviteManager#3907: Director **left**; Invited by **${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH**
