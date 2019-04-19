@@ -8212,3 +8212,16 @@ ReferenceError: Regex is not defined
 [19.04.2019][08:17:39][🔵》slav-bot-warzone] Aarib | GH#2092: Wow
 [19.04.2019][08:17:50][🔵》slav-bot-warzone] Aarib | GH#2092: Theres every country in <@319533843482673152>
 [19.04.2019][09:22:46][⚫》staff-chat] MSThrowbacks😎 | GH#9776: Hi guys.
+[19.04.2019][09:49:32][⚫》staff-chat] Seth | GH#7796: Hello
+[19.04.2019][09:49:47][🔹》bot-commands] Seth | GH#7796: :(
+[19.04.2019][09:50:07][🔵》slav-bot-warzone] Seth | GH#7796: Yea 249
+[19.04.2019][09:50:47][🔵》slav-bot-warzone] Seth | GH#7796: s!ww collect
+[19.04.2019][09:50:47][🔵》slav-bot-warzone] Slav Bot#9008: 
+[19.04.2019][09:51:15][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy vietname
+[19.04.2019][09:51:15][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[19.04.2019][09:51:27][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy Vietnam
+[19.04.2019][09:51:27][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[19.04.2019][09:51:46][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy Viet Nam
+[19.04.2019][09:51:46][🔵》slav-bot-warzone] Slav Bot#9008: 
+[19.04.2019][09:52:16][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy virgin islands British
+[19.04.2019][09:52:16][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
