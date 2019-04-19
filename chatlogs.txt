@@ -8200,3 +8200,4 @@ ReferenceError: Regex is not defined
 [18.04.2019][10:38:02][🔵》slav-bot-warzone] Slav Bot#9008: 
 [18.04.2019][11:05:27][🔸》chat-logs] GameHub#0549: 
 [18.04.2019][11:07:22][🔸》chat-logs] GameHub#0549: 
+[19.04.2019][12:02:14][🔸》chat-logs] GameHub#0549: 
