@@ -8202,3 +8202,6 @@ ReferenceError: Regex is not defined
 [18.04.2019][11:07:22][🔸》chat-logs] GameHub#0549: 
 [19.04.2019][12:02:14][🔸》chat-logs] GameHub#0549: 
 [19.04.2019][12:40:29][🔸》chat-logs] GameHub#0549: 
+[19.04.2019][12:42:51][🔸》moderation-chat-logs] Administrative Message#3861: 
+[19.04.2019][12:42:51][🔸》welcome] GameHub#0549: Dy#5076 has left the server.
+[19.04.2019][12:42:51][🔸》join-leave-logs] InviteManager#3907: Dy **left**; Invited by **Josh | GH**
