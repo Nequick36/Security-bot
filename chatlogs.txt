@@ -8225,3 +8225,17 @@ ReferenceError: Regex is not defined
 [19.04.2019][09:51:46][🔵》slav-bot-warzone] Slav Bot#9008: 
 [19.04.2019][09:52:16][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy virgin islands British
 [19.04.2019][09:52:16][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[19.04.2019][01:38:40][🔵》slav-bot-warzone] Seth | GH#7796: s!ww buy Virgin Islands, British
+[19.04.2019][01:38:40][🔵》slav-bot-warzone] Slav Bot#9008: 
+[19.04.2019][01:39:23][🔵》league-of-nations-1] Seth | GH#7796: -tax
+[19.04.2019][01:39:34][🔵》league-of-nations-1] Seth | GH#7796: -tax
+[19.04.2019][01:39:34][🔵》league-of-nations-1] League Of Nations#6458: 
+[19.04.2019][01:39:41][🔵》league-of-nations-1] Seth | GH#7796: -tax collecy
+[19.04.2019][01:39:41][🔵》league-of-nations-1] League Of Nations#6458: 
+[19.04.2019][01:39:47][🔵》league-of-nations-1] Seth | GH#7796: -tax collect
+[19.04.2019][01:39:47][🔵》league-of-nations-1] League Of Nations#6458: 
+[19.04.2019][01:39:54][🔵》league-of-nations-1] Seth | GH#7796: -bill
+[19.04.2019][01:39:54][🔵》league-of-nations-1] League Of Nations#6458: 
+[19.04.2019][01:40:01][🔵》league-of-nations-1] Seth | GH#7796: -bill pay
+[19.04.2019][01:40:01][🔵》league-of-nations-1] League Of Nations#6458: 
+[19.04.2019][01:40:06][🔵》league-of-nations-1] Seth | GH#7796: Gay
