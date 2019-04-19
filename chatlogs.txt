@@ -8211,3 +8211,4 @@ ReferenceError: Regex is not defined
 [19.04.2019][07:33:30][🔸》moderation-chat-logs] GameHub#0549: 
 [19.04.2019][08:17:39][🔵》slav-bot-warzone] Aarib | GH#2092: Wow
 [19.04.2019][08:17:50][🔵》slav-bot-warzone] Aarib | GH#2092: Theres every country in <@319533843482673152>
+[19.04.2019][09:22:46][⚫》staff-chat] MSThrowbacks😎 | GH#9776: Hi guys.
