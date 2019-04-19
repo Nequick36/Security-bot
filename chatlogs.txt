@@ -8290,3 +8290,6 @@ Thank you.
 [19.04.2019][10:25:06][🔸》welcome] GameHub#0549: Director#1849 has left the server.
 [19.04.2019][10:25:06][🔸》moderation-chat-logs] Administrative Message#3861: 
 [19.04.2019][10:25:06][🔸》join-leave-logs] InviteManager#3907: Director **left**; Invited by **${j122} ✓ᵛᵉʳᶦᶠᶦᵉᵈ | GH**
+[19.04.2019][10:42:42][🔹》bot-commands] Seth | GH#7796: <@417820274378145803>
+[19.04.2019][10:42:46][🔸》chat-logs] GameHub#0549: 
+[19.04.2019][10:42:46][🔸》moderation-chat-logs] Administrative Message#3861: 
