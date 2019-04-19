@@ -8239,3 +8239,13 @@ ReferenceError: Regex is not defined
 [19.04.2019][01:40:01][🔵》league-of-nations-1] Seth | GH#7796: -bill pay
 [19.04.2019][01:40:01][🔵》league-of-nations-1] League Of Nations#6458: 
 [19.04.2019][01:40:06][🔵》league-of-nations-1] Seth | GH#7796: Gay
+[19.04.2019][06:12:17][🔸》announcements] Josh | GH#4954: **IMPORTANT ANNOUNCEMENT**
+
+Since this place is so dead, we are doing an activity check. React below if you don’t want to get kicked.
+
+This server will be getting renovated and reformed during late June, we have good plans for this server and I want to start with activity. 
+
+Thank you.
+
+@everyone
+[19.04.2019][06:13:29][🔸》chat-logs] GameHub#0549: 
