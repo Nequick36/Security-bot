@@ -8296,3 +8296,7 @@ Thank you.
 [20.04.2019][12:30:22][🔸》chat-logs] GameHub#0549: 
 [20.04.2019][12:31:42][🔸》chat-logs] GameHub#0549: 
 [20.04.2019][01:46:34][🔹》main-lounge] Aarib | GH#2092: everyone if you don’t want to get kicked en react at <#391268693964881920>
+[20.04.2019][01:54:33][🔵》slav-bot-warzone] Aarib | GH#2092: s!ww help
+[20.04.2019][01:54:34][🔵》slav-bot-warzone] Slav Bot#9008: <@334288913961058304> No parameter given. Use `s!help ww` for help.
+[20.04.2019][01:54:41][🔵》slav-bot-warzone] Aarib | GH#2092: S!help ww
+[20.04.2019][01:54:41][🔵》slav-bot-warzone] Slav Bot#9008: <@334288913961058304> Sent you a DM with information.
