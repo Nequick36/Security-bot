@@ -8378,3 +8378,21 @@ Thank you.
 [21.04.2019][07:23:22][🔸》moderation-chat-logs] Administrative Message#3861: 
 [21.04.2019][07:23:22][🔸》join-leave-logs] InviteManager#3907: Jeff The Killer **left**; Invited by **Seth | GH**
 [21.04.2019][07:26:09][🔹》main-lounge] Seth | GH#7796: ...
+[21.04.2019][11:05:45][🔵》slav-bot-warzone] Seth | GH#7796: S!ww collect
+[21.04.2019][11:05:46][🔵》slav-bot-warzone] Slav Bot#9008: 
+[21.04.2019][11:06:06][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Virgin Islands
+[21.04.2019][11:06:07][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[21.04.2019][11:06:31][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Virgin Islands, US
+[21.04.2019][11:06:31][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[21.04.2019][11:07:05][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Virgin Islands, U.S
+[21.04.2019][11:07:05][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[21.04.2019][11:07:37][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Virgin Islands, U.S.
+[21.04.2019][11:07:37][🔵》slav-bot-warzone] Slav Bot#9008: 
+[21.04.2019][11:07:55][🔵》league-of-nations-1] Seth | GH#7796: -tax
+[21.04.2019][11:07:55][🔵》league-of-nations-1] League Of Nations#6458: 
+[21.04.2019][11:07:59][🔵》league-of-nations-1] Seth | GH#7796: -tax
+[21.04.2019][11:07:59][🔵》league-of-nations-1] League Of Nations#6458: 
+[21.04.2019][11:08:06][🔵》league-of-nations-1] Seth | GH#7796: -bill
+[21.04.2019][11:08:06][🔵》league-of-nations-1] League Of Nations#6458: 
+[21.04.2019][11:08:22][🔵》league-of-nations-1] Seth | GH#7796: -stats
+[21.04.2019][11:08:22][🔵》league-of-nations-1] League Of Nations#6458: 
