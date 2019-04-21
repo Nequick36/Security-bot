@@ -8314,3 +8314,8 @@ Thank you.
 [20.04.2019][08:35:46][🔹》bot-commands] GameHub#0549: 
 [20.04.2019][10:11:02][🔹》main-lounge] Seth | GH#7796: Hello
 [20.04.2019][10:21:08][🔸》chat-logs] GameHub#0549: 
+[21.04.2019][12:08:15][🔸》moderation-chat-logs] Administrative Message#3861: 
+[21.04.2019][12:08:15][🔸》welcome] GameHub#0549: Welcome <@475542539961761823> to this server.
+[21.04.2019][12:08:15][🔸》moderation-chat-logs] GameHub#0549: 
+[21.04.2019][12:08:15][🔸》moderation-chat-logs] Administrative Message#3861: 
+[21.04.2019][12:08:15][🔸》join-leave-logs] InviteManager#3907: <@475542539961761823> **joined**; Invited by **Seth | GH** (**45** invites)
