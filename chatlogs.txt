@@ -8377,3 +8377,4 @@ Thank you.
 [21.04.2019][07:23:22][🔸》welcome] GameHub#0549: Jeff The Killer#6814 has left the server.
 [21.04.2019][07:23:22][🔸》moderation-chat-logs] Administrative Message#3861: 
 [21.04.2019][07:23:22][🔸》join-leave-logs] InviteManager#3907: Jeff The Killer **left**; Invited by **Seth | GH**
+[21.04.2019][07:26:09][🔹》main-lounge] Seth | GH#7796: ...
