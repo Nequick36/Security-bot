@@ -8320,3 +8320,9 @@ Thank you.
 [21.04.2019][12:08:15][🔸》moderation-chat-logs] Administrative Message#3861: 
 [21.04.2019][12:08:15][🔸》join-leave-logs] InviteManager#3907: <@475542539961761823> **joined**; Invited by **Seth | GH** (**45** invites)
 [21.04.2019][03:32:57][🔸》chat-logs] GameHub#0549: 
+[21.04.2019][04:39:24][🔸》welcome] GameHub#0549: Welcome <@549866258607374342> to this server.
+[21.04.2019][04:39:24][🔸》moderation-chat-logs] Administrative Message#3861: 
+[21.04.2019][04:39:24][🔸》moderation-chat-logs] Administrative Message#3861: 
+[21.04.2019][04:39:24][🔸》moderation-chat-logs] GameHub#0549: 
+[21.04.2019][04:39:24][🔸》join-leave-logs] InviteManager#3907: <@549866258607374342> **joined**; Invited by **Seth | GH** (**46** invites)
+[21.04.2019][04:40:06][🔹》main-lounge] dracity42#4640: whatsup people
