@@ -8400,3 +8400,11 @@ Thank you.
 [22.04.2019][12:38:41][🔸》chat-logs] GameHub#0549: 
 [22.04.2019][03:41:47][🔸》chat-logs] GameHub#0549: 
 [22.04.2019][04:06:32][🔸》chat-logs] GameHub#0549: 
+[22.04.2019][11:17:44][🔸》welcome] GameHub#0549: Welcome <@160184908067635200> to this server.
+[22.04.2019][11:17:44][🔸》moderation-chat-logs] Administrative Message#3861: 
+[22.04.2019][11:17:44][🔸》moderation-chat-logs] GameHub#0549: 
+[22.04.2019][11:17:44][🔸》moderation-chat-logs] Administrative Message#3861: 
+[22.04.2019][11:17:45][🔸》join-leave-logs] InviteManager#3907: I can't figure out how <@160184908067635200> joined the server.
+[22.04.2019][11:18:28][🔸》welcome] GameHub#0549: Tj Meds#0001 has left the server.
+[22.04.2019][11:18:28][🔸》moderation-chat-logs] Administrative Message#3861: 
+[22.04.2019][11:18:28][🔸》join-leave-logs] InviteManager#3907: Tj Meds#0001 left the server, but I couldn't figure out who invited them.
