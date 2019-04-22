@@ -8408,3 +8408,15 @@ Thank you.
 [22.04.2019][11:18:28][🔸》welcome] GameHub#0549: Tj Meds#0001 has left the server.
 [22.04.2019][11:18:28][🔸》moderation-chat-logs] Administrative Message#3861: 
 [22.04.2019][11:18:28][🔸》join-leave-logs] InviteManager#3907: Tj Meds#0001 left the server, but I couldn't figure out who invited them.
+[22.04.2019][12:14:11][🔸》chat-logs] GameHub#0549: 
+[22.04.2019][12:14:28][🔸》moderation-chat-logs] Administrative Message#3861: 
+[22.04.2019][12:14:43][🔵》slav-bot-warzone] Aarib | GH#2092: S!ww collect
+[22.04.2019][12:14:44][🔵》slav-bot-warzone] Slav Bot#9008: 
+[22.04.2019][12:14:59][🔵》slav-bot-warzone] Aarib | GH#2092: S!ww country
+[22.04.2019][12:14:59][🔵》slav-bot-warzone] Slav Bot#9008: <@334288913961058304> No parameter given. Use `s!help ww` for help.
+[22.04.2019][12:16:06][🔵》slav-bot-warzone] Aarib | GH#2092: s!ww buy United Kingdom
+[22.04.2019][12:16:06][🔵》slav-bot-warzone] Slav Bot#9008: 
+[22.04.2019][12:16:40][🔵》slav-bot-warzone] Seth | GH#7796: s!ww collect
+[22.04.2019][12:16:41][🔵》slav-bot-warzone] Slav Bot#9008: 
+[22.04.2019][12:17:08][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Zimbabwe
+[22.04.2019][12:17:08][🔵》slav-bot-warzone] Slav Bot#9008: 
