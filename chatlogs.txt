@@ -8434,3 +8434,24 @@ Thank you.
 [23.04.2019][07:38:14][🔵》slav-bot-warzone] Slav Bot#9008: 
 [23.04.2019][07:38:23][🔵》slav-bot-warzone] Seth | GH#7796: Damnit. Arib
 [23.04.2019][02:50:53][🔵》league-of-nations-1] Seth | GH#7796: You do -start
+[23.04.2019][03:00:55][🔹》bot-commands] Jordan | GH#9218: !afk study do not disturb pls kthx bye
+[23.04.2019][03:00:55][🔸》moderation-chat-logs] GameHub#0549: 
+[23.04.2019][03:00:55][🔹》bot-commands] GameHub#0549: 
+[23.04.2019][03:00:55][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.04.2019][03:00:55][🔸》chat-logs] GameHub#0549: 
+[23.04.2019][03:01:04][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.04.2019][03:01:04][🔸》chat-logs] GameHub#0549: 
+[23.04.2019][03:01:21][🔹》bot-commands] [AFK] Jordan | GH#9218: .
+[23.04.2019][03:01:22][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, You are no longer afk!
+[23.04.2019][03:01:22][🔸》chat-logs] GameHub#0549: 
+[23.04.2019][03:01:22][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.04.2019][03:01:24][🔹》bot-commands] Jordan | GH#9218: OOPS
+[23.04.2019][03:01:30][🔹》bot-commands] Jordan | GH#9218: !afk study do not disturb pls kthx bye
+[23.04.2019][03:01:30][🔹》bot-commands] GameHub#0549: 
+[23.04.2019][03:01:30][🔸》moderation-chat-logs] GameHub#0549: 
+[23.04.2019][03:01:31][🔸》chat-logs] GameHub#0549: 
+[23.04.2019][03:01:31][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.04.2019][03:11:05][🔹》bot-commands] [AFK] Jordan | GH#9218: mfsd
+[23.04.2019][03:11:05][🔹》bot-commands] GameHub#0549: <@!324525125116362752>, You are no longer afk!
+[23.04.2019][03:11:06][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.04.2019][03:11:06][🔸》chat-logs] GameHub#0549: 
