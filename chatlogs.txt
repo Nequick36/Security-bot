@@ -8478,3 +8478,14 @@ Thank you.
 [23.04.2019][08:16:13][🔵》slav-bot-warzone] sdali24#5790: https://discord.gg/
 [23.04.2019][08:16:13][🔸》moderation-chat-logs] Administrative Message#3861: 
 [23.04.2019][08:16:13][🔸》chat-logs] GameHub#0549: 
+[23.04.2019][10:12:47][🔵》slav-bot-warzone] [AFK] Seth | GH#7796: S!ww collect
+[23.04.2019][10:12:47][🔵》slav-bot-warzone] Slav Bot#9008: 
+[23.04.2019][10:12:47][🔵》slav-bot-warzone] GameHub#0549: <@!366234394479951873>, You are no longer afk!
+[23.04.2019][10:12:47][🔸》chat-logs] GameHub#0549: 
+[23.04.2019][10:12:47][🔸》moderation-chat-logs] Administrative Message#3861: 
+[23.04.2019][10:13:08][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy United Kingdom
+[23.04.2019][10:13:08][🔵》slav-bot-warzone] Slav Bot#9008: 
+[23.04.2019][10:13:53][🔵》slav-bot-warzone] Seth | GH#7796: S!ww profile
+[23.04.2019][10:13:54][🔵》slav-bot-warzone] Slav Bot#9008: 
+[23.04.2019][10:14:14][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Angola
+[23.04.2019][10:14:14][🔵》slav-bot-warzone] Slav Bot#9008: 
