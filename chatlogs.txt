@@ -8527,3 +8527,19 @@ __
 [24.04.2019][08:26:54][🔹》main-lounge] Yame#1726: G'day
 [24.04.2019][09:06:10][🔹》main-lounge] Josh | GH#4954: Hi
 [24.04.2019][11:57:00][🔹》pictures] Aarib | GH#2092: Wtf
+[24.04.2019][05:26:15][🔹》check-your-score] LaZyYYY_T1//YTBR#7669: !rank
+[24.04.2019][05:26:16][🔹》check-your-score] GameHub#0549: Can't find that command! Please use !help
+[24.04.2019][05:26:16][🔸》moderation-chat-logs] GameHub#0549: 
+[24.04.2019][05:26:24][🔹》check-your-score] LaZyYYY_T1//YTBR#7669: !help
+[24.04.2019][05:26:24][🔸》moderation-chat-logs] GameHub#0549: 
+[24.04.2019][05:26:24][🔹》check-your-score] GameHub#0549: Check DMs!
+[24.04.2019][05:26:25][🔸》moderation-chat-logs] GameHub#0549: 
+[24.04.2019][05:33:26][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.04.2019][05:33:49][🔴》music-only-commands] Josh | GH#4954: ;play Old town road
+[24.04.2019][05:33:50][🔸》moderation-chat-logs] Bender#2282: 
+[24.04.2019][05:33:50][🔴》music-only-commands] Bender#2282: <a:loading2:461731014646169601> Fetching song info...
+[24.04.2019][05:33:51][🔸》moderation-chat-logs] Administrative Message#3861: 
+[24.04.2019][05:39:31][🔹》bot-commands] Seth | GH#7796: !help
+[24.04.2019][05:39:31][🔹》bot-commands] GameHub#0549: Check DMs!
+[24.04.2019][05:39:32][🔸》moderation-chat-logs] GameHub#0549: 
+[24.04.2019][05:39:32][🔸》moderation-chat-logs] GameHub#0549: 
