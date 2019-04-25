@@ -8571,3 +8571,12 @@ __
 [25.04.2019][10:49:00][🔵》slav-bot-warzone] Slav Bot#9008: 
 [25.04.2019][10:49:49][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Germany
 [25.04.2019][10:49:49][🔵》slav-bot-warzone] Slav Bot#9008: 
+[25.04.2019][10:50:03][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy zambia
+[25.04.2019][10:50:03][🔵》slav-bot-warzone] Slav Bot#9008: 
+[25.04.2019][10:50:16][🔵》slav-bot-warzone] Seth | GH#7796: S!ww collect
+[25.04.2019][10:50:16][🔵》slav-bot-warzone] Slav Bot#9008: 
+[25.04.2019][10:50:27][🔵》slav-bot-warzone] Seth | GH#7796: S!ww profile
+[25.04.2019][10:50:27][🔵》slav-bot-warzone] Slav Bot#9008: 
+[25.04.2019][10:53:36][🔹》bot-commands] Seth | GH#7796: !serverinfo
+[25.04.2019][10:53:36][🔸》moderation-chat-logs] GameHub#0549: 
+[25.04.2019][10:53:37][🔹》bot-commands] GameHub#0549: 
