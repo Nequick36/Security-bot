@@ -8564,3 +8564,4 @@ __
 [25.04.2019][07:45:16][🔸》welcome] GameHub#0549: DavidB#5793 has left the server.
 [25.04.2019][07:45:16][🔸》moderation-chat-logs] Administrative Message#3861: 
 [25.04.2019][07:45:16][🔸》join-leave-logs] InviteManager#3907: DavidB **left**; Invited by **DavidB**
+[25.04.2019][07:54:39][🔸》welcome] Josh | GH#4954: Rip
