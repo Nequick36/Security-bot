@@ -8663,3 +8663,4 @@ __
 [26.04.2019][03:07:21][🔴》music-only-commands] Bender#2282: <:stop_red:418198970565918730> Queue ended. I've left the voice channel.
 [26.04.2019][03:07:21][🔸》moderation-chat-logs] Administrative Message#3861: 
 [26.04.2019][03:07:29][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][04:12:15][🔸》chat-logs] GameHub#0549: 
