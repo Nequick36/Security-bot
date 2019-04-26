@@ -8583,3 +8583,14 @@ __
 [26.04.2019][02:40:28][⚫》staff-chat] Aarib | GH#2092: I already did
 [26.04.2019][02:41:22][🔵》slav-bot-warzone] Aarib | GH#2092: S!ww collect
 [26.04.2019][02:41:22][🔵》slav-bot-warzone] Slav Bot#9008: 
+[26.04.2019][02:55:21][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][02:56:01][🔴》music-only-commands] Zorflozzz22#6953: ;play PiñaColadaSad intro
+[26.04.2019][02:56:01][🔴》music-only-commands] Bender#2282: <a:loading2:461731014646169601> Fetching song info...
+[26.04.2019][02:56:01][🔸》moderation-chat-logs] Bender#2282: 
+[26.04.2019][02:56:07][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][02:56:22][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][02:56:22][🔴》music-only-commands] Bender#2282: <:stop_red:418198970565918730> Queue ended. I've left the voice channel.
+[26.04.2019][02:56:41][🔴》music-only-commands] Zorflozzz22#6953: ;play congratulations
+[26.04.2019][02:56:42][🔸》moderation-chat-logs] Bender#2282: 
+[26.04.2019][02:56:42][🔴》music-only-commands] Bender#2282: <a:loading2:461731014646169601> Fetching song info...
+[26.04.2019][02:56:43][🔸》moderation-chat-logs] Administrative Message#3861: 
