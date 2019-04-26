@@ -8580,3 +8580,6 @@ __
 [25.04.2019][10:53:36][🔹》bot-commands] Seth | GH#7796: !serverinfo
 [25.04.2019][10:53:36][🔸》moderation-chat-logs] GameHub#0549: 
 [25.04.2019][10:53:37][🔹》bot-commands] GameHub#0549: 
+[26.04.2019][02:40:28][⚫》staff-chat] Aarib | GH#2092: I already did
+[26.04.2019][02:41:22][🔵》slav-bot-warzone] Aarib | GH#2092: S!ww collect
+[26.04.2019][02:41:22][🔵》slav-bot-warzone] Slav Bot#9008: 
