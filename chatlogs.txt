@@ -8683,3 +8683,91 @@ __
 [26.04.2019][04:37:56][🔵》slav-bot-warzone] Seth | GH#7796: S!ww collect
 [26.04.2019][04:37:56][🔵》slav-bot-warzone] Slav Bot#9008: 
 [26.04.2019][04:38:07][🔵》slav-bot-warzone] Seth | GH#7796: Wha
+[26.04.2019][07:35:56][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:35:56][🔸》moderation-chat-logs] GameHub#0549: 
+[26.04.2019][07:35:56][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:35:57][🔸》join-leave-logs] InviteManager#3907: <@287396447521865729> **joined**; Invited by **ACE | GH** (**2** invites)
+[26.04.2019][07:36:10][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:10][🔸》welcome] GameHub#0549: Welcome <@349625866575282186> to this server.
+[26.04.2019][07:36:10][🔸》moderation-chat-logs] GameHub#0549: 
+[26.04.2019][07:36:10][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:10][🔸》join-leave-logs] InviteManager#3907: <@349625866575282186> **joined**; Invited by **ACE | GH** (**3** invites)
+[26.04.2019][07:36:12][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:12][🔸》welcome] GameHub#0549: Welcome <@222415769756106753> to this server.
+[26.04.2019][07:36:12][🔸》moderation-chat-logs] GameHub#0549: 
+[26.04.2019][07:36:12][🔸》join-leave-logs] InviteManager#3907: <@222415769756106753> **joined**; Invited by **ACE | GH** (**4** invites)
+[26.04.2019][07:36:13][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:14][🔸》welcome] GameHub#0549: Welcome <@267723762563022849> to this server.
+[26.04.2019][07:36:14][🔸》moderation-chat-logs] GameHub#0549: 
+[26.04.2019][07:36:14][🔸》join-leave-logs] InviteManager#3907: <@267723762563022849> **joined**; Invited by **ACE | GH** (**5** invites)
+[26.04.2019][07:36:15][🔸》join-leave-logs] InviteManager#3907: I can't figure out how <@411908639063015434> joined the server.
+[26.04.2019][07:36:16][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:16][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:16][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:22][🔹》main-lounge] Wright#2304: hey gamers
+[26.04.2019][07:36:24][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:24][🔸》welcome] GameHub#0549: Welcome <@417708193582415883> to this server.
+[26.04.2019][07:36:25][🔸》moderation-chat-logs] GameHub#0549: 
+[26.04.2019][07:36:25][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:25][🔸》join-leave-logs] InviteManager#3907: <@417708193582415883> **joined**; Invited by **ACE | GH** (**6** invites)
+[26.04.2019][07:36:28][🔹》main-lounge] ACE | GH#0002: Hi
+[26.04.2019][07:36:33][🔹》main-lounge] Melone#9866: hello
+[26.04.2019][07:36:34][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:34][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:35][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:35][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:37][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:40][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:41][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:42][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:43][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:43][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:46][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:46][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:46][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:47][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:47][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:52][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:52][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:52][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:53][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:53][🔹》main-lounge] Arcane#0003: myst is cute
+[26.04.2019][07:36:53][🔹》main-lounge] Myst#0003: Server Fixing Squad here
+[26.04.2019][07:36:57][🔸》welcome] GameHub#0549: Arcane#0003 has left the server.
+[26.04.2019][07:36:57][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:36:57][🔸》join-leave-logs] InviteManager#3907: Arcane **left**; Invited by **ACE | GH**
+[26.04.2019][07:37:05][🔹》main-lounge] Melone#9866: yes hello
+[26.04.2019][07:37:08][🔹》main-lounge] Wright#2304: Myst is cute
+[26.04.2019][07:37:10][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:37:10][🔸》welcome] GameHub#0549: Welcome <@417708193582415883> to this server.
+[26.04.2019][07:37:10][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:37:10][🔸》join-leave-logs] InviteManager#3907: <@417708193582415883> **joined**; Invited by **ACE | GH** (**6** invites)
+[26.04.2019][07:37:15][🔹》main-lounge] ACE | GH#0002: Yes
+[26.04.2019][07:37:17][🔹》main-lounge] Melone#9866: ah yes slav bot warzone
+[26.04.2019][07:37:17][🔹》main-lounge] ACE | GH#0002: I agree
+[26.04.2019][07:37:18][🔹》main-lounge] wcarr.mp5#0077: !ban <@!471400155904475158>
+[26.04.2019][07:37:18][🔹》main-lounge] GameHub#0549: 🛑**ACCESS DENIED! THIS IS AN ADMIN ONLY COMMAND.🛑**
+[26.04.2019][07:37:18][🔸》moderation-chat-logs] GameHub#0549: 
+[26.04.2019][07:37:21][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:37:26][🔹》main-lounge] ACE | GH#0002: !ban <@471400155904475158>
+[26.04.2019][07:37:26][🔹》main-lounge] GameHub#0549: 🛑**ACCESS DENIED! THIS IS AN ADMIN ONLY COMMAND.🛑**
+[26.04.2019][07:37:26][🔸》moderation-chat-logs] GameHub#0549: 
+[26.04.2019][07:37:39][🔹》main-lounge] EDoosh#9599: !ban <@267723762563022849>
+[26.04.2019][07:37:39][🔸》moderation-chat-logs] GameHub#0549: 
+[26.04.2019][07:37:39][🔹》main-lounge] GameHub#0549: 🛑**ACCESS DENIED! THIS IS AN ADMIN ONLY COMMAND.🛑**
+[26.04.2019][07:37:47][🔹》main-lounge] ACE | GH#0002: !ban  <@267723762563022849>
+[26.04.2019][07:37:47][🔹》main-lounge] GameHub#0549: 🛑**ACCESS DENIED! THIS IS AN ADMIN ONLY COMMAND.🛑**
+[26.04.2019][07:37:51][🔹》main-lounge] ACE | GH#0002: Bitch
+[26.04.2019][07:37:59][🔹》main-lounge] Melone#9866: bruh
+[26.04.2019][07:38:03][🔹》main-lounge] Melone#9866: momentum
+[26.04.2019][07:38:11][🔹》main-lounge] EDoosh#9599: !mute <@471400155904475158>
+[26.04.2019][07:38:11][🔸》moderation-chat-logs] GameHub#0549: 
+[26.04.2019][07:38:11][🔹》main-lounge] GameHub#0549: <@267723762563022849>, 🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**
+[26.04.2019][07:38:21][🔹》main-lounge] EDoosh#9599: JUST LET ME DO THIS
+[26.04.2019][07:38:38][🔸》moderation-chat-logs] Administrative Message#3861: 
+[26.04.2019][07:38:38][🔸》welcome] GameHub#0549: wcarr.mp5#0077 has left the server.
+[26.04.2019][07:38:38][🔸》join-leave-logs] InviteManager#3907: wcarr.mp5#0077 left the server, but I couldn't figure out who invited them.
+[26.04.2019][07:38:45][🔹》main-lounge] Arcane#0003: wcarr is gone <a:crabRave:510169818893385729>
+[26.04.2019][07:38:52][🔹》main-lounge] ACE | GH#0002: Yes
+[26.04.2019][07:38:55][🔹》main-lounge] EDoosh#9599: *crab rave*
+[26.04.2019][07:38:58][🔹》main-lounge] Myst#0003: <@!322437490428346369> Yo
