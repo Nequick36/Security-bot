@@ -8867,3 +8867,15 @@ __
 [26.04.2019][07:51:24][🔹》main-lounge] ACE | GH#0002: OK means Oll Correct
 [26.04.2019][08:19:47][🔸》chat-logs] GameHub#0549: 
 [26.04.2019][08:28:58][🔸》chat-logs] GameHub#0549: 
+[26.04.2019][11:19:46][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Tanzania
+[26.04.2019][11:19:46][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[26.04.2019][11:20:27][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Tanzania, United Republic of
+[26.04.2019][11:20:27][🔵》slav-bot-warzone] Slav Bot#9008: 
+[26.04.2019][11:20:42][🔵》slav-bot-warzone] Seth | GH#7796: S!ww collect
+[26.04.2019][11:20:42][🔵》slav-bot-warzone] Slav Bot#9008: 
+[26.04.2019][11:20:58][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Tanzania, United Republic of
+[26.04.2019][11:20:58][🔵》slav-bot-warzone] Slav Bot#9008: 
+[26.04.2019][11:21:20][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Egypt
+[26.04.2019][11:21:20][🔵》slav-bot-warzone] Slav Bot#9008: 
+[26.04.2019][11:21:32][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Madagascar
+[26.04.2019][11:21:33][🔵》slav-bot-warzone] Slav Bot#9008: 
