@@ -8905,3 +8905,10 @@ __
 [27.04.2019][10:57:08][🔸》moderation-chat-logs] Administrative Message#3861: 
 [27.04.2019][10:57:08][🔸》moderation-chat-logs] Administrative Message#3861: 
 [27.04.2019][10:57:08][🔸》join-leave-logs] InviteManager#3907: <@452128432458039296> **joined**; Invited by **Seth | GH** (**47** invites)
+[27.04.2019][11:03:20][🔹》bot-commands] Josh | GH#4954: ?unmute <@452128432458039296>
+[27.04.2019][11:03:20][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.04.2019][11:03:20][🔸》moderation] Administrative Message#3861: 
+[27.04.2019][11:03:20][🔹》bot-commands] Administrative Message#3861: <:dynoSuccess:314691591484866560> ***OfficialHypro#6821 was unmuted***
+[27.04.2019][11:03:20][🔸》chat-logs] GameHub#0549: 
+[27.04.2019][11:03:20][🔸》moderation-chat-logs] Administrative Message#3861: 
+[27.04.2019][11:03:20][🔸》moderation-chat-logs] Administrative Message#3861: 
