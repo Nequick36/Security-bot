@@ -8923,3 +8923,5 @@ __
 [27.04.2019][07:15:37][🔵》slav-bot-warzone] Slav Bot#9008: 
 [27.04.2019][07:15:50][🔵》slav-bot-warzone] Seth | GH#7796: S!ww profile
 [27.04.2019][07:15:50][🔵》slav-bot-warzone] Slav Bot#9008: 
+[27.04.2019][07:25:17][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[27.04.2019][07:25:18][🔵》slav-bot-warzone] Slav Bot#9008: 
