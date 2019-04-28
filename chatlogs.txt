@@ -9187,3 +9187,7 @@ __
 [28.04.2019][01:58:22][🔸》chat-logs] GameHub#0549: 
 [28.04.2019][01:58:54][🔸》chat-logs] GameHub#0549: 
 [28.04.2019][03:51:04][🔸》chat-logs] GameHub#0549: 
+[28.04.2019][08:31:41][🔵》slav-bot-warzone] Aarib | GH#2092: S!ww collect
+[28.04.2019][08:31:41][🔵》slav-bot-warzone] Slav Bot#9008: 
+[28.04.2019][08:31:52][🔵》slav-bot-warzone] Aarib | GH#2092: S!ww buy United Kingdom
+[28.04.2019][08:31:52][🔵》slav-bot-warzone] Slav Bot#9008: 
