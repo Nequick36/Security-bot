@@ -9231,3 +9231,43 @@ __
 [28.04.2019][11:24:09][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy United Kingdom
 [28.04.2019][11:24:09][🔵》slav-bot-warzone] Slav Bot#9008: 
 [29.04.2019][01:19:32][🔸》chat-logs] GameHub#0549: 
+[29.04.2019][02:24:16][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:24:31][🔴》music-only-commands] Zorflozzz22#6953: ;play gemidos
+[29.04.2019][02:24:31][🔴》music-only-commands] Bender#2282: <a:loading2:461731014646169601> Fetching song info...
+[29.04.2019][02:24:31][🔸》moderation-chat-logs] Bender#2282: 
+[29.04.2019][02:24:33][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:28:14][🔴》music-only-commands] Bender#2282: <:stop_red:418198970565918730> Queue ended. I've left the voice channel.
+[29.04.2019][02:28:14][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:30:32][🔸》chat-logs] GameHub#0549: 
+[29.04.2019][02:30:32][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:30:50][🔴》music-only-commands] Zorflozzz22#6953: ;play gemidos earrape
+[29.04.2019][02:30:50][🔸》moderation-chat-logs] Bender#2282: 
+[29.04.2019][02:30:50][🔴》music-only-commands] Bender#2282: <a:loading2:461731014646169601> Fetching song info...
+[29.04.2019][02:30:51][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:30:58][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:30:58][🔴》music-only-commands] Bender#2282: <:stop_red:418198970565918730> Queue ended. I've left the voice channel.
+[29.04.2019][02:31:04][🔴》music-only-commands] Zorflozzz22#6953: auch
+[29.04.2019][02:31:11][🔴》music-only-commands] Zorflozzz22#6953: ;play gemidos earrape
+[29.04.2019][02:31:11][🔸》moderation-chat-logs] Bender#2282: 
+[29.04.2019][02:31:11][🔴》music-only-commands] Bender#2282: <a:loading2:461731014646169601> Fetching song info...
+[29.04.2019][02:31:12][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:31:19][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:31:19][🔴》music-only-commands] Bender#2282: <:stop_red:418198970565918730> Queue ended. I've left the voice channel.
+[29.04.2019][02:31:24][🔸》chat-logs] GameHub#0549: 
+[29.04.2019][02:31:24][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:31:30][🔸》chat-logs] GameHub#0549: 
+[29.04.2019][02:31:30][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:31:41][🔴》music-only-commands] Zorflozzz22#6953: ;play Sophia
+[29.04.2019][02:31:41][🔸》moderation-chat-logs] Bender#2282: 
+[29.04.2019][02:31:41][🔴》music-only-commands] Bender#2282: <a:loading2:461731014646169601> Fetching song info...
+[29.04.2019][02:31:42][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:31:52][🔴》music-only-commands] Zorflozzz22#6953: ;stop
+[29.04.2019][02:31:53][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:31:53][🔸》moderation-chat-logs] Bender#2282: 
+[29.04.2019][02:31:53][🔴》music-only-commands] Bender#2282: <:stop_red:418198970565918730> Stopped music and cleared the queue.
+[29.04.2019][02:32:20][🔴》music-only-commands] Zorflozzz22#6953: ;play Yoshis meme
+[29.04.2019][02:32:20][🔸》moderation-chat-logs] Bender#2282: 
+[29.04.2019][02:32:20][🔴》music-only-commands] Bender#2282: <a:loading2:461731014646169601> Fetching song info...
+[29.04.2019][02:32:21][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:32:51][🔸》moderation-chat-logs] Administrative Message#3861: 
+[29.04.2019][02:32:51][🔴》music-only-commands] Bender#2282: <:pause_red:418198944078888960> Paused music since everyone left the channel. I'll leave after 15 minutes of inactivity.
