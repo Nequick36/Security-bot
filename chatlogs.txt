@@ -9276,3 +9276,11 @@ __
 [29.04.2019][03:29:53][🔸》chat-logs] GameHub#0549: 
 [29.04.2019][03:55:05][🔸》chat-logs] GameHub#0549: 
 [29.04.2019][07:10:03][🔵》slav-bot-warzone] Seth | GH#7796: S!ww collect
+[29.04.2019][07:35:45][🔵》slav-bot-warzone] Seth | GH#7796: S!ww collect
+[29.04.2019][07:35:45][🔵》slav-bot-warzone] Slav Bot#9008: 
+[29.04.2019][07:36:03][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy United Kingdom
+[29.04.2019][07:36:03][🔵》slav-bot-warzone] Slav Bot#9008: 
+[29.04.2019][07:36:21][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Vanuatu
+[29.04.2019][07:36:21][🔵》slav-bot-warzone] Slav Bot#9008: 
+[29.04.2019][07:36:36][🔵》slav-bot-warzone] Seth | GH#7796: S!ww profile
+[29.04.2019][07:36:36][🔵》slav-bot-warzone] Slav Bot#9008: 
