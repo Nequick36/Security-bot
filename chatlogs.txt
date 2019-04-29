@@ -9284,3 +9284,8 @@ __
 [29.04.2019][07:36:21][🔵》slav-bot-warzone] Slav Bot#9008: 
 [29.04.2019][07:36:36][🔵》slav-bot-warzone] Seth | GH#7796: S!ww profile
 [29.04.2019][07:36:36][🔵》slav-bot-warzone] Slav Bot#9008: 
+[29.04.2019][11:37:23][🔵》slav-bot-warzone] Aarib | GH#2092: S!ww collect
+[29.04.2019][11:37:23][🔵》slav-bot-warzone] Slav Bot#9008: 
+[29.04.2019][11:37:30][🔵》slav-bot-warzone] Aarib | GH#2092: S!ww buy United Kingdom
+[29.04.2019][11:37:30][🔵》slav-bot-warzone] Slav Bot#9008: 
+[29.04.2019][11:37:30][🔵》slav-bot-warzone] GameHub#0549: <@334288913961058304> just leveled up to level 3!
