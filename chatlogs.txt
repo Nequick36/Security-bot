@@ -9329,3 +9329,6 @@ __
 [29.04.2019][07:37:48][🔵》slav-bot-warzone] Slav Bot#9008: 
 [29.04.2019][07:41:12][🔸》chat-logs] GameHub#0549: 
 [29.04.2019][11:34:47][🔸》chat-logs] GameHub#0549: 
+[30.04.2019][11:33:15][🔸》moderation-chat-logs] Administrative Message#3861: 
+[30.04.2019][11:33:15][🔸》welcome] GameHub#0549: luluj66#3351 has left the server.
+[30.04.2019][11:33:15][🔸》join-leave-logs] InviteManager#3907: luluj66 **left**; Invited by **Josh | GH**
