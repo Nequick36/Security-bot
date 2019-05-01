@@ -18,6 +18,8 @@ module.exports.run = async (bot, message, args) => {
 VIEW_CHANNEL: false,
 SEND_MESSAGES: false,
 READ_MESSAGE_HISTORY: false
+        
+        
 })
 channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Bots'), {
 VIEW_CHANNEL: false,
