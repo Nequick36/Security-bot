@@ -9375,3 +9375,13 @@ __
 [01.05.2019][04:36:34][🔵》slav-bot-warzone] Slav Bot#9008: 
 [01.05.2019][08:33:35][🔸》chat-logs] GameHub#0549: 
 [01.05.2019][08:33:35][🔸》moderation-chat-logs] Administrative Message#3861: 
+[01.05.2019][09:28:48][🔵》league-of-nations-1] Seth | GH#7796: -tax
+[01.05.2019][09:28:48][🔵》league-of-nations-1] League Of Nations#6458: 
+[01.05.2019][09:29:03][🔵》slav-bot-warzone] Seth | GH#7796: S!ww collect
+[01.05.2019][09:29:03][🔵》slav-bot-warzone] Slav Bot#9008: 
+[01.05.2019][09:29:49][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Uzbekistan
+[01.05.2019][09:29:50][🔵》slav-bot-warzone] Slav Bot#9008: 
+[01.05.2019][09:30:22][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy United States outlying islands
+[01.05.2019][09:30:22][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[01.05.2019][09:30:57][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy United States minor Outlying Islands
+[01.05.2019][09:30:57][🔵》slav-bot-warzone] Slav Bot#9008: 
