@@ -9359,3 +9359,15 @@ __
 [30.04.2019][10:09:53][🔸》chat-logs] GameHub#0549: 
 [01.05.2019][04:23:27][🔸》chat-logs] GameHub#0549: 
 [01.05.2019][10:13:31][🔸》chat-logs] GameHub#0549: 
+[01.05.2019][04:34:18][🔵》slav-bot-warzone] Seth | GH#7796: S!ww collect
+[01.05.2019][04:34:18][🔵》slav-bot-warzone] Slav Bot#9008: 
+[01.05.2019][04:34:50][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Switzerland
+[01.05.2019][04:34:51][🔵》slav-bot-warzone] Slav Bot#9008: 
+[01.05.2019][04:35:03][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy south sudan
+[01.05.2019][04:35:03][🔵》slav-bot-warzone] Slav Bot#9008: 
+[01.05.2019][04:35:27][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Western Sahara
+[01.05.2019][04:35:27][🔵》slav-bot-warzone] Slav Bot#9008: 
+[01.05.2019][04:35:40][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy sweden
+[01.05.2019][04:35:40][🔵》slav-bot-warzone] Slav Bot#9008: 
+[01.05.2019][04:35:54][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy Yemen
+[01.05.2019][04:35:54][🔵》slav-bot-warzone] Slav Bot#9008: 
