@@ -9373,3 +9373,5 @@ __
 [01.05.2019][04:35:54][🔵》slav-bot-warzone] Slav Bot#9008: 
 [01.05.2019][04:36:34][🔵》slav-bot-warzone] Seth | GH#7796: S!ww profile
 [01.05.2019][04:36:34][🔵》slav-bot-warzone] Slav Bot#9008: 
+[01.05.2019][08:33:35][🔸》chat-logs] GameHub#0549: 
+[01.05.2019][08:33:35][🔸》moderation-chat-logs] Administrative Message#3861: 

@@ -75,7 +75,7 @@ exports.run = async (bot, message) => {
     } catch (err) {
       message.channel.send(`\`ERROR\` \`\`\`xl\n${clean(err)}\n\`\`\``);
     }}
-  
+  //afk
 if(bot.afk.has(message.author.id)) {
   let options = bot.afk.get(message.author.id)
   if(options.justafk == true) {
