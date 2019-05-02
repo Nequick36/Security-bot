@@ -9385,3 +9385,4 @@ __
 [01.05.2019][09:30:22][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
 [01.05.2019][09:30:57][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy United States minor Outlying Islands
 [01.05.2019][09:30:57][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][01:34:05][🔸》chat-logs] GameHub#0549: 
