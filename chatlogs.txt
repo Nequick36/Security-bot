@@ -9647,3 +9647,11 @@ __
 [02.05.2019][06:35:31][🔵》slav-bot-warzone] Slav Bot#9008: 
 [02.05.2019][06:35:55][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 34
 [02.05.2019][06:35:55][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][06:44:32][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][06:44:32][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][06:47:44][🔵》slav-bot-warzone] Seth | GH#7796: S!ww collect
+[02.05.2019][06:47:44][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][06:48:00][🔵》slav-bot-warzone] Seth | GH#7796: S!ww 34
+[02.05.2019][06:48:00][🔵》slav-bot-warzone] Slav Bot#9008: <@366234394479951873> No parameter given. Use `s!help ww` for help.
+[02.05.2019][06:48:08][🔵》slav-bot-warzone] Seth | GH#7796: S!ww buy 34
+[02.05.2019][06:48:08][🔵》slav-bot-warzone] Slav Bot#9008: 
