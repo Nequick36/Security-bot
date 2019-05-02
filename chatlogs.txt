@@ -9727,3 +9727,38 @@ __
 [02.05.2019][07:33:50][🔵》slav-bot-warzone] Slav Bot#9008: 
 [02.05.2019][07:33:56][🔵》slav-bot-warzone] Seth | GH#7796: S!ww profile
 [02.05.2019][07:33:57][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][07:36:55][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][07:36:56][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][07:37:24][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 40
+[02.05.2019][07:37:24][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][07:37:34][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 41
+[02.05.2019][07:37:34][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][07:37:40][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 42
+[02.05.2019][07:37:40][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][07:37:47][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 43
+[02.05.2019][07:37:47][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][07:39:31][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][07:39:31][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][07:39:38][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 44
+[02.05.2019][07:39:38][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][07:39:46][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 45
+[02.05.2019][07:39:46][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][07:42:21][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][07:42:21][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][07:42:34][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 46
+[02.05.2019][07:42:34][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][07:44:20][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][07:44:21][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][07:45:02][🔹development-chat] Josh | GH#4954: Rainbow role is broken
+[02.05.2019][07:45:06][🔹development-chat] Josh | GH#4954: <@&493687374002520074>
+[02.05.2019][07:45:16][🔹development-chat] ${j122} | GH#9847: whoa
+[02.05.2019][07:45:19][🔸》moderation-chat-logs] Administrative Message#3861: 
+[02.05.2019][07:45:19][🔸》chat-logs] GameHub#0549: 
+[02.05.2019][07:45:24][🔹development-chat] ${j122} | GH#9847: you just noticed
+[02.05.2019][07:45:25][🔹development-chat] Josh | GH#4954: ?
+[02.05.2019][07:45:31][🔹development-chat] Josh | GH#4954: Yes
+[02.05.2019][07:45:39][🔹development-chat] ${j122} | GH#9847: it is broken for some time
+[02.05.2019][07:45:41][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][07:45:41][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][07:46:02][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 47
+[02.05.2019][07:46:02][🔵》slav-bot-warzone] Slav Bot#9008: 
