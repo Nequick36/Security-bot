@@ -9623,3 +9623,11 @@ __
 [02.05.2019][06:17:29][🔵》slav-bot-warzone] Slav Bot#9008: 
 [02.05.2019][06:17:39][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy Bermuda
 [02.05.2019][06:17:39][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][06:21:03][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][06:21:04][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][06:21:22][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 26
+[02.05.2019][06:21:22][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][06:24:33][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][06:24:33][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][06:24:50][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 27
+[02.05.2019][06:24:50][🔵》slav-bot-warzone] Slav Bot#9008: 
