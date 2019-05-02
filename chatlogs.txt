@@ -9898,3 +9898,43 @@ __
 [02.05.2019][08:27:19][🔵》slav-bot-warzone] Slav Bot#9008: 
 [02.05.2019][08:27:26][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 87
 [02.05.2019][08:27:26][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:29:43][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][08:29:44][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:29:54][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 87
+[02.05.2019][08:29:54][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:30:00][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 88
+[02.05.2019][08:30:00][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:30:13][🔵》slav-bot-warzone] Josh | GH#4954: S!ww list
+[02.05.2019][08:30:14][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:30:14][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:30:14][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:30:14][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:30:14][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:30:21][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:30:21][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:30:21][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:30:22][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:31:02][🔵》slav-bot-warzone] Josh | GH#4954: S!ww profile
+[02.05.2019][08:31:02][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:32:01][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][08:32:01][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:32:58][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 89
+[02.05.2019][08:32:58][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:33:04][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 90
+[02.05.2019][08:33:04][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:33:14][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 92
+[02.05.2019][08:33:14][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:33:25][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 91
+[02.05.2019][08:33:25][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:41:15][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][08:41:15][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:41:16][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][08:41:16][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:41:36][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 92
+[02.05.2019][08:41:36][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:41:44][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 93
+[02.05.2019][08:41:44][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:41:49][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 94
+[02.05.2019][08:41:50][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][08:41:59][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 95
+[02.05.2019][08:41:59][🔵》slav-bot-warzone] Slav Bot#9008: 
