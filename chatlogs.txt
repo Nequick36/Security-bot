@@ -9436,3 +9436,33 @@ __
 [02.05.2019][05:14:24][🔵》slav-bot-warzone] Slav Bot#9008: <@349250638632452096> No parameter given. Use `s!help ww` for help.
 [02.05.2019][05:14:31][🔵》slav-bot-warzone] Josh | GH#4954: S!help ww
 [02.05.2019][05:14:32][🔵》slav-bot-warzone] Slav Bot#9008: <@349250638632452096> Sent you a DM with information.
+[02.05.2019][05:14:52][🔵》slav-bot-warzone] Josh | GH#4954: !ww ranks
+[02.05.2019][05:14:52][🔵》slav-bot-warzone] GameHub#0549: Can't find that command! Please use !help
+[02.05.2019][05:14:52][🔸》moderation-chat-logs] GameHub#0549: 
+[02.05.2019][05:15:04][🔵》slav-bot-warzone] Josh | GH#4954: s!ww ranks
+[02.05.2019][05:15:04][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:15:16][🔵》slav-bot-warzone] Josh | GH#4954: s!ww start
+[02.05.2019][05:15:17][🔵》slav-bot-warzone] Slav Bot#9008: <@349250638632452096> No parameter given. Use `s!help ww` for help.
+[02.05.2019][05:17:00][🔵》slav-bot-warzone] Josh | GH#4954: S!ww profile <@!366234394479951873>
+[02.05.2019][05:17:00][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:17:12][🔵》slav-bot-warzone] Josh | GH#4954: S!ww list
+[02.05.2019][05:17:12][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:17:12][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:17:13][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:17:13][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:17:13][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:17:19][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:17:19][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:17:19][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:18:19][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy Ukraine
+[02.05.2019][05:18:19][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:18:25][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][05:18:25][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:21:46][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy Åland Islands
+[02.05.2019][05:21:46][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:21:53][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][05:21:53][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:24:54][🔵》slav-bot-warzone] Seth | GH#7796: S!ww collect
+[02.05.2019][05:24:54][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:25:41][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy Albania
+[02.05.2019][05:25:41][🔵》slav-bot-warzone] Slav Bot#9008: 
