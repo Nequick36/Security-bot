@@ -9412,3 +9412,27 @@ __
 [02.05.2019][04:59:57][🔵》slav-bot-warzone] Josh | GH#4954: Ok
 [02.05.2019][05:00:13][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy Saudi Arabia
 [02.05.2019][05:00:13][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:06:27][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy Oma
+[02.05.2019][05:06:27][🔵》slav-bot-warzone] Slav Bot#9008: <@349250638632452096> Country not found. Please check the country list and ensure that the Country ID is valid or the name you have given is spelt correctly.
+[02.05.2019][05:06:33][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][05:06:33][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:06:41][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy Oman
+[02.05.2019][05:06:41][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:06:58][🔸》chat-logs] GameHub#0549: 
+[02.05.2019][05:08:12][🔸》chat-logs] GameHub#0549: 
+[02.05.2019][05:12:19][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[02.05.2019][05:12:19][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:12:30][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy Malaysia
+[02.05.2019][05:12:30][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:12:38][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy Mexico
+[02.05.2019][05:12:38][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:12:48][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy Morocco
+[02.05.2019][05:12:48][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:12:58][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy Maldives
+[02.05.2019][05:12:58][🔵》slav-bot-warzone] Slav Bot#9008: 
+[02.05.2019][05:14:18][🔵》slav-bot-warzone] Josh | GH#4954: S!ww shoot
+[02.05.2019][05:14:18][🔵》slav-bot-warzone] Slav Bot#9008: <@349250638632452096> No parameter given. Use `s!help ww` for help.
+[02.05.2019][05:14:24][🔵》slav-bot-warzone] Josh | GH#4954: S!ww help
+[02.05.2019][05:14:24][🔵》slav-bot-warzone] Slav Bot#9008: <@349250638632452096> No parameter given. Use `s!help ww` for help.
+[02.05.2019][05:14:31][🔵》slav-bot-warzone] Josh | GH#4954: S!help ww
+[02.05.2019][05:14:32][🔵》slav-bot-warzone] Slav Bot#9008: <@349250638632452096> Sent you a DM with information.
