@@ -9994,3 +9994,7 @@ __
 [03.05.2019][10:37:48][🔵》slav-bot-warzone] Aarib | GH#2092: S!ww buy 103
 [03.05.2019][10:37:48][🔵》slav-bot-warzone] Slav Bot#9008: 
 [03.05.2019][10:38:01][🔵》slav-bot-warzone] Aarib | GH#2092: Oof I was gonna remove tseries
+[03.05.2019][05:11:23][🔵》slav-bot-warzone] Josh | GH#4954: Haha
+[03.05.2019][05:11:33][🔸》moderation-chat-logs] Administrative Message#3861: 
+[03.05.2019][05:11:33][🔸》chat-logs] GameHub#0549: 
+[03.05.2019][05:11:35][🔵》slav-bot-warzone] Josh | GH#4954: Oof
