@@ -9973,3 +9973,11 @@ __
 [02.05.2019][09:03:29][🔵》slav-bot-warzone] Slav Bot#9008: 
 [02.05.2019][09:03:41][🔵》slav-bot-warzone] Josh | GH#4954: S!ww profile
 [02.05.2019][09:03:41][🔵》slav-bot-warzone] Slav Bot#9008: 
+[03.05.2019][07:06:21][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[03.05.2019][07:06:30][🔵》slav-bot-warzone] Slav Bot#9008: 
+[03.05.2019][07:07:04][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 99
+[03.05.2019][07:07:05][🔵》slav-bot-warzone] Slav Bot#9008: 
+[03.05.2019][07:07:11][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 100
+[03.05.2019][07:07:11][🔵》slav-bot-warzone] Slav Bot#9008: 
+[03.05.2019][07:07:17][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 101
+[03.05.2019][07:07:17][🔵》slav-bot-warzone] Slav Bot#9008: 
