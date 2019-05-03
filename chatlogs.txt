@@ -9998,3 +9998,5 @@ __
 [03.05.2019][05:11:33][🔸》moderation-chat-logs] Administrative Message#3861: 
 [03.05.2019][05:11:33][🔸》chat-logs] GameHub#0549: 
 [03.05.2019][05:11:35][🔵》slav-bot-warzone] Josh | GH#4954: Oof
+[03.05.2019][06:35:13][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[03.05.2019][06:35:14][🔵》slav-bot-warzone] Slav Bot#9008: 
