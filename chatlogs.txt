@@ -10466,3 +10466,13 @@ __
 [04.05.2019][04:09:48][🔸》welcome] GameHub#0549: Welcome <@366234394479951873> to this server.
 [04.05.2019][04:10:42][🔸》chat-logs] GameHub#0549: 
 [04.05.2019][04:10:57][🔹》bot-commands] Josh | GH#4954: ?kick <@!366234394479951873> test
+[04.05.2019][04:11:25][🔹》bot-commands] THE GAYEST OF THEM ALL#7796: !kick <@!349250638632452096> gay
+[04.05.2019][04:11:26][🔸》moderation-chat-logs] GameHub#0549: 
+[04.05.2019][04:11:26][🔹》bot-commands] GameHub#0549: ** Joshua#4954 has been kicked!**
+[04.05.2019][04:11:26][🔸》moderation] GameHub#0549: 
+[04.05.2019][04:11:26][🔸》moderation-chat-logs] GameHub#0549: 
+[04.05.2019][04:11:28][🔸》chat-logs] GameHub#0549: 
+[04.05.2019][04:11:28][🔸》join-leave-logs] InviteManager#3907: Josh | GH **left**; Invited by **Joshua**
+[04.05.2019][04:11:29][🔸》welcome] GameHub#0549: Joshua#4954 has left the server.
+[04.05.2019][04:12:44][🔸》welcome] GameHub#0549: Welcome <@349250638632452096> to this server.
+[04.05.2019][04:13:21][🔸》chat-logs] GameHub#0549: 
