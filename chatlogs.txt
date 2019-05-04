@@ -10483,3 +10483,6 @@ __
 [04.05.2019][05:11:00][🔹》main-lounge] Yame#1726: Hi
 [04.05.2019][06:37:45][🔵》slav-bot-warzone] Seth | GH#7796: S!ww collect
 [04.05.2019][06:37:46][🔵》slav-bot-warzone] Slav Bot#9008: 
+[04.05.2019][09:30:47][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][09:30:59][🔴》music-only-commands] Josh | GH#4954: m!radio 18
+[04.05.2019][09:31:23][🔸》moderation-chat-logs] Administrative Message#3861: 
