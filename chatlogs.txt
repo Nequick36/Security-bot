@@ -10320,3 +10320,78 @@ __
 [04.05.2019][03:48:57][🔸》moderation-chat-logs] Bender#2282: 
 [04.05.2019][03:48:57][🔴》music-only-commands] Bender#2282: <a:loading2:461731014646169601> Fetching song info...
 [04.05.2019][03:48:59][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:49:16][🔹》bot-commands] Josh | GH#4954: m! Help
+[04.05.2019][03:49:19][🔴》music-only-commands] OfficialHypro#6821: ;play xxt sad earrape
+[04.05.2019][03:49:20][🔸》moderation-chat-logs] Bender#2282: 
+[04.05.2019][03:49:20][🔴》music-only-commands] Bender#2282: <a:loading2:461731014646169601> Fetching song info...
+[04.05.2019][03:49:55][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:50:04][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:50:08][🔹》bot-commands] Josh | GH#4954: !m hell
+[04.05.2019][03:50:08][🔸》moderation-chat-logs] GameHub#0549: 
+[04.05.2019][03:50:08][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[04.05.2019][03:50:12][🔹》bot-commands] Josh | GH#4954: !m help
+[04.05.2019][03:50:12][🔸》moderation-chat-logs] GameHub#0549: 
+[04.05.2019][03:50:12][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[04.05.2019][03:50:23][🔴》music-only-commands] Josh | GH#4954: !m help
+[04.05.2019][03:50:23][🔸》moderation-chat-logs] GameHub#0549: 
+[04.05.2019][03:50:23][🔴》music-only-commands] GameHub#0549: Can't find that command! Please use !help
+[04.05.2019][03:51:01][🔹》bot-commands] Josh | GH#4954: !m help
+[04.05.2019][03:51:01][🔸》moderation-chat-logs] GameHub#0549: 
+[04.05.2019][03:51:01][🔹》bot-commands] GameHub#0549: Can't find that command! Please use !help
+[04.05.2019][03:51:21][🔴》music-only-commands] Josh | GH#4954: m! Help
+[04.05.2019][03:51:28][🔴》music-only-commands] Josh | GH#4954: m! help
+[04.05.2019][03:51:35][🔴》music-only-commands] Josh | GH#4954: m!help
+[04.05.2019][03:51:35][🔴》music-only-commands] MythBot Radio#8316: 
+[04.05.2019][03:51:45][🔴》music-only-commands] Bender#2282: <:play_red:418198909685465089> **Now Playing:** XXXTentacion - Moonlight (EAR-RAPE)  |  <https://youtu.be/fGZb5SpRCi0>
+        Duration: **2:50** | Author: **ErA Phantomm** | Requested by: `OfficialHypro#6821`
+[04.05.2019][03:51:59][🔴》music-only-commands] Seth | GH#7796: ;stop
+[04.05.2019][03:51:59][🔸》moderation-chat-logs] Bender#2282: 
+[04.05.2019][03:51:59][🔴》music-only-commands] Bender#2282: <:stop_red:418198970565918730> Stopped music and cleared the queue.
+[04.05.2019][03:51:59][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:52:36][🔴》music-only-commands] Seth | GH#7796: m!stations
+[04.05.2019][03:52:46][🔴》music-only-commands] Josh | GH#4954: m!Join
+[04.05.2019][03:52:46][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:52:53][🔴》music-only-commands] Seth | GH#7796: m!Stations
+[04.05.2019][03:52:57][🔴》music-only-commands] Josh | GH#4954: m!leave
+[04.05.2019][03:52:57][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:53:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:53:06][🔴》music-only-commands] Josh | GH#4954: m!join
+[04.05.2019][03:53:06][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:53:22][🔴》music-only-commands] Josh | GH#4954: m!radio
+[04.05.2019][03:53:22][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:53:46][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:53:58][🔴》music-only-commands] Josh | GH#4954: m!join
+[04.05.2019][03:53:58][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:54:12][🔴》music-only-commands] Josh | GH#4954: !mRadio 30
+[04.05.2019][03:54:12][🔴》music-only-commands] GameHub#0549: Can't find that command! Please use !help
+[04.05.2019][03:54:12][🔸》moderation-chat-logs] GameHub#0549: 
+[04.05.2019][03:54:13][🔴》music-only-commands] Seth | GH#7796: m!Stations
+[04.05.2019][03:54:25][🔴》music-only-commands] Josh | GH#4954: m!Radio 30
+[04.05.2019][03:54:25][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:54:26][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:54:26][🔴》music-only-commands] MythBot Radio#8316: 
+[04.05.2019][03:54:55][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:55:06][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:55:11][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:56:32][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:57:48][🔴》music-only-commands] Josh | GH#4954: m!Radio 23
+[04.05.2019][03:57:48][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:57:49][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:57:49][🔴》music-only-commands] MythBot Radio#8316: 
+[04.05.2019][03:58:06][🔴》music-only-commands] Josh | GH#4954: M!radio 34
+[04.05.2019][03:58:12][🔴》music-only-commands] Josh | GH#4954: m!radio 35
+[04.05.2019][03:58:12][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:58:20][🔴》music-only-commands] Josh | GH#4954: m!radio 3
+[04.05.2019][03:58:21][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:58:21][🔴》music-only-commands] MythBot Radio#8316: 
+[04.05.2019][03:58:36][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:58:42][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:58:58][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:59:18][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:59:33][🔴》music-only-commands] Josh | GH#4954: m!radio 30
+[04.05.2019][03:59:33][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:59:33][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:59:34][🔴》music-only-commands] MythBot Radio#8316: 
+[04.05.2019][03:59:44][🔴》music-only-commands] Josh | GH#4954: m!radio
+[04.05.2019][03:59:45][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:59:55][🔴》music-only-commands] Josh | GH#4954: m!Radio
