@@ -10138,3 +10138,5 @@ __
 [04.05.2019][07:27:44][🔵》slav-bot-warzone] Slav Bot#9008: 
 [04.05.2019][08:07:28][🔵》slav-bot-warzone] Aarib | GH#2092: S!ww collect
 [04.05.2019][08:07:29][🔵》slav-bot-warzone] Slav Bot#9008: 
+[04.05.2019][08:18:51][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[04.05.2019][08:18:52][🔵》slav-bot-warzone] Slav Bot#9008: 
