@@ -10202,3 +10202,5 @@ __
 [04.05.2019][09:22:09][🔵》slav-bot-warzone] Slav Bot#9008: 
 [04.05.2019][09:22:14][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 165
 [04.05.2019][09:22:14][🔵》slav-bot-warzone] Slav Bot#9008: 
+[04.05.2019][11:45:28][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[04.05.2019][11:45:28][🔵》slav-bot-warzone] Slav Bot#9008: 
