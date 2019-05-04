@@ -10239,3 +10239,22 @@ __
 [04.05.2019][03:14:25][🔵》slav-bot-warzone] Slav Bot#9008: 
 [04.05.2019][03:14:34][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
 [04.05.2019][03:14:34][🔵》slav-bot-warzone] Slav Bot#9008: 
+[04.05.2019][03:28:57][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:33:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:33:36][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:34:30][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:34:39][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:34:46][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:34:51][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:34:55][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:35:11][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:35:29][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:36:38][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:37:11][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:37:19][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:37:38][🔴》music-only-commands] Josh | GH#4954: ;play Windows XP ear rape
+[04.05.2019][03:37:38][🔸》moderation-chat-logs] Bender#2282: 
+[04.05.2019][03:37:38][🔴》music-only-commands] Bender#2282: <a:loading2:461731014646169601> Fetching song info...
+[04.05.2019][03:37:39][🔸》moderation-chat-logs] Administrative Message#3861: 
+[04.05.2019][03:37:44][🔴》music-only-commands] Bender#2282: <:stop_red:418198970565918730> Queue ended. I've left the voice channel.
+[04.05.2019][03:37:44][🔸》moderation-chat-logs] Administrative Message#3861: 
