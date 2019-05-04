@@ -10480,3 +10480,4 @@ __
 [04.05.2019][04:55:24][🔹》bot-commands] GameHub#0549: You can't kick a Server Manager!
 [04.05.2019][04:55:24][🔸》moderation-chat-logs] GameHub#0549: 
 [04.05.2019][05:00:00][🔹》main-lounge] Jordan | GH#9218: /..........
+[04.05.2019][05:11:00][🔹》main-lounge] Yame#1726: Hi
