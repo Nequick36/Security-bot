@@ -10509,3 +10509,15 @@ __
 [05.05.2019][11:36:06][🔹》bot-commands] Seth | GH#7796: !serverinfo
 [05.05.2019][11:36:06][🔸》moderation-chat-logs] GameHub#0549: 
 [05.05.2019][11:36:06][🔹》bot-commands] GameHub#0549: 
+[05.05.2019][12:23:29][🔵》slav-bot-warzone] OfficialHypro#6821: S!ww collect
+[05.05.2019][12:23:29][🔵》slav-bot-warzone] Slav Bot#9008: 
+[05.05.2019][12:23:36][🔵》slav-bot-warzone] OfficialHypro#6821: s!help
+[05.05.2019][12:23:37][🔵》slav-bot-warzone] Slav Bot#9008: View the entire command list on Slav Bot's site.
+
+To enable Slav Bot's respond system, use `s!respond enable`.
+To get the entire command list via a DM, use `s!help all` (If DMs are disabled, then the list will be sent to the channel).
+
+https://slavbot.com/
+[05.05.2019][12:23:37][🔵》slav-bot-warzone] Slav Bot#9008: For any further help, visit our support server
+
+https://discord.gg/2T259Pf
