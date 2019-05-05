@@ -10506,3 +10506,6 @@ __
 [05.05.2019][07:52:36][🔵》slav-bot-warzone] Slav Bot#9008: 
 [05.05.2019][10:45:38][🔵》yggdrasil] Yame#1726: --rip my hopes and dreams
 [05.05.2019][10:45:38][🔵》yggdrasil] Yggdrasil#4195: 
+[05.05.2019][11:36:06][🔹》bot-commands] Seth | GH#7796: !serverinfo
+[05.05.2019][11:36:06][🔸》moderation-chat-logs] GameHub#0549: 
+[05.05.2019][11:36:06][🔹》bot-commands] GameHub#0549: 
