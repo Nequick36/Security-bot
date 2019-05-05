@@ -10494,3 +10494,13 @@ __
 [04.05.2019][10:42:00][🔵》yggdrasil] Seth | GH#7796: --rip this server
 [04.05.2019][10:42:00][🔵》yggdrasil] Yggdrasil#4195: 
 [05.05.2019][05:46:45][🔸》chat-logs] GameHub#0549: 
+[05.05.2019][07:51:54][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[05.05.2019][07:51:55][🔵》slav-bot-warzone] Slav Bot#9008: 
+[05.05.2019][07:52:03][🔵》slav-bot-warzone] Josh | GH#4954: S!ww profile
+[05.05.2019][07:52:03][🔵》slav-bot-warzone] Slav Bot#9008: 
+[05.05.2019][07:52:24][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 172
+[05.05.2019][07:52:24][🔵》slav-bot-warzone] Slav Bot#9008: 
+[05.05.2019][07:52:30][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 173
+[05.05.2019][07:52:30][🔵》slav-bot-warzone] Slav Bot#9008: 
+[05.05.2019][07:52:36][🔵》slav-bot-warzone] Josh | GH#4954: S!ww buy 174
+[05.05.2019][07:52:36][🔵》slav-bot-warzone] Slav Bot#9008: 
