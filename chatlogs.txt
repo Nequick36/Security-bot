@@ -10532,3 +10532,6 @@ https://discord.gg/2T259Pf
 [06.05.2019][07:34:04][⚫》staff-chat] Jordan | GH#9218: Why <@474311792059875349> Has access to Staff chats?
 [06.05.2019][07:34:09][🔸》chat-logs] GameHub#0549: 
 [06.05.2019][07:54:58][⚫》staff-chat] Josh | GH#4954: Because it’s my alt
+[06.05.2019][08:09:33][🔹》bot-commands] Seth | GH#7796: !serverinfo
+[06.05.2019][08:09:33][🔹》bot-commands] GameHub#0549: 
+[06.05.2019][08:09:33][🔸》moderation-chat-logs] GameHub#0549: 
