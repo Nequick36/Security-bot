@@ -10528,3 +10528,4 @@ https://discord.gg/2T259Pf
 [06.05.2019][02:32:44][🔸》moderation-chat-logs] Administrative Message#3861: 
 [06.05.2019][02:32:44][🔸》welcome] GameHub#0549: killer5_8_0_4#4728 has left the server.
 [06.05.2019][02:32:44][🔸》join-leave-logs] InviteManager#3907: killer5_8_0_4 **left**; Invited by **Josh | GH**
+[06.05.2019][04:08:36][🔸》chat-logs] GameHub#0549: 
