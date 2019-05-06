@@ -10564,3 +10564,25 @@ https://discord.gg/2T259Pf
 [06.05.2019][09:15:58][🔸》chat-logs] GameHub#0549: 
 [06.05.2019][09:16:06][🔸》moderation-chat-logs] Administrative Message#3861: 
 [06.05.2019][09:16:06][🔸》chat-logs] GameHub#0549: 
+[06.05.2019][09:16:53][🔴》music-only-commands] Josh | GH#4954: m!stations
+[06.05.2019][09:16:53][🔸》chat-logs] GameHub#0549: 
+[06.05.2019][09:16:53][🔸》moderation-chat-logs] Administrative Message#3861: 
+[06.05.2019][09:16:54][🔴》music-only-commands] MythBot Radio#8316: 
+[06.05.2019][09:17:18][🔴》music-only-commands] Josh | GH#4954: m!radio 1
+[06.05.2019][09:17:18][🔸》moderation-chat-logs] Administrative Message#3861: 
+[06.05.2019][09:17:19][🔴》music-only-commands] MythBot Radio#8316: 
+[06.05.2019][09:17:45][🔴》music-only-commands] Josh | GH#4954: m!radio 2
+[06.05.2019][09:17:45][🔸》moderation-chat-logs] Administrative Message#3861: 
+[06.05.2019][09:17:46][🔸》moderation-chat-logs] Administrative Message#3861: 
+[06.05.2019][09:17:46][🔴》music-only-commands] MythBot Radio#8316: 
+[06.05.2019][09:19:20][🔸》moderation-chat-logs] Administrative Message#3861: 
+[06.05.2019][09:23:21][🔸》moderation-chat-logs] Administrative Message#3861: 
+[06.05.2019][09:23:55][🔴》music-only-commands] Josh | GH#4954: m!radio 2
+[06.05.2019][09:23:55][🔸》moderation-chat-logs] Administrative Message#3861: 
+[06.05.2019][09:23:55][🔸》moderation-chat-logs] Administrative Message#3861: 
+[06.05.2019][09:23:55][🔴》music-only-commands] MythBot Radio#8316: 
+[06.05.2019][09:24:40][🔴》music-only-commands] Josh | GH#4954: m!radio 3
+[06.05.2019][09:24:40][🔸》moderation-chat-logs] Administrative Message#3861: 
+[06.05.2019][09:24:40][🔸》moderation-chat-logs] Administrative Message#3861: 
+[06.05.2019][09:24:40][🔴》music-only-commands] MythBot Radio#8316: 
+[06.05.2019][09:24:54][🔸》moderation-chat-logs] Administrative Message#3861: 
