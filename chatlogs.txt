@@ -10586,3 +10586,5 @@ https://discord.gg/2T259Pf
 [06.05.2019][09:24:40][🔸》moderation-chat-logs] Administrative Message#3861: 
 [06.05.2019][09:24:40][🔴》music-only-commands] MythBot Radio#8316: 
 [06.05.2019][09:24:54][🔸》moderation-chat-logs] Administrative Message#3861: 
+[06.05.2019][09:28:33][🔸》moderation-chat-logs] Administrative Message#3861: 
+[06.05.2019][09:28:37][🔸》moderation-chat-logs] Administrative Message#3861: 
