@@ -10773,3 +10773,10 @@ https://discord.gg/2T259Pf
 [07.05.2019][09:55:31][🔵》slav-bot-warzone] Seth | GH™#7796: S!ww buy 184
 [07.05.2019][09:55:31][🔵》slav-bot-warzone] Slav Bot#9008: 
 [07.05.2019][09:56:00][🔵》slav-bot-warzone] Seth | GH™#7796: **RWANDA FOREVER**
+[07.05.2019][09:57:55][🔹development-chat] Seth | GH™#7796: !unmute <@474311792059875349>
+[07.05.2019][09:57:56][🔸》moderation] GameHub#0549: 
+[07.05.2019][09:57:56][🔸》moderation-chat-logs] GameHub#0549: 
+[07.05.2019][09:57:56][🔹development-chat] GameHub#0549: <@!366234394479951873>, <@474311792059875349> has been unmuted!
+[07.05.2019][09:57:56][🔸》moderation-chat-logs] Administrative Message#3861: 
+[07.05.2019][09:57:56][🔹development-chat] Application Bot#7283: 
+[07.05.2019][09:58:27][🔹development-chat] Seth | GH™#7796: Yay
