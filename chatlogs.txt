@@ -10782,3 +10782,5 @@ https://discord.gg/2T259Pf
 [07.05.2019][09:58:27][🔹development-chat] Seth | GH™#7796: Yay
 [08.05.2019][06:43:59][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
 [08.05.2019][06:43:59][🔵》slav-bot-warzone] Slav Bot#9008: 
+[08.05.2019][06:52:24][🔵》slav-bot-warzone] Josh | GH#4954: S!ww collect
+[08.05.2019][06:52:24][🔵》slav-bot-warzone] Slav Bot#9008: 
