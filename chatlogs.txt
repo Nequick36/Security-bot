@@ -10929,3 +10929,18 @@ https://discord.gg/2T259Pf
 [08.05.2019][06:09:01][🔵》slav-bot-warzone] Slav Bot#9008: 
 [08.05.2019][06:10:06][🔵》slav-bot-warzone] Josh | GH#4954: s!ww collect
 [08.05.2019][06:10:06][🔵》slav-bot-warzone] Slav Bot#9008: 
+[08.05.2019][06:12:51][🔵》slav-bot-warzone] Josh | GH#4954: s!ww collect
+[08.05.2019][06:13:19][🔵》slav-bot-warzone] Josh | GH#4954: s!ww collect
+[08.05.2019][06:13:19][🔵》slav-bot-warzone] Slav Bot#9008: 
+[08.05.2019][06:13:29][🔵》slav-bot-warzone] Josh | GH#4954: s!ww buy 235
+[08.05.2019][06:13:29][🔵》slav-bot-warzone] Slav Bot#9008: 
+[08.05.2019][06:15:41][🔵》slav-bot-warzone] Josh | GH#4954: s!ww collect
+[08.05.2019][06:15:42][🔵》slav-bot-warzone] Slav Bot#9008: 
+[08.05.2019][06:21:33][🔵》slav-bot-warzone] Josh | GH#4954: s!ww colelct
+[08.05.2019][06:21:33][🔵》slav-bot-warzone] Slav Bot#9008: <@349250638632452096> No parameter given. Use `s!help ww` for help.
+[08.05.2019][06:21:37][🔵》slav-bot-warzone] Josh | GH#4954: s!ww colect
+[08.05.2019][06:21:37][🔵》slav-bot-warzone] Slav Bot#9008: <@349250638632452096> No parameter given. Use `s!help ww` for help.
+[08.05.2019][06:21:40][🔵》slav-bot-warzone] Josh | GH#4954: s!ww collect
+[08.05.2019][06:21:40][🔵》slav-bot-warzone] Slav Bot#9008: 
+[08.05.2019][06:22:09][🔵》slav-bot-warzone] Josh | GH#4954: s!ww buy 236
+[08.05.2019][06:22:10][🔵》slav-bot-warzone] Slav Bot#9008: 
