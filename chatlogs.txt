@@ -11284,3 +11284,5 @@ https://discord.gg/2T259Pf
 [10.05.2019][02:58:36][🔸》moderation-chat-logs] Administrative Message#3861: 
 [10.05.2019][02:58:36][🔸》join-leave-logs] InviteManager#3907: I can't figure out how <@536943342827601923> joined the server.
 [10.05.2019][03:07:55][🔹》main-lounge] Seth | GH™#7796: <@311490111495995394> not many
+[10.05.2019][04:40:13][🔸》moderation-chat-logs] Administrative Message#3861: 
+[10.05.2019][04:40:13][🔸》chat-logs] GameHub#0549: 
