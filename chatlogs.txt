@@ -11291,3 +11291,5 @@ https://discord.gg/2T259Pf
 [10.05.2019][08:24:27][🔸》moderation-chat-logs] Administrative Message#3861: 
 [11.05.2019][05:51:04][🔸》chat-logs] GameHub#0549: 
 [11.05.2019][07:14:09][🔹》bot-commands] Jordan | GH#9218: vat
+[11.05.2019][10:54:48][🔹》bot-commands] Seth | GH#7796: !serverinfo
+[11.05.2019][10:54:48][🔸》moderation-chat-logs] GameHub#0549: 
