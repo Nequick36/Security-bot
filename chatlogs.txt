@@ -11302,3 +11302,36 @@ https://discord.gg/2T259Pf
 [11.05.2019][03:33:24][🔸》moderation-chat-logs] Administrative Message#3861: 
 [11.05.2019][06:33:27][🔸》moderation-chat-logs] Administrative Message#3861: 
 [11.05.2019][06:39:31][🔹》memes] Seth | GH#7796: https://cdn.discordapp.com/attachments/547187751288569858/574246125930938380/Screenshot_20190503-081939_Reddit.jpg
+[11.05.2019][06:42:46][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:43:30][🔴》music-only-commands] Seth | GH#7796: m!radio
+[11.05.2019][06:43:30][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:43:30][🔸》chat-logs] GameHub#0549: 
+[11.05.2019][06:43:30][🔴》music-only-commands] MythBot Radio#8316: 
+[11.05.2019][06:43:42][🔴》music-only-commands] Seth | GH#7796: m!help
+[11.05.2019][06:43:42][🔴》music-only-commands] GameHub#0549: <@366234394479951873> just leveled up to level 123!
+[11.05.2019][06:43:49][🔴》music-only-commands] Seth | GH#7796: m!join
+[11.05.2019][06:43:49][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:44:01][🔴》music-only-commands] Seth | GH#7796: m!radio 3
+[11.05.2019][06:44:01][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:44:02][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:44:02][🔴》music-only-commands] MythBot Radio#8316: 
+[11.05.2019][06:44:35][🔴》music-only-commands] Seth | GH#7796: m!radio 4
+[11.05.2019][06:44:35][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:44:35][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:44:36][🔴》music-only-commands] MythBot Radio#8316: 
+[11.05.2019][06:45:28][🔴》music-only-commands] Seth | GH#7796: m!radio 5
+[11.05.2019][06:45:28][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:45:28][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:45:28][🔴》music-only-commands] MythBot Radio#8316: 
+[11.05.2019][06:46:22][🔴》music-only-commands] Seth | GH#7796: <@!349250638632452096> why the hell does this bot mute itself?
+[11.05.2019][06:46:32][🔴》music-only-commands] Seth | GH#7796: m!leave
+[11.05.2019][06:46:33][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:46:37][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:46:42][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:46:56][🔴》music-only-commands] Seth | GH#7796: ;play gangstas paradise
+[11.05.2019][06:46:56][🔸》moderation-chat-logs] Bender#2282: 
+[11.05.2019][06:46:56][🔴》music-only-commands] Bender#2282: <a:loading2:461731014646169601> Fetching song info...
+[11.05.2019][06:46:57][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:49:42][🔷》minecraft-chat] Seth | GH#7796: nice
+[11.05.2019][06:51:14][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:51:14][🔴》music-only-commands] Bender#2282: <:stop_red:418198970565918730> Queue ended. I've left the voice channel.
