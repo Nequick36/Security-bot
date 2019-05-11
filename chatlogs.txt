@@ -11335,3 +11335,4 @@ https://discord.gg/2T259Pf
 [11.05.2019][06:49:42][🔷》minecraft-chat] Seth | GH#7796: nice
 [11.05.2019][06:51:14][🔸》moderation-chat-logs] Administrative Message#3861: 
 [11.05.2019][06:51:14][🔴》music-only-commands] Bender#2282: <:stop_red:418198970565918730> Queue ended. I've left the voice channel.
+[11.05.2019][06:55:02][🔴》music-only-commands] Josh | GH#4954: Idk
