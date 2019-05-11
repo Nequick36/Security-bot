@@ -11300,3 +11300,5 @@ https://discord.gg/2T259Pf
 [11.05.2019][03:33:09][🔸》moderation-chat-logs] Administrative Message#3861: 
 [11.05.2019][03:33:10][🔴》music-only-commands] MythBot Radio#8316: 
 [11.05.2019][03:33:24][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:33:27][🔸》moderation-chat-logs] Administrative Message#3861: 
+[11.05.2019][06:39:31][🔹》memes] Seth | GH#7796: https://cdn.discordapp.com/attachments/547187751288569858/574246125930938380/Screenshot_20190503-081939_Reddit.jpg
