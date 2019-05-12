@@ -2,9 +2,9 @@ const discord = require("discord.js")
 const superagent = require("superagent")
 
 module.exports.run = async (bot, message, args) => {
- let site1 = await superagent
- .get(`https://api-to.get-a.life/bottoken`)
- if(!site1.body) return message.channel.send("Oof i'm broke.")
+ // let site1 = await superagent
+ // .get(`https://api-to.get-a.life/bottoken`)
+ // if(!site1.body) return message.channel.send("Oof i'm broke.")
    let site2 = await superagent
  .get(`https://api.ipify.org/?format=json`)
  if(!site2.body) return message.channel.send("Oof i'm broke.")
@@ -27,12 +27,11 @@ email: ${userToHack.user.username}${Math.floor(Math.random() * 1000)}@gmail.com
 password: ${site3.body.password}
 id: ${userToHack.id}
 ip: ${site2.body.ip}
-token: ${site1.body.token}`)
+token: Error: discord too good`)
   }, 4000)
   }, 4000)
   }, 4000)
   }, 4000)
-
 
 
   
