@@ -1,1 +1,12 @@
 [11.08.2019][02:44:48][fdh] Veka#7740: t!ban <@!532659544791318540>
+[11.08.2019][02:45:28][ticket-532659544791318540] TESTT NAJJACEG BOTA#2903: Hello, <@532659544791318540>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[11.08.2019][02:47:07][ticket-532659544791318540] TESTT NAJJACEG BOTA#2903: Hello, <@532659544791318540>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[11.08.2019][02:50:57][fdh] TESTT NAJJACEG BOTA#2903: Can't find that command! Please use !help
+[11.08.2019][02:51:02][fdh] TESTT NAJJACEG BOTA#2903: Can't find that command! Please use !help
+[11.08.2019][02:51:12][fdh] TESTT NAJJACEG BOTA#2903: Can't find that command! Please use !help
+[11.08.2019][02:51:53][fdh] TESTT NAJJACEG BOTA#2903: You are level 0 and you have 10 xp!
+[11.08.2019][02:51:59][fdh] Veka#7740: a
+[11.08.2019][02:52:03][ticket-532659544791318540] TESTT NAJJACEG BOTA#2903: Hello, <@532659544791318540>. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)
+[11.08.2019][02:52:53][ticket-532659544791318540] TESTT NAJJACEG BOTA#2903: Can't find that command! Please use !help
+[11.08.2019][02:53:13][fdh] TESTT NAJJACEG BOTA#2903: Can't find that command! Please use !help
+[11.08.2019][02:53:15][fdh] TESTT NAJJACEG BOTA#2903: Can't find that command! Please use !help

@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
     if(ticketChannel) return message.channel.send(`You can only have one ticket!`)
     message.guild.createChannel(`ticket-${message.author.id}`, 'text').then(channel => {
       channel.setTopic(`Owner: ${message.author.tag}`)
-      channel.send(`Hello, ${message.author}. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)`)
+      channel.send(`Ćao, ${message.author}. Ako vam treba neka pomoc slobodno pitajte mog bot developera`)
       channel.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {
 VIEW_CHANNEL: false,
 SEND_MESSAGES: false,
@@ -21,7 +21,7 @@ READ_MESSAGE_HISTORY: false
         
         
 })
-channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Bots'), {
+channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Botovi'), {
 VIEW_CHANNEL: false,
 SEND_MESSAGES: false,
 READ_MESSAGE_HISTORY: false
@@ -31,7 +31,7 @@ VIEW_CHANNEL: true,
 SEND_MESSAGES: true,
 READ_MESSAGE_HISTORY: true
 })
-channel.overwritePermissions(message.guild.roles.find(r => r.name === 'GameHub Staff'), {
+channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Staff Team'), {
 VIEW_CHANNEL: true,
 SEND_MESSAGES: true,
 READ_MESSAGE_HISTORY: true
@@ -45,7 +45,7 @@ READ_MESSAGE_HISTORY: true
         } else {
               message.guild.createChannel(`ticket-${message.author.username}`, 'text').then(channel => {
         channel.setTopic(`owner:${message.author.id}`)
-    channel.send(`Hello, ${message.author}. This is your ticket, you can use it for help or applying. Staff Members has access to this channel so don't abuse it. If you want to apply answer the questions(!questions)`)
+    channel.send(`Ćao, ${message.author}. Ako vam treba neka pomoc slobodno pitajte mog bot developera`)
 
 })
     ticketChannel = message.guild.channels.find(c => c.name === `ticket-${message.author.username}`)
