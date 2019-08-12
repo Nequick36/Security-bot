@@ -11,7 +11,7 @@ module.exports.run = async (bot, message, args) => {
   }
     var output = await eco.Work(message.author.id, {
       failurerate: 10,
-      money: Math.floor(Math.random() * 250),
+      money: Math.floor(Math.random() * 200),
     })
     //10% chance to fail and earn nothing. You earn between 1-500 coins. And you get one of those 3 random jobs.
     if (output.earned == 0) return message.reply('Aww, you did not do your job well so you earned nothing!')
