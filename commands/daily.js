@@ -7,7 +7,7 @@ module.exports.run = async (bot, message, args) => {
                if (l.updated) {
 
                  eco.FetchBalance(message.author.id).then(x => {
-                   eco.AddToBalance(message.author.id, 100).then(l =>
+                   eco.AddToBalance(message.author.id, 250).then(l =>
                      message.reply(`You claimed your daily coins succesfully! You now own ${l.newbalance} coins.`));
                  })
 

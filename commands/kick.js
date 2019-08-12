@@ -28,7 +28,7 @@ module.exports.run = async (bot, message, args) => {
          .addField("Reason", reason)
          .setThumbnail(kickedUser.user.avatarURL)
          .setColor(0xFF0000)
-     let kickChannel = message.guild.channels.find(channel => channel.name === "🔸》moderation")
+     let kickChannel = message.guild.channels.find(channel => channel.name === "kick")
      kickChannel.send(kickInfo)
      message.delete()
      kickedUser.send(`You have been kicked out of GameHub for: ${reason}`).catch(message.channel.send(`** ${kickedUser.user.tag} has been kicked!**`))

@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  let devRole = message.guild.roles.find(r => r.name === "GH Bot Developer")
+  let devRole = message.guild.roles.find(r => r.name === "*")
   if(!message.member.roles.has(devRole.id)) return message.channel.send("**🛑 THIS IS A DEVELOPER ONLY COMMAND! 🛑**")
     // bot.user.setStatus('available')
     // bot.user.setPresence({
