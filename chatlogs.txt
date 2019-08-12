@@ -250,3 +250,176 @@ You now own :money_with_wings: 338
 [12.08.2019][09:36:17][biljeske-servera] = | Bot#1536: 
 [12.08.2019][09:36:17][logs] ExtremeCommunity#0316: 
 [12.08.2019][09:36:21][「📜」polls] (Vlasnik) Veka#7740: @everyone
+[12.08.2019][09:37:35][「📄」chat-sa-botom] [U-Mod] xriverr#1990: Veka je glup ali je nekad dobar
+[12.08.2019][09:37:57][「📄」chat-sa-botom] (Vlasnik) Veka#7740: lol
+[12.08.2019][09:38:11][「📄」chat-sa-botom] [U-Mod] xriverr#1990: Potrosila se baterija
+[12.08.2019][09:38:15][「📄」chat-sa-botom] (Vlasnik) Veka#7740: do you wanta buildu snow mannn
+[12.08.2019][09:38:16][「📄」chat-sa-botom] [U-Mod] xriverr#1990: Haj x o
+[12.08.2019][09:38:18][「📄」chat-sa-botom] (Vlasnik) Veka#7740: ja ja
+[12.08.2019][09:38:36][「🤓」iq] [U-Mod] xriverr#1990: .iq
+[12.08.2019][09:38:36][「🤓」iq] . | Bot#9927: 
+[12.08.2019][09:38:39][「🤓」iq] [U-Mod] xriverr#1990: .iq
+[12.08.2019][09:38:44][「🤓」iq] [U-Mod] xriverr#1990: .iq
+[12.08.2019][09:38:44][「🤓」iq] . | Bot#9927: 
+[12.08.2019][09:38:48][「🤓」iq] [U-Mod] xriverr#1990: .iq
+[12.08.2019][09:38:48][「🤓」iq] . | Bot#9927: 
+[12.08.2019][09:39:05][「🤓」iq] (Vlasnik) Veka#7740: .iq
+[12.08.2019][09:39:05][「🤓」iq] . | Bot#9927: 
+[12.08.2019][09:39:08][「🤓」iq] (Vlasnik) Veka#7740: .iq
+[12.08.2019][09:39:08][「🤓」iq] . | Bot#9927: 
+[12.08.2019][09:39:12][「🤓」iq] (Vlasnik) Veka#7740: brao ja
+[12.08.2019][09:39:26][「x-o」x-o] [U-Mod] xriverr#1990: Pls tictactoe <@532659544791318540>
+[12.08.2019][09:39:26][「x-o」x-o] Dank Memer#6539: <@391327638549168137>, where do you want to place your marker?
+Type out `a`, `b` or `c` for the row, then `1`, `2` or `3` for the column. (eg. `a1` for top-left or `b2` for middle). You can also type `end` to end the game.
+[12.08.2019][09:39:34][「x-o」x-o] [U-Mod] xriverr#1990: A3
+[12.08.2019][09:39:34][「x-o」x-o] Dank Memer#6539: 
+[12.08.2019][09:39:34][「x-o」x-o] Dank Memer#6539: <@532659544791318540>, where do you want to place your marker?
+Type out `a`, `b` or `c` for the row, then `1`, `2` or `3` for the column. (eg. `a1` for top-left or `b2` for middle). You can also type `end` to end the game.
+[12.08.2019][09:39:52][「x-o」x-o] (Vlasnik) Veka#7740: a1
+[12.08.2019][09:39:52][「x-o」x-o] Dank Memer#6539: 
+[12.08.2019][09:39:52][「x-o」x-o] Dank Memer#6539: <@391327638549168137>, where do you want to place your marker?
+Type out `a`, `b` or `c` for the row, then `1`, `2` or `3` for the column. (eg. `a1` for top-left or `b2` for middle). You can also type `end` to end the game.
+[12.08.2019][09:40:03][「x-o」x-o] [U-Mod] xriverr#1990: C1
+[12.08.2019][09:40:04][「x-o」x-o] Dank Memer#6539: 
+[12.08.2019][09:40:04][「x-o」x-o] Dank Memer#6539: <@532659544791318540>, where do you want to place your marker?
+Type out `a`, `b` or `c` for the row, then `1`, `2` or `3` for the column. (eg. `a1` for top-left or `b2` for middle). You can also type `end` to end the game.
+[12.08.2019][09:40:09][「x-o」x-o] (Vlasnik) Veka#7740: b2
+[12.08.2019][09:40:09][「x-o」x-o] [U-Mod] xriverr#1990: Pobjedaaa
+[12.08.2019][09:40:09][「x-o」x-o] Dank Memer#6539: 
+[12.08.2019][09:40:09][「x-o」x-o] Dank Memer#6539: <@391327638549168137>, where do you want to place your marker?
+Type out `a`, `b` or `c` for the row, then `1`, `2` or `3` for the column. (eg. `a1` for top-left or `b2` for middle). You can also type `end` to end the game.
+[12.08.2019][09:40:10][「x-o」x-o] Dank Memer#6539: **xriverr** that's not a valid option lmfao, type out `a`, `b` or `c` for the row, then `1`, `2` or `3` for the column. (eg. `a1` for top-left or `b2` for middle)
+[12.08.2019][09:40:10][「x-o」x-o] Dank Memer#6539: <@391327638549168137>, where do you want to place your marker?
+Type out `a`, `b` or `c` for the row, then `1`, `2` or `3` for the column. (eg. `a1` for top-left or `b2` for middle). You can also type `end` to end the game.
+[12.08.2019][09:40:14][「x-o」x-o] [U-Mod] xriverr#1990: C3
+[12.08.2019][09:40:14][「x-o」x-o] Dank Memer#6539: 
+[12.08.2019][09:40:15][「x-o」x-o] Dank Memer#6539: <@532659544791318540>, where do you want to place your marker?
+Type out `a`, `b` or `c` for the row, then `1`, `2` or `3` for the column. (eg. `a1` for top-left or `b2` for middle). You can also type `end` to end the game.
+[12.08.2019][09:40:18][「x-o」x-o] (Vlasnik) Veka#7740: end
+[12.08.2019][09:40:18][「x-o」x-o] Dank Memer#6539: **𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵** has ended the game what a wimp
+[12.08.2019][09:40:19][「x-o」x-o] (Vlasnik) Veka#7740: XD
+[12.08.2019][09:40:19][「x-o」x-o] [U-Mod] xriverr#1990: Pobjedaaa
+[12.08.2019][09:40:23][「x-o」x-o] [U-Mod] xriverr#1990: Jng
+[12.08.2019][09:40:24][「x-o」x-o] (Vlasnik) Veka#7740: end XD
+[12.08.2019][09:40:24][「x-o」x-o] [U-Mod] xriverr#1990: Jbg
+[12.08.2019][09:40:38][「📌」kaladont] [T-Adm] Froozy#7170: Konj
+[12.08.2019][09:40:43][「x-o」x-o] (Vlasnik) Veka#7740: aj odo
+[12.08.2019][09:40:47][「📌」kaladont] [U-Mod] xriverr#1990: Njuska
+[12.08.2019][09:41:11][「📌」kaladont] [U-Mod] xriverr#1990: XD
+[12.08.2019][09:41:22][「📌」kaladont] (Vlasnik) Veka#7740: ka ispo
+[12.08.2019][09:41:23][「📌」kaladont] [U-Mod] xriverr#1990: <@340190117958516736>  i <@532659544791318540>  haj
+[12.08.2019][09:41:31][「📌」kaladont] [U-Mod] xriverr#1990: Mercedes
+[12.08.2019][09:41:33][「📌」kaladont] (Vlasnik) Veka#7740: xd
+[12.08.2019][09:41:34][「📌」kaladont] (Vlasnik) Veka#7740: ispo
+[12.08.2019][09:41:35][「📌」kaladont] (Vlasnik) Veka#7740: xd
+[12.08.2019][09:41:36][「📌」kaladont] (Vlasnik) Veka#7740: m
+[12.08.2019][09:41:36][「📌」kaladont] (Vlasnik) Veka#7740: o
+[12.08.2019][09:41:36][「📌」kaladont] (Vlasnik) Veka#7740: r
+[12.08.2019][09:41:37][「📌」kaladont] (Vlasnik) Veka#7740: a
+[12.08.2019][09:41:37][「📌」kaladont] (Vlasnik) Veka#7740: m
+[12.08.2019][09:41:42][「📌」kaladont] [U-Mod] xriverr#1990: S
+[12.08.2019][09:41:42][「📌」kaladont] [U-Mod] xriverr#1990: T
+[12.08.2019][09:41:43][「📌」kaladont] [U-Mod] xriverr#1990: A
+[12.08.2019][09:41:43][「📌」kaladont] (Vlasnik) Veka#7740: i
+[12.08.2019][09:41:44][「📌」kaladont] (Vlasnik) Veka#7740: c
+[12.08.2019][09:41:45][「📌」kaladont] [U-Mod] xriverr#1990: M
+[12.08.2019][09:41:48][「📌」kaladont] [U-Mod] xriverr#1990: O
+[12.08.2019][09:41:48][「📌」kaladont] [U-Mod] xriverr#1990: R
+[12.08.2019][09:41:51][「📌」kaladont] [U-Mod] xriverr#1990: A
+[12.08.2019][09:41:51][「📌」kaladont] [U-Mod] xriverr#1990: S
+[12.08.2019][09:41:53][「📌」kaladont] [U-Mod] xriverr#1990: S
+[12.08.2019][09:41:53][「📌」kaladont] [U-Mod] xriverr#1990: T
+[12.08.2019][09:41:54][「📌」kaladont] [U-Mod] xriverr#1990: A
+[12.08.2019][09:41:55][「📌」kaladont] (Vlasnik) Veka#7740: u
+[12.08.2019][09:41:55][「📌」kaladont] [U-Mod] xriverr#1990: J
+[12.08.2019][09:41:56][「📌」kaladont] (Vlasnik) Veka#7740: krevet
+[12.08.2019][09:41:57][「📌」kaladont] [U-Mod] xriverr#1990: E
+[12.08.2019][09:41:57][「📌」kaladont] d! | (Muzika 5)#3861: <@391327638549168137> You're sending messages too quick!
+[12.08.2019][09:41:57][biljeske-servera] d! | (Muzika 5)#3861: 
+[12.08.2019][09:42:03][「📌」kaladont] [U-Mod] xriverr#1990: Sta je sa gw
+[12.08.2019][09:42:03][logs] ExtremeCommunity#0316: 
+[12.08.2019][09:42:14][「📌」kaladont] [U-Mod] xriverr#1990: !clear 88
+[12.08.2019][09:42:15][「📌」kaladont] ! | Casino#1046: 
+[12.08.2019][09:42:15][logs] ExtremeCommunity#0316: 
+[12.08.2019][09:42:15][「📌」kaladont] ! | (Muzika 1)#3722: ❌ **You have to be in a voice channel to use this command.**
+[12.08.2019][09:42:15][「📌」kaladont] ExtremeCommunity#0316: <@391327638549168137> just leveled up to level 1!
+[12.08.2019][09:42:16][「📌」kaladont] (Vlasnik) Veka#7740: sutra cu dam
+[12.08.2019][09:42:23][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: JA
+[12.08.2019][09:42:23][「📌」kaladont] [U-Mod] xriverr#1990: !clean 99
+[12.08.2019][09:42:23][logs] ExtremeCommunity#0316: 
+[12.08.2019][09:42:24][「📌」kaladont] ! | (Muzika 1)#3722: ❌ **This command requires you to have the `Manage Messages` permission to use it**
+[12.08.2019][09:42:29][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Vlasnik] Zukich#7964: Pa vidi
+[12.08.2019][09:42:34][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] Aptul#5641: Aim
+[12.08.2019][09:42:37][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] Aptul#5641: Oce
+[12.08.2019][09:42:39][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Vlasnik] Zukich#7964: Lijepo je to sto ti hoces al ne moze
+[12.08.2019][09:42:40][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] Aptul#5641: Vlasnika
+[12.08.2019][09:42:49][「📌」kaladont] [T-Adm] Froozy#7170: en!clean 99
+[12.08.2019][09:42:49][「📌」kaladont] ExtremeCommunity#0316: Ta komanda ne postoji ukucaj en!help da vidis listu komandi
+[12.08.2019][09:42:51][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: aha
+[12.08.2019][09:42:57][「📌」kaladont] [T-Adm] Froozy#7170: en!help
+[12.08.2019][09:42:57][「📌」kaladont] ExtremeCommunity#0316: Pogledaj tvoj dm Fr0z3n!
+[12.08.2019][09:43:08][「📌」kaladont] (Vlasnik) Veka#7740: en!Help
+[12.08.2019][09:43:08][「📌」kaladont] ExtremeCommunity#0316: Ta komanda ne postoji ukucaj en!help da vidis listu komandi
+[12.08.2019][09:43:08][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Vlasnik] Zukich#7964: Aptule
+[12.08.2019][09:43:19][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] Aptul#5641: Hej
+[12.08.2019][09:43:26][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Vlasnik] Zukich#7964: Znas nebi se ja protivio ako bi ti malo reklamirao
+[12.08.2019][09:43:31][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: zukii
+[12.08.2019][09:43:33][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: ja vidim
+[12.08.2019][09:43:35][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Vlasnik] Zukich#7964: Da dodjemo brze do 100
+[12.08.2019][09:43:37][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Vlasnik] Zukich#7964: ?
+[12.08.2019][09:43:42][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: u logovima bota sta pisete
+[12.08.2019][09:43:42][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] ExtremeCommunity#0316: <@532659544791318540> just leveled up to level 3!
+[12.08.2019][09:43:43][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] Aptul#5641: <@596299183573565452> eo sutra cu
+[12.08.2019][09:43:45][「📌」kaladont] [T-Adm] Froozy#7170: -clean 100
+[12.08.2019][09:43:48][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: sve loguje bot sta pisete
+[12.08.2019][09:43:49][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Vlasnik] Zukich#7964: A?
+[12.08.2019][09:43:55][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: ima ko file
+[12.08.2019][09:43:56][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: na botu
+[12.08.2019][09:44:00][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: i sta god vi pisete
+[12.08.2019][09:44:01][「📌」kaladont] [T-Adm] Froozy#7170: Invajtaj YAGDPZ
+[12.08.2019][09:44:03][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: on tamo napise
+[12.08.2019][09:44:04][「📌」kaladont] [T-Adm] Froozy#7170: bota
+[12.08.2019][09:44:07][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: vrjeme i datum
+[12.08.2019][09:44:13][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: i poruku
+[12.08.2019][09:44:15][「📌」kaladont] (Vlasnik) Veka#7740: en!clear 99
+[12.08.2019][09:44:15][「📌」kaladont] ExtremeCommunity#0316: Ta komanda ne postoji ukucaj en!help da vidis listu komandi
+[12.08.2019][09:44:15][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Vlasnik] Zukich#7964: Ok?
+[12.08.2019][09:44:21][「📌」kaladont] (Vlasnik) Veka#7740: en!purge 99
+[12.08.2019][09:44:23][biljeske-servera] = | Bot#1536: 
+[12.08.2019][09:44:26][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: xd
+[12.08.2019][09:44:35][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Vlasnik] Zukich#7964: Aptule kad dodjemo do 100 clanova dajem ti t-helpera
+[12.08.2019][09:44:40][「📌」kaladont] [T-Adm] Froozy#7170: Auu
+[12.08.2019][09:44:50][「📌」kaladont] [T-Adm] Froozy#7170: d!clean
+[12.08.2019][09:44:50][「📌」kaladont] (Vlasnik) Veka#7740: mijao
+[12.08.2019][09:45:00][「📌」kaladont] [T-Adm] Froozy#7170: d! clean 10
+[12.08.2019][09:45:04][「📌」kaladont] [T-Adm] Froozy#7170: d1help
+[12.08.2019][09:45:11][「📌」kaladont] [T-Adm] Froozy#7170: d!help
+[12.08.2019][09:45:12][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: ae mene doguraj do 150 dam ti admina XD
+[12.08.2019][09:45:17][「📌」kaladont] (Vlasnik) Veka#7740: d
+[12.08.2019][09:45:17][「📌」kaladont] (Vlasnik) Veka#7740: d
+[12.08.2019][09:45:19][「📌」kaladont] (Vlasnik) Veka#7740: dyno
+[12.08.2019][09:45:52][「📜」𝙘𝙢𝙙-𝙩𝙚𝙭𝙩] MEE6#4876: 
+[12.08.2019][09:46:00][「🚫」staff-chat] [Vlasnik] Zukich#7964: <@546443994557710339> <@504634531031154718> <@495907349949710346> ako ne zelite rankdown malo reklamirajte, kad dodjemo do 100 clanova idete svi rankup ako budete reklamirali
+[12.08.2019][09:46:12][「📄」chat-sa-botom] [U-Adm] aim.exe 100K#9703: ohh
+[12.08.2019][09:46:16][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Vlasnik] Zukich#7964: Evo ja fly fly
+[12.08.2019][09:46:26][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Staff-Manager] aim.exe#9703: xd
+[12.08.2019][09:46:31][「🚫」staff-chat] [Su-Vlasnik] Veka#7740: zuki ja ne znam reklamirat XD
+[12.08.2019][09:46:40][「🚫」staff-chat] [Staff-Manager] aim.exe#9703: velo
+[12.08.2019][09:46:41][「🚫」staff-chat] [Staff-Manager] aim.exe#9703: jedi
+[12.08.2019][09:46:42][「🚫」staff-chat] [Staff-Manager] aim.exe#9703: govna
+[12.08.2019][09:46:48][「🚫」staff-chat] [Su-Vlasnik] Veka#7740: xd
+[12.08.2019][09:46:48][「🚫」staff-chat] [Staff-Manager] aim.exe#9703: 😛
+[12.08.2019][09:46:50][「🚫」staff-chat] [Vlasnik] Zukich#7964: Bmk sto ne znas
+[12.08.2019][09:46:51][「🚫」staff-chat] [Su-Vlasnik] Veka#7740: nesesee
+[12.08.2019][09:46:56][「🚫」staff-chat] [Staff-Manager] aim.exe#9703: emine
+[12.08.2019][09:46:59][「🚫」staff-chat] [Staff-Manager] aim.exe#9703: ja vodim stasff
+[12.08.2019][09:47:00][「🚫」staff-chat] [Su-Vlasnik] Veka#7740: sta znaci Bmk XDDDDD
+[12.08.2019][09:47:01][「🚫」staff-chat] [Staff-Manager] aim.exe#9703: staff
+[12.08.2019][09:47:04][「🚫」staff-chat] [Su-Vlasnik] Veka#7740: stuf
+[12.08.2019][09:47:04][「📌」kaladont] [T-Adm] Froozy#7170: !clear
+[12.08.2019][09:47:04][logs] ExtremeCommunity#0316: 
+[12.08.2019][09:47:04][「📌」kaladont] ! | (Muzika 1)#3722: ❌ **You have to be in a voice channel to use this command.**
+[12.08.2019][09:47:05][「📌」kaladont] ! | Casino#1046: 
+[12.08.2019][09:47:08][「🚫」staff-chat] [Su-Vlasnik] Veka#7740: a ja sam saft XD
+[12.08.2019][09:47:08][「🚫」staff-chat] [Vlasnik] Zukich#7964: Ok
+[12.08.2019][09:47:10][「🚫」staff-chat] [Vlasnik] Zukich#7964: Vodi
