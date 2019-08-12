@@ -28,7 +28,7 @@ module.exports.run = async (bot, message, args) => {
      if(!warns[user.id].warns) warns[user.id].warns = 0
     if(!warns[user.id].reasons) warns[user.id].reasons = ''
     
-     user.send("You have been warned in GameHub for: " + warning).catch(message.channel.send(`** ✅ ${user.tag} has been warned  **`))
+     user.send("You have been warned in ExtremeCommunity for: " + warning).catch(message.channel.send(`** ✅ ${user.tag} has been warned  **`))
     warns[user.id].warns++
     if(warns[user.id].reasons === '') warns[user.id].reasons = `${warning}`
     else warns[user.id].reasons = `${warns[user.id].reasons}` + `|!` + `${warning}`

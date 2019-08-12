@@ -4,15 +4,18 @@ const eco = require("discord-economy")
 module.exports.run = async (bot, message, args) => {
  let serverAvatar = message.guild.iconURL;
          var Shop = new Discord.RichEmbed()
-             .setTitle("Shop - available roles.")
+             .setTitle("     **__Shop__**     ")
              .setThumbnail(serverAvatar)
-             .addField("Bronze - $1500", "The lowest role")
-             .addField("Gold - $3500", "The second lowest role")
-             .addField("Diamond - $5000 ", "The second highest role") 
-             .addField("Platinum - $10000", "The highest possible role")
+             .addField("Coal - $250", "Rank")
+             .addField("Iron - $750", "Rank")
+             .addField("Gold - $1000 ", "Rank") 
+             .addField("Redstone - $1500", "Rank")
+             .addField("Lapis - $2500", "Rank")
+             .addField("Diamond - $5000", "Rank")
+             .addField("Emerald - $7500", "Rank")
+             .addField("Jos Uskoro", "Soon")
              .setColor(0xFF0000)
-             .setFooter("To get high roles you need to have the previous lower role i.e. Platinum require diamond and diamond requires gold")
-              message.channel.sendEmbed(Shop)  
+         message.channel.sendEmbed(Shop)  
 }
 
 module.exports.help = {

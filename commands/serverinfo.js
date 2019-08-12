@@ -15,11 +15,15 @@ module.exports.run = async (bot, message, args) => {
         let VoiceChanNum = message.guild.channels.filter(channel => channel.type === 'voice').size
 
          var serverInfo = new Discord.RichEmbed()
-              .setTitle(name)
+           
               .setThumbnail(serverAvatar)
               .setColor(0xFF0000)
-              .addField("Owner", owner.user.tag)
-              .addField("Region", serverRegion)
+              .setDescription("Server Info")
+              .addField("**Ime Servera**", message.guild.name)
+              .addField(":crown: **Server Owner**", `${message.guild.owner.user.username}#${message.guild.owner.user.discriminator}`, true)
+              .addField("**Server Verification Level**", message.guild.verificationLevel)
+              .addField(":white_check_mark:  **Server Napravljen**", message.guild.createdAt)
+              .addField(":flag_black: **Regija server**", message.guild.region)
               .addField("Number of members", memberCount)
               .addField("Number of bots", botCount)
               .addField("Number of roles", roleNum)
