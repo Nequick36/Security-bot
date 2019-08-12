@@ -99,7 +99,9 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
       if(!args[0])  {
         message.author.send(`
            ***Komande***
+========================
 Staff Komande
+========================
 ban
 dm
 id
@@ -108,6 +110,70 @@ vote
 purge
 rename
 warn
+setbalance
+wans
+xpdelete
+setxp
+setlevel
+anketa
+unban
+========================
+Member Komande
+========================
+report
+afk
+suggest
+ticket open
+ticket close
+profile
+serverinfo
+myinfo
+userinfo
+========================
+Fun Komande
+========================
+8ball
+cat
+dog
+emojify
+ascii
+avatar
+hack
+iq
+mirror
+========================
+Economy Komande
+========================
+buy
+shop
+work
+daily
+flip
+slot
+topbal
+pay
+========================
+Random Komande
+========================
+randomcolor
+randomemoji
+randomnumber
+========================
+Vlasnik Komande
+========================
+addrole
+accounce
+await
+channelinfo
+channels
+delrole
+roll
+role
+roles
+say
+update
+
+
 
 `)
         message.channel.send(`Pogledaj tvoj dm ${message.author.username}!`)
