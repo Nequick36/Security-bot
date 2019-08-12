@@ -23,7 +23,7 @@ eco.FetchBalance(message.author.id).then(User => {
 if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry but you need the bronze role in order to purchase this role.`)
     if(User.balance < 1500) return message.channel.send(`Sorry but you don't have $1500.`)
     eco.SubstractFromBalance(message.author.id, 1500).then(u => {
-      message.channel.send(`<@${message.author.id}> bought Gold role!`)
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Gold Rank`)
       message.member.addRole(role.id)
     })
   }
