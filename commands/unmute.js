@@ -10,7 +10,7 @@ module.exports.run = async (bot, message, args) => {
   
   user.removeRole(role.id) 
    message.reply(`${user} has been unmuted!`)
-  message.guild.channels.get("491331126066151454").send({embed:{description: `**${user.user.username} has been unmuted**`, color:0xff0000}})
+  message.guild.channels.get("602090584924094470").send({embed:{description: `**${user.user.username} has been unmuted**`, color:0xff0000}})
 }
 
 module.exports.help = {

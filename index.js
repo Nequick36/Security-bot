@@ -150,8 +150,8 @@ bot.on('ready', () => {
     bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
-            name: 'to use commands do !help',
-            type: "WATCHING",
+            name: 'en!help | en!botinvitee',
+            type: "STREAMING",
         }
     })
 });
