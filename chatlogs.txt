@@ -10,3 +10,9 @@
 [11.08.2019][02:52:53][ticket-532659544791318540] TESTT NAJJACEG BOTA#2903: Can't find that command! Please use !help
 [11.08.2019][02:53:13][fdh] TESTT NAJJACEG BOTA#2903: Can't find that command! Please use !help
 [11.08.2019][02:53:15][fdh] TESTT NAJJACEG BOTA#2903: Can't find that command! Please use !help
+[12.08.2019][09:33:17][chat] TESTT NAJJACEG BOTA#2903: <@!532659544791318540>, You have not specified an item!
+[12.08.2019][09:33:21][chat] TESTT NAJJACEG BOTA#2903: 
+[12.08.2019][09:33:44][chat] TESTT NAJJACEG BOTA#2903: Sorry but you don't have $500.
+[12.08.2019][09:33:51][chat] TESTT NAJJACEG BOTA#2903: <@!532659544791318540>, You have successfuly added 500 coins to 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵#7740's account.
+[12.08.2019][09:33:53][chat] TESTT NAJJACEG BOTA#2903: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 500 coins.
+[12.08.2019][09:33:57][chat] TESTT NAJJACEG BOTA#2903: <@532659544791318540> bought Bronze role!
