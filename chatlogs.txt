@@ -649,3 +649,13 @@ Invalid arguments provided: Num is too big (has to be within 1 - 100)
 [12.08.2019][10:03:47][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [T-Helper] Profesor.exe#7676: ok brate
 [12.08.2019][10:04:27][「🚫」staff-chat] [T-Helper] Profesor.exe#7676: a
 [12.08.2019][10:04:42][「🎁」giveaways] g! | Giveaway#2381: Congratulations <@340190117958516736>, <@373459214670102528>! You won the **Minecraft Premium**!
+[12.08.2019][10:09:44][「💬」chat] Fr0z3n#7170: -clean 100
+[12.08.2019][10:09:46][「💬」chat] YAGPDB.xyz#8760: Deleted 26 message(s)! :')
+[12.08.2019][10:09:54][「💬」chat] Rythm#3722: ❌ **You have to be in a voice channel to use this command.**
+[12.08.2019][10:09:54][「💬」chat] MEE6#4876: <:XMARK6:403540169992568833> Please specify the number of messages to clear `ex: !clear 10`
+[12.08.2019][10:10:02][「💬」chat] Rythm#3722: ❌ **You have to be in a voice channel to use this command.**
+[12.08.2019][10:10:03][「💬」chat] MEE6#4876: <:CHECK6:403540120181145611> I have deleted `4 messages`!
+[12.08.2019][10:10:10][「💬」chat] Rythm#3722: ❌ **You have to be in a voice channel to use this command.**
+[12.08.2019][10:10:10][「💬」chat] MEE6#4876: <:CHECK6:403540120181145611> I have deleted `1 message`!
+[12.08.2019][10:12:54][「⚫」rules] Fr0z3n#7170: Aa
+[12.08.2019][10:12:54][「⚫」rules] MEE6#4876: GG <@!340190117958516736>, toliko si ispamo da si sada level 5!
