@@ -11,7 +11,7 @@ eco.FetchBalance(message.author.id).then(User => {
     if(message.member.roles.has(role.id)) return message.channel.send("You have already purchased the bronze role!")
     if(User.balance < 500) return message.channel.send(`Sorry but you don't have $500.`)
     eco.SubstractFromBalance(message.author.id, 500).then(u => {
-      message.channel.send(`<@${message.author.id}> bought Bronze role!`)
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Bronze Role`)
       message.member.addRole(role.id)
     })
   }
@@ -36,7 +36,7 @@ if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry bu
 if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry but you need the gold role in order to purchase this role.`)
     if(User.balance < 3000) return message.channel.send(`Sorry but you don't have $3000.`)
     eco.SubstractFromBalance(message.author.id, 3000).then(u => {
-      message.channel.send(`<@${message.author.id}> bought Diamond role!`)
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Diamond Role`)
       message.member.addRole(role.id)
     })
   }
@@ -48,7 +48,7 @@ if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry bu
 if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry but you need the Diamond role in order to purchase this role.`)
     if(User.balance < 10000) return message.channel.send(`Sorry but you don't have $10000.`)
     eco.SubstractFromBalance(message.author.id, 10000).then(u => {
-      message.channel.send(`<@${message.author.id}> bought Platinum role!`)
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Platinum Role!`)
       message.member.addRole(role.id)
     })
   }
