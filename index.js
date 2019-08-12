@@ -103,6 +103,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 Staff Komande
 ========================
 ban
+kick
 dm
 id
 poll
@@ -172,9 +173,6 @@ role
 roles
 say
 update
-
-
-
 `)
         message.channel.send(`Pogledaj tvoj dm ${message.author.username}!`)
     fs.writeFile('./help.html', helpCmd, (err) => {
