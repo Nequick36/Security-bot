@@ -2,7 +2,7 @@ const fs = require('fs')
 const discord = require('discord.js')
 const replaceall = require('replaceall')
 exports.run = async (bot, oldMessage, newMessage) => {
-  let logChannel = oldMessage.guild.channels.find(c => c.name === '🔸》chat-logs')
+  let logChannel = oldMessage.guild.channels.find(c => c.name === 'logs')
   let embed = new discord.RichEmbed()
   .setTitle(`${oldMessage.member.user.username} has edited a message`)
   .setColor('BLUE')

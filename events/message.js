@@ -8,7 +8,7 @@ exports.run = async (bot, message) => {
   let messageArray = message.content.split(" ")
   let cmd = messageArray[0]
   let args = messageArray.slice(1);
-  let logChannel = message.guild.channels.find(c => c.name === '🔸》moderation-chat-logs')
+  let logChannel = message.guild.channels.find(c => c.name === 'logs')
   if(message.content.startsWith('!')) logChannel.send({embed:{description: `${message.author.tag} used command ${message.content} in channel ${message.channel.name}.`, color: 0xff0000}})
   if(message.mentions.roles.size >= 2) {
      message.delete() //what are you doing 

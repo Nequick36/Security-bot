@@ -1,7 +1,7 @@
 const fs = require('fs')
 const discord = require('discord.js')
 exports.run = async (bot, oldMember, newMember) => {
-  let logChannel = oldMember.guild.channels.find(c => c.name === '🔸》chat-logs')
+  let logChannel = oldMember.guild.channels.find(c => c.name === 'logs')
   //nickname change log
   let nickEmbed = new discord.RichEmbed()
   nickEmbed.setTitle(newMember.user.tag)
