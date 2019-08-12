@@ -6,9 +6,9 @@ module.exports.run = async (bot, message, args) => {
          let item = message.content.split(" ").slice(1).join(" ")
 if  (!item) return message.reply("You have not specified an item!");
 eco.FetchBalance(message.author.id).then(User => {
-  if(item === 'Bronze' || item === 'bronze') {
+  if(item === 'coal' || item === '') {
     let role = message.guild.roles.find(role => role.name === 'Bronze')
-    if(message.member.roles.has(role.id)) return message.channel.send("You have already purchased the bronze role!")
+    if(message.member.roles.has(role.id)) return message.channel.send("Vec ste kupili role")
     if(User.balance < 500) return message.channel.send(`Sorry but you don't have $500.`)
     eco.SubstractFromBalance(message.author.id, 500).then(u => {
       message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Bronze Role`)
