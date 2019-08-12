@@ -54,7 +54,7 @@ fs.readdir("./commands", (err, files) => {
       });
   console.log(`Loaded ${jsfile.length} commands!`)
       helpCmd = `${helpCmd}<br>\n
-  <b>Bot made by Seth#7796 & \${j122}#6975</b>`
+  <b>Bot napravljen od strane Veke</b>`
 });
 bot.on("message", message => {
     if(message.channel.type === "dm") return;
@@ -92,13 +92,25 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     if(commandfile) commandfile.run(bot, message, args) //can you go thru files and add needed perms or roles they are blank but add like MANAGE_MESSAGES
     else { //ok wait is there roles and perms //i need to go now
       if(cmd.slice(prefix.length) === 'help') {}
-      else message.channel.send(`Can't find that command! Please use !help`)
+      else message.channel.send(`Ta komanda ne postoji ukucaj en!help da vidis listu komandi`)
       }
    
     if(cmd === `${prefix}help`) {
       if(!args[0])  {
-        message.author.send(`https://gamehubbot.glitch.me/help`)
-        message.channel.send(`Check DMs!`)
+        message.author.send(`
+           ***Komande***
+Staff Komande
+ban
+dm
+id
+poll
+vote
+purge
+rename
+warn
+
+`)
+        message.channel.send(`Pogledaj tvoj dm ${message.author.username}!`)
     fs.writeFile('./help.html', helpCmd, (err) => {
  if(err) console.error(err)
 })
@@ -133,15 +145,15 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 
 bot.on("guildMemberAdd", function (member) {
     member.send("Welcome to the server! Please read the rules and check out role-assign channel for fun roles :D")
-    let memberRole = member.guild.roles.find(role => role.name === "GameHub Member");
+    let memberRole = member.guild.roles.find(role => role.name === "Member");
     member.addRole(memberRole);
   let guild = member.guild;
-  let channel = member.guild.channels.find(channel => channel.name === '🔸》welcome')//wouldnt it be better w ids?
+  let channel = member.guild.channels.find(channel => channel.name === '「🙋」welcome')//wouldnt it be better w ids?
     channel.sendMessage(`Welcome ${member.user} to this server.`).catch(console.error);
 });
 bot.on("guildMemberRemove", function (member) {
      let guild = member.guild;
-  let channel = member.guild.channels.find(channel => channel.name === '🔸》welcome')
+  let channel = member.guild.channels.find(channel => channel.name === '「😢」leaves')
      channel.sendMessage(`${member.user.tag} has left the server.`).catch(console.error);
 });
 bot.on('ready', () => {
