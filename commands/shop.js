@@ -17,6 +17,9 @@ module.exports.run = async (bot, message, args) => {
              .addField("Vodka - 5$", "Alkohol")
              .addField("Kafa - 2$", "Piće")
              .addField("Piva - 3$", "Alkohol")
+             .addFiled("Hrana", "Food")
+             .addField("Hljeb - 3$")
+             .addField("Kolač - 4$")
              .setColor(0xFF0000)
          message.channel.sendEmbed(Shop)  
 }

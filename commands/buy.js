@@ -43,6 +43,18 @@ if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry bu
       message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Kafu`)
     })
   }
+       else if(item === 'Hljeb' || item === 'hljeb') {
+    if(User.balance < 3) return message.channel.send(`Sorry but you don't have $2.`)
+    eco.SubstractFromBalance(message.author.id, 3).then(u => {
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Kafu`)
+    })
+  }
+       else if(item === 'Kolac' || item === 'kolac') {
+    if(User.balance < 5) return message.channel.send(`Sorry but you don't have $5.`)
+    eco.SubstractFromBalance(message.author.id, 4).then(u => {
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Kafu`)
+    })
+  }
      else if(item === 'Piva' || item === 'piva') {
     if(User.balance < 3) return message.channel.send(`Sorry but you don't have $3.`)
     eco.SubstractFromBalance(message.author.id, 3).then(u => {
