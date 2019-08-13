@@ -46,13 +46,13 @@ if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry bu
        else if(item === 'Hljeb' || item === 'hljeb') {
     if(User.balance < 3) return message.channel.send(`Sorry but you don't have $2.`)
     eco.SubstractFromBalance(message.author.id, 3).then(u => {
-      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Kafu`)
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Hljeb`)
     })
   }
        else if(item === 'Kolac' || item === 'kolac') {
-    if(User.balance < 5) return message.channel.send(`Sorry but you don't have $5.`)
+    if(User.balance < 4) return message.channel.send(`Sorry but you don't have $4.`)
     eco.SubstractFromBalance(message.author.id, 4).then(u => {
-      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Kafu`)
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Kolac`)
     })
   }
      else if(item === 'Piva' || item === 'piva') {
