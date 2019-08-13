@@ -16,7 +16,6 @@ let role = message.guild.roles.find(r => r.name === 'Administrator')
            message.channel.send("Sorry, I couldn't find that user");
            return;
        }
-      if(message.mentions.members.first().hasPermission('MANAGE_GUILD')) return message.channel.send(`You can't warn a Server Manager!`)
        let reason = args.slice(1).join(" ")
        if (!reason)
        {

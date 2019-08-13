@@ -31,3 +31,7 @@
 [13.08.2019][01:00:06][logs] ExtremeCommunity#0316: 
 [13.08.2019][01:03:50][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
 [13.08.2019][01:03:50][「💬」bot-komande] ExtremeCommunity#0316: 
+[13.08.2019][01:11:53][「💬」bot-komande] (Vlasnik) Veka#7740: en!work
+[13.08.2019][01:11:54][「💬」bot-komande] ExtremeCommunity#0316: 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵
+You worked as a ` Cleaner ` and earned :money_with_wings: 166
+You now own :money_with_wings: 767
