@@ -30,16 +30,16 @@ module.exports.run = async (bot, message, args) => {
  
         message.channel.send(`My leaderboard:
  
-1 - ${firstplace.tag || 'None'} | Balance ${users[0].balance} 
-2 - ${secondplace.tag || 'None'} | Balance ${users[1].balance} 
-3 - ${thirdplace.tag || 'None'} | Balance ${users[2].balance} 
-4 - ${fourthplace.tag || 'None'} | Balance ${users[3].balance} 
-5 - ${fifthplace.tag || 'None'} | Balance ${users[4].balance} 
-6 - ${sixthplace.tag || 'None'} | Balance ${users[5].balance} 
-7 - ${seventhplace.tag || 'None'} | Balance ${users[6].balance} 
-8 - ${eigthplace.tag || 'None'} | Balance ${users[7].balance} 
-9 - ${ninethplace.tag || 'None'} | Balance ${users[8].balance} 
-10 - ${tenthplace.tag || 'None'} | Balance ${users[9].balance}`)
+**1** - ``${firstplace.tag || 'None'}`` ***|*** **Balance** ${users[0].balance} 
+**2** - ``${secondplace.tag || 'None'}`` ***|*** **Balance** ${users[1].balance} 
+**3** - ``${thirdplace.tag || 'None'}`` ***|*** **Balance** ${users[2].balance} 
+**4** - ``${fourthplace.tag || 'None'}`` ***|*** **Balance** ${users[3].balance} 
+**5** - ``${fifthplace.tag || 'None'}`` ***|*** **Balance** ${users[4].balance} 
+**6** - ``${sixthplace.tag || 'None'}`` ***|*** **Balance** ${users[5].balance} 
+**7** - ``${seventhplace.tag || 'None'}`` ***|*** **Balance** ${users[6].balance} 
+**8** - ``${eigthplace.tag || 'None'}`` ***|*** **Balance** ${users[7].balance} 
+**9** - ``${ninethplace.tag || 'None'}`` ***|*** **Balance** ${users[8].balance} 
+**10** - ``${tenthplace.tag || 'None'}`` ***|*** **Balance** ${users[9].balance}`)
 
       })
  
