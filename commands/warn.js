@@ -6,7 +6,7 @@ const replaceall = require("replaceall")
 module.exports.run = async (bot, message, args) => {
     let warns = JSON.parse(fs.readFileSync('commands/warns.json', 'utf8'));
     let warnChannel = message.guild.channels.get("515835722188587038")
-    let modRole = message.guild.roles.find(role => role.name === 'Moderation Team')
+    let modRole = message.guild.roles.find(role => role.name === 'Staff-Team')
      if(!message.member.hasPermission("MANAGE_MESSAGES"))
      {
          message.channel.send("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**");
@@ -28,7 +28,7 @@ module.exports.run = async (bot, message, args) => {
      if(!warns[user.id].warns) warns[user.id].warns = 0
     if(!warns[user.id].reasons) warns[user.id].reasons = ''
     
-     user.send("You have been warned in ExtremeCommunity for: " + warning).catch(message.channel.send(`** ✅ ${user.tag} has been warned  **`))
+     user.send("**Warnani ste na serveru ExtremeCommunity for: " + warning).catch(message.channel.send(`** ✅ ${user.tag} has been warned  **`))
     warns[user.id].warns++
     if(warns[user.id].reasons === '') warns[user.id].reasons = `${warning}`
     else warns[user.id].reasons = `${warns[user.id].reasons}` + `|!` + `${warning}`

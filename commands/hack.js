@@ -22,12 +22,12 @@ module.exports.run = async (bot, message, args) => {
     msg.edit(`Access Granted!`)
               setTimeout(function() {
     msg.edit(`**User is hacked**
-username: ${userToHack.user.username}
-email: ${userToHack.user.username}${Math.floor(Math.random() * 1000)}@gmail.com
-password: ${site3.body.password}
-id: ${userToHack.id}
-ip: ${site2.body.ip}
-token: Error: discord too good`)
+``username``: ${userToHack.user.username}
+``email``: ${userToHack.user.username}${Math.floor(Math.random() * 1000)}@gmail.com
+``password``: ${site3.body.password}
+``id``: ${userToHack.id}
+``ip``: ${site2.body.ip}
+``token``: Error: discord too good`)
   }, 4000)
   }, 4000)
   }, 4000)
