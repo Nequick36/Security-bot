@@ -31,7 +31,7 @@ module.exports.help = {
   aliases: [],
    description:"The warnings of a user.",
   perm: "MANAGE_MESSAGES",
-  role: "",
+  role: "Pristup",
   group:"ADMIN"
 
 }

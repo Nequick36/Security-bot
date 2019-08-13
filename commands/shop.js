@@ -4,7 +4,7 @@ const eco = require("discord-economy")
 module.exports.run = async (bot, message, args) => {
  let serverAvatar = message.guild.iconURL;
          var Shop = new Discord.RichEmbed()
-             .setTitle("=====================**__Shop__**====================")
+             .setTitle("===================  **__Shop__**  ==================")
              .setThumbnail(serverAvatar)
              .addField("**Rankovi**", "**Roles**")
              .addField("Coal - $250", "Rank")
