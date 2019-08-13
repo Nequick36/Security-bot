@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  let role = message.guild.roles.find(r => r.name === 'Administrator')
+  let role = message.guild.roles.find(r => r.name === '*')
   if(!message.member.roles.has(role.id))
          {
              message.channel.send("🛑**ACCESS DENIED! THIS IS A ADMIN-ONLY COMMAND.🛑**");
