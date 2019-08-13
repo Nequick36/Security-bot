@@ -60,7 +60,7 @@ module.exports.help = {
     aliases: [],
     description: "Warns a member.",
   perm: "MANAGE_MESSAGES",
-  role: "",
+  role: "Pristup",
   group: "admin"
   
 
