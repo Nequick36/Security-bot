@@ -207,19 +207,31 @@ update
 	});
 }); 
 
-bot.on("guildMemberAdd", function (member) {
-    member.send("Welcome to the server! Please read the rules and check out role-assign channel for fun roles :D")
-    let memberRole = member.guild.roles.find(role => role.name === "Member");
-    member.addRole(memberRole);
-  let guild = member.guild;
-  let channel = member.guild.channels.find(channel => channel.name === '「🙋」welcome')//wouldnt it be better w ids?
-    channel.sendMessage(`Welcome ${member.user} to this server.`).catch(console.error);
-});
-bot.on("guildMemberRemove", function (member) {
-     let guild = member.guild;
-  let channel = member.guild.channels.find(channel => channel.name === '「😢」leaves')
-     channel.sendMessage(`${member.user.tag} has left the server.`).catch(console.error);
-});
+
+
+
+  
+
+
+
+
+
+bot.on("guildMemberAdd", member => {
+  bot.channels.get('578362175719079967').send(`DobroDosli na __**${member.guild.name}**__ , ${member} ! Vi ste **${member.guild.memberCount}** Member, procitajte <#578362247273906178> i Zabavi se `)
+})
+bot.on('guildMemberAdd', member => {
+  console.log('Ime ' + member.user.tag + 'je usao na ExtremeCommunity');
+
+  var role = member.guild.roles.find(r => r.name === "Member");
+  member.addRole(role);
+})
+bot.on('guildMemberRemove', member => {
+  bot.channels.get('600328988975431749').send(`**${member.user.username}** je izasao sa servera...`);
+})
+bot.on('guildMemberRemove', member => {
+  bot.log('Ime ' + member.user.tag + 'je izasao na ExtremeCommunity');
+})
+
 bot.on('ready', () => {
     console.log(`${bot.user.username} is online!`)
 
