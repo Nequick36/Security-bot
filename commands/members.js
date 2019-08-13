@@ -1,0 +1,1 @@
+.setTitle(`**Broj membera** ${message.guild.members.filter(user => user.user.bot === false).size} **Online Memberi** ${message.guild.members.filter(user => user.presence.status === 'online').size}`)
