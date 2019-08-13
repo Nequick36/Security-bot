@@ -200,7 +200,7 @@ update
 	if (err) console.log(err);
    let jsfiles = files.filter(f => f.split(".").pop() === "js")
 	jsfiles.forEach(file => {
-		let eventFunc = require(`./events/${file}`);
+    //     		let eventFunc = require(`./events/${file}`);
 		let eventName = file.split(".")[0];
 		bot.on(eventName, (...args) => eventFunc.run(bot, ...args));
     console.log(`${file} loaded!`)
