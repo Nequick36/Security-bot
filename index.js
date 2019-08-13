@@ -226,8 +226,8 @@ bot.on('ready', () => {
     bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
-            name: 'en!help | en!botinvitee',
-            type: "STREAMING",
+            name: 'Private Bot',
+            type: "PLAYING",
         }
     })
 });
