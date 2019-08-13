@@ -3,25 +3,18 @@ const replaceall = require("replaceall")
 
 
 module.exports.run = async (bot, message, args) => {
-let role = message.guild.roles.find(r => r.name === 'Administrator')
-  let bannedUser = message.mentions.members.first();
-   if(!message.member.roles.has(role.id))
-       {
-           message.channel.send("🛑**ACCESS DENIED! THIS IS AN ADMIN ONLY COMMAND.🛑**");
-           return;
-       }
-
-       if(!bannedUser)
-       {
-           message.channel.send("Sorry, I couldn't find that user");
-           return;
-       }
-       let reason = args.slice(1).join(" ")
-       if (!reason)
-       {
-         message.channel.send("You have not specified a reason!")
-         return;
-       }
+  
+  if(!message.member.hasPermission("KICK_MEMBERS")) return message.channel.send({embed:{description:` | :x: | Nemas dozvolu za ovu komandu!  | :x: | `, color:0xff0000}})
+    let user = message.mentions.members.first()
+    if(!user) return message.channel.send({embed:{description:`| :x: | Ne mogu da pronadjem tog membera! | :x: |`, color:0xff0000}})
+    let reason = args.filter(arg => arg!==args[0]).join(" ") || 'Razloog nije dat'
+    try {
+        user.ban(`Staff: ${message.author.tag}, Razlog: ${reason}`)
+        message.channel.send({embed:{description:` | :white_check_mark: | ${user} **__je banan zbog__** \`${reason}\``, color:0xff0000}})
+    } catch (e) {
+        if(e) return message.channel.send(e+'\nError: Kontaktirajte ownera!')
+    }
+  
      
      var banInfo = new Discord.RichEmbed()
          .setTitle("Ban log")
