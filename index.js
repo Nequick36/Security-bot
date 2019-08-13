@@ -238,8 +238,8 @@ bot.on('ready', () => {
     bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
-            name: 'Developering ...',
-            type: "WATCHING",
+            name: `en!help`,
+            type: "STREAMING",
         }
     })
 });

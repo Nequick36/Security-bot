@@ -1,23 +1,20 @@
 const Discord = require('discord.js')
 
 exports.run = async (bot,message,args) => {
-    let Embed = new Discord.RichEmbed()
-    
-    let rUser = message.guild.member(message.mentions.users.first() || message.guild.members.get(args[0]));
-    if(!rUser) return message.channel.send(":x: Taguj igraca kojem zelis vidit Info :x:");
-  
-    let reason = args.join(" ").slice(22);
-   let reportEmbed = new Discord.RichEmbed()
-   
-   
-   .setDescription("**__User Info__**")
-   .setColor("#40FFF9")
-   .addField("**NickName:**", `${rUser}`)
-   .addField("**ID:**", `${rUser.id}`)
-   .addField("**Kada je ušao/la**", `${rUser.joinedAt}`)
-   .addField("**Vrijeme**", message.createdAt)
+   let user = message.mentions.members.first() || message.guild.members.get(args[0]) || message.member
+  let userEco = await eco.FetchBalance(user.user.id).then()
+  let roles = user.roles;
+        let role_name = roles.map(role => {
+          if(role.name === "@everyone") return
+          return role.name;
+        })
 
-message.channel.send(reportEmbed)
+        let joined = user.joinedAt
+        var profile = new Discord.RichEmbed()
+            .addField("Name", user)
+            .addField("Joined at", joined) 
+            .addField("Coins", userEco.balance)//no that is array  //wait what do add here then
+            .addField("Roles", role_name)
   
    return;
 }    
