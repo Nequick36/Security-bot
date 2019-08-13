@@ -14,7 +14,7 @@ module.exports.run = async (bot, message, args) => {
              .addField("Diamond - $5000", "Rank")
              .addField("Emerald - $7500", "Rank")
              .addField("Piće", "Sokovi")
-             .addFiled("Vodka - 5$", "Alkohol")
+             .addField("Vodka - 5$", "Alkohol")
              .addField("Kafa - 2$", "Piće")
              .addField("Piva - 3$", "Alkohol")
              .setColor(0xFF0000)

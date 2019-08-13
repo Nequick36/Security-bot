@@ -71,3 +71,43 @@ You now own :money_with_wings: 494
 [13.08.2019][10:30:15][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> Uspjesno ste kupili Vodku
 [13.08.2019][10:30:16][biljeske-servera] (Vlasnik) Veka#7740: en!bal
 [13.08.2019][10:30:16][biljeske-servera] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 394 coins.
+[13.08.2019][10:33:13][biljeske-servera] (Vlasnik) Veka#7740: en!shop
+[13.08.2019][10:33:43][biljeske-servera] (Vlasnik) Veka#7740: en!shop
+[13.08.2019][10:33:43][biljeske-servera] ExtremeCommunity#0316: 
+[13.08.2019][10:33:52][biljeske-servera] (Vlasnik) Veka#7740: en!bal
+[13.08.2019][10:33:52][biljeske-servera] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 394 coins.
+[13.08.2019][10:33:56][biljeske-servera] (Vlasnik) Veka#7740: en!shop
+[13.08.2019][10:33:56][biljeske-servera] ExtremeCommunity#0316: 
+[13.08.2019][10:33:58][biljeske-servera] (Vlasnik) Veka#7740: en!buy Piva
+[13.08.2019][10:33:59][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> Uspjesno ste kupili Pivu
+[13.08.2019][10:34:00][biljeske-servera] (Vlasnik) Veka#7740: en!Bal
+[13.08.2019][10:34:00][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucaj en!help da vidis listu komandi
+[13.08.2019][10:34:04][biljeske-servera] (Vlasnik) Veka#7740: en!bal
+[13.08.2019][10:34:04][biljeske-servera] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 391 coins.
+[13.08.2019][10:34:07][logs] ExtremeCommunity#0316: 
+[13.08.2019][10:34:10][biljeske-servera] = | Bot#1536: 
+[13.08.2019][10:34:16][logs] ExtremeCommunity#0316: 
+[13.08.2019][10:34:16][biljeske-servera] = | Bot#1536: 
+[13.08.2019][10:34:19][logs] ExtremeCommunity#0316: 
+[13.08.2019][10:34:21][logs] ExtremeCommunity#0316: 
+[13.08.2019][10:34:21][biljeske-servera] = | Bot#1536: 
+[13.08.2019][10:37:28][「📜」chat] (Vlasnik) Veka#7740: 1
+[13.08.2019][10:37:28][「📜」chat] (Vlasnik) Veka#7740: 2
+[13.08.2019][10:37:28][「📜」chat] (Vlasnik) Veka#7740: 3
+[13.08.2019][10:37:29][「📜」chat] (Vlasnik) Veka#7740: i
+[13.08.2019][10:39:18][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
+[13.08.2019][10:39:18][「💬」bot-komande] ExtremeCommunity#0316: 
+[13.08.2019][10:39:22][「💬」bot-komande] (Vlasnik) Veka#7740: en!buy Kafa
+[13.08.2019][10:39:23][「💬」bot-komande] ExtremeCommunity#0316: <@532659544791318540> Uspjesno ste kupili Kafu
+[13.08.2019][10:39:31][「💬」bot-komande] (Vlasnik) Veka#7740: en!bal
+[13.08.2019][10:39:31][「💬」bot-komande] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 389 coins.
+[13.08.2019][10:39:35][「💬」bot-komande] (Vlasnik) Veka#7740: en!buy Kafa
+[13.08.2019][10:39:36][「💬」bot-komande] ExtremeCommunity#0316: <@532659544791318540> Uspjesno ste kupili Kafu
+[13.08.2019][10:39:38][「💬」bot-komande] (Vlasnik) Veka#7740: en!bal
+[13.08.2019][10:39:38][「💬」bot-komande] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 387 coins.
+[13.08.2019][10:39:57][「💬」bot-komande] (Vlasnik) Veka#7740: en!work
+[13.08.2019][10:39:57][「💬」bot-komande] ExtremeCommunity#0316: 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵
+You worked as a ` Electrician ` and earned :money_with_wings: 198
+You now own :money_with_wings: 585
+[13.08.2019][10:40:16][「💬」bot-komande] (Vlasnik) Veka#7740: en!work
+[13.08.2019][10:40:16][「💬」bot-komande] ExtremeCommunity#0316: You need to wait at least a day!

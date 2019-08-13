@@ -1,6 +1,6 @@
-Discord bot for GameHub server(https://discord.gg/EwbfEmj)
+Discord bot for ExtremeCommunity server (https://discord.gg/b9a2Nam)
 
 Libary: Discord.js
 Credits:
-Bot hosted on glitch.com
-Bot made by j122 and seth
+Bot hosted on neki sajt
+Bot made by Veka
