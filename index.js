@@ -206,32 +206,6 @@ update
     console.log(`${file} Ucitan`)
 	});
 }); 
-
-
-
-
-  
-
-
-
-
-
-bot.on("guildMemberAdd", member => {
-  bot.channels.get('578362175719079967').send(`DobroDosli na __**${member.guild.name}**__ , ${member} ! Vi ste **${member.guild.memberCount}** Member, procitajte <#578362247273906178> i Zabavi se `)
-})
-bot.on('guildMemberAdd', member => {
-  console.log('Ime ' + member.user.tag + 'je usao na ExtremeCommunity');
-
-  var role = member.guild.roles.find(r => r.name === "Member");
-  member.addRole(role);
-})
-bot.on('guildMemberRemove', member => {
-  bot.channels.get('600328988975431749').send(`**${member.user.username}** je izasao sa servera...`);
-})
-bot.on('guildMemberRemove', member => {
-  bot.log('Ime ' + member.user.tag + 'je izasao na ExtremeCommunity');
-})
-
 bot.on('ready', () => {
     console.log(`${bot.user.username} is online!`)
 

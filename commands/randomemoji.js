@@ -24,7 +24,8 @@ module.exports.run = async(client, message, args) => {
         ' °︵°',
         ' >.<',
         ' +-+',
-        'Dx'
+        ' Dx',
+        ' ( ͡° ͜ʖ ͡°)'
      
     ]
     var embed = new Discord.RichEmbed()
