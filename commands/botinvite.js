@@ -3,9 +3,9 @@ exports.run = async (bot, message, args, tools) => {
     let link = await bot.generateInvite(['ADMINISTRATOR'])
     let InviteEmbed = new discord.RichEmbed()
     .setColor(0xff0000)
-     .setTitle("Click Here")
+     .setTitle("Private Bot -.-")
     .setDescription("**Bot Invite**")
-    .setURL('https://discordapp.com/api/oauth2/authorize?client_id=610107625383919616&permissions=8&scope=bot')
+    .setURL('https://Ovo je private bot.com/')
     
     message.channel.send(InviteEmbed)
 }

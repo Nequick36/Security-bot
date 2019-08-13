@@ -13,14 +13,14 @@ module.exports.run = async (bot, message, args) => {
 
 
         eco.FetchBalance(user.id).then(x => {
-                   eco.AddToBalance(user.id, amount).then(l =>
-                     message.reply(`You have successfuly added ${amount} coins to ${user.tag}'s account.`));
+                   eco.SubstractFromBalance(user.id, amount).then(l =>
+                     message.reply(`You have successfuly removed ${amount} coins to ${user.tag}'s account.`));
                  })
 }
 
 module.exports.help = {
-  name: "addbalance",
-  aliases: ["addbal"],
+  name: "removebalance",
+  aliases: ["removebal"],
   description:"It will set a users balance.",
   perm: "",
   role: "",

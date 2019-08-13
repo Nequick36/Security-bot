@@ -45,3 +45,17 @@ You now own :money_with_wings: 494
 [13.08.2019][09:39:24][biljeske-servera] (Vlasnik) Veka#7740: en!buy Coal
 [13.08.2019][09:39:25][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> Uspjesno ste kupili Coal Rank
 [13.08.2019][09:39:25][biljeske-servera] = | Bot#1536: 
+[13.08.2019][10:19:27][biljeske-servera] (Vlasnik) Veka#7740: en!addbal
+[13.08.2019][10:19:27][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have not specified an amount!
+[13.08.2019][10:19:27][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> just leveled up to level 6!
+[13.08.2019][10:19:32][biljeske-servera] (Vlasnik) Veka#7740: en!addbal <@!532659544791318540> 5
+[13.08.2019][10:19:34][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly added 5 coins to 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵#7740's account.
+[13.08.2019][10:19:35][biljeske-servera] (Vlasnik) Veka#7740: en!bal
+[13.08.2019][10:19:35][biljeske-servera] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 499 coins.
+[13.08.2019][10:19:40][biljeske-servera] (Vlasnik) Veka#7740: en!removebal <@!532659544791318540> 5
+[13.08.2019][10:19:44][biljeske-servera] (Vlasnik) Veka#7740: en!bal
+[13.08.2019][10:19:44][biljeske-servera] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 499 coins.
+[13.08.2019][10:21:11][biljeske-servera] (Vlasnik) Veka#7740: en!removebal <@!532659544791318540> 5
+[13.08.2019][10:21:12][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly removed 5 coins to 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵#7740's account.
+[13.08.2019][10:21:17][biljeske-servera] (Vlasnik) Veka#7740: en!bal
+[13.08.2019][10:21:17][biljeske-servera] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 494 coins.
