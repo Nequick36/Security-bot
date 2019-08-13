@@ -22,7 +22,7 @@ module.exports.run = async (bot, message, args) => {
              .addField("Hljeb - 3$", "Hrana")
              .addField("Kolač - 4$", "Hrana")
              .addField("=====================", "**Jos Uskoro**!")
-             .setFooter(`${bot.prefix}buy <item-role>`)
+             .setFooter(`en!buy <item-role>`)
              .setColor(0xFF0000)
          message.channel.sendEmbed(Shop)  
 }
