@@ -30,7 +30,7 @@ bot.commands = new Discord.Collection()
 bot.aliases = new Discord.Collection();
 bot.afk = new Map()
 bot.workCooldown = new Map()
-bot.devs = ['']
+bot.devs = ['532659544791318540']
 let helpCmd = `Prefix is <b>!</b><br>\nCommands:<br><br>\n\n` 
 fs.readdir("./commands", (err, files) => {
     if(err) console.log(err);
@@ -226,8 +226,8 @@ bot.on('ready', () => {
     bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
-            name: 'Private Bot',
-            type: "PLAYING",
+            name: 'Developering ...',
+            type: "WATCHING",
         }
     })
 });
