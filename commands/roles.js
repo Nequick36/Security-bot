@@ -15,6 +15,6 @@ module.exports.help = {
   aliases: [],
   description: "Shows all roles.",
   perm: "",
-  role: "",
-  group:"Simple"
+  role: "*",
+  group:"Admin"
 }

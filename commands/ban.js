@@ -40,6 +40,10 @@ let role = message.guild.roles.find(r => r.name === 'Administrator')
 }, 1000);
   }
 module.exports.help = {
-name: "ban",
-aliases: ["Ban"]
+  name: "ban",
+  aliases: [],
+  description: "Ban a user for obvious reasons.",
+  perm: "",
+  role: "Pristup",
+  group:"ADMIN"
 }

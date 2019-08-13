@@ -5,7 +5,7 @@ const Discord = require ('discord.js')
 
 const member = message.mentions.members.first() || message.guild.members.get(args[0]) || message.member;
 
-message.channel.send(`${member}\'s id is: \`${member.user.id}\`.`);
+message.channel.send(`${member}\ ID je: \`${member.user.id}\`.`);
 
 message.delete();
   }

@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-   let reportChannel = message.guild.channels.find(channel => channel.name === '⚫》user-reports')
+   let reportChannel = message.guild.channels.find(channel => channel.name === 'logs')
    let rUser = message.guild.member(message.mentions.users.first())
    if(!rUser) return message.reply("You have not mentioned a user to report!")
   let reason = args.slice(1).join(" ")
@@ -28,5 +28,5 @@ module.exports.help = {
   description: "Reports a user for a specified reason",
   perm: "",
   role: "",
-  group:"Admin"
+  group:"Simple"
 }

@@ -44,6 +44,6 @@ module.exports.help = {
   aliases: [],
   description: "Kicks a user for obvious reasons.",
   perm: "",
-  role: "",
+  role: "Pristup",
   group:"ADMIN"
 }

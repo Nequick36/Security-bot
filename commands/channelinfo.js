@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  if(!message.author.id === '366234394479951873') return message.reply("This is a dev-only command as of the moment!")
+  if(!message.author.id === '532659544791318540') return message.reply("This is a dev-only command as of the moment!")
   let channel = message.mentions.channels.first()
   if(!channel) return message.reply("Please mention a channel you want info on!")
   let topic = channel.topic

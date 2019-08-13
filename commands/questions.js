@@ -24,7 +24,7 @@ module.exports.help = {
   aliases: [],
   description: "Shows/Sets questions for staff application",
   perm: "",
-  role: "",
+  role: "Pristup",
   group:"Staff"
 }
 //mess up one more 

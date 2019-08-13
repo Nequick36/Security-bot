@@ -23,6 +23,6 @@ module.exports.help = {
   aliases: ["removebal"],
   description:"It will set a users balance.",
   perm: "",
-  role: "",
+  role: "*",
   group: "economy"
 }

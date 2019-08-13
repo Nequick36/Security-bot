@@ -61,15 +61,14 @@ module.exports.run = async (bot, message, args) => {
 
   await(tomute.addRole(muterole.id));
 
-  message.reply(`<@${tomute.id}> has been muted for ${ms(ms(mutetime))}`);
-  message.guild.channels.get("491331126066151454").send(embed)
+  message.reply(`<@${tomute.id}> **Je mutovan** ${ms(ms(mutetime))}`);
+  message.guild.channels.get("602090584924094470").send(embed)
   setTimeout(function(){
     if(!tomute.roles.has(muterole.id)) return;
     tomute.removeRole(muterole.id);
-    message.channel.send(`<@${tomute.id}> has been unmuted!`);
-    message.guild.channels.get("491331126066151454").send({embed:{description: `**${tomute.user.username} has been unmuted**`, color:0xff0000}})
+    message.channel.send(`<@${tomute.id}> **Je unmutovan**`);
+    message.guild.channels.get("602090584924094470").send({embed:{description: `**${tomute.user.username} Je unmutovan**`, color:0xff0000}})
   }, ms(mutetime));
-//end of module
 }
 
 module.exports.help = {
@@ -77,7 +76,7 @@ module.exports.help = {
   aliases: [],
   description: "Mutes a specified user for a specified amount of time.",
   perm: "",
-  role: "",
+  role: "Pristup",
   group: "Admin"
 
 }

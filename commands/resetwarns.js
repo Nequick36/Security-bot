@@ -25,6 +25,6 @@ module.exports.help = {
   aliases: [],
   description:"Resets a user's warnings.",
   perm: "",
-  role: "",
+  role: "*",
   group:"Admin"
 }
