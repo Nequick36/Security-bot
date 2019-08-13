@@ -1,177 +1,33 @@
-[13.08.2019][09:22:08][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] [Su-Vlasnik] Veka#7740: .kick <@610107625383919616> whis is my Private Botina
-[13.08.2019][09:22:08][「📜」𝙙𝙤𝙥𝙞𝙨𝙞𝙫𝙖𝙣𝙟𝙚] Latino Evropa Official Bot#6126: 
-[13.08.2019][09:22:08][logs] ExtremeCommunity#0316: 
-[13.08.2019][09:32:24][biljeske-servera] = | Bot#1536: 
-[13.08.2019][09:32:26][biljeske-servera] = | Bot#1536: 
-[13.08.2019][09:32:52][biljeske-servera] (Vlasnik) Veka#7740: en!Baltop
-[13.08.2019][09:32:52][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucaj en!help da vidis listu komandi
-[13.08.2019][09:32:54][biljeske-servera] (Vlasnik) Veka#7740: en!baltop
-[13.08.2019][09:32:55][biljeske-servera] ExtremeCommunity#0316: My leaderboard:
- 
-1 - Jordan.#2649 | Balance 2135992578 
-2 - Joshua#4954 | Balance 86444 
-3 - Deleted User 56c54dae#9847 | Balance 11495 
-4 - Seth#7796 | Balance 6080 
-5 - Fr0z3n#7170 | Balance 5256 
-6 - Deleted User e13269o03#3269 | Balance 2365 
-7 - CameronT05092002#4064 | Balance 1273 
-8 - AL€X3411#9775 | Balance 1126 
-9 - Deleted User 2df05d5f#0287 | Balance 500 
-10 - sheg#1726 | Balance 400
-[13.08.2019][09:33:17][biljeske-servera] (Vlasnik) Veka#7740: en!setbalance <@!560515595213340693> 10000000000000000
-[13.08.2019][09:33:19][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly added 10000000000000000 coins to Taki sam ti ja#4953's account.
-[13.08.2019][09:33:23][biljeske-servera] (Vlasnik) Veka#7740: en!lb
-[13.08.2019][09:33:23][biljeske-servera] ExtremeCommunity#0316: My leaderboard:
- 
-1 - Taki sam ti ja#4953 | Balance 10000000000000000 
-2 - Jordan.#2649 | Balance 2135992578 
-3 - Joshua#4954 | Balance 86444 
-4 - Deleted User 56c54dae#9847 | Balance 11495 
-5 - Seth#7796 | Balance 6080 
-6 - Fr0z3n#7170 | Balance 5256 
-7 - Deleted User e13269o03#3269 | Balance 2365 
-8 - CameronT05092002#4064 | Balance 1273 
-9 - AL€X3411#9775 | Balance 1126 
-10 - Deleted User 2df05d5f#0287 | Balance 500
-[13.08.2019][09:37:04][「🎁」giveaways-proofs] (Vlasnik) Veka#7740: <@!340190117958516736> ✅
-[13.08.2019][09:39:05][biljeske-servera] (Vlasnik) Veka#7740: en!work
-[13.08.2019][09:39:05][biljeske-servera] ExtremeCommunity#0316: 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵
-You worked as a ` Assistant ` and earned :money_with_wings: 139
-You now own :money_with_wings: 494
-[13.08.2019][09:39:06][biljeske-servera] (Vlasnik) Veka#7740: en!daily
-[13.08.2019][09:39:06][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You claimed your daily coins succesfully! You now own 744 coins.
-[13.08.2019][09:39:19][biljeske-servera] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][09:39:20][biljeske-servera] ExtremeCommunity#0316: 
-[13.08.2019][09:39:24][biljeske-servera] (Vlasnik) Veka#7740: en!buy Coal
-[13.08.2019][09:39:25][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> Uspjesno ste kupili Coal Rank
-[13.08.2019][09:39:25][biljeske-servera] = | Bot#1536: 
-[13.08.2019][10:19:27][biljeske-servera] (Vlasnik) Veka#7740: en!addbal
-[13.08.2019][10:19:27][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have not specified an amount!
-[13.08.2019][10:19:27][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> just leveled up to level 6!
-[13.08.2019][10:19:32][biljeske-servera] (Vlasnik) Veka#7740: en!addbal <@!532659544791318540> 5
-[13.08.2019][10:19:34][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly added 5 coins to 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵#7740's account.
-[13.08.2019][10:19:35][biljeske-servera] (Vlasnik) Veka#7740: en!bal
-[13.08.2019][10:19:35][biljeske-servera] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 499 coins.
-[13.08.2019][10:19:40][biljeske-servera] (Vlasnik) Veka#7740: en!removebal <@!532659544791318540> 5
-[13.08.2019][10:19:44][biljeske-servera] (Vlasnik) Veka#7740: en!bal
-[13.08.2019][10:19:44][biljeske-servera] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 499 coins.
-[13.08.2019][10:21:11][biljeske-servera] (Vlasnik) Veka#7740: en!removebal <@!532659544791318540> 5
-[13.08.2019][10:21:12][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly removed 5 coins to 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵#7740's account.
-[13.08.2019][10:21:17][biljeske-servera] (Vlasnik) Veka#7740: en!bal
-[13.08.2019][10:21:17][biljeske-servera] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 494 coins.
-[13.08.2019][10:23:42][biljeske-servera] (Vlasnik) Veka#7740: en!ping
-[13.08.2019][10:23:42][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, Pong! The bot's average ping is 16ms.
-[13.08.2019][10:23:47][biljeske-servera] (Vlasnik) Veka#7740: en!ping
-[13.08.2019][10:23:47][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, Pong! The bot's average ping is 18ms.
-[13.08.2019][10:29:59][biljeske-servera] (Vlasnik) Veka#7740: en!buy Vodka
-[13.08.2019][10:30:00][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> Uspjesno ste kupili Vodku
-[13.08.2019][10:30:07][biljeske-servera] (Vlasnik) Veka#7740: en!bal
-[13.08.2019][10:30:07][biljeske-servera] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 444 coins.
-[13.08.2019][10:30:14][biljeske-servera] (Vlasnik) Veka#7740: en!buy Vodka
-[13.08.2019][10:30:15][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> Uspjesno ste kupili Vodku
-[13.08.2019][10:30:16][biljeske-servera] (Vlasnik) Veka#7740: en!bal
-[13.08.2019][10:30:16][biljeske-servera] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 394 coins.
-[13.08.2019][10:33:13][biljeske-servera] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][10:33:43][biljeske-servera] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][10:33:43][biljeske-servera] ExtremeCommunity#0316: 
-[13.08.2019][10:33:52][biljeske-servera] (Vlasnik) Veka#7740: en!bal
-[13.08.2019][10:33:52][biljeske-servera] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 394 coins.
-[13.08.2019][10:33:56][biljeske-servera] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][10:33:56][biljeske-servera] ExtremeCommunity#0316: 
-[13.08.2019][10:33:58][biljeske-servera] (Vlasnik) Veka#7740: en!buy Piva
-[13.08.2019][10:33:59][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> Uspjesno ste kupili Pivu
-[13.08.2019][10:34:00][biljeske-servera] (Vlasnik) Veka#7740: en!Bal
-[13.08.2019][10:34:00][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucaj en!help da vidis listu komandi
-[13.08.2019][10:34:04][biljeske-servera] (Vlasnik) Veka#7740: en!bal
-[13.08.2019][10:34:04][biljeske-servera] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 391 coins.
-[13.08.2019][10:34:07][logs] ExtremeCommunity#0316: 
-[13.08.2019][10:34:10][biljeske-servera] = | Bot#1536: 
-[13.08.2019][10:34:16][logs] ExtremeCommunity#0316: 
-[13.08.2019][10:34:16][biljeske-servera] = | Bot#1536: 
-[13.08.2019][10:34:19][logs] ExtremeCommunity#0316: 
-[13.08.2019][10:34:21][logs] ExtremeCommunity#0316: 
-[13.08.2019][10:34:21][biljeske-servera] = | Bot#1536: 
-[13.08.2019][10:37:28][「📜」chat] (Vlasnik) Veka#7740: 1
-[13.08.2019][10:37:28][「📜」chat] (Vlasnik) Veka#7740: 2
-[13.08.2019][10:37:28][「📜」chat] (Vlasnik) Veka#7740: 3
-[13.08.2019][10:37:29][「📜」chat] (Vlasnik) Veka#7740: i
-[13.08.2019][10:39:18][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][10:39:18][「💬」bot-komande] ExtremeCommunity#0316: 
-[13.08.2019][10:39:22][「💬」bot-komande] (Vlasnik) Veka#7740: en!buy Kafa
-[13.08.2019][10:39:23][「💬」bot-komande] ExtremeCommunity#0316: <@532659544791318540> Uspjesno ste kupili Kafu
-[13.08.2019][10:39:31][「💬」bot-komande] (Vlasnik) Veka#7740: en!bal
-[13.08.2019][10:39:31][「💬」bot-komande] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 389 coins.
-[13.08.2019][10:39:35][「💬」bot-komande] (Vlasnik) Veka#7740: en!buy Kafa
-[13.08.2019][10:39:36][「💬」bot-komande] ExtremeCommunity#0316: <@532659544791318540> Uspjesno ste kupili Kafu
-[13.08.2019][10:39:38][「💬」bot-komande] (Vlasnik) Veka#7740: en!bal
-[13.08.2019][10:39:38][「💬」bot-komande] ExtremeCommunity#0316: Hey 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵! You own 387 coins.
-[13.08.2019][10:39:57][「💬」bot-komande] (Vlasnik) Veka#7740: en!work
-[13.08.2019][10:39:57][「💬」bot-komande] ExtremeCommunity#0316: 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵
-You worked as a ` Electrician ` and earned :money_with_wings: 198
-You now own :money_with_wings: 585
-[13.08.2019][10:40:16][「💬」bot-komande] (Vlasnik) Veka#7740: en!work
-[13.08.2019][10:40:16][「💬」bot-komande] ExtremeCommunity#0316: You need to wait at least a day!
-[13.08.2019][10:45:13][biljeske-servera] = | Bot#1536: 
-[13.08.2019][10:45:22][biljeske-servera] = | Bot#1536: 
-[13.08.2019][10:45:23][biljeske-servera] = | Bot#1536: 
-[13.08.2019][10:45:26][biljeske-servera] = | Bot#1536: 
-[13.08.2019][10:45:32][logs] ExtremeCommunity#0316: 
-[13.08.2019][10:45:38][logs] ExtremeCommunity#0316: 
-[13.08.2019][10:45:48][biljeske-servera] = | Bot#1536: 
-[13.08.2019][10:45:49][biljeske-servera] = | Bot#1536: 
-[13.08.2019][10:45:49][biljeske-servera] = | Bot#1536: 
-[13.08.2019][10:45:52][logs] ExtremeCommunity#0316: 
-[13.08.2019][11:18:01][「💬」bot-komande] (Vlasnik) Veka#7740: en!work
-[13.08.2019][11:18:02][「💬」bot-komande] ExtremeCommunity#0316: 𝓥𝓮𝓴𝓪 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵
-You worked as a ` Electrician ` and earned :money_with_wings: 16
-You now own :money_with_wings: 601
-[13.08.2019][11:18:07][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][11:18:36][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][11:18:38][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][11:18:42][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][11:18:44][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][11:18:44][「💬」bot-komande] ExtremeCommunity#0316: <@532659544791318540> just leveled up to level 7!
-[13.08.2019][11:18:45][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][11:18:51][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][11:19:37][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][11:19:37][「💬」bot-komande] ExtremeCommunity#0316: 
-[13.08.2019][11:48:55][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
-[13.08.2019][11:48:56][「💬」bot-komande] ExtremeCommunity#0316: 
-[13.08.2019][11:51:14][「💬」bot-komande] m0nsterOFFICAL#0425: en!buy piva
-[13.08.2019][11:51:14][「💬」bot-komande] ExtremeCommunity#0316: Sorry but you don't have $3.
-[13.08.2019][11:51:26][「💬」bot-komande] m0nsterOFFICAL#0425: en!work
-[13.08.2019][11:51:26][「💬」bot-komande] ExtremeCommunity#0316: m0nsterOFFICAL
-You worked as a ` Sheriff ` and earned :money_with_wings: 16
-You now own :money_with_wings: 16
 [13.08.2019][11:51:59][「💬」bot-komande] m0nsterOFFICAL#0425: K
 [13.08.2019][11:52:18][「💬」bot-komande] (Vlasnik) Veka#7740: ae sad
 [13.08.2019][11:52:20][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
 [13.08.2019][11:52:20][「💬」bot-komande] ExtremeCommunity#0316: 
 [13.08.2019][11:53:17][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
 [13.08.2019][11:53:17][「💬」bot-komande] ExtremeCommunity#0316: 
-[13.08.2019][12:27:10][「📜」chat] HellBoy33#1496: Oce neko 1v1 ?
-[13.08.2019][12:27:12][「📜」chat] HellBoy33#1496: da se probamo
-[13.08.2019][12:27:23][「📜」chat] HellBoy33#1496: u mc
-[13.08.2019][12:27:30][「📜」chat] (Vlasnik) Veka#7740: meni mal fps
-[13.08.2019][12:27:34][「📜」chat] HellBoy33#1496: meni 50
-[13.08.2019][12:27:38][「📜」chat] HellBoy33#1496: a imam op komputer
-[13.08.2019][12:27:47][「📜」chat] HellBoy33#1496: na LoL imam 100-200 na minecraft 50
-[13.08.2019][12:27:48][「📜」chat] (Vlasnik) Veka#7740: meni 10-5 -.-
-[13.08.2019][12:28:00][「📜」chat] HellBoy33#1496: nesmes 1v1 ?
-[13.08.2019][12:28:01][「📜」chat] (Vlasnik) Veka#7740: plakyyy
-[13.08.2019][12:28:14][「📜」chat] HellBoy33#1496: ko je jak za pvp ?
-[13.08.2019][12:28:17][「📜」chat] (Vlasnik) Veka#7740: ma smijem nego nako cu izgubit zbog fpsa
-[13.08.2019][12:28:25][「📜」chat] HellBoy33#1496: aj igramo ?
-[13.08.2019][12:28:27][「📜」chat] HellBoy33#1496: dodji na piku
-[13.08.2019][12:28:34][「📜」chat] (Vlasnik) Veka#7740: neka fala
-[13.08.2019][12:28:46][「📜」chat] HellBoy33#1496: sto
-[13.08.2019][12:28:49][「📜」chat] HellBoy33#1496: neznam se bijat brt
-[13.08.2019][12:31:04][「📜」chat] nikola jovanovski#8389: Ae ja
-[13.08.2019][12:31:06][「📜」chat] nikola jovanovski#8389: ?
-[13.08.2019][12:52:54][biljeske-servera] = | Bot#1536: 
-[13.08.2019][12:52:54][「🙋」welcome] ExtremeCommunity#0316: DobroDosli na __**! ExtremeCommunity !**__ , <@597168521792716800> ! Vi ste **118** Member, procitajte <#578362247273906178> i Zabavi se
-[13.08.2019][12:52:54][「📜」chat] . | Bot#9927: DobroDosli <@597168521792716800>
-[13.08.2019][12:52:54][biljeske-servera] = | Bot#1536: 
-[13.08.2019][12:52:54][「🙋」invites] + | Inviter Manager#3907: <@597168521792716800> **joined**; Invited by **(Vlasnik) Veka** (**70** invites)
-[13.08.2019][12:52:54][biljeske-servera] = | Bot#1536: 
-[13.08.2019][12:52:55][biljeske-servera] = | Bot#1536: 
+[13.08.2019][12:54:23][「📜」chat] Aptul#5641: Trazim neki normalan srw bkt
+[13.08.2019][12:54:23][「📜」chat] ExtremeCommunity#0316: <@597168521792716800> just leveled up to level 1!
+[13.08.2019][12:54:33][「📜」chat] (Vlasnik) Veka#7740: lel
+[13.08.2019][12:57:00][owner-commands] (Vlasnik) Veka#7740: .
+[13.08.2019][12:57:03][owner-commands] (Vlasnik) Veka#7740: .config
+[13.08.2019][12:57:03][owner-commands] . | Bot#9927: 
+[13.08.2019][12:57:19][owner-commands] (Vlasnik) Veka#7740: en!kick <@!551877597190160405>
+[13.08.2019][12:57:19][owner-commands] ExtremeCommunity#0316: You can't kick a Server Manager!
+[13.08.2019][12:57:59][owner-commands] (Vlasnik) Veka#7740: en!kick
+[13.08.2019][12:57:59][owner-commands] ExtremeCommunity#0316: Sorry, I couldn't find that user
+[13.08.2019][12:58:04][owner-commands] (Vlasnik) Veka#7740: en!kick <@!551877597190160405>
+[13.08.2019][12:58:04][owner-commands] ExtremeCommunity#0316: You can't kick a Server Manager!
+[13.08.2019][12:59:01][owner-commands] (Vlasnik) Veka#7740: en!kick
+[13.08.2019][12:59:01][owner-commands] ExtremeCommunity#0316: Sorry, I couldn't find that user
+[13.08.2019][12:59:05][owner-commands] (Vlasnik) Veka#7740: en!Kick <@!551877597190160405>
+[13.08.2019][12:59:06][owner-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucaj en!help da vidis listu komandi
+[13.08.2019][12:59:10][owner-commands] (Vlasnik) Veka#7740: en!kick <@!551877597190160405>
+[13.08.2019][12:59:11][owner-commands] ExtremeCommunity#0316: You can't kick a Server Manager!
+[13.08.2019][12:59:55][owner-commands] (Vlasnik) Veka#7740: en!kick <@!551877597190160405>
+[13.08.2019][12:59:55][owner-commands] ExtremeCommunity#0316: You have not specified a reason!
+[13.08.2019][01:00:06][owner-commands] (Vlasnik) Veka#7740: en!kick <@!551877597190160405> aege
+[13.08.2019][01:00:06][logs] ExtremeCommunity#0316: 
+[13.08.2019][01:00:06][owner-commands] ExtremeCommunity#0316: ** TonyModeration#9927 has been kicked!**
+[13.08.2019][01:00:06][biljeske-servera] = | Bot#1536: 
+[13.08.2019][01:00:06][logs] ExtremeCommunity#0316: 
+[13.08.2019][01:03:50][「💬」bot-komande] (Vlasnik) Veka#7740: en!shop
+[13.08.2019][01:03:50][「💬」bot-komande] ExtremeCommunity#0316: 
