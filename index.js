@@ -259,7 +259,21 @@ client.login('NjEwMTA3NjI1MzgzOTE5NjE2.XVAdGw.ggX0_hTf-k6aAfWZJEILNSo18b0');
 
 
 
+client.on("guildMemberAdd", member => {
+  client.channels.get('578362175719079967').send(`DobroDosli na __**${member.guild.name}**__ , ${member} ! Vi ste **${member.guild.memberCount}** Member, procitajte <#578362247273906178> i Zabavi se `)
+})
+client.on('guildMemberAdd', member => {
+  console.log('Ime ' + member.user.tag + 'je usao na ExtremeCommunity');
 
+  var role = member.guild.roles.find(r => r.name === "Member");
+  member.addRole(role);
+})
+client.on('guildMemberRemove', member => {
+  client.channels.get('600328988975431749').send(`**${member.user.username}** je izasao sa servera...`);
+})
+client.on('guildMemberRemove', member => {
+  client.log('Ime ' + member.user.tag + 'je izasao na ExtremeCommunity');
+})
 
 
 bot.login(process.env.TOKEN)
