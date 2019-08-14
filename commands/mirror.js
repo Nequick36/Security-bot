@@ -5,7 +5,7 @@ module.exports.run = async (bot, message, args) => {
   .setImage(message.author.avatarURL)
   .setTitle(message.author.username)
   .setColor("RED")
-  .setDescription("**You're looking great today! :D**")
+  .setDescription("**Oh! danas izgledas predivno **")
   message.channel.send(embed)
 
 }
