@@ -207,20 +207,28 @@ update
 	});
 }); 
 bot.on('ready', () => {
-    console.log(`${bot.user.username} is online!`)
-
-    bot.user.setStatus('available')
-    bot.user.setPresence({
-        game: {
-            name: `en!help`,
-            type: "STREAMING",
-        }
-    })
+    console.log("ExtremeCommunity bot is online")
+    setInterval(() => {
+        bot.user.setActivity(`DobroDosli na Server`, {type: 'PLAYING'}); 
+    }, 8000);
 });
 
+bot.on('ready', () => {
+    setInterval(() => {
+        bot.user.setActivity(`Zabavite se!`, {type: 'WATCHING'}); 
+    }, 14000);
+});
 
-
-
+bot.on('ready', () => {
+    setInterval(() => {
+        bot.user.setActivity(`${bot.users.size} Ukupno Membera`, {type: 'WATCHING'}); 
+    }, 21000);
+});
+bot.on('ready', () => {
+    setInterval(() => {
+        bot.user.setActivity(`${bot.guilds.size} Servera`)
+    }, 25000);
+});
 
 
 const { Client, Attachment } = require('discord.js');
