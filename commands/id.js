@@ -1,15 +1,18 @@
-exports.run = async (bot,message,args) => {
-  if(!message.member.roles.some(r=>["Owner"].includes(r.name)))
-      return message.reply("Sorry, you don't have permissions to use this!")
 const Discord = require ('discord.js')
+exports.run = async (bot,message,args) => {
 
 const member = message.mentions.members.first() || message.guild.members.get(args[0]) || message.member;
 
 message.channel.send(`${member}\ ID je: \`${member.user.id}\`.`);
 
 message.delete();
-  }
-  module.exports.help = {
-name: "id",
-aliases: ["Id"]
+}
+
+module.exports.help = {
+  name: "id",
+  aliases: ['Id'],
+  description: "Shows the leaderboard of xp system.",
+  perm: "",
+  role: "",
+  group:"Simple"
 }
