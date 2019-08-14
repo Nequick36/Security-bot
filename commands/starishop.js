@@ -7,9 +7,20 @@ module.exports.run = async (bot, message, args) => {
              .setTitle("=================    **__Shop__**    ================")
              .setThumbnail(serverAvatar)
              .addField("**Rankovi**", "**Roles**")
-             .addField("Coal - $250 , Iron - $750 , Gold - 1000$ , Redstone - 1500$", "Lapis - 2500$ ,Diamond - 5000$ , Emerald - 7500$ ", "Rank")
-             .addField("**Piće - Sokovi**", "Vodka - 5$ , Piva - 3$ , Kafa - 2$")
+             .addField("Coal - $250", "Rank")
+             .addField("Iron - $750", "Rank")
+             .addField("Gold - $1000 ", "Rank") 
+             .addField("Redstone - $1500", "Rank")
+             .addField("Lapis - $2500", "Rank")
+             .addField("Diamond - $5000", "Rank")
+             .addField("Emerald - $7500", "Rank")
+             .addField("**Piće**", "**Sokovi**")
+             .addField("Vodka - 5$", "Alkohol")
+             .addField("Kafa - 2$", "Piće")
+             .addField("Piva - 3$", "Alkohol")
              .addField("**Hrana**", "**Food**")
+             .addField("Hljeb - 3$", "Hrana")
+             .addField("Kolač - 4$", "Hrana")
              .addField("=================    **__Shop__**    ================", "**Jos Uskoro**!")
              .setFooter(`en!buy <item-role>`)
              .setColor("GREEN")
@@ -17,7 +28,7 @@ module.exports.run = async (bot, message, args) => {
 }
 
 module.exports.help = {
-  name: "shop2",
+  name: "shop22",
   aliases: [],
   description:"A shop listing all the different items you can buy.",
   perm: "",
