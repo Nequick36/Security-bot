@@ -5,7 +5,7 @@ exports.run = async (bot, message, args, tools) => {
     .setColor(0xff0000)
      .setTitle("Private Bot -.-")
     .setDescription("**Bot Invite**")
-    .setURL('https://Ovo je private bot.com/')
+    .setURL('https://Ovo je private bot -.-.com/')
     
     message.channel.send(InviteEmbed)
 }
