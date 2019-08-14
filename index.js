@@ -215,7 +215,7 @@ bot.on('ready', () => {
 
 bot.on('ready', () => {
     setInterval(() => {
-        bot.user.setActivity(`Zabavite se!`, {type: 'WATCHING'}); 
+        bot.user.setActivity(`Zabavite se!`, {type: 'PLAYING'}); 
     }, 14000);
 });
 
@@ -223,11 +223,6 @@ bot.on('ready', () => {
     setInterval(() => {
         bot.user.setActivity(`${bot.users.size} Ukupno Membera`, {type: 'WATCHING'}); 
     }, 21000);
-});
-bot.on('ready', () => {
-    setInterval(() => {
-        bot.user.setActivity(`${bot.guilds.size} Servera`)
-    }, 25000);
 });
 
 
