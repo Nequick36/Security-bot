@@ -17,7 +17,7 @@ module.exports.run = async (bot, message, args) => {
 }
 
 module.exports.help = {
-  name: "shop",
+  name: "shop212",
   aliases: [],
   description:"A shop listing all the different items you can buy.",
   perm: "",
