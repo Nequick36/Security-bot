@@ -28,7 +28,7 @@ module.exports.run = async (bot, message, args) => {
      if(!warns[user.id].warns) warns[user.id].warns = 0
     if(!warns[user.id].reasons) warns[user.id].reasons = ''
     
-     user.send("**Warnani ste na serveru ExtremeCommunity zbog:** " + warning).catch(message.channel.send(`** ✅ ${user.tag} je warnovan!  **`))
+     user.send("**Warnani ste na serveru ExtremeCommunity zbog:**`` " + warning``).catch(message.channel.send(`** ✅ ${user.tag} je warnovan!  **`))
     warns[user.id].warns++
     if(warns[user.id].reasons === '') warns[user.id].reasons = `${warning}`
     else warns[user.id].reasons = `${warns[user.id].reasons}` + `|!` + `${warning}`
@@ -43,8 +43,8 @@ module.exports.run = async (bot, message, args) => {
          .setThumbnail(user.avatarURL)
          .setTimestamp()
      warnChannel.send(WarningInfo)
-    if(warns[user.id].warns >= 5) {
-      user.send({embed:{description:`Vi imate ${warns[user.id].warns} warnova u ExtremeCommunity! Zato sto niste postovali pravila dobili ste kick ako udjite opet na server i ako budete opet krsili pravila dobija te ban`, color:0xff0000}})
+    if(warns[user.id].warns >= 3) {
+      user.send({embed:{description:`You have ${warns[user.id].warns} warnings in ExtremeCommunity! You will be kicked, but if you break more rules you will be banned!`, color:0xff0000}})
      
       message.guild.members.forEach(member => {
         if(member.roles.has(modRole.id)) member.send({embed:{description:`${user.username} has ${warns[user.id].warns} warnings!`, color:0xff0000}})
