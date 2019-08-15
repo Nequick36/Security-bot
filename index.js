@@ -68,7 +68,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     else message.delete()
   }
   if(message.content.includes("https://discordapp.com/invite/")) {
-     if(message.channel.name === 'logs' || message.channel.name === 'logs' || message.channel.name === 'logs') return;
+     if(message.channel.name === 'partneri' || message.channel.name === 'partneri' || message.channel.name === 'partneri') return;
     else message.delete()
   }
   if(message.content.includes("https://is.gd/" )) {
