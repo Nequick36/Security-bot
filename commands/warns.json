@@ -1,6 +1,6 @@
 {
     "532659544791318540": {
-        "warns": 1,
-        "reasons": "test"
+        "warns": 2,
+        "reasons": "test|!test 2"
     }
 }
