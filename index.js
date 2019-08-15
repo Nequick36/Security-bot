@@ -267,13 +267,13 @@ client.on('guildMemberAdd', member => {
 
   var role = member.guild.roles.find(r => r.name === "Member");
   member.addRole(role);
+});
+client.on("guildMemberRemove", member => {
+  client.channels.get('600328988975431749').send(`${member} nas je napustio...`)
 })
-client.on('guildMemberRemove', member => {
-  client.channels.get('600328988975431749').send(`**${member.user.username}** je izasao sa servera...`);
-})
-client.on('guildMemberRemove', member => {
-  client.log('Ime ' + member.user.tag + 'je izasao na ExtremeCommunity');
-})
+client.on('guildMemberAdd', member => {
+  console.log('Ime ' + member.user.tag + 'je izasao ...');
+});
 
 
 bot.login(process.env.TOKEN)
