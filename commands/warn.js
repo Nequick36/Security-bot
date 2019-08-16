@@ -28,7 +28,7 @@ module.exports.run = async (bot, message, args) => {
      if(!warns[user.id].warns) warns[user.id].warns = 0
     if(!warns[user.id].reasons) warns[user.id].reasons = ''
     
-     user.send(`**Warnani** ste na serveru ExtremeCommunity , od strane Staff-a ${message.author.username} zbog: ` + warning).catch(message.channel.send(`** ✅ ${user.tag} je warnovan!  **`))
+     user.send(`**Warnani** ste na serveru ExtremeCommunity zbog: ` + warning).catch(message.channel.send(`** ✅ ${user.tag} je warnovan!  **`))
     warns[user.id].warns++
     if(warns[user.id].reasons === '') warns[user.id].reasons = `${warning}`
     else warns[user.id].reasons = `${warns[user.id].reasons}` + `|!` + `${warning}`
