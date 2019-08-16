@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
     if(ticketChannel) return message.channel.send(`You can only have one ticket!`)
     message.guild.createChannel(`ticket-${message.author.id}`, 'text').then(channel => {
       channel.setTopic(`Owner: ${message.author.tag}`)
-      channel.send(`Ćao! ${message.author} Ako vam treba neka pomoc pitajte nas Staff-Team!`)
+      channel.send(`Ćao! ${message.author} Ako vam treba neka pomoc pitajte nas Staff-Team! , Ako vam ni staff-team ne moze odgovorit na pitanje ukucajte en!suggest <pitanje> na vase pitanje ce odgovorit neko iz Vlasnik Tima`)
       channel.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {
 VIEW_CHANNEL: false,
 SEND_MESSAGES: false,

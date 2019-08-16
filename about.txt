@@ -1,4 +1,4 @@
-Discord bot for GameHub server(https://discord.gg/EwbfEmj)
+Discord bot for ExtremeCommuniry server(https://discord.gg/EwbfEmj)
 
 Libary: Discord.js
 Credits:

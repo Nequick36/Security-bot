@@ -245,9 +245,6 @@ client.on("guildMemberAdd", member => {
 })
 client.on('guildMemberAdd', member => {
   console.log('Ime ' + member.user.tag + 'je usao na ExtremeCommunity');
-
-  var role = member.guild.roles.find(r => r.name === "Member");
-  member.addRole(role);
 });
 client.on("guildMemberRemove", member => {
   client.channels.get('600328988975431749').send(`${member} nas je napustio...`)
