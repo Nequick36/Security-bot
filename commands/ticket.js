@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
     if(ticketChannel) return message.channel.send(`You can only have one ticket!`)
     message.guild.createChannel(`ticket-${message.author.id}`, 'text').then(channel => {
       channel.setTopic(`Owner: ${message.author.tag}`)
-      channel.send(`Ćao, ${message.author}. Ako vam treba neka pomoc slobodno pitajte mog bot developera`)
+      channel.send(`Ćao! ${message.author} Ako vam treba neka pomoc pitajte nas Staff-Team!`)
       channel.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {
 VIEW_CHANNEL: false,
 SEND_MESSAGES: false,
@@ -50,7 +50,7 @@ READ_MESSAGE_HISTORY: true
         } else {
               message.guild.createChannel(`ticket-${message.author.username}`, 'text').then(channel => {
         channel.setTopic(`owner:${message.author.id}`)
-    channel.send(`Ćao, ${message.author}. Ako vam treba neka pomoc slobodno pitajte mog bot developera`)
+    channel.send(`Ćao! ${message.author} Ako vam treba neka pomoc pitajte nas Staff-Team!`)
 
 })
     ticketChannel = message.guild.channels.find(c => c.name === `ticket-${message.author.username}`)
