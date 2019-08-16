@@ -9,10 +9,10 @@ module.exports.run = async (bot, message, args) => {
         return;
     }
     var user =  message.guild.members.get(args[0]) || message.mentions.members.first()
-    if (!user) return message.reply('cannot find user!')
+    if (!user) return message.reply('Tagaj usera kojem zelis vidit broj warnova!')
     if(!warns[user.id]) warns[user.id] = {}
     if(!warns[user.id].warns) warns[user.id].warns = 0
-    if(!warns[user.id].reasons) warns[user.id].reasons = 'No warns'
+    if(!warns[user.id].reasons) warns[user.id].reasons = 'Nema warnova'
    if(warns[user.id].warns === 0) return message.channel.send({embed:{description:`${user.user.username} doesn't have any warnings.`, color:0xff0000}})
    let reasons = warns[user.id].reasons.split('|!')
    let warnsNum = reasons.length
