@@ -29,6 +29,6 @@ module.exports.help = {
   aliases: [],
   description:"Unbans a user.",
   perm: "MANAGE_GUILD",
-  role: "",
+  role: "Pristup",
   group: "admin"
 }
