@@ -197,13 +197,13 @@ update
 bot.on('ready', () => {
     console.log("Online sm!")
     setInterval(() => {
-        bot.user.setActivity(`Welcome`, {type: 'PLAYING'}); 
+        bot.user.setActivity(`Welcome to Server!`, {type: 'PLAYING'}); 
     }, 4000);
 });
 bot.on('ready', () => {
     setInterval(() => {
         bot.user.setActivity(`${bot.users.size} Member Counter`, {type: 'WATCHING'}); 
-    }, 8000);
+    }, 10000);
 });
 
 

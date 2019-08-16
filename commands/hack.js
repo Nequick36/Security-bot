@@ -15,19 +15,19 @@ module.exports.run = async (bot, message, args) => {
   if(!userToHack) return message.reply(`Mention a user that you want to hack!`)
   let msg = await message.channel.send(`Please wait trying to get access to database!`)
   setTimeout(function() {
-    msg.edit(`Access Granted!`)
+    msg.edit(`Pristup dozvoljen!`)
       setTimeout(function() {
-    msg.edit(`Getting into ./database/users/${userToHack.id}!`)
+    msg.edit(`Ulazak./database/users/${userToHack.id}!`)
           setTimeout(function() {
-    msg.edit(`Access Granted!`)
+    msg.edit(`Pristup odobren!`)
               setTimeout(function() {
-    msg.edit(`**User is hacked**
-``username``: ${userToHack.user.username}
-``email``: ${userToHack.user.username}${Math.floor(Math.random() * 1000)}@gmail.com
-``password``: ${site3.body.password}
-``id``: ${userToHack.id}
-``ip``: ${site2.body.ip}
-``token``: Error: discord too good`)
+    msg.edit(`**${message.author.username} je Hakovan!**
+``Username``: ${userToHack.user.username}
+``Email``: ${userToHack.user.username}${Math.floor(Math.random() * 1000)}@gmail.com
+``Password``: ${site3.body.password}
+``Id``: ${userToHack.id}
+``Ip``: ${site2.body.ip}
+``Token``: Error: discord too good`)
   }, 4000)
   }, 4000)
   }, 4000)

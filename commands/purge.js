@@ -18,7 +18,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
   name: "purge",
-  aliases: [],
+  aliases: ["Purge", "clear", "Clear"],
   description: "Deletes a certain number of messages in a channel.",
   perm: "MANAGE_MESSAGES",
   role: "",
