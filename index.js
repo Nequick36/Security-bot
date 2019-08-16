@@ -139,8 +139,8 @@ work
 daily
 flip
 slot
-topbal
-pay
+baltop
+payb
 ========================
 Random Komande
 ========================
@@ -151,7 +151,7 @@ randomnumber
 Vlasnik Komande
 ========================
 addrole
-accounce
+obavjest
 await
 channelinfo
 channels
