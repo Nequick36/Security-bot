@@ -195,21 +195,21 @@ update
 	});
 }); 
 bot.on('ready', () => {
-    console.log("ExtremeCommunity bot is online")
+    console.log("Online sm!")
     setInterval(() => {
-        bot.user.setActivity(`DobroDosli na Server`, {type: 'PLAYING'}); 
+        bot.user.setActivity(`Welcome`, {type: 'PLAYING'}); 
     }, 8000);
 });
 
 bot.on('ready', () => {
     setInterval(() => {
-        bot.user.setActivity(`Zabavite se!`, {type: 'PLAYING'}); 
+        bot.user.setActivity(`${bot.prefix}help`, {type: 'WATCHING'}); 
     }, 14000);
 });
 
 bot.on('ready', () => {
     setInterval(() => {
-        bot.user.setActivity(`${bot.users.size} Ukupno Membera`, {type: 'WATCHING'}); 
+        bot.user.setActivity(`${bot.users.size} membera`, {type: 'WATCHING'}); 
     }, 21000);
 });
 
