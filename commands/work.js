@@ -14,11 +14,11 @@ module.exports.run = async (bot, message, args) => {
       money: Math.floor(Math.random() * 200),
     })
     //10% chance to fail and earn nothing. You earn between 1-500 coins. And you get one of those 3 random jobs.
-    if (output.earned == 0) return message.reply('Aww, you did not do your job well so you earned nothing!')
+    if (output.earned == 0) return message.reply('Niste dobro uradili svoj posao i niste dobili **pare**!')
  
     message.channel.send(`${message.author.username}
-You worked as a \` ${output.job} \` and earned :money_with_wings: ${output.earned}
-You now own :money_with_wings: ${output.balance}`)
+Radili ste kao \` ${output.job} \` i zaradili ste :money_with_wings: ${output.earned}
+Vi sada imate :money_with_wings: ${output.balance}`)
 }
 
 module.exports.help = {

@@ -16,13 +16,8 @@ module.exports.run = async (bot, message, args) => {
   .setColor("RED")
   channel.send(embed)
   message.reply("**Your message has been announced!**")
-}
-
+}    
 module.exports.help = {
-  name: "announce",
-  aliases: [],
-  description: "Announces a message to a announcements.",
-  perm: "",
-  role: "*",
-  group:"Admin"
+name: "obavjest",
+aliases: ["Obavjest", "New", "new"]
 }
