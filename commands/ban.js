@@ -17,7 +17,7 @@ let role = message.guild.roles.find(r => r.name === 'Pristup')
        let reason = args.slice(1).join(" ")
        if (!reason)
        {
-         message.channel.send("You have not specified a reason!")
+         message.channel.send(`${message.author.username}`)
          return;
        }
      
@@ -28,7 +28,7 @@ let role = message.guild.roles.find(r => r.name === 'Pristup')
          .addField("Reason", reason)
          .setThumbnail(bannedUser.user.avatarURL)
          .setColor(0xFF0000)
-     let banChannel = message.guild.channels.find(channel => channel.name === "🔸》moderation")
+     let banChannel = message.guild.channels.find(channel => channel.name === "logs")
      banChannel.send(banInfo)
      message.delete()
      bannedUser.send(`Vi ste banani sa servera ExtremeCommunity, razlog: ${reason}`).catch(message.channel.send(`** ${bannedUser.user.tag} je banovan!**`))
