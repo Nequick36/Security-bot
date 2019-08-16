@@ -17,7 +17,7 @@ let role = message.guild.roles.find(r => r.name === 'Pristup')
        let reason = args.slice(1).join(" ")
        if (!reason)
        {
-         message.channel.send(`${message.author.username}`)
+         message.channel.send(`${message.author.username} morate staviti razlog `)
          return;
        }
      
