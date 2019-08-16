@@ -22,12 +22,12 @@ module.exports.run = async (bot, message, args) => {
     msg.edit(`Pristup odobren!`)
               setTimeout(function() {
     msg.edit(`**${message.author.username} je Hakovan!**
-``Username``: ${userToHack.user.username}
-``Email``: ${userToHack.user.username}${Math.floor(Math.random() * 1000)}@gmail.com
-``Password``: ${site3.body.password}
-``Id``: ${userToHack.id}
-``Ip``: ${site2.body.ip}
-``Token``: Error: discord too good`)
+**Username**: ${userToHack.user.username}
+**Email**: ${userToHack.user.username}${Math.floor(Math.random() * 1000)}@gmail.com
+**Password**: ${site3.body.password}
+**Id**: ${userToHack.id}
+**Ip**: ${site2.body.ip}
+**Token**: Error: discord too good`)
   }, 4000)
   }, 4000)
   }, 4000)
