@@ -31,7 +31,12 @@ VIEW_CHANNEL: true,
 SEND_MESSAGES: true,
 READ_MESSAGE_HISTORY: true
 })
-channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Staff Team'), {
+channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Staff-Team'), {
+VIEW_CHANNEL: true,
+SEND_MESSAGES: true,
+READ_MESSAGE_HISTORY: true
+})
+channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Pristup'), {
 VIEW_CHANNEL: true,
 SEND_MESSAGES: true,
 READ_MESSAGE_HISTORY: true
