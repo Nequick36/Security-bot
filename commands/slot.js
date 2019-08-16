@@ -24,9 +24,9 @@ module.exports.run = async (bot, message, args) => {
             .setFooter("You Won!", aicon)
             .setTitle(':slot_machine:Slots:slot_machine:')
             .addField('Result:', slots[result1] + slots[result2] + slots[result3], true)
-            .setColor("RANDOM");
+            .setColor("GREEN");
         message.channel.send(wEmbed);
-      eco.AddToBalance(message.author.id, bet*5).then(user => {
+      eco.AddToBalance(message.author.id, bet*25).then(user => {
         
       })
     }
@@ -44,7 +44,7 @@ module.exports.run = async (bot, message, args) => {
             .setFooter('You Lost!', aicon)
             .setTitle(':slot_machine:Slots:slot_machine:')
             .addField('Result', slots[result1] + slots[result2] + slots[result3], true)
-            .setColor("RANDOM");
+            .setColor("RED");
       eco.SubstractFromBalance(message.author.id, bet).then(user => {
       })
         message.channel.send(embed);
