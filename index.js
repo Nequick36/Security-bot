@@ -203,7 +203,7 @@ bot.on('ready', () => {
 bot.on('ready', () => {
     setInterval(() => {
         bot.user.setActivity(`${bot.users.size} Member Counter`, {type: 'WATCHING'}); 
-    }, 6000);
+    }, 8000);
 });
 
 
