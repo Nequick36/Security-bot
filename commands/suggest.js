@@ -10,7 +10,7 @@ module.exports.run = async (bot, message, args) => {
              .addField("Submitted by", message.author.username)
              .setThumbnail(message.author.avatarURL)
              .setTimestamp()
-        let suggestChannel = message.guild.channels.find(channel => channel.name === "🔸》suggestion-log")
+        let suggestChannel = message.guild.channels.find(channel => channel.name === "logs")
         suggestChannel.send(suggest)
 }
 

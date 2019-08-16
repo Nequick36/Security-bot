@@ -17,7 +17,7 @@ module.exports.run = async (bot, message, args) => {
   setTimeout(function() {
     msg.edit(`Pristup dozvoljen!`)
       setTimeout(function() {
-    msg.edit(`Ulazak./database/users/${userToHack.id}!`)
+    msg.edit(`Ulazak ./database/users/${userToHack.id}`)
           setTimeout(function() {
     msg.edit(`Pristup odobren!`)
               setTimeout(function() {
