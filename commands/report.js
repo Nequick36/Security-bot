@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-   let reportChannel = message.guild.channels.find(channel => channel.name === 'logs')
+    let modRole = message.guild.roles.find(role => role.name === 'Pristup')
    let rUser = message.guild.member(message.mentions.users.first())
    if(!rUser) return message.reply("You have not mentioned a user to report!")
   let reason = args.slice(1).join(" ")
@@ -11,14 +11,10 @@ module.exports.run = async (bot, message, args) => {
   .addField("Reported user", rUser.user.username)
   .addField("Reported by", message.author.username)
   .addField("Reported for:", reason)
-  .setColor("GREEN")
+  .setColor("RED")
   .setTimestamp()
-  reportChannel.send(embed)
   message.channel.send("That user has been reported!")
   message.delete()
-  
-  
-  
   
   }
 
