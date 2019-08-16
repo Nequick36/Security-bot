@@ -198,19 +198,12 @@ bot.on('ready', () => {
     console.log("Online sm!")
     setInterval(() => {
         bot.user.setActivity(`Welcome`, {type: 'PLAYING'}); 
-    }, 8000);
+    }, 4000);
 });
-
 bot.on('ready', () => {
     setInterval(() => {
-        bot.user.setActivity(`${bot.prefix}help`, {type: 'WATCHING'}); 
-    }, 14000);
-});
-
-bot.on('ready', () => {
-    setInterval(() => {
-        bot.user.setActivity(`${bot.users.size} membera`, {type: 'WATCHING'}); 
-    }, 21000);
+        bot.user.setActivity(`${bot.users.size} Member Counter`, {type: 'WATCHING'}); 
+    }, 6000);
 });
 
 
