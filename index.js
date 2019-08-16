@@ -63,18 +63,6 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
  if(message.content.toLowerCase().includes("seth is gay")) return message.reply("stfu boi, you do not talk like that about my creator like that")
     if(message.content.toLowerCase().includes("j122 is gay")) return message.reply("psst -> ||dont tell him i told you this but he is gay||")
  if(message.content.toLowerCase().includes("your mom")) return message.reply("Wow, *how orginal*")
-  if(message.content.includes("https://discord.gg/" )) {
-    if(message.channel.name === 'logs' || message.channel.name === 'logs' || message.channel.name === 'logs'|| message.channel.name === '🔸》announcements') return;
-    else message.delete()
-  }
-  if(message.content.includes("https://discordapp.com/invite/")) {
-     if(message.channel.name === 'partneri' || message.channel.name === 'partneri' || message.channel.name === 'partneri') return;
-    else message.delete()
-  }
-  if(message.content.includes("https://is.gd/" )) {
-    if(message.channel.name === 'logs' || message.channel.name === 'logs' || message.channel.anme === 'logs') return;
-    else message.delete()
-  }
 
     let prefix = botconfig.prefix;
     let messageArray = message.content.split(" ")
@@ -87,8 +75,8 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
   // let NeededRole = message.guild.roles.find(r => r.name === commandfile.help.role)
   // if(!NeededRole) {}
   // if(NeededRole === '' && NeededPerm === '') {}
-  // if(NeededRole && NeededPerm !== '') if(!message.member.roles.has(NeededRole.id) || !message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
-  // if(NeededPerm !== '' && !NeededRole) if(!message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
+  // if(NeededRole && NeededPerm !== '') if(!message.member.roles.has(NeededRole.id) || !message.member.hasPermission(NeededPerm)) return message.channel.send(`?? **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. ??**"`)
+  // if(NeededPerm !== '' && !NeededRole) if(!message.member.hasPermission(NeededPerm)) return message.channel.send(`?? **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. ??**"`)
     if(commandfile) commandfile.run(bot, message, args) //can you go thru files and add needed perms or roles they are blank but add like MANAGE_MESSAGES
     else { //ok wait is there roles and perms //i need to go now
       if(cmd.slice(prefix.length) === 'help') {}
