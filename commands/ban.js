@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 exports.run = async (bot, message, args) => {
-let role = message.guild.roles.find(r => r.name === 'Administrator')
+let role = message.guild.roles.find(r => r.name === 'Pristup')
   let bannedUser = message.mentions.members.first();
        {
            message.channel.send("🛑**ACCESS DENIED! THIS IS AN ADMIN ONLY COMMAND.🛑**");
@@ -10,7 +10,7 @@ let role = message.guild.roles.find(r => r.name === 'Administrator')
 
        if(!bannedUser)
        {
-           message.channel.send("Sorry, I couldn't find that user");
+           message.channel.send("Tagajte usera kojeg zelite banat");
            return;
        }
       if(message.mentions.members.first().hasPermission('MANAGE_MESSAGE')) return message.channel.send(`You can't warn a Server Manager!`)
