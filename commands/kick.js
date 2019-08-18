@@ -41,7 +41,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
   name: "kick",
-  aliases: [],
+  aliases: ["Kick"],
   description: "Kicks a user for obvious reasons.",
   perm: "",
   role: "Pristup",
