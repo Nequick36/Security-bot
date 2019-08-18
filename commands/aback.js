@@ -4,16 +4,16 @@ module.exports.run = async (bot, message, args) => {
 let reason = args.join(" ")
 
 let options = {
-  reason: `${reason || 'AFK'}`,
+  reason: `${reason || 'BACK'}`,
   id: message.author.id,
   justafk: true
 }
 
 bot.afk.set(message.author.id, options)
 
-message.channel.send({embed:{description:`${message.author.username} je AFK nemojte ga ometati! now afk!\nReason: ${reason || 'AFK'}`, title: message.author.username, color: 0xff0000}})
+message.channel.send({embed:{description:`${message.author.username} je dosao/la   afk!\nReason: ${reason || 'BACK'}`, title: message.author.username, color: 0xff0000}})
   if(message.member.nickname) {
-    if(!message.member.nickname.includes('[AFK] ')) {
+    if(!message.member.nickname.includes('[BACK] ')) {
     message.member.setNickname(`[AFK] ${message.member.nickname}`)
     }
   } else {
@@ -22,8 +22,8 @@ message.channel.send({embed:{description:`${message.author.username} je AFK nemo
 }
 
 module.exports.help = {
-  name: "afk",
-  aliases: ["Afk"],
+  name: "back",
+  aliases: ["Back"],
   description: "Makes you AFK.",
   perm: "",
   role: "",
