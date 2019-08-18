@@ -43,7 +43,7 @@ module.exports.help = {
   name: "kick",
   aliases: ["Kick"],
   description: "Kicks a user for obvious reasons.",
-  perm: "",
+  perm: "MANAGE_MESSAGE",
   role: "Pristup",
   group:"ADMIN"
 }
