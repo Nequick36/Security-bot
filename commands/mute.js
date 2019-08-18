@@ -69,7 +69,7 @@ module.exports.run = async (bot, message, args) => {
     if(!tomute.roles.has(muterole.id)) return;
     tomute.removeRole(muterole.id);
     message.channel.send(`<@${tomute.id}> **Je unmutovan/a**`);
-    message.guild.channels.get("602090584924094470").send({embed:{description: `**${tomute.user.username} Je unmutovan/a**`, color:"#83FF00"}})
+    message.guild.channels.get("602090584924094470").send({embed:{description: `**${tomute.user.username} Je unmutovan/a**`, color:10000}})
   }, ms(mutetime));
 }
 
