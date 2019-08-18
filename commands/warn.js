@@ -50,7 +50,7 @@ module.exports.run = async (bot, message, args) => {
         if(member.roles.has(modRole.id)) member.send({embed:{description:`${user.username} ima ${warns[user.id].warns} warnova morate ga kikat komandom en!kick <user> 5 warns!`, color:0xff0000}})
       })
     }
-    fs.writeFile('commands/warns.json', JSON.stringify(warns, null, 4), (err) => {
+    fs.writeFile('commands/warns.json', JSON.stringify(warns, null, 5), (err) => {
  if(err) console.error(err)
 })
 }
