@@ -14,10 +14,10 @@ bot.afk.set(message.author.id, options)
 message.channel.send({embed:{description:`${message.author.username} je dosao/la !\nReason: ${reason || 'BACK'}`, title: message.author.username, color: 0xff0000}})
   if(message.member.nickname) {
     if(!message.member.nickname.includes('[BACK] ')) {
-    message.member.setNickname(`[BACK] ${message.member.nickname}`)
+    message.member.setNickname(`${message.author.username}`)
     }
   } else {
-    message.member.setNickname(`${message.author.username}`)
+    message.member.setNickname(`[BACK] ${message.author.username}`)
   }
 }
 

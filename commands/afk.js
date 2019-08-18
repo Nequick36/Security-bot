@@ -17,7 +17,7 @@ message.channel.send({embed:{description:`${message.author.username} je AFK nemo
     message.member.setNickname(`[AFK] ${message.member.nickname}`)
     }
   } else {
-    message.member.setNickname(`${message.author.username}`)
+    message.member.setNickname(`[AFK] ${message.author.username}`)
   }
 }
 
