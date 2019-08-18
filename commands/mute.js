@@ -16,9 +16,9 @@ module.exports.run = async (bot, message, args) => {
 
       muterole = await message.guild.createRole({
 
-        name: "Muted",
+        name: "Extreme | Mute",
 
-        color: "#000000",
+        color: "#BBBBBB",
 
         permissions:[]
 
@@ -29,7 +29,7 @@ module.exports.run = async (bot, message, args) => {
         await channel.overwritePermissions(muterole, {
 
           SEND_MESSAGES: false,
-
+          
           ADD_REACTIONS: false
 
         });
@@ -47,10 +47,10 @@ module.exports.run = async (bot, message, args) => {
   //end of create role
 
   let mutetime = args[1]
-  if(!mutetime) return message.reply("You didn't specify a time!, Usage: !mute <time in s> <reason>");
+  if(!mutetime) return message.reply("Niste stavili vreme! , Upute: en!mute <time in s> <reason>");
   
   let reason = message.content.split(" ").slice(3).join(" ")
-  if(!reason) return message.reply("You did not specifiy a reason, Usage: !mute <time in s> <reason>")
+  if(!reason) return message.reply("Niste stavili razlog, Upute: !mute <time in s> <reason>")
   let embed = new Discord.RichEmbed()
   .setTitle(`${tomute.user.username} has been muted`)
   .addField("Duration", mutetime)
@@ -66,16 +66,16 @@ module.exports.run = async (bot, message, args) => {
   setTimeout(function(){
     if(!tomute.roles.has(muterole.id)) return;
     tomute.removeRole(muterole.id);
-    message.channel.send(`<@${tomute.id}> **Je unmutovan**`);
-    message.guild.channels.get("602090584924094470").send({embed:{description: `**${tomute.user.username} Je unmutovan**`, color:0xff0000}})
+    message.channel.send(`<@${tomute.id}> **Je unmutovan/a**`);
+    message.guild.channels.get("602090584924094470").send({embed:{description: `**${tomute.user.username} Je unmutovan/a**`, color:"#83FF00"}})
   }, ms(mutetime));
 }
 
 module.exports.help = {
   name: "mute",
-  aliases: [],
+  aliases: ["Mute"],
   description: "Mutes a specified user for a specified amount of time.",
-  perm: "",
+  perm: "MANAGE_MESSAGES",
   role: "Pristup",
   group: "Admin"
 
