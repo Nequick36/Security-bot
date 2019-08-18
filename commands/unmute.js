@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 
 module.exports.run = async (bot, message, args) => {
- let role = message.guild.roles.find(r => r.name === 'Muted') 
+ let role = message.guild.roles.find(r => r.name === 'Extreme | Muted') 
   let user = message.mentions.members.first()
   if(!user) return message.reply("you have not specified a user")
   
