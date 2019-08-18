@@ -43,11 +43,11 @@ module.exports.run = async (bot, message, args) => {
          .setThumbnail(user.avatarURL)
          .setTimestamp()
      warnChannel.send(WarningInfo)
-    if(warns[user.id].warns >= 3) {
+    if(warns[user.id].warns >= 5) {
       user.send({embed:{description:`You have ${warns[user.id].warns} warnings in ExtremeCommunity! You will be kicked, but if you break more rules you will be banned!`, color:0xff0000}})
      
       message.guild.members.forEach(member => {
-        if(member.roles.has(modRole.id)) member.send({embed:{description:`${user.username} has ${warns[user.id].warns} warnings!`, color:0xff0000}})
+        if(member.roles.has(modRole.id)) member.send({embed:{description:`${user.username} ima ${warns[user.id].warns} warnova morate ga kikat komandom en!kick <user> 5 warns!`, color:0xff0000}})
       })
     }
     fs.writeFile('commands/warns.json', JSON.stringify(warns, null, 4), (err) => {
