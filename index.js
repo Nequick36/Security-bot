@@ -239,6 +239,45 @@ client.on('message', message => {
 client.login('NjEwMTA3NjI1MzgzOTE5NjE2.XVAdGw.ggX0_hTf-k6aAfWZJEILNSo18b0');
 
 
+client.on("messageReactionAdd", async (reaction, user) => {
+  if(reaction.emoji.name === "🔧" && reaction.message.id === "612511302169919520" && user.id !== client.user.id) {
+    let ruser = reaction.message.guild.members.get(user.id)
+    let displayName = ruser.displayName; // I had to make this to use .toLowerCase() later. The channels are all in lower case
+    
+    // If channel doesn't exist
+    let chan = reaction.message.guild.channels.find(c => c.name == `${displayName.toLowerCase()}-ticket` && c.type == "text");
+    if (!chan) {
+      // Create channel
+      reaction.message.guild.createChannel(`${ruser.displayName}-ticket`, {
+          type: "text",
+          permissionOverwrites: [{
+            id: client.user.id,
+            allowed: ["VIEW_CHANNEL", "MANAGE_CHANNELS"]
+          }, {
+            id: user.id,
+            allowed: ["VIEW_CHANNEL", "SEND_MESSAGES", "READ_MESSAGE_HISTORY"]
+        }, {
+          id: reaction.message.guild.defaultRole.id,
+          denied: Discord.Permissions.ALL  
+        }]
+      })
+      .then(channel => {
+        // Look for the category
+        let category = reaction.message.guild.channels.find(c => c.name == "•--»Tickets«--•" && c.type == "category");
+        
+        // If the category doesn't exist create one
+        if (!category) {
+          reaction.message.guild.createChannel("•--»Tickets«--•", "category");
+        }
+        
+        // Asign channel to category
+        channel.setParent(category.id);
+      }). catch(err => console.error(err));
+    }
+  }
+})
+
+
 
 client.on("guildMemberAdd", member => {
   client.channels.get('578362175719079967').send(`DobroDosli na __**${member.guild.name}**__ , ${member} ! Vi ste **${member.guild.memberCount}** Member, procitajte <#578362247273906178> i Zabavi se `)
