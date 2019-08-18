@@ -47,9 +47,9 @@ module.exports.help = {
   name: "ban",
   aliases: ["Ban"],
   description: "Bans a user for obvious reasons.",
-  perm: "MANAGE_MESSAGES",
+  perm: "MANAGE_MESSAGE",
   role: "Pristup",
-  group: "Admin"
+  group: "Staff"
 }
 
 
