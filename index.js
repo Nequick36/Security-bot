@@ -195,7 +195,7 @@ update
 	});
 }); 
 bot.on('ready', () => {
-    console.log("Online sm!")
+//    console.log("Online sm!")
     setInterval(() => {
         bot.user.setActivity(`Welcome to Server!`, {type: 'PLAYING'}); 
     }, 4000);
