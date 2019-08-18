@@ -1,28 +1,42 @@
 const Discord = require("discord.js")
+const fs = require("fs");
+const { RichEmbed } = require("discord.js")
+const replaceall = require("replaceall")
 
 module.exports.run = async (bot, message, args) => {
-    let modRole = message.guild.roles.find(role => role.name === 'Pristup')
-   let rUser = message.guild.member(message.mentions.users.first())
-   if(!rUser) return message.reply("You have not mentioned a user to report!")
-  let reason = args.slice(1).join(" ")
-  if(!reason) return message.reply("You have not specified a reason")
-  let embed = new Discord.RichEmbed()
-  .setTitle("Report Log")
-  .addField("Reported user", rUser.user.username)
-  .addField("Reported by", message.author.username)
-  .addField("Reported for:", reason)
-  .setColor("RED")
-  .setTimestamp()
-  message.channel.send("That user has been reported!")
-  message.delete()
-  
-  }
+    let warns = JSON.parse(fs.readFileSync('commands/report.json', 'utf8'));
+    let warnChannel = message.guild.channels.get("602090584924094470")
 
+  
+     var user = message.mentions.users.first() 
+     if (!user) return message.reply('cannot find user!')
+    //if(message.mentions.members.first().hasPermission('MANAGE_GUILD')) return message.channel.send(`You can't warn a Server Manager!`)
+     let warning = args.slice(1).join(" ")
+    if (!warning)
+      {
+        message.channel.send("You have not specified a reason!")
+        return;
+      } 
+    message.delete()
+  
+     var WarningInfo = new RichEmbed()
+         .setTitle("Report log")
+         .addField("Reported by", message.author.username)
+         .addField("Reported User", user.username)
+         .addField("Reason", warning)
+         .setColor(0xFF0000)
+         .setThumbnail(user.avatarURL)
+         .setTimestamp()
+     warnChannel.send(WarningInfo)
+  
+}
 module.exports.help = {
-  name: "report",
-  aliases: [],
-  description: "Reports a user for a specified reason",
+    name: "report",
+    aliases: ["Report"],
+    description: "Warns a member.",
   perm: "",
   role: "",
-  group:"Simple"
-}
+  group: "Simple"
+  
+
+}  
