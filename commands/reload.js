@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  let role = message.guild.roles.find(role => role.name === 'GH Bot Developer')
+  let role = message.guild.roles.find(role => role.name === '*')
   if (!message.member.roles.has(role.id)) return message.channel.send("⛔ **ACCESS DENIED** ⛔");
   let commandName = args[0]
   if(!commandName) return message.channel.send(`Usage: !reload <commandName>`)
