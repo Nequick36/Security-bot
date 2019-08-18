@@ -30,7 +30,7 @@ bot.commands = new Discord.Collection()
 bot.aliases = new Discord.Collection();
 bot.afk = new Map()
 bot.workCooldown = new Map()
-bot.devs = ['532659544791318540']
+bot.devs = ['532659544791318540', '560515595213340693']
 let helpCmd = `Prefix is <b>!</b><br>\nCommands:<br><br>\n\n` 
 fs.readdir("./commands", (err, files) => {
     if(err) console.log(err);
