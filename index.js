@@ -197,12 +197,16 @@ update
 
 
 bot.on('ready', () => {
-//    console.log("Online sm!")
-    setInterval(() => {
-        bot.user.setActivity(`Welcome to Server!`, {type: 'PLAYING'}); 
-    });
-});
+    console.log(`${bot.user.username} is online!`)
 
+    bot.user.setStatus('available')
+    bot.user.setPresence({
+        game: {
+            name: `Welcome`,
+          type: "WATCHING"
+        }
+    })
+})
 
 
 
