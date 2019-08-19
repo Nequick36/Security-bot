@@ -279,21 +279,4 @@ client.on("messageReactionAdd", async (reaction, user) => {
     }
   }
 })
-
-
-
-client.on("guildMemberAdd", member => {
-  client.channels.get('578362175719079967').send(`DobroDosli na __**${member.guild.name}**__ , ${member} ! Vi ste **${member.guild.memberCount}** Member, procitajte <#578362247273906178> i Zabavi se `)
-})
-client.on('guildMemberAdd', member => {
-  console.log('Ime ' + member.user.tag + 'je usao na ExtremeCommunity');
-});
-client.on("guildMemberRemove", member => {
-  client.channels.get('600328988975431749').send(`${member} nas je napustio...`)
-})
-client.on('guildMemberAdd', member => {
-  console.log('Ime ' + member.user.tag + 'je izasao ...');
-});
-
-
 bot.login(process.env.TOKEN)
