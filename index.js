@@ -194,6 +194,8 @@ update
     console.log(`${file} Ucitan`)
 	});
 }); 
+
+
 bot.on('ready', () => {
 //    console.log("Online sm!")
     setInterval(() => {
@@ -205,6 +207,7 @@ bot.on('ready', () => {
         bot.user.setActivity(`${bot.users.size} Member Counter`, {type: 'WATCHING'}); 
     }, 15000);
 });
+
 
 
 const { Client, Attachment } = require('discord.js');
