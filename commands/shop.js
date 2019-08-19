@@ -21,8 +21,7 @@ module.exports.run = async (bot, message, args) => {
              .addField("**Hrana**", "**Food**")
              .addField("Hljeb - 3$", "Hrana")
              .addField("Kolač - 4$", "Hrana")
-             .addField("=================    **__Shop__**    ================", "**Jos Uskoro**!")
-             .setFooter(`en!buy <item-role>`)
+             .addField("=================    **__Shop__**    ================", "**en!buy <item-name>**")
              .setColor("GREEN")
          message.channel.sendEmbed(Shop)  
 }
