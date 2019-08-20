@@ -7,7 +7,7 @@ module.exports.run = async (bot, message, args) => {
     bot.workCooldown.set(message.author.id)
     setTimeout(function() {
       if(bot.workCooldown.has(message.author.id)) bot.workCooldown.delete(message.author)
-    }, 300)
+    }, 100)
   }
     var output = await eco.Work(message.author.id, {
       failurerate: 10,
