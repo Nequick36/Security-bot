@@ -197,16 +197,16 @@ update
 
 
 bot.on('ready', () => {
-    console.log(`${bot.user.username} is online!`)
+    setInterval(() => {
+        bot.user.setActivity(`Welcome to Server!`, {type: 'PLAYING'}); 
+    }, 8000);
+});
 
-    bot.user.setStatus('available')
-    bot.user.setPresence({
-        game: {
-            name: `Welcome`,
-          type: "WATCHING"
-        }
-    })
-})
+bot.on('ready', () => {
+    setInterval(() => {
+        bot.user.setActivity(`${bot.users.size} membera`, {type: 'WATCHING'}); 
+    }, 14000);
+});
 
 
 
