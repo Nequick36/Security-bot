@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-         var Embed = new Discord.RichEmbed()
+  let Embed = new Discord.RichEmbed()
              .setTitle("=================    **__Shop__**    ================")
              .addField("**Rankovi**", "**Roles**")
              .addField("Coal - $250", "Rank")
@@ -20,26 +20,10 @@ module.exports.run = async (bot, message, args) => {
              .addField("Kolač - 4$", "Hrana")
              .addField("=================    **__Shop__**    ================", "**en!buy <item-name>**")
              .setColor("GREEN")
-         message.channel.send(Embed);
-  
-}
-
-module.exports.help = {
-  name: "shop",
-  aliases: ["Shop"],
-  description:"Slot machine.",
-  perm: "",
-  role: "",
-  group: ""
-}
- 
-const discord = require('discord.js')
-
 
   message.channel.send(Embed)
 }
 module.exports.help = {
 name: "shop",
 aliases: ["Shop"]
-
 }
