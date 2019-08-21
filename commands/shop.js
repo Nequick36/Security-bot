@@ -1,11 +1,8 @@
 const Discord = require("discord.js")
-const eco = require("discord-economy")
 
 module.exports.run = async (bot, message, args) => {
- let serverAvatar = message.guild.iconURL;
-         var Shop = new Discord.RichEmbed()
+         var Embed = new Discord.RichEmbed()
              .setTitle("=================    **__Shop__**    ================")
-             .setThumbnail(serverAvatar)
              .addField("**Rankovi**", "**Roles**")
              .addField("Coal - $250", "Rank")
              .addField("Iron - $750", "Rank")
@@ -23,15 +20,26 @@ module.exports.run = async (bot, message, args) => {
              .addField("Kolač - 4$", "Hrana")
              .addField("=================    **__Shop__**    ================", "**en!buy <item-name>**")
              .setColor("GREEN")
-         message.channel.sendEmbed(Shop)  
+         message.channel.send(Embed);
+  
 }
 
 module.exports.help = {
   name: "shop",
-  aliases: [],
-  description:"A shop listing all the different items you can buy.",
+  aliases: ["Shop"],
+  description:"Slot machine.",
   perm: "",
   role: "",
-  group: "economy"
+  group: ""
 }
  
+const discord = require('discord.js')
+
+
+  message.channel.send(Embed)
+}
+module.exports.help = {
+name: "shop",
+aliases: ["Shop"]
+
+}
