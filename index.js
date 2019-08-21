@@ -86,7 +86,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     if(cmd === `${prefix}help`) {
       if(!args[0])  {
         message.author.send(`
-           ***Komande***
+                                     ***Komande***
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
                                 **__Member Komande__**
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
@@ -159,19 +159,6 @@ xpdelete
 }); 
 
 
-bot.on('ready', () => {
-    setInterval(() => {
-        bot.user.setActivity(`Welcome to Server!`, {type: 'PLAYING'}); 
-    }, 8000);
-});
-
-bot.on('ready', () => {
-    setInterval(() => {
-        bot.user.setActivity(`${bot.users.size} membera`, {type: 'WATCHING'}); 
-    }, 14000);
-});
-
-
 
 const { Client, Attachment } = require('discord.js');
 
@@ -203,6 +190,22 @@ client.on('message', message => {
 });
 
 client.login('NjEwMTA3NjI1MzgzOTE5NjE2.XVAdGw.ggX0_hTf-k6aAfWZJEILNSo18b0');
+
+
+
+
+bot.on('ready', () => {
+    setInterval(() => {
+        bot.user.setActivity(`Welcome to Server!`, {type: 'PLAYING'}); 
+    }, 8000);
+});
+
+bot.on('ready', () => {
+    setInterval(() => {
+        bot.user.setActivity(`${bot.users.size} membera`, {type: 'WATCHING'}); 
+    }, 14000);
+});
+
 
 
 bot.login(process.env.TOKEN)
