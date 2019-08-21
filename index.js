@@ -206,7 +206,7 @@ client.login('NjEwMTA3NjI1MzgzOTE5NjE2.XVAdGw.ggX0_hTf-k6aAfWZJEILNSo18b0');
 
 
 client.on("messageReactionAdd", async (reaction, user) => {
-  if(reaction.emoji.name === "🔧" && reaction.message.id === "612511302169919520" && user.id !== client.user.id) {
+  if(reaction.emoji.name === "🔧" && reaction.message.id === "613708912587309087" && user.id !== client.user.id) {
     let ruser = reaction.message.guild.members.get(user.id)
     let displayName = ruser.displayName; // I had to make this to use .toLowerCase() later. The channels are all in lower case
     
