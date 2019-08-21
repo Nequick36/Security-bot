@@ -85,7 +85,46 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
    
     if(cmd === `${prefix}help`) {
       if(!args[0])  {
-        message.author.send(`http://${process.env.PROJECT_DOMAIN}.bot.help/       `)
+        message.author.send(`
+           ***Komande***
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+                                __Member Komande__
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+**afk , back , lvllb , members , mirror , questionserverinfo , 
+suggest , ticket new**
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+                              Funny Komande
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+**8ball , avatar , cat , dog , emojify , penisgayrate , hack , 
+randomcolor , randomnumber , randomcolor**
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+                                      Bot
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+**botinfo**
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+                          __Economy Komande__
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+**balance , buy , flip , daily , shop , slot , topbal , pay , work**
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+                              __Info Komande__
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+**myinfo , userinfo , id  ,profile , avatar , mirror**
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+                                 __Staff Team__
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+**anketa , ban , kick , mute , unmute , poll , purge , 
+resetwarns , unban , vote , warn , warns**
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+                                   __Vlasnik Team__
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+**addbalance , addrole, new , await , channelinfo , channelsinfo ,
+role , dm , dmall , embed , jokemsgs, msgsleaderboard , questions
+, reload , role, roles , setStatus , setlevel , setxp , sql ,
+xpdelete**
+**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
+
+         
+`)
         message.channel.send(`Pogledaj tvoj dm ${message.author.username}!`)
     fs.writeFile('./help.html', helpCmd, (err) => {
  if(err) console.error(err)
