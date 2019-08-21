@@ -16,7 +16,7 @@ app.get("/about", (req, res) => {
 })
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
+  http.get(`http://${process.env.PROJECT_DOMAIN}.bot.help/`);
 }, 280000);
 
 
@@ -85,48 +85,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
    
     if(cmd === `${prefix}help`) {
       if(!args[0])  {
-        message.author.send(`
-           ***Komande***
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-                              Member Komande
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-afk , back , lvllb , members , mirror , question
-serverinfo , suggest , ticket new , 
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-                              Funny Komande
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-8ball , avatar , cat , dog , emojify , penis
-gayrate , hack , randomcolor , randomnumber , 
-randomcolor , 
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-                                 Bot
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-botinfo
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-                              Economy Komande
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-balance , buy , flip , daily , shop , slot , topbal , pay , work
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-              Info Komande
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-myinfo , userinfo , id  ,profile , avatar , mirror
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-                            Staff Team
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-anketa , ban , kick , mute , unmute , poll
-purge , resetwarns , unban , vote , warn ,warns ,
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-                                 Vlasnik Team
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-addbalance , addrole, new , await , channelinfo , channelsinfo , role , dm , dmall 
-, embed , joke
-msgs, msgsleaderboard , questions , reload , role
-, roles , setStatus , setlevel , setxp , sql ,
-xpdelete
-**<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-
-         
-`)
+        message.author.send(`http://${process.env.PROJECT_DOMAIN}.bot.help/       `)
         message.channel.send(`Pogledaj tvoj dm ${message.author.username}!`)
     fs.writeFile('./help.html', helpCmd, (err) => {
  if(err) console.error(err)
