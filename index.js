@@ -87,80 +87,38 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
       if(!args[0])  {
         message.author.send(`
            ***Komande***
-========================
-Staff Komande
-========================
-ban
-kick
-dm
-id
-poll
-vote
-purge
-rename
-warn
-setbalance
-wans
-xpdelete
-setxp
-setlevel
-anketa
-unban
-========================
-Member Komande
-========================
-report
-afk
-suggest
-ticket open
-ticket close
-profile
-serverinfo
-myinfo
-userinfo
-========================
-Fun Komande
-========================
-8ball
-cat
-dog
-emojify
-ascii
-avatar
-hack
-iq
-mirror
-========================
-Economy Komande
-========================
-buy
-shop
-work
-daily
-flip
-slot
-baltop
-payb
-========================
-Random Komande
-========================
-randomcolor
-randomemoji
-randomnumber
-========================
-Vlasnik Komande
-========================
-addrole
-obavjest
-await
-channelinfo
-channels
-delrole
-roll
-role
-roles
-say
-update
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+                 Member Komande
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+afk , back ,
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+                 Funny Komande
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+8ball , ascii , avatar , cat , dog , 
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+                   Bot
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+                  Economy Komande
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+balance , buy , flip , daily , 
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+              Info Komande
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+                Staff Team
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+anketa , ban 
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+                 Vlasnik Team
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+addbalance , addrole, new , await , channelinfo ,
+channelsinfo , role , dm , dmall , embed
+<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>
+
+         
 `)
         message.channel.send(`Pogledaj tvoj dm ${message.author.username}!`)
     fs.writeFile('./help.html', helpCmd, (err) => {
