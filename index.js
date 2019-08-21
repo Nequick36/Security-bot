@@ -88,39 +88,39 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
         message.author.send(`
            ***Komande***
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-                                __Member Komande__
+                                **__Member Komande__**
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-**afk , back , lvllb , members , mirror , questionserverinfo , 
-suggest , ticket new**
+afk , back , lvllb , members , mirror , questionserverinfo , 
+suggest , ticket new
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-                              Funny Komande
+                              **__Funny Komande__**
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-**8ball , avatar , cat , dog , emojify , penisgayrate , hack , 
-randomcolor , randomnumber , randomcolor**
+8ball , avatar , cat , dog , emojify , penisgayrate , hack , 
+randomcolor , randomnumber , randomcolor
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-                                      Bot
+                                      **__Bot__**
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-**botinfo**
+botinfo
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-                          __Economy Komande__
+                          **__Economy Komande__**
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-**balance , buy , flip , daily , shop , slot , topbal , pay , work**
+balance , buy , flip , daily , shop , slot , topbal , pay , work
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
                               __Info Komande__
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-**myinfo , userinfo , id  ,profile , avatar , mirror**
+myinfo , userinfo , id  ,profile , avatar , mirror
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-                                 __Staff Team__
+                                 **__Staff Team__**
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-**anketa , ban , kick , mute , unmute , poll , purge , 
-resetwarns , unban , vote , warn , warns**
+anketa , ban , kick , mute , unmute , poll , purge , 
+resetwarns , unban , vote , warn , warns
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-                                   __Vlasnik Team__
+                                   **__Vlasnik Team__**
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-**addbalance , addrole, new , await , channelinfo , channelsinfo ,
+addbalance , addrole, new , await , channelinfo , channelsinfo ,
 role , dm , dmall , embed , jokemsgs, msgsleaderboard , questions
 , reload , role, roles , setStatus , setlevel , setxp , sql ,
-xpdelete**
+xpdelete
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
 
          
