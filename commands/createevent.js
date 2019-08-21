@@ -5,15 +5,15 @@ module.exports.run = async (bot, message, args) => {
   let ticketChannel = message.guild.channels.find(c => c.name === `ticket-${message.author.username}`)
   if(!args[0]) {
     message.channel.send(`Ticket help:
-!ticket new - Makes new ticket
-!ticket close - Deletes the ticket`)
+en!event new - Makes new ticket
+en!event close - Deletes the ticket`)
   }
   if(args[0] === `new`) {
     let ticketChannel = message.guild.channels.find(r => r.name === `ticket-${message.author.id}`)
-    if(ticketChannel) return message.channel.send(`You can only have one ticket!`)
+    if(ticketChannel) return message.channel.send(`vec imate event u toku !!`)
         message.guild.createChannel(`Member Event`, 'text').then(channel => {
       channel.setTopic(`Owner: ${message.author.tag}`)
-      channel.send(`Ćao! @here , @${message.author.tag} je napravio novi **EVENT** pratite upute koje vam napisu`)
+      channel.send(`Ćao! @here , ${message.author.tag} je napravio novi **EVENT** pratite upute koje vam napisu!!!`)
       channel.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {
 VIEW_CHANNEL: true,
 SEND_MESSAGES: false,
