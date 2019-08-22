@@ -4,9 +4,9 @@ module.exports.run = async (bot, message, args) => {
   let memberUsername = message.author.username
   let ticketChannel = message.guild.channels.find(c => c.name === `ticket-${message.author.username}`)
   if(!args[0]) {
-    message.channel.send(`Ticket help:
-en!event new - Makes new ticket
-en!event close - Deletes the ticket`)
+    message.channel.send(`Event help:
+en!event new - Makes new event
+en!event close - Deletes the event`)
   }
   if(args[0] === `new`) {
     let ticketChannel = message.guild.channels.find(r => r.name === `ticket-${message.author.id}`)
