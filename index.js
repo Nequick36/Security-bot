@@ -158,7 +158,7 @@ xpdelete
 	});
 }); 
 
-
+   if(cmd === `${prefix}giveaway`) {
 module.exports.run = async (bot, message, args) => {
 
 console.log(`${message.member} ran the "GiveAway" command`);
