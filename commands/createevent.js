@@ -13,7 +13,13 @@ en!event close - Deletes the event`)
     if(ticketChannel) return message.channel.send(`vec imate event u toku !!`)
         message.guild.createChannel(`Member Event`, 'text').then(channel => {
       channel.setTopic(`Owner: ${message.author.tag}`)
-      channel.send(`Ćao! @here , ${message.author.tag} je napravio novi **EVENT** pratite upute koje vam napisu!!!`)
+      channel.send(`
+Ćao! @here , ${message.author.tag} je napravio novi **EVENT** pratite upute koje vam napisu!!!
+**PRAVILA EVENTA**
+Zabranjeno Psovanje (**Warn i Mute 15min**)
+Zabranjeno Vredjanje (**Warn i Mute 15min**)
+Zabranjeno Upadanje u Sred eventa (**Warn i Mute 15min**)
+`)
       channel.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {
 VIEW_CHANNEL: true,
 SEND_MESSAGES: false,
