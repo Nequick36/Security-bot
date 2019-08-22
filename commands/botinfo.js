@@ -4,11 +4,10 @@ exports.run = async (bot,message,args) => {
      .setColor('#00FF2A')
   
   .setTitle("Bot Informacije")
-  .addField("﹝:skull:﹞Ime Bota", "ExtremeCommunity#0316")
-  .addField(":crown:﹞Bot developer", "⚡ Veka ⚡")
-  .addField("﹝:name_badge:﹞Originalni server", "https://discord.gg/AtzVUXF")
-  .addField("﹝:biohazard:﹞Bot invite", "Private bot!")
-  .addField("﹝:pencil2:﹞Bot Napravljen", "5.7.2019")
+  .addField("Created By", "This bot created by: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740")
+  .addField("Made With", "[Discord.JS](http://discord.js.org)")
+  .addField("Contant Me", "**__⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740__**")
+  .addField("So")
   .setThumbnail(`https://cdn.discordapp.com/attachments/597170622212079646/600627995069382656/ExtremeNetwork.jpg`)
   .setTimestamp() 
 	.setFooter(`${message.guild.name} Bot`, 'https://cdn.discordapp.com/attachments/597170622212079646/600627995069382656/ExtremeNetwork.jpg');
