@@ -24,11 +24,6 @@ VIEW_CHANNEL: true,
 SEND_MESSAGES: false,
 READ_MESSAGE_HISTORY: true
 })
-channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Botovi'), {
-VIEW_CHANNEL: true,
-SEND_MESSAGES: true,
-READ_MESSAGE_HISTORY: true
-})
 channel.overwritePermissions(message.author, {
 VIEW_CHANNEL: true,
 SEND_MESSAGES: true,
