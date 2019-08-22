@@ -95,7 +95,7 @@ suggest , ticket new
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
                               **__Funny Komande__**
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-8ball , avatar , cat , dog , emojify , penisgayrate , hack , 
+8ball , avatar , cat , dog , emojify , penis , gayrate , hack , 
 randomcolor , randomnumber , randomcolor
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
                                       **__Bot__**

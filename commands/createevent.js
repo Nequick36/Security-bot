@@ -17,9 +17,12 @@ en!event close - Deletes the ticket`)
       channel.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {
 VIEW_CHANNEL: true,
 SEND_MESSAGES: false,
+READ_MESSAGE_HISTORY: true      
+})
+channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Fail'), {
+VIEW_CHANNEL: true,
+SEND_MESSAGES: false,
 READ_MESSAGE_HISTORY: true
-        
-        
 })
 channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Botovi'), {
 VIEW_CHANNEL: true,
