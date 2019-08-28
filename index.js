@@ -158,6 +158,14 @@ xpdelete
 	});
 }); 
       
+bot.on("message", message => {
+    if(message.channel.type === "en!spam") return;
+   if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send(`Ta komanda ne postoji ukucaj en!help da vidis listu komandi`)
+    message.channel.send("Spam @here @everyone")
+});
+
+  
+
 
 const { Client, Attachment } = require('discord.js');
 
