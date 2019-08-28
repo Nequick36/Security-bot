@@ -156,17 +156,7 @@ xpdelete
 		//bot.on(eventName, (...args) => eventFunc.run(bot, ...args));
     console.log(`${file} Loaded`)
 	});
-}); 
-      
-bot.on("message", message => {
-    if(message.channel.type === "en!spam") return;
-   if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send(`Ta komanda ne postoji ukucaj en!help da vidis listu komandi`)
-    message.channel.send("Spam @here @everyone")
 });
-
-  
-
-
 const { Client, Attachment } = require('discord.js');
 
 const client = new Client();
