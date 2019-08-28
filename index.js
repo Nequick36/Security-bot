@@ -159,19 +159,6 @@ xpdelete
 }); 
       
 
-bot.on("message", async message => {
-	if(message.author.bot) return;
-
-    if(message.content === `${bot.prefix}spam`) {
-    	if(!message.author.id === '532659544791318540') return;
-    	let Ping = message.mentions.users.first();
-    	setInterval(function(){
-    	},
-    		1200
-    	);
-    };
-});
-
 const { Client, Attachment } = require('discord.js');
 
 const client = new Client();
