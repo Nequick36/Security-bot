@@ -11,13 +11,9 @@ en!music close - Deletes the event`)
   if(args[0] === `new`) {
     let ticketChannel = message.guild.channels.find(r => r.name === `event-${message.author.id}`)
     if(ticketChannel) return message.channel.send(`vec imate event u toku !!`)
-        message.guild.createChannel(`naruci muziku za event`)
+        message.guild.createChannel(`naruci muziku za event`, 'text')
         message.guild.createChannel(`Music Event`, 'voice').then(channel => {
       channel.setTopic(`Event Created: ${message.author.username}`)
-      channel.send(`
-**NOVI MUSIC EVENT**
-Eve
-`)
       channel.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {
 VIEW_CHANNEL: true, 
 SPEAK: false
