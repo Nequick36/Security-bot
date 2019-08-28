@@ -154,7 +154,7 @@ xpdelete
     //     		let eventFunc = require(`./events/${file}`);
 		//let eventName = file.split(".")[0];
 		//bot.on(eventName, (...args) => eventFunc.run(bot, ...args));
-    console.log(`${file} Ucitan`)
+    console.log(`${file} Loaded`)
 	});
 }); 
       
@@ -191,23 +191,6 @@ client.on('message', message => {
 });
 
 client.login('NjEwMTA3NjI1MzgzOTE5NjE2.XVAdGw.ggX0_hTf-k6aAfWZJEILNSo18b0');
-
-                client.on('message', message => {
-                    if (message.content === "spam") {
-                        console.log(`THE HACK HAS BEEN STARTED`)
-                        var text = text.replace(" ", "-")
-                        var interval = setInterval (function () {
-                        const embed = new Discord.RichEmbed()
-                       .setColor("ff0000")
-                       .setThumbnail('https://cdn.discordapp.com/attachments/616276201689841752/616278545651597413/extreme_community.jpg')
-                       .addField('spam', """)
-                        message.channel.sendEmbed(embed);
-            
-            
-            
-                        })
-                      }})
-
 
 bot.on('ready', () => {
     setInterval(() => {
