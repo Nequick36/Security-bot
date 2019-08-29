@@ -158,16 +158,6 @@ xpdelete
 	});
 });
 
-bot.once('ready', () => {
- console.log('Ready!');
-});
-bot.once('reconnecting', () => {
- console.log('Reconnecting!');
-});
-bot.once('disconnect', () => {
- console.log('Disconnect!');
-});
-
 bot.on("guildMemberAdd", member => {
     let guild = member.guild;
     guild.defaultChannel.sendMessage(`DobroDosli ${member.user} na nas discord server **ExtremeCommunity** Zabavi se i procitaj <#578362247273906178>`).catch(console.error);
