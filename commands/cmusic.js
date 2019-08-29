@@ -1,6 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
+    if(!message.member.hasPermission("ADMINISTRATOR")) return message.reply("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**")
   let memberUsername = message.author.username
   let ticketChannel = message.guild.channels.find(c => c.name === `music-event`)
   if(!args[0]) {
