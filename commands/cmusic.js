@@ -2,14 +2,14 @@ const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
   let memberUsername = message.author.username
-  let ticketChannel = message.guild.channels.find(c => c.name === `ticket-${message.author.username}`)
+  let ticketChannel = message.guild.channels.find(c => c.name === `music-event`)
   if(!args[0]) {
     message.channel.send(`Event help:
 en!music new - Makes new event
 en!music close - Deletes the event`)
   }
   if(args[0] === `new`) {
-    let ticketChannel = message.guild.channels.find(r => r.name === `event-${message.author.id}`)
+    let ticketChannel = message.guild.channels.find(r => r.name === `music event`)
     if(ticketChannel) return message.channel.send(`vec imate event u toku !!`)
         message.guild.createChannel(`naruci muziku za event`, 'text')
         message.guild.createChannel(`Music Event`, 'voice').then(channel => {
