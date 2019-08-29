@@ -157,36 +157,12 @@ xpdelete
     console.log(`${file} Loaded`)
 	});
 });
-const { Client, Attachment } = require('discord.js');
 
-const client = new Client();
 
-client.on('ready', () => {
-  console.log('I am ready!');
-});
-
-client.on('message', message => {
-    if (message.content === 'rip') {
-        const attachment = new Attachment('https://i.imgur.com/w3duR07.png');
-        message.channel.send(attachment);
-    }
-});
-
-client.on('message', message => {
-    if (message.content === 'prase') {
-        const attachment = new Attachment('https://cdn.discordapp.com/attachments/608611207410089993/608619957378482186/baka.png');
-        message.channel.send(attachment);
-    }
-});
-
-client.on('message', message => {
-    if (message.content === 'meme') {
-        const attachment = new Attachment('https://cdn.discordapp.com/attachments/590474521425739807/608621282753249311/meme.txt');
-        message.channel.send(attachment);
-    }
-});
-
-client.login('NjEwMTA3NjI1MzgzOTE5NjE2.XVAdGw.ggX0_hTf-k6aAfWZJEILNSo18b0');
+bot.on("guildMemberAdd", member => {
+    let guild = member.guild;
+    guild.defaultChannel.sendMessage(`DobroDosli ${member.user} na nas discord server **ExtremeCommunity** Zabavi se i procitaj <#578362247273906178>`).catch(console.error);
+  });
 
 bot.on('ready', () => {
     setInterval(() => {
