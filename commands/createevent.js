@@ -34,22 +34,6 @@ VIEW_CHANNEL: true,
 SEND_MESSAGES: false,
 READ_MESSAGE_HISTORY: true
 })
-channel.overwritePermissions(message.author, {
-VIEW_CHANNEL: true,
-SEND_MESSAGES: true,
-READ_MESSAGE_HISTORY: true
-})
-channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Staff-Team'), {
-VIEW_CHANNEL: true,
-SEND_MESSAGES: true,
-READ_MESSAGE_HISTORY: true
-})
-channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Pristup'), {
-VIEW_CHANNEL: true,
-SEND_MESSAGES: true,
-READ_MESSAGE_HISTORY: true
-})
-
     })
     message.guild.channels.forEach(channel => {
       if(channel.name.startsWith('ticket')) {
@@ -67,16 +51,13 @@ READ_MESSAGE_HISTORY: true
     })
       }
   else if(args[0] === `close`) {
-    if(message.channel.name.startsWith(`ticket-`)) {
+    if(message.channel.name.startsWith(`member-event`)) {
       message.channel.delete()
     } else {
       message.reply("This channel isn't a ticket!")
     }
   }
 }
-//we should make the help site look more sleek by using vue or soemthing
-
-
 module.exports.help = {
   name: "event",
   aliases: ["Event"],
