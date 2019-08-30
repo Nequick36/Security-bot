@@ -23,7 +23,7 @@ setInterval(() => {
 const Discord = require("discord.js");
 const botconfig = require("./botconfig.json");
 var replaceall = require("replaceall");
-const eco = require("discord-economy")
+const eco = require("discord-economy");
 const fs = require("fs")
 const bot = new Discord.Client()
 bot.commands = new Discord.Collection()
@@ -159,19 +159,7 @@ xpdelete
 });
 
 
- var antispam = require("anti-spam");
- 
-antispam(bot, {
-  warnBuffer: 3, //الحد الأقصى المسموح به من الرسائل لإرسالها في الفاصل الزمني قبل الحصول على تحذير.
-  maxBuffer: 5, // الحد الأقصى المسموح به من الرسائل لإرسالها في الفاصل الزمني قبل الحصول على ميوت.
-  interval: 1000, // مقدار الوقت قبل حصول باند
-  warningMessage: "Stop Spamming!", // رسالة تحذير اذا سوا سبام!
-  roleMessage: "Muted!!", // الرسالة الي تجي اذا شخص اخذ ميوت
-  roleName: "Extreme | Muted", // اسم رتبة الميوت
-  maxDuplicatesWarning: 7, // عدد الرسايل الي قبل التحذيرات
-  maxDuplicatesBan: 10, // عدد الرسايل الي يقدر المستخدم يرسلها قبل الميوت
-  time: 10, // عدد الوقت الي يجلس لين تسحب رتبة الميوت من الشخص الحسبة برمجية وليست كتابية 
-});
+
 
 
 bot.on('ready', () => {
