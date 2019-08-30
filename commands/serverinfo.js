@@ -30,7 +30,7 @@ module.exports.run = async (bot, message, args) => {
               .addField("Broj Kategorija", categoryCount)
               .addField("Broj Textualnih Kanala", TextchanNum)
               .addField("Broj Voice Kanala", VoiceChanNum)
-              .addField("Borj online Membera", onlineNum)
+              .addField("Broj Online Membera", onlineNum)
               .addField("Server Napravljen", creation)
         message.channel.sendEmbed(serverInfo)
         console.log(owner);
