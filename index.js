@@ -159,6 +159,13 @@ xpdelete
 });
 
 
+const discord = require('discord.js');
+const client = new Discord.Client();
+const token = require('./botconfig.json').token;
+bot.on('ready', () => {
+  console.log('I am ready!');
+});
+
 
 
 
