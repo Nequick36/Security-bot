@@ -158,10 +158,9 @@ xpdelete
 	});
 });
 
-bot.on("guildMemberAdd", member => {
-    let guild = member.guild;
-    guild.defaultChannel.sendMessage(`DobroDosli ${member.user} na nas discord server **ExtremeCommunity** Zabavi se i procitaj <#578362247273906178>`).catch(console.error);
-  });
+
+ 
+
 
 bot.on('ready', () => {
     setInterval(() => {
