@@ -2,6 +2,7 @@ const Discord = require("discord.js")
 const eco = require("discord-economy")
 
 module.exports.run = async (bot, message, args) => {
+      if(!message.member.hasPermission("ADMINISTRATOR")) return message.reply("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**")
   let amount = message.content.split(" ").slice(2).join(" ");
         if (!message.member.hasPermission("ADMINISTRATOR"))
         {
