@@ -90,7 +90,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
                                 **__Member Komande__**
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
-afk , back , lvllb , members , mirror , questionserverinfo , 
+afk , back , lvllb , members , mirror , question , serverinfo , 
 suggest , ticket new
 **<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>~<~>**
                               **__Funny Komande__**
