@@ -6,7 +6,7 @@ module.exports.run = async (bot, message, args) => {
   if(!message.member.hasPermission("MANAGE_MESSAGES")) return message.reply("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**")
   if(!tomute) return message.reply("Couldn't find user.");
   //if(tomute.hasPermission("MANAGE_MESSAGES")) return message.reply("Can't mute them!");
-  let muterole = message.guild.roles.find(`name`, "Extreme | Mute");
+  let muterole = message.guild.roles.find(`name`, "@everyone");
 
   //start of create role
 
@@ -16,7 +16,7 @@ module.exports.run = async (bot, message, args) => {
 
       muterole = await message.guild.createRole({
 
-        name: "Extreme | Mute",
+        name: "@everyone",
 
         color: "#BBBBBB",
 
