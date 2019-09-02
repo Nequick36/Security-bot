@@ -2,5 +2,5 @@ Discord bot for ExtremeCommuniry server(https://discord.gg/EwbfEmj)
 
 Libary: Discord.js
 Credits:
-Bot hosted on glitch.com
-Bot made by j122 and seth
+Bot made with: Virtual studio code
+Bot made by Veka
