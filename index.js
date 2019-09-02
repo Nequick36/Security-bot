@@ -131,12 +131,12 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 	});
 }); 
 bot.on("guildMemberAdd", function (member) {
-    member.send(`DobroDošli ${member.tag} na naš Discord Server ExtremeCommunity, Zabavite se i pročitajte pravila. Hvala unapred!`)
+    member.send(`DobroDošli ${member.user.tag} na naš Discord Server ExtremeCommunity, Zabavite se i pročitajte pravila. Hvala unapred!`)
     let memberRole = member.guild.roles.find(role => role.name === "Memberi");
     member.addRole(memberRole);
   let guild = member.guild;
   let channel = member.guild.channels.find(channel => channel.name === '「🙋」welcome')//wouldnt it be better w ids?
-    channel.sendMessage(`${member.user} je ušao/la u server`).catch(console.error);
+    channel.sendMessage(`${member.user} je ušao/la u server. Pogledaj poruku od Extreme 1 `).catch(console.error);
 });
 bot.on("guildMemberRemove", function (member) {
      let guild = member.guild;
