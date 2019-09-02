@@ -16,7 +16,7 @@ app.get("/about", (req, res) => {
 })
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`http://${process.env.PROJECT_DOMAIN}.bot.help/`);
+  http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
 }, 280000);
 
 
@@ -30,7 +30,7 @@ bot.commands = new Discord.Collection()
 bot.aliases = new Discord.Collection();
 bot.afk = new Map()
 bot.workCooldown = new Map()
-bot.devs = ['532659544791318540', '560515595213340693']
+bot.devs = ['366234394479951873', '435406608479158273']
 let helpCmd = `Prefix is <b>!</b><br>\nCommands:<br><br>\n\n` 
 fs.readdir("./commands", (err, files) => {
     if(err) console.log(err);
@@ -54,7 +54,7 @@ fs.readdir("./commands", (err, files) => {
       });
   console.log(`Loaded ${jsfile.length} commands!`)
       helpCmd = `${helpCmd}<br>\n
-  <b>Bot napravljen od strane Veke</b>`
+  <b>Bot made by ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740</b>`
 });
 bot.on("message", message => {
     if(message.channel.type === "dm") return;
@@ -63,6 +63,18 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
  if(message.content.toLowerCase().includes("seth is gay")) return message.reply("stfu boi, you do not talk like that about my creator like that")
     if(message.content.toLowerCase().includes("j122 is gay")) return message.reply("psst -> ||dont tell him i told you this but he is gay||")
  if(message.content.toLowerCase().includes("your mom")) return message.reply("Wow, *how orginal*")
+  if(message.content.includes("https://discord.gg/" )) {
+    if(message.channel.name === '「📯」obavjestenja' || message.channel.name === '「🤝」partners' || message.channel.name === '⚫》staff-announcements'|| message.channel.name === '🔸》announcements') return;
+    else message.delete()
+  }
+  if(message.content.includes("https://discordapp.com/invite/")) {
+     if(message.channel.name === '「📯」obavjestenja' || message.channel.name === '「🤝」partners' || message.channel.name === '⚫》staff-announcements') return;
+    else message.delete()
+  }
+  if(message.content.includes("https://is.gd/" )) {
+    if(message.channel.name === '「📯」obavjestenja' || message.channel.name === '「🤝」partners' || message.channel.anme === '⚫》staff-announcements') return;
+    else message.delete()
+  }
 
     let prefix = botconfig.prefix;
     let messageArray = message.content.split(" ")
@@ -75,20 +87,18 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
   // let NeededRole = message.guild.roles.find(r => r.name === commandfile.help.role)
   // if(!NeededRole) {}
   // if(NeededRole === '' && NeededPerm === '') {}
-  // if(NeededRole && NeededPerm !== '') if(!message.member.roles.has(NeededRole.id) || !message.member.hasPermission(NeededPerm)) return message.channel.send(`?? **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. ??**"`)
-  // if(NeededPerm !== '' && !NeededRole) if(!message.member.hasPermission(NeededPerm)) return message.channel.send(`?? **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. ??**"`)
+  // if(NeededRole && NeededPerm !== '') if(!message.member.roles.has(NeededRole.id) || !message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
+  // if(NeededPerm !== '' && !NeededRole) if(!message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
     if(commandfile) commandfile.run(bot, message, args) //can you go thru files and add needed perms or roles they are blank but add like MANAGE_MESSAGES
     else { //ok wait is there roles and perms //i need to go now
       if(cmd.slice(prefix.length) === 'help') {}
-      else message.channel.send(`Ta komanda ne postoji ukucaj en!help da vidis listu komandi`)
+      else message.channel.send(`Can't find that command! Please use !help`)
       }
    
     if(cmd === `${prefix}help`) {
       if(!args[0])  {
-        message.author.send(`
-${message.channel.send.f}         
-`)
-        message.channel.send(`Pogledaj tvoj dm ${message.author.username}!`)
+        message.author.send(`https://gamehubbot.glitch.me/help`)
+        message.channel.send(`${message.author.tag} Pogledajte svoj DM!`)
     fs.writeFile('./help.html', helpCmd, (err) => {
  if(err) console.error(err)
 })
@@ -114,36 +124,35 @@ ${message.channel.send.f}
 	if (err) console.log(err);
    let jsfiles = files.filter(f => f.split(".").pop() === "js")
 	jsfiles.forEach(file => {
-    //     		let eventFunc = require(`./events/${file}`);
-		//let eventName = file.split(".")[0];
-		//bot.on(eventName, (...args) => eventFunc.run(bot, ...args));
-    console.log(`${file} Loaded`)
+		let eventFunc = require(`./events/${file}`);
+		let eventName = file.split(".")[0];
+		bot.on(eventName, (...args) => eventFunc.run(bot, ...args));
+    console.log(`${file} loaded!`)
 	});
+}); 
+bot.on("guildMemberAdd", function (member) {
+    member.send(`DobroDošli ${member.tag} na naš Discord Server ExtremeCommunity, Zabavite se i pročitajte pravila. Hvala unapred!`)
+    let memberRole = member.guild.roles.find(role => role.name === "Memberi");
+    member.addRole(memberRole);
+  let guild = member.guild;
+  let channel = member.guild.channels.find(channel => channel.name === '「🙋」welcome')//wouldnt it be better w ids?
+    channel.sendMessage(`${member.user} je ušao/la u server`).catch(console.error);
 });
-
-
-const discord = require('discord.js');
-const client = new Discord.Client();
-const token = require('./botconfig.json').token;
+bot.on("guildMemberRemove", function (member) {
+     let guild = member.guild;
+  let channel = member.guild.channels.find(channel => channel.name === '「😢」leaves')
+     channel.sendMessage(`${member.user.tag} je izašao sa servera.`).catch(console.error);
+});
 bot.on('ready', () => {
-  console.log('I am ready!');
+    console.log(`${bot.user.username} is online!`)
+
+    bot.user.setStatus('available')
+    bot.user.setPresence({
+        game: {
+            name: 'Welcome to Server!',
+            type: "WATCHING",
+        }
+    })
 });
-
-
-
-
-bot.on('ready', () => {
-    setInterval(() => {
-        bot.user.setActivity(`Welcome to Server!`, {type: 'PLAYING'}); 
-    }, 8000);
-});
-
-bot.on('ready', () => {
-    setInterval(() => {
-        bot.user.setActivity(`${bot.users.size} membera`, {type: 'WATCHING'}); 
-    }, 14000);
-});
-
-
 
 bot.login(process.env.TOKEN)
