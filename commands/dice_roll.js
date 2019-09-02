@@ -8,7 +8,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "roll",
   aliases: [],
-  description: "Rolls a six sided dice.",
   perm: "",
   role: "",
   group:"SIMPLE"

@@ -18,7 +18,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "xp",
   aliases: ['level'],
-  description: "Checks your Level and Xp.",
   perm: "",
   role: "",
   group:"Leveling"

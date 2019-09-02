@@ -13,7 +13,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
  name: "mirror",
   aliases: [],
- description: "Gives you your reflection",
   perm: "",
   role: "",
   group: "simple"

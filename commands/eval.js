@@ -26,8 +26,7 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "eval",
   aliases: [],
-  description: "Evals a code.",
   perm: "ADMINISTRATOR",
-  role: "GH Bot Developer",
+  role: "*",
   group:"Developer"
 }

@@ -74,7 +74,6 @@ SPEAK: true
 module.exports.help = {
   name: "music",
   aliases: ["Music"],
-  description: "Makes a ticket for help/application",
   perm: "Administrator",
   role: "*",
   group:"Owner"

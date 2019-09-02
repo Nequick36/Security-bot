@@ -129,7 +129,6 @@ if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry bu
 module.exports.help = {
     name: "buy",
   aliases: ['Buy'],
-   description: "Buys an item from the shop.",
   perm: "",
   role: "",
   group:"Economy"

@@ -50,7 +50,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "lb",
   aliases: ['leaderboard', 'topbal', 'baltop'],
-  description: "Shows the leaderboard of economy system.",
   perm: "",
   role: "",
   group:"Economy"

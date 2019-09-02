@@ -13,7 +13,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "roles",
   aliases: [],
-  description: "Shows all roles.",
   perm: "",
   role: "*",
   group:"Admin"

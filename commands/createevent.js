@@ -68,7 +68,6 @@ READ_MESSAGE_HISTORY: true
 module.exports.help = {
   name: "event",
   aliases: ["Event"],
-  description: "Makes a ticket for help/application",
   perm: "Administrator",
   role: "*",
   group:"Staff/Admin"

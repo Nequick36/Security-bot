@@ -22,7 +22,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "removebalance",
   aliases: ["removebal"],
-  description:"It will set a users balance.",
   perm: "",
   role: "*",
   group: "economy"

@@ -51,7 +51,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "levelleaderboard",
   aliases: ['lvlleaderboard', 'lvllb', 'levellb', 'xpleaderboard', 'xplb', 'xplb'],
-  description: "Shows the leaderboard of xp system.",
   perm: "",
   role: "",
   group:"Leveling"

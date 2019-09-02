@@ -76,7 +76,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "mute",
   aliases: ["Mute"],
-  description: "Mutes a specified user for a specified amount of time.",
   perm: "MANAGE_MESSAGES",
   role: "Pristup",
   group: "Admin"

@@ -16,7 +16,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name:"unmute",
   aliases: ["Unmute"],
-  description:"unmutes a user",
   perm: "MANAGE_MESSAGES",
   role: "Pristup",
   group: "Staff"

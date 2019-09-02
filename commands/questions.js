@@ -22,7 +22,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "questions",
   aliases: [],
-  description: "Shows/Sets questions for staff application",
   perm: "",
   role: "Pristup",
   group:"Staff"

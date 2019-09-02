@@ -31,7 +31,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "shorturl",
   aliases: ['shortlink'],
-  description: "shortens URL",
   perm: "",
   role: "",
   group:"Simple"

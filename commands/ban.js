@@ -46,7 +46,6 @@ let role = message.guild.roles.find(r => r.name === 'Pristup')
 module.exports.help = {
   name: "ban",
   aliases: ["Ban"],
-  description: "Bans a user for obvious reasons.",
   perm: "MANAGE_MESSAGE",
   role: "Pristup",
   group: "Staff"

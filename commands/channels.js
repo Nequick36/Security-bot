@@ -11,7 +11,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "channels",
   aliases: [],
-  description: "Shows all channels.",
   perm: "",
   role: "",
   group:"Simple"

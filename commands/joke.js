@@ -36,7 +36,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "joke",
   aliases: [],
-  description:"tells jokes",
   perm: "",
   role: "",
   group: "simple"

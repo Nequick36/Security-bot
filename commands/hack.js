@@ -40,7 +40,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "hack",
   aliases: [],
-  description: "Hacks someone",
   perm: "",
   role: "",
   group: "Simple"

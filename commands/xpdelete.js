@@ -19,7 +19,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "xpdelete",
   aliases: ['lvldelete', 'leveldelete'],
-  description: "Deletes an user from database.",
   perm: "",
   role: "",
   group:"Leveling"

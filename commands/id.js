@@ -11,7 +11,6 @@ message.delete();
 module.exports.help = {
   name: "id",
   aliases: ['Id'],
-  description: "Shows the leaderboard of xp system.",
   perm: "",
   role: "",
   group:"Simple"

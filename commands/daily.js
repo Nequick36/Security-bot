@@ -20,7 +20,6 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "daily",
   aliases: [],
-  description: "Collects daily money.",
   perm: "",
   role: "",
   group:"Economy"
