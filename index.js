@@ -97,7 +97,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
    
     if(cmd === `${prefix}help`) {
       if(!args[0])  {
-        message.author.send(`https://gamehubbot.glitch.me/help`)
+        message.author.send(`https://https://extreme-1.glitch.me/help`)
         message.channel.send(`${message.author.tag} Pogledajte svoj DM!`)
     fs.writeFile('./help.html', helpCmd, (err) => {
  if(err) console.error(err)

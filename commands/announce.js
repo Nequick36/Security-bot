@@ -19,5 +19,5 @@ module.exports.run = async (bot, message, args) => {
 }    
 module.exports.help = {
 name: "obavjest",
-aliases: ["Obavjest", "New", "new"]
+aliases: ["Obavjest", "New", "new"],
 }

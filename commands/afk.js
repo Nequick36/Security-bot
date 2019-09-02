@@ -24,7 +24,6 @@ message.channel.send({embed:{description:`${message.author.username} je AFK nemo
 module.exports.help = {
   name: "afk",
   aliases: ["Afk"],
-  description: "Makes you AFK.",
   perm: "",
   role: "",
   group:"Simple"

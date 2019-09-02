@@ -24,7 +24,6 @@ message.channel.send({embed:{description:`${message.author.username} je dosao/la
 module.exports.help = {
   name: "back",
   aliases: ["Back"],
-  description: "Makes you AFK.",
   perm: "",
   role: "",
   group:"Simple"
