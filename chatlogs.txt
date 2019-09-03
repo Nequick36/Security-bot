@@ -240,3 +240,16 @@
 [03.09.2019][06:55:55][biljeske-servera] Extreme 1#0316: Vi ste level 28 i imate 53 xp-a!
 [03.09.2019][06:56:18][biljeske-servera] = 《Security》#1536: 
 [03.09.2019][06:56:19][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][06:57:09][biljeske-servera] :zap: Veka ⚡ 《Vlasnik》#7740: <@!532659544791318540>
+[03.09.2019][07:00:25][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!botinfo
+[03.09.2019][07:00:26][biljeske-servera] Extreme 1#0316: 
+[03.09.2019][07:00:26][biljeske-servera] Extreme 1#0316: 
+[03.09.2019][07:02:11][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
+[03.09.2019][07:02:11][biljeske-servera] Extreme 1#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
+[03.09.2019][07:02:12][biljeske-servera] Extreme 1#0316: 
+[03.09.2019][07:06:59][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!await as
+[03.09.2019][07:06:59][biljeske-servera] Extreme 1#0316: <@!532659544791318540>, Waiting!
+[03.09.2019][07:07:00][biljeske-servera] Extreme 1#0316: 
+[03.09.2019][07:07:08][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!await a 5
+[03.09.2019][07:07:08][biljeske-servera] Extreme 1#0316: <@!532659544791318540>, Waiting!
+[03.09.2019][07:07:09][biljeske-servera] Extreme 1#0316: 
