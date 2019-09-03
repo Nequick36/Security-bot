@@ -88,3 +88,37 @@
 [03.09.2019][04:23:34][logs] Extreme 2#8290: 
 [03.09.2019][04:23:34][biljeske-servera] = 《Security》#1536: 
 [03.09.2019][04:23:47][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: lel
+[03.09.2019][04:23:55][「📜」chat] TLVA 《Admin》#2179: uzas
+[03.09.2019][04:28:21][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][04:28:42][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!xp
+[03.09.2019][04:28:42][biljeske-servera] Extreme 1#0316: 
+[03.09.2019][04:28:42][biljeske-servera] Extreme 1#0316: You are level 26 and you have 100 xp!
+[03.09.2019][04:28:54][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!addxp <@!532659544791318540> 135
+[03.09.2019][04:28:54][biljeske-servera] Extreme 1#0316: Can't find that command! Please use !help
+[03.09.2019][04:28:54][biljeske-servera] Extreme 1#0316: 
+[03.09.2019][04:29:08][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!addxp
+[03.09.2019][04:29:08][biljeske-servera] Extreme 1#0316: Can't find that command! Please use !help
+[03.09.2019][04:29:09][biljeske-servera] Extreme 1#0316: 
+[03.09.2019][04:29:14][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!xp
+[03.09.2019][04:29:14][biljeske-servera] Extreme 1#0316: 
+[03.09.2019][04:29:14][biljeske-servera] Extreme 1#0316: You are level 26 and you have 117 xp!
+[03.09.2019][04:35:21][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!lvllb
+[03.09.2019][04:35:21][biljeske-servera] Extreme 1#0316: 
+[03.09.2019][04:35:22][biljeske-servera] Extreme 1#0316: My leaderboard:
+ 
+1 - Joshua#4954 | level 127 | 147 xp
+2 - Seth#7796 | level 123 | 41 xp
+3 - Deleted User 56c54dae#9847 | level 89 | 127 xp
+4 - Karma!#1542 | level 46 | 82 xp
+5 - A retard#2649 | level 43 | 75 xp
+6 - sheg#1726 | level 35 | 162 xp
+7 - AL€X3411#9775 | level 26 | 159 xp
+8 - ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 | level 26 | 121 xp
+9 - Sword#9776 | level 22 | 10 xp
+10 - Halcyon#0002 | level 17 | 193 xp
+[03.09.2019][04:35:55][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!xp
+[03.09.2019][04:35:55][biljeske-servera] Extreme 1#0316: 
+[03.09.2019][04:35:55][biljeske-servera] Extreme 1#0316: Vi ste level 26 i imate 128 xp-a!
+[03.09.2019][04:35:58][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!level
+[03.09.2019][04:35:58][biljeske-servera] Extreme 1#0316: 
+[03.09.2019][04:35:59][biljeske-servera] Extreme 1#0316: Vi ste level 26 i imate 132 xp-a!

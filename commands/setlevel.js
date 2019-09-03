@@ -6,14 +6,14 @@ module.exports.run = async (bot, message, args) => {
   let amount = args[1]
   
   dl.SetLevel(user.id, parseInt(amount)).then(l => {
-    message.channel.send(`${user.user.tag} is now level ${l.level}!`)
+    message.channel.send(`${user.user.tag} je sada level ${l.level}!`)
   })
 }
 
 module.exports.help = {
   name: "setlevel",
   aliases: ['setlvl'],
-  perm: "Administrator",
+  perm: "Developer",
   role: "*",
   group:"Leveling"
 }

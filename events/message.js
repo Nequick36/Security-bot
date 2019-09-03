@@ -9,10 +9,10 @@ exports.run = async (bot, message) => {
   let cmd = messageArray[0]
   let args = messageArray.slice(1);
   let logChannel = message.guild.channels.find(c => c.name === 'biljeske-servera')
-  if(message.content.startsWith('!')) logChannel.send({embed:{description: `${message.author.tag} used command ${message.content} in channel ${message.channel.name}.`, color: 0xff0000}})
+  if(message.content.startsWith('en!')) logChannel.send({embed:{description: `${message.author.tag} je iskoristio komandu ${message.content} u kanalu ${message.channel.name}.`, color: 0xff0000}})
   if(message.mentions.roles.size >= 2) {
      message.delete() //what are you doing 
-    message.reply("Don't mention roles more than once please")
+    message.reply("Nemojte tagati vise od 2 rola!")
   }
   
   
@@ -47,14 +47,15 @@ exports.run = async (bot, message) => {
  
   let profile = await dl.Fetch(userID)
   
-  if(profile.xp >= 200) {
+  if(profile.xp >= 235) {
       dl.SetXp(userID, 1).then()//oh
       dl.AddLevel(userID, 1).then()
-      message.channel.send(`${message.author} just leveled up to level ${profile.level + 1}!`)
+      message.channel.name("「📈」level-up")
+      message.channel.send(`${message.author} se level-upo na level ${profile.level + 1}!`)
   }
   
   //console in channel
-  if(message.channel.id === '602090584924094470' && !message.author.bot) {
+  if(message.channel.id === '590474521425739807' && !message.author.bot) {
     if(!developers.includes(message.author.id)) return
     if(message.content.startsWith('//')) return
     function clean(text) {
@@ -82,7 +83,7 @@ if(bot.afk.has(message.author.id)) {
     options.justafk = false
     bot.afk.set(message.author.id, options)
   } else {
-  message.reply(`You are no longer afk!`)
+  message.reply(`${message.author.tag}je dosao nazad!`)
   bot.afk.delete(message.author.id)
   if(message.member.nickname) {
     if(message.member.nickname.includes('[AFK] ')) {
