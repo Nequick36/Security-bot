@@ -122,3 +122,26 @@
 [03.09.2019][04:35:58][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!level
 [03.09.2019][04:35:58][biljeske-servera] Extreme 1#0316: 
 [03.09.2019][04:35:59][biljeske-servera] Extreme 1#0316: Vi ste level 26 i imate 132 xp-a!
+[03.09.2019][05:04:20][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][05:04:44][「📜」chat] Joka 《JMP》#5280: sta je koji racku
+[03.09.2019][05:05:00][「📜」chat] Joka 《JMP》#5280: Peugeot VivaCity
+[03.09.2019][05:05:06][「」narucivanje-muzike] Dejann#5633: !p ni jedna nije kao ti
+[03.09.2019][05:05:06][「」narucivanje-muzike] Extreme 2#8290: Can't find that command! Please use !help
+[03.09.2019][05:05:06][biljeske-servera] Extreme 2#8290: 
+[03.09.2019][05:05:06][「」narucivanje-muzike] ! 《Muzika》#3722: <:youtube:335112740957978625> **Searching** 🔎 `ni jedna nije kao ti`
+[03.09.2019][05:05:07][「」narucivanje-muzike] ! 《Muzika》#3722: 
+[03.09.2019][05:05:07][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][05:05:07][「」narucivanje-muzike] ! 《Muzika》#3722: 
+[03.09.2019][05:05:43][「」narucivanje-muzike] Dejann#5633: !leave
+[03.09.2019][05:05:43][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][05:05:43][「」narucivanje-muzike] Extreme 2#8290: Can't find that command! Please use !help
+[03.09.2019][05:05:44][「」narucivanje-muzike] ! 《Muzika》#3722: 📭 **Successfully disconnected**
+[03.09.2019][05:05:56][「」narucivanje-muzike] Dejann#5633: >p ni jedna nije kao ti
+[03.09.2019][05:05:57][「」narucivanje-muzike] > 《Muzika》#2000: <:youtube:335112740957978625> **Searching** 🔎 `ni jedna nije kao ti`
+[03.09.2019][05:05:57][「」narucivanje-muzike] > 《Muzika》#2000: 
+[03.09.2019][05:05:57][「」narucivanje-muzike] > 《Muzika》#2000: **Playing** 🎶 `Aco Pejovic - Nijedna nije kao ti - (Audio 2006)` - Now!
+[03.09.2019][05:05:58][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][05:08:00][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][05:09:15][「」narucivanje-muzike] Joka 《JMP》#5280: >leave
+[03.09.2019][05:09:15][「」narucivanje-muzike] > 《Muzika》#2000: 📭 **Successfully disconnected**
+[03.09.2019][05:09:15][biljeske-servera] = 《Security》#1536: 
