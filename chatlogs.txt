@@ -180,3 +180,6 @@
 [03.09.2019][06:06:06][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!fdg
 [03.09.2019][06:06:06][biljeske-servera] Extreme 1#0316: Can't find that command! Please use !help
 [03.09.2019][06:06:06][biljeske-servera] Extreme 1#0316: 
+[03.09.2019][06:13:44][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
+[03.09.2019][06:13:44][biljeske-servera] Extreme 1#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
+[03.09.2019][06:13:45][biljeske-servera] Extreme 1#0316: 
