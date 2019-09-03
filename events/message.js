@@ -50,7 +50,6 @@ exports.run = async (bot, message) => {
   if(profile.xp >= 235) {
       dl.SetXp(userID, 1).then()//oh
       dl.AddLevel(userID, 1).then()
-      message.channel.name("「📈」level-up")
       message.channel.send(`${message.author} se level-upo na level ${profile.level + 1}!`)
   }
   
