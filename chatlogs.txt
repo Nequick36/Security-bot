@@ -253,3 +253,8 @@
 [03.09.2019][07:07:08][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!await a 5
 [03.09.2019][07:07:08][biljeske-servera] Extreme 1#0316: <@!532659544791318540>, Waiting!
 [03.09.2019][07:07:09][biljeske-servera] Extreme 1#0316: 
+[03.09.2019][07:12:05][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][07:12:05][「🙋」welcome] Extreme 1#0316: <@576096697793642516> je ušao/la u server. Pogledaj poruku od Extreme 1
+[03.09.2019][07:12:06][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][07:12:06][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][07:12:20][biljeske-servera] = 《Security》#1536: 

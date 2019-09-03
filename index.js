@@ -97,11 +97,12 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
    
     if(cmd === `${prefix}help`) {
       if(!args[0])  {
-        message.author.send(`https://extreme-1-official/help`)
+        message.author.send(`https://extreme-1-official.glich.me/help`)
         message.channel.send(`${message.author.tag} Pogledajte svoj DM!`)
     fs.writeFile('./help.html', helpCmd, (err) => {
  if(err) console.error(err)
 })
+
         return;
       }
       let command = bot.commands.get(args[0]) || bot.commands.get(bot.aliases.get(args[0]));
@@ -130,6 +131,15 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     console.log(`${file} Loaded!`)
 	});
 }); 
+
+    if(cmd === `${prefix}help`) {
+      if(!args[0])  {
+        message.author.send(`https://extreme-1-official.glich.me/help`)
+        message.channel.send(`${message.author.tag} Pogledajte svoj DM!`)
+    fs.writeFile('./aaa.html', helpCmd, (err) => {
+ if(err) console.error(err)
+})
+
 bot.on("guildMemberAdd", function (member) {
     member.send(`DobroDošli ${member.user.tag} na naš Discord Server ExtremeCommunity, Zabavite se i pročitajte pravila. Hvala unapred!`)
     let memberRole = member.guild.roles.find(role => role.name === "Memberi");
