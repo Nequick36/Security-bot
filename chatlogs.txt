@@ -145,3 +145,7 @@
 [03.09.2019][05:09:15][「」narucivanje-muzike] Joka 《JMP》#5280: >leave
 [03.09.2019][05:09:15][「」narucivanje-muzike] > 《Muzika》#2000: 📭 **Successfully disconnected**
 [03.09.2019][05:09:15][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][05:26:50][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][05:26:50][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][05:26:53][biljeske-servera] = 《Security》#1536: 
+[03.09.2019][05:26:54][biljeske-servera] = 《Security》#1536: 
