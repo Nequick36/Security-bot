@@ -14,6 +14,10 @@ app.get("/help", (req, res) => {
 app.get("/about", (req, res) => {
   res.sendFile(__dirname + '/about.txt')
 })
+
+app.get("/web", (req, res) => {
+  res.sendFile(__dirname + '/web.txt')
+})
 app.listen(process.env.PORT);
 setInterval(() => {
   http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
@@ -50,6 +54,7 @@ fs.readdir("./commands", (err, files) => {
          bot.aliases.set(alias, props.help.name);
 
      });
+
 
       });
   console.log(`Loaded ${jsfile.length} commands!`)
@@ -101,7 +106,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
         message.channel.send(`${message.author.tag} Pogledajte svoj DM!`)
     fs.writeFile('./help.html', helpCmd, (err) => {
  if(err) console.error(err)
-})
+});
 
         return;
       }
@@ -131,7 +136,6 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     console.log(`${file} Loaded!`)
 	});
 }); 
-
 bot.on("guildMemberAdd", function (member) {
     member.send(`DobroDošli ${member.user.tag} na naš Discord Server ExtremeCommunity, Zabavite se i pročitajte pravila. Hvala unapred!`)
     let memberRole = member.guild.roles.find(role => role.name === "Memberi");
@@ -140,6 +144,7 @@ bot.on("guildMemberAdd", function (member) {
   let channel = member.guild.channels.find(channel => channel.name === '「🙋」welcome')//wouldnt it be better w ids?
     channel.sendMessage(`${member.user} je ušao/la u server. Pogledaj poruku od Extreme 1 `).catch(console.error);
 });
+
 bot.on("guildMemberRemove", function (member) {
      let guild = member.guild;
   let channel = member.guild.channels.find(channel => channel.name === '「😢」leaves')
