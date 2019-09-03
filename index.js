@@ -45,7 +45,7 @@ fs.readdir("./commands", (err, files) => {
          bot.commands.set(props.help.name, props)
       
       if(props.help.description) helpCmd = `${helpCmd}<b>${props.help.name}</b>: ${props.help.description}<br>\n`
-      else helpCmd = `${helpCmd}<b>${props.help.name}</b>: No description added.<br>\n`
+      else helpCmd = `${helpCmd}<b>${props.help.name}</b>,<br>\n`
            props.help.aliases.forEach(alias => {
          bot.aliases.set(alias, props.help.name);
 
@@ -131,14 +131,6 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     console.log(`${file} Loaded!`)
 	});
 }); 
-
-    if(cmd === `${prefix}help`) {
-      if(!args[0])  {
-        message.author.send(`https://extreme-1-official.glich.me/help`)
-        message.channel.send(`${message.author.tag} Pogledajte svoj DM!`)
-    fs.writeFile('./aaa.html', helpCmd, (err) => {
- if(err) console.error(err)
-})
 
 bot.on("guildMemberAdd", function (member) {
     member.send(`DobroDošli ${member.user.tag} na naš Discord Server ExtremeCommunity, Zabavite se i pročitajte pravila. Hvala unapred!`)
