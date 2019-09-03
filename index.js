@@ -92,12 +92,12 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     if(commandfile) commandfile.run(bot, message, args) //can you go thru files and add needed perms or roles they are blank but add like MANAGE_MESSAGES
     else { //ok wait is there roles and perms //i need to go now
       if(cmd.slice(prefix.length) === 'help') {}
-      else message.channel.send(`Can't find that command! Please use !help`)
+      else message.channel.send(`Ta komanda ne postoji ukucajte en!help da vidite listu komandi`)
       }
    
     if(cmd === `${prefix}help`) {
       if(!args[0])  {
-        message.author.send(`https://https://extreme-1.glitch.me/help`)
+        message.author.send(`https://extreme-1.glitch.me/help`)
         message.channel.send(`${message.author.tag} Pogledajte svoj DM!`)
     fs.writeFile('./help.html', helpCmd, (err) => {
  if(err) console.error(err)
@@ -127,7 +127,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 		let eventFunc = require(`./events/${file}`);
 		let eventName = file.split(".")[0];
 		bot.on(eventName, (...args) => eventFunc.run(bot, ...args));
-    console.log(`${file} loaded!`)
+    console.log(`${file} Loaded!`)
 	});
 }); 
 bot.on("guildMemberAdd", function (member) {
