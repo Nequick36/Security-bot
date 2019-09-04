@@ -55,7 +55,8 @@ fs.readdir("./commands", (err, files) => {
       });
   console.log(`Loaded ${jsfile.length} commands!`)
       helpCmd = `${helpCmd}<br>\n
-  <b>Bot made by ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740</b>`
+  <b>Bot made by ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740</b>
+ <b>Official Server https://discord.gg/BgxSdvP</b><br>`
 });
 bot.on("message", message => {
     if(message.channel.type === "dm") return;
