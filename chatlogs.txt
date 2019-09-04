@@ -134,3 +134,33 @@ Pre svega, dobrodošli na ExtremeCommunity™! Server je osnovan 13.01.2019 uz c
 [04.09.2019][06:05:33][suggestions] ⚡ Veka ⚡ 《Vlasnik》#7740: **===============================================================**
 **Ako imate neko pitanje za staff team to mozete uraditi komandom en!suggest <pitanje>**
 **===============================================================**
+[04.09.2019][06:11:30][faq] ⚡ Veka ⚡ 《Vlasnik》#7740: **[?] Kako dobiti besplatne rankove?**
+[-] Besplatni rankovi se nalaze u <#601076734388862981>  , drugi način jeste kada dobijete Level UP time dobijete novi rank sa više mogučnosti na serveru, i treči je kada pozovete vaše priatelje na server, na svakih 10 pozivnica dobijete novi rank sa više mogučnosti i koji je iznad sve Level UP Rankove.
+
+
+**[?] Kako postati Staff na Serveru?**
+[-] Kada su aplikacije otvorene možete se prijaviti komandom "%apply", i ako prođete prijavu dobičete Moderatora. Prijave su otvorene svakih 50 Membera ili po potrebi. 
+
+
+**[?] Gde mogu da koristim komande, i koje komande mogu koristiti?**
+[-] Logično, komande se koriste u <#578362059708825603>  . Skoro pa svaki bot ima svoju "help" komandu gde imate sve informacije za taj bot. Prefix svakog bota je pored njegovog imena.
+
+**[?] Kako da predložim neku stvar koju bi ste mogli dodati na server, ili prijaviti bug?**
+[-] To možete uraditi u kanalu <#578362059708825603>  komandom "en!suggest (vaša poruka)". Nakon toga 
+neko iz staff team-a (vlasnik tima) ce vam odgovorit
+[-] A ako zelite da prijavite bug idete u <#578362059708825603> i ukucate "en!bugreport (vaša poruka)"
+
+*[?] Zašto nemam pristup u voice kanalu "Privatna Soba"?**
+[-] Pristup tom voice kanalu imaju samo članovi našeg Staff Tima i svi korisnici sa rankom ↠ Special, Friend, Nitro Booster, Level 6 i više, Partner, Media, kao i Inviter korisnici. 
+
+
+**[?] Gde mogu pronači Pravila i Informacije servera?**
+[-] Sve najbitnije Informacije kao i Pravila servera možete pronači u kanalu <#618866388177649676> 
+
+
+**[?] Kako da pozovem priatelje na server?**
+[-] Napravite svoj invite link iz kanala <#618866388177649676>  (Never Expire, No Limit) i onda to pošaljite vašim priateljima. Na svakih 10 pozivnica dobijete novi rank i time odključate više mogučnosti na serveru.
+[04.09.2019][06:13:37][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][06:13:41][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][06:14:10][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][06:14:14][biljeske-servera] = 《Security》#1536: 
