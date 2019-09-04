@@ -1,6 +1,6 @@
 const Discord = require("discord.js")
 module.exports.run = async (bot, message, args) => {
-
+ let Embed = new Discord.RichEmbed()
     let profilepic = message.author.avatarURL;
 
     message.channel.send({
@@ -9,9 +9,7 @@ module.exports.run = async (bot, message, args) => {
             name: "triggered.gif"
         }
     });
-
 };
-
 module.exports.help = {
     name: "triggered",
     aliases: ["Rriggered"]

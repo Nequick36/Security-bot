@@ -5,3 +5,28 @@
 [04.09.2019][07:29:57][biljeske-servera] Extreme 1#0316: 
 [04.09.2019][07:30:04][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered <@!532659544791318540>
 [04.09.2019][07:30:04][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:31:04][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
+[04.09.2019][07:31:04][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:32:55][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!en!triggered
+[04.09.2019][07:32:56][biljeske-servera] Extreme 1#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[04.09.2019][07:32:56][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:32:57][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
+[04.09.2019][07:32:57][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:32:57][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:32:59][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
+[04.09.2019][07:32:59][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:33:03][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:33:07][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
+[04.09.2019][07:33:07][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:33:07][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:33:08][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
+[04.09.2019][07:33:09][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:33:09][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:33:18][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!reaload triggered
+[04.09.2019][07:33:18][biljeske-servera] Extreme 1#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[04.09.2019][07:33:18][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:33:29][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!reload triggered
+[04.09.2019][07:33:29][biljeske-servera] Extreme 1#0316: Command triggered was reloaded!
+[04.09.2019][07:33:29][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:33:33][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
+[04.09.2019][07:33:33][biljeske-servera] Extreme 1#0316: 
