@@ -6,7 +6,7 @@ const replaceall = require("replaceall")
 module.exports.run = async (bot, message, args) => {
     let warns = JSON.parse(fs.readFileSync('commands/warns.json', 'utf8'));
     let warnChannel = message.guild.channels.get("602090584924094470")
-    let modRole = message.guild.roles.find(role => role.name === 'Pristup')
+    let modRole = message.guild.roles.find(role => role.name === 'Vlasnik Team')
      if(!message.member.hasPermission("MANAGE_MESSAGES"))
      {
          message.channel.send("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**");

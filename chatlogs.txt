@@ -212,3 +212,83 @@ neko iz staff team-a (vlasnik tima) ce vam odgovorit
 [04.09.2019][07:32:23][logs] Extreme 1#0316: 
 [04.09.2019][07:33:00][biljeske-servera] = 《Security》#1536: 
 [04.09.2019][07:33:00][logs] Extreme 1#0316: 
+[04.09.2019][07:34:08][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:34:08][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:34:08][logs] Extreme 1#0316: 
+[04.09.2019][07:35:00][bug-report] ⚡ Veka ⚡ 《Vlasnik》#7740: **==================================================**
+**Ako imate neki bug na serveru prijavite ga komandom "en!bugreport (bug)"**
+**==================================================**
+[04.09.2019][07:35:00][logs] Extreme 1#0316: 
+[04.09.2019][07:35:09][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:35:09][logs] Extreme 1#0316: 
+[04.09.2019][07:35:09][logs] Extreme 1#0316: 
+[04.09.2019][07:35:21][logs] Extreme 1#0316: 
+[04.09.2019][07:35:21][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:35:22][logs] Extreme 1#0316: 
+[04.09.2019][07:37:29][「💎」self-roles] ⚡ Veka ⚡ 《Vlasnik》#7740: !man
+[04.09.2019][07:37:30][logs] Extreme 1#0316: 
+[04.09.2019][07:37:30][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:37:30][logs] Extreme 1#0316: 
+[04.09.2019][07:37:37][「💎」self-roles] ⚡ Veka ⚡ 《Vlasnik》#7740: !bih
+[04.09.2019][07:37:37][logs] Extreme 1#0316: 
+[04.09.2019][07:37:38][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:37:38][logs] Extreme 1#0316: 
+[04.09.2019][07:37:40][「💎」self-roles] ⚡ Veka ⚡ 《Vlasnik》#7740: !insta
+[04.09.2019][07:37:40][logs] Extreme 1#0316: 
+[04.09.2019][07:37:40][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:37:40][logs] Extreme 1#0316: 
+[04.09.2019][07:37:40][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:37:41][logs] Extreme 1#0316: 
+[04.09.2019][07:37:46][「💎」self-roles] ⚡ Veka ⚡ 《Vlasnik》#7740: !yt
+[04.09.2019][07:37:46][logs] Extreme 1#0316: 
+[04.09.2019][07:37:47][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:37:47][logs] Extreme 1#0316: 
+[04.09.2019][07:37:47][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:37:47][logs] Extreme 1#0316: 
+[04.09.2019][07:37:48][「💎」self-roles] ⚡ Veka ⚡ 《Vlasnik》#7740: !fb
+[04.09.2019][07:37:48][logs] Extreme 1#0316: 
+[04.09.2019][07:37:49][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:37:49][logs] Extreme 1#0316: 
+[04.09.2019][07:37:49][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:37:52][「💎」self-roles] ⚡ Veka ⚡ 《Vlasnik》#7740: !twich
+[04.09.2019][07:37:52][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:37:52][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:37:53][logs] Extreme 1#0316: 
+[04.09.2019][07:37:53][logs] Extreme 1#0316: 
+[04.09.2019][07:37:53][logs] Extreme 1#0316: 
+[04.09.2019][07:37:53][logs] Extreme 1#0316: 
+[04.09.2019][07:38:44][「📜」chat] jeb_ 《Mod》#9861: jooj <@532659544791318540>
+[04.09.2019][07:38:44][logs] Extreme 1#0316: 
+[04.09.2019][07:38:51][「📜」chat] jeb_ 《Mod》#9861: nije twich
+[04.09.2019][07:38:52][logs] Extreme 1#0316: 
+[04.09.2019][07:38:57][「📜」chat] jeb_ 《Mod》#9861: Twitch
+[04.09.2019][07:38:57][logs] Extreme 1#0316: 
+[04.09.2019][07:39:51][「💎」self-roles] jeb_ 《Mod》#9861: !hrv
+[04.09.2019][07:39:51][logs] Extreme 1#0316: 
+[04.09.2019][07:39:51][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:39:51][logs] Extreme 1#0316: 
+[04.09.2019][07:39:52][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:39:52][logs] Extreme 1#0316: 
+[04.09.2019][07:40:02][「💎」self-roles] jeb_ 《Mod》#9861: !twich
+[04.09.2019][07:40:02][logs] Extreme 1#0316: 
+[04.09.2019][07:40:03][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:40:03][logs] Extreme 1#0316: 
+[04.09.2019][07:40:03][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:40:03][logs] Extreme 1#0316: 
+[04.09.2019][07:40:24][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: a
+[04.09.2019][07:40:25][logs] Extreme 1#0316: 
+[04.09.2019][07:40:59][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: aa
+[04.09.2019][07:42:10][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: a
+[04.09.2019][07:42:11][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: a
+[04.09.2019][07:42:16][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: a
+[04.09.2019][07:42:17][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: a
+[04.09.2019][07:42:17][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: a
+[04.09.2019][07:42:19][「🤓」iq] Ognjen#2857: en!iq
+[04.09.2019][07:42:20][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:42:20][「🤓」iq] Extreme 1#0316: 
+[04.09.2019][07:42:20][biljeske-servera] Extreme 1#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[04.09.2019][07:42:20][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][07:42:49][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:44:18][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: aeiou
+[04.09.2019][07:44:22][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][07:45:19][「📜」chat] ╲⎝⧹╲⎝⧹⎝⎠ ╲╱╲╱ ⎝⎠⧸⎠╱⧸⎠╱ ╲⎝⧹╲⎝⧹⎝#2401: zzz
