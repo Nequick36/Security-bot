@@ -40,14 +40,14 @@ exports.run = async (bot, message) => {
   
   //xp system
   if(message.author.bot) return;
-  let randomXp = Math.floor(Math.random() * 10)
+  let randomXp = Math.floor(Math.random() * 5)
   let userID = message.author.id
   let Reset = 0
-  dl.AddXp(userID, randomXp || 10)
+  dl.AddXp(userID, randomXp || 5)
  
   let profile = await dl.Fetch(userID)
   
-  if(profile.xp >= 235) {
+  if(profile.xp >= 350) {
       dl.SetXp(userID, 1).then()//oh
       dl.AddLevel(userID, 1).then()
       message.channel.send(`${message.author} se level-upo na level ${profile.level + 1}!`)
