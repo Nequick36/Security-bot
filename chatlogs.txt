@@ -88,3 +88,4 @@
 [04.09.2019][08:40:23][biljeske-servera] Extreme 1#0316: 
 [04.09.2019][08:40:23][biljeske-servera] Extreme 1#0316: 
 [04.09.2019][08:53:04][bot-commands] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: ||||
+[04.09.2019][08:56:34][bot-commands] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: https://discordapp.com/api/oauth2/authorize?client_id=618911193981255710&permissions=8&scope=bot
