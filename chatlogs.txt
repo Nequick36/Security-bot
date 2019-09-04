@@ -49,3 +49,45 @@
 [04.09.2019][10:04:30][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!lvllb <@!532659544791318540>
 [04.09.2019][10:04:30][biljeske-servera] Extreme 1#0316: 
 [04.09.2019][10:04:30][biljeske-servera] Extreme 1#0316: The user ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 is number undefined on my leaderboard!
+[04.09.2019][10:06:48][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][10:06:51][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!afk
+[04.09.2019][10:06:51][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][10:06:52][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][10:07:52][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!xpdelete
+[04.09.2019][10:07:52][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][10:08:07][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!lvllb
+[04.09.2019][10:08:07][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][10:08:08][biljeske-servera] Extreme 1#0316: **Level LeaderBoard**:
+ 
+1 - Joshua#4954 | level 127 | 147 xp
+2 - Seth#7796 | level 123 | 41 xp
+3 - Deleted User 56c54dae#9847 | level 89 | 127 xp
+4 - Karma!#1542 | level 46 | 82 xp
+5 - A retard#2649 | level 43 | 75 xp
+6 - sheg#1726 | level 35 | 162 xp
+7 - ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 | level 28 | 191 xp
+8 - AL€X3411#9775 | level 26 | 159 xp
+9 - Sword#9776 | level 22 | 10 xp
+10 - Halcyon#0002 | level 17 | 193 xp
+[04.09.2019][10:08:20][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!xpdelete @Joshua#4954 127
+[04.09.2019][10:08:20][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][10:08:31][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!setlevel @Joshua#4954 1
+[04.09.2019][10:08:31][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][10:08:31][biljeske-servera] Extreme 1#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 je sada level 1!
+[04.09.2019][10:08:36][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!lvllb
+[04.09.2019][10:08:36][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][10:08:36][biljeske-servera] Extreme 1#0316: **Level LeaderBoard**:
+ 
+1 - Joshua#4954 | level 127 | 147 xp
+2 - Seth#7796 | level 123 | 41 xp
+3 - Deleted User 56c54dae#9847 | level 89 | 127 xp
+4 - Karma!#1542 | level 46 | 82 xp
+5 - A retard#2649 | level 43 | 75 xp
+6 - sheg#1726 | level 35 | 162 xp
+7 - AL€X3411#9775 | level 26 | 159 xp
+8 - Sword#9776 | level 22 | 10 xp
+9 - Halcyon#0002 | level 17 | 193 xp
+10 - DavidB#5793 | level 11 | 4 xp
+[04.09.2019][10:08:48][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!setlevel <@!532659544791318540> 35
+[04.09.2019][10:08:48][biljeske-servera] Extreme 1#0316: 
+[04.09.2019][10:08:48][biljeske-servera] Extreme 1#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 je sada level 35!
