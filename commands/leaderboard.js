@@ -29,7 +29,7 @@ module.exports.run = async (bot, message, args) => {
         var ninethplace = await bot.fetchUser(users[8].userid)
         var tenthplace = await bot.fetchUser(users[9].userid)
  
-        message.channel.send(`My leaderboard:
+        message.channel.send(`**Level LeaderBoard**:
  
 1 - ${firstplace.tag || 'None'} | level ${users[0].level || 'None'} | ${users[0].xp || 'None'} xp
 2 - ${secondplace.tag || 'None'} | level ${users[1].level || 'None'} | ${users[1].xp || 'None'} xp
