@@ -31,7 +31,7 @@ bot.aliases = new Discord.Collection();
 bot.afk = new Map()
 bot.workCooldown = new Map()
 bot.devs = ['366234394479951873', '435406608479158273']
-let helpCmd = `Prefix is <b>!</b><br>\nCommands:<br><br>\n\n` 
+let helpCmd = `Prefix is <b>en!</b><br>\nCommands:<br><br>\n\n` 
 fs.readdir("./commands", (err, files) => {
     if(err) console.log(err);
     let jsfile = files.filter(f => f.split(".").pop() === "js")
@@ -44,7 +44,7 @@ fs.readdir("./commands", (err, files) => {
          console.log(`${f} loaded!`)
          bot.commands.set(props.help.name, props)
       
-      if(props.help.description) helpCmd = `${helpCmd}<b>${props.help.name}</b>: ${props.help.description}<br>\n`
+      if(props.help.description) helpCmd = `${helpCmd}<b>${props.help.name}</b>,<br>\n`
       else helpCmd = `${helpCmd}<b>${props.help.name}</b>,<br>\n`
            props.help.aliases.forEach(alias => {
          bot.aliases.set(alias, props.help.name);
@@ -98,7 +98,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
    
     if(cmd === `${prefix}help`) {
       if(!args[0])  {
-        message.author.send(`https://extreme-1-official.glich.me/help`)
+        message.author.send(`https://extreme-1.glich.me/help`)
         message.channel.send(`${message.author.tag} Pogledajte svoj DM!`)
     fs.writeFile('./help.html', helpCmd, (err) => {
  if(err) console.error(err)
