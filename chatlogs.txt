@@ -97,3 +97,40 @@
 [04.09.2019][05:54:20][biljeske-servera] = 《Security》#1536: 
 [04.09.2019][05:54:24][biljeske-servera] = 《Security》#1536: 
 [04.09.2019][05:54:24][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][05:59:57][informacije] ⚡ Veka ⚡ 《Vlasnik》#7740: **📰 | O Serveru**
+
+Pre svega, dobrodošli na ExtremeCommunity™! Server je osnovan 13.01.2019 uz ciljem da ujedini gejmere širom balkana, na našem serveru mozete pronači dosta korisnih i zanimljivih stvari, mozete da se dopisujete i opoznavate u bilo kom trenutku, pričati i razgovarati o raznim temama, saznavati i razmenivati mišljenja sa ostalih članova servera. Ukoliko vam bude trebala ikakva pomoč slobodno mozete tagovati naš Staff Team u bilo kom trenutku!
+
+**🔐 | Pravila na serveru**
+
+1) Međusobno vređanje je zabranjeno!
+2) Nema reklamiranja po bilo kojoj osnovi!
+3) Spam je zabranjen!
+4) Zabranjen je nacionalizam/rasizam!
+5) Zabranjen je bilo kakav pornografski sadrzaj!
+6) Strogo je zabranjeno spodelivati lične informacije!
+7) Poštujte članove Staff Teama i ostale članove servera!
+8) Zabranjeno je bilo kakvo ometanje normalne komunikacije u voice kanalima!
+
+
+🔖 | Rankove
+
+💡Level-UP ↠ Na svakih 5 levela na nasem botu <@!610107625383919616> dobijate rank ali morate pitati nekog iz vlasnik tima da vam da rank!
+💰 Invite Ranks ↠ Invite rankove možete vidjeti komandom +ranks
+💠 Staff Rank ↠ Staff rank možete dobiti ako prođete prijavu za staff.
+⚒️ Bug Hunter ↠ Ako ste prijavili bug na botu ili na serveru!
+🔹 Friend ↠ Priatelji vlasnika.
+🔥 Nitro Booster ↠ Dobija korisnik koji boosta server!
+🎧 DJ ↠ Ako ste aktivni na Music Eventima!
+🌟 Special ↠ Ovaj rank se moze dobiti samo na Giveaway-ovima ili na eventima.
+⚙️ Partner ↠ Ovaj rank dobijaju samo partneri servera.
+
+**<:yes:618867699660881930> Nadamo se da čete se zabaviti na našem serveru! <:yes:618867699660881930>**
+[04.09.2019][05:59:57][informacije] Extreme 1#0316: <@532659544791318540> se level-upo na level 36!
+[04.09.2019][06:00:35][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][06:00:35][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][06:02:15][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][06:02:15][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][06:05:33][suggestions] ⚡ Veka ⚡ 《Vlasnik》#7740: **===============================================================**
+**Ako imate neko pitanje za staff team to mozete uraditi komandom en!suggest <pitanje>**
+**===============================================================**
