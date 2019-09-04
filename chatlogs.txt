@@ -89,3 +89,61 @@
 [04.09.2019][08:40:23][biljeske-servera] Extreme 1#0316: 
 [04.09.2019][08:53:04][bot-commands] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: ||||
 [04.09.2019][08:56:34][bot-commands] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: https://discordapp.com/api/oauth2/authorize?client_id=618911193981255710&permissions=8&scope=bot
+[04.09.2019][09:13:23][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!rob
+[04.09.2019][09:13:23][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[04.09.2019][09:13:23][biljeske-servera] ExtremeCommunity#0316: 
+[04.09.2019][09:13:25][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!rob
+[04.09.2019][09:13:25][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[04.09.2019][09:13:25][biljeske-servera] ExtremeCommunity#0316: 
+[04.09.2019][09:15:13][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!baltop
+[04.09.2019][09:15:13][biljeske-servera] ExtremeCommunity#0316: 
+[04.09.2019][09:15:14][biljeske-servera] ExtremeCommunity#0316: My leaderboard:
+ 
+**1** - A retard#2649 **|** **Balance** 2135992578 
+**2** - Joshua#4954 **|** **Balance** 86444 
+**3** - Deleted User 56c54dae#9847 **|** **Balance** 11495 
+**4** - Seth#7796 **|** **Balance** 6080 
+**5** - ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 **|** **Balance** 3208 
+**6** - TLVA#2179 **|** **Balance** 2708 
+**7** - omerpro#1406 **|** **Balance** 2561 
+**8** - OfficialHypro#3269 **|** **Balance** 2365 
+**9** - тяунαяdвσу7#7170 **|** **Balance** 1540 
+**10** - CameronT05092002#4064 **|** **Balance** 1273
+[04.09.2019][09:15:20][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!rob
+[04.09.2019][09:15:20][biljeske-servera] ExtremeCommunity#0316: 
+[04.09.2019][09:15:47][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!rob  <@!412269163684560896>
+[04.09.2019][09:15:47][biljeske-servera] ExtremeCommunity#0316: 
+[04.09.2019][09:15:51][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!baltop
+[04.09.2019][09:15:52][biljeske-servera] ExtremeCommunity#0316: 
+[04.09.2019][09:15:52][biljeske-servera] ExtremeCommunity#0316: My leaderboard:
+ 
+**1** - A retard#2649 **|** **Balance** 2135992578 
+**2** - Joshua#4954 **|** **Balance** 86444 
+**3** - Deleted User 56c54dae#9847 **|** **Balance** 11495 
+**4** - Seth#7796 **|** **Balance** 6080 
+**5** - ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 **|** **Balance** 3208 
+**6** - TLVA#2179 **|** **Balance** 2708 
+**7** - omerpro#1406 **|** **Balance** 2561 
+**8** - OfficialHypro#3269 **|** **Balance** 2365 
+**9** - тяунαяdвσу7#7170 **|** **Balance** 1540 
+**10** - CameronT05092002#4064 **|** **Balance** 1273
+[04.09.2019][09:16:08][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!rob  <@!412269163684560896>
+[04.09.2019][09:16:08][biljeske-servera] ExtremeCommunity#0316: 
+[04.09.2019][09:17:14][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!rob
+[04.09.2019][09:17:15][biljeske-servera] ExtremeCommunity#0316: 
+[04.09.2019][09:17:16][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!rob  <@!412269163684560896>
+[04.09.2019][09:17:16][biljeske-servera] ExtremeCommunity#0316: 
+[04.09.2019][09:17:20][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!baltop
+[04.09.2019][09:17:21][biljeske-servera] ExtremeCommunity#0316: 
+[04.09.2019][09:17:21][biljeske-servera] ExtremeCommunity#0316: My leaderboard:
+ 
+**1** - A retard#2649 **|** **Balance** 2135992578 
+**2** - Joshua#4954 **|** **Balance** 86444 
+**3** - Deleted User 56c54dae#9847 **|** **Balance** 11495 
+**4** - Seth#7796 **|** **Balance** 6080 
+**5** - ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 **|** **Balance** 3208 
+**6** - TLVA#2179 **|** **Balance** 2708 
+**7** - omerpro#1406 **|** **Balance** 2561 
+**8** - OfficialHypro#3269 **|** **Balance** 2365 
+**9** - тяунαяdвσу7#7170 **|** **Balance** 1540 
+**10** - CameronT05092002#4064 **|** **Balance** 1273
