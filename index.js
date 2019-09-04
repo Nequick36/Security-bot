@@ -14,10 +14,6 @@ app.get("/help", (req, res) => {
 app.get("/about", (req, res) => {
   res.sendFile(__dirname + '/about.txt')
 })
-
-app.get("/web", (req, res) => {
-  res.sendFile(__dirname + '/web.txt')
-})
 app.listen(process.env.PORT);
 setInterval(() => {
   http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);

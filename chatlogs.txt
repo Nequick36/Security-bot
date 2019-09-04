@@ -1,33 +1,27 @@
-[04.09.2019][07:29:28][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
-[04.09.2019][07:29:28][biljeske-servera] Extreme 1#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
-[04.09.2019][07:29:28][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:29:57][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
-[04.09.2019][07:29:57][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:30:04][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered <@!532659544791318540>
-[04.09.2019][07:30:04][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:31:04][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
-[04.09.2019][07:31:04][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:32:55][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!en!triggered
-[04.09.2019][07:32:56][biljeske-servera] Extreme 1#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
-[04.09.2019][07:32:56][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:32:57][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
-[04.09.2019][07:32:57][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:32:57][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:32:59][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
-[04.09.2019][07:32:59][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:33:03][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:33:07][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
-[04.09.2019][07:33:07][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:33:07][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:33:08][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
-[04.09.2019][07:33:09][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:33:09][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:33:18][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!reaload triggered
-[04.09.2019][07:33:18][biljeske-servera] Extreme 1#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
-[04.09.2019][07:33:18][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:33:29][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!reload triggered
-[04.09.2019][07:33:29][biljeske-servera] Extreme 1#0316: Command triggered was reloaded!
-[04.09.2019][07:33:29][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][07:33:33][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!triggered
-[04.09.2019][07:33:33][biljeske-servera] Extreme 1#0316: 
-[04.09.2019][08:20:34][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:33:32][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: !help
+[04.09.2019][08:33:32][biljeske-servera] Extreme 2#8290: Check DMs!
+[04.09.2019][08:33:32][biljeske-servera] ! 《Muzika》#3722: ✅ **Check <https://rythmbot.co/features#list> for a list of commands**
+[04.09.2019][08:33:32][biljeske-servera] Extreme 2#8290: 
+[04.09.2019][08:34:35][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: !help
+[04.09.2019][08:34:35][biljeske-servera] Extreme 2#8290: Check DMs!
+[04.09.2019][08:34:35][biljeske-servera] ! 《Muzika》#3722: ✅ **Check <https://rythmbot.co/features#list> for a list of commands**
+[04.09.2019][08:34:35][biljeske-servera] Extreme 2#8290: 
+[04.09.2019][08:35:13][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:35:14][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:35:14][「😢」leaves] Extreme 1#0316: Chat Logs#8290 je izašao sa servera.
+[04.09.2019][08:35:14][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:35:14][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:35:14][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:35:19][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:35:48][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:35:53][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:36:03][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:36:14][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:36:28][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:36:36][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:36:45][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:36:55][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:37:02][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:37:10][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:37:21][biljeske-servera] = 《Security》#1536: 
+[04.09.2019][08:37:33][biljeske-servera] = 《Security》#1536: 
