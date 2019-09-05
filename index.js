@@ -24,6 +24,7 @@ const Discord = require("discord.js");
 const botconfig = require("./botconfig.json");
 var replaceall = require("replaceall");
 const eco = require("discord-economy");
+const antispam = require("discord-anti-spam");
 const fs = require("fs")
 const bot = new Discord.Client()
 bot.commands = new Discord.Collection()
@@ -132,7 +133,20 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 		bot.on(eventName, (...args) => eventFunc.run(bot, ...args));
     console.log(`${file} Loaded!`)
 	});
-}); 
+});
+
+
+antispam(bot, {
+  interval: 1000, // Amount of time in ms users can send a maximum of the maxBuffer variable before getting banned.
+  warningMessage: "Nemoj spamati!!!", // Warning message send to the user indicating they are going to fast.
+  banMessage: "has been banned for spamming, anyone else? ", // Ban message, always tags the banned user in front of it.
+  maxDuplicatesWarning: 5,// Maximum amount of duplicate messages a user can send in a timespan before getting warned
+  maxDuplicatesBan: 100, // Maximum amount of duplicate messages a user can send in a timespan before getting banned
+  deleteMessagesAfterBanForPastDays: 3 // Delete the spammed messages after banning for the past x days.
+   
+  
+});
+
 bot.on("guildMemberAdd", function (member) {
     member.send(`DobroDošli ${member.user.tag} na naš Discord Server ExtremeCommunity, Zabavite se i pročitajte pravila. Hvala unapred!`)
     let memberRole = member.guild.roles.find(role => role.name === "Memberi");

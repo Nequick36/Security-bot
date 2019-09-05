@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "ms": "^2.1.1",
-    "discord.js-giveaway": "^1.0.2",
     "discord-anti-spam": "^2.0.0",
     "parse-ms": "^2.1.0",
     "quick.db": "^7.0.0-b16",
