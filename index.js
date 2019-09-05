@@ -135,17 +135,49 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 	});
 });
 
-
-antispam(bot, {
-  interval: 1000, // Amount of time in ms users can send a maximum of the maxBuffer variable before getting banned.
-  warningMessage: "Nemoj spamati!!!", // Warning message send to the user indicating they are going to fast.
-  banMessage: "has been banned for spamming, anyone else? ", // Ban message, always tags the banned user in front of it.
-  maxDuplicatesWarning: 5,// Maximum amount of duplicate messages a user can send in a timespan before getting warned
-  maxDuplicatesBan: 100, // Maximum amount of duplicate messages a user can send in a timespan before getting banned
-  deleteMessagesAfterBanForPastDays: 3 // Delete the spammed messages after banning for the past x days.
-   
-  
+bot.on("message", (message) => {
+//let's use something like a spam variable for 10 or more messages sent within 5000ms
+if(message.content === "mrs") {
+    message.delete()
+  }
 });
+bot.on("message", (message) => {
+//let's use something like a spam variable for 10 or more messages sent within 5000ms
+if(message.content === "mrs") {
+    message.delete()
+  }
+});
+bot.on("message", (message) => {
+//let's use something like a spam variable for 10 or more messages sent within 5000ms
+if(message.content === "mrs") {
+    message.delete()
+  }
+});
+bot.on("message", (message) => {
+//let's use something like a spam variable for 10 or more messages sent within 5000ms
+if(message.content === "mrs") {
+    message.delete()
+  }
+});
+bot.on("message", (message) => {
+//let's use something like a spam variable for 10 or more messages sent within 5000ms
+if(message.content === "mrs") {
+    message.delete()
+  }
+});
+bot.on("message", (message) => {
+//let's use something like a spam variable for 10 or more messages sent within 5000ms
+if(message.content === "mrs") {
+    message.delete()
+  }
+});
+bot.on("message", (message) => {
+//let's use something like a spam variable for 10 or more messages sent within 5000ms
+if(message.content === "mrs") {
+    message.delete()
+  }
+});
+
 
 bot.on("guildMemberAdd", function (member) {
     member.send(`DobroDošli ${member.user.tag} na naš Discord Server ExtremeCommunity, Zabavite se i pročitajte pravila. Hvala unapred!`)
