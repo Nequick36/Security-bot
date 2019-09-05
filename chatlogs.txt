@@ -472,3 +472,57 @@ TypeError: "" is not a function
 [05.09.2019][09:56:50][biljeske-servera] = 《Security》#1536: 
 [05.09.2019][09:56:52][biljeske-servera] = 《Security》#1536: 
 [05.09.2019][09:57:29][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:58:09][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:58:33][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:59:09][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:01:10][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:01:56][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:02:14][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:02:25][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:02:35][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:03:19][「📌」kaladont] ⚡ Veka ⚡ 《Vlasnik》#7740: en!clear 100
+[05.09.2019][10:03:19][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][10:04:02][「📌」kaladont] ⚡ Veka ⚡ 《Vlasnik》#7740: en!clear 100
+[05.09.2019][10:04:02][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][10:04:02][logs] ExtremeCommunity#0316: 
+[05.09.2019][10:04:19][「📌」kaladont] ⚡ Veka ⚡ 《Vlasnik》#7740: !clear 9999
+[05.09.2019][10:04:20][「📌」kaladont] ! 《Muzika》#3722: ❌ **You have to be in a voice channel to use this command.**
+[05.09.2019][10:04:20][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:04:20][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][10:04:20][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:04:26][「📌」kaladont] ⚡ Veka ⚡ 《Vlasnik》#7740: !clear 999
+[05.09.2019][10:04:26][「📌」kaladont] ! 《Muzika》#3722: ❌ **You have to be in a voice channel to use this command.**
+[05.09.2019][10:04:26][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:04:26][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][10:04:27][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][10:06:25][「📌」kaladont] ⚡ Veka ⚡ 《Vlasnik》#7740: =clear 999
+[05.09.2019][10:06:48][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:06:57][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:07:07][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:07:16][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:07:27][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:07:37][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:07:38][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:07:40][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:07:40][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:07:41][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:07:42][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:07:51][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:07:58][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:07:58][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:08:02][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:08:02][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:08:06][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:08:06][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:08:12][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:08:12][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:08:15][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:08:15][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:08:29][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:09:01][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:09:08][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:09:09][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:09:11][「x-o」x-o] ⚡ Veka ⚡ 《Vlasnik》#7740: 3
+[05.09.2019][10:09:15][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:09:15][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:09:25][biljeske-servera] = 《Security》#1536: 
