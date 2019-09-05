@@ -10,9 +10,10 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "": "https://music.youtube.com/wa"
+    "ms": "^2.1.1",
+    "quick.db": "^7.0.0-b16",
+    "discord-leveling": "^1.1.0",
     "discord-economy": "^1.1.6",
-    "discord-leveling": "^1.0.3",
     "discord.js": "^11.4.2",
     "express": "^4.16.4",
     "figlet": "^1.2.1",
