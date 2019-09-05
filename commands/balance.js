@@ -1,17 +1,17 @@
-const db = require('quick.db')
-const Discord = require('discord.js')
+const Discord = require("discord.js");
+const eco = require("discord-economy");
 
 module.exports.run = async (bot, message, args) => {
-
-    let bal = db.fetch(`money_${message.guild.id}_${message.author.id}`)
-
-    if (bal === null) bal = 0;
-
-    message.channel.send('You have a balance of `' + bal + '`')
-
+  eco.FetchBalance(message.author.id).then(l => {
+                message.channel.send(`${message.author.username} Vi imate **${l.balance}**:money_with_wings: `);
+            })
 
 }
+
 module.exports.help = {
-name: "bal",
-aliases: ["Balance","Money","money"]
+  name: "balance",
+  aliases: ['wallet', 'bal', 'Bal', 'Balance'],
+  perm: "",
+  role: "",
+  group:"Economy"
 }

@@ -1,37 +1,22 @@
-const Discord = require('discord.js')
-const db = require('quick.db')
-
-module.exports.run = async (client, message, args, config) => {
-
-
-
-    let user = message.mentions.members.first() 
-
-    let member = db.fetch(`money_${message.author.id}`)
-
-
-    if (!user) {
-        return message.channel.send('you forgot to mention somebody.')
-    }
-    if (!args[1]) {
-        return message.channel.send('Please specify an amount.')
-    }
-    if (message.content.includes('-')) { // if the message includes "-" do this.
-        return message.channel.send('Negative money can not be paid.')
-    }
-
-    if (member < args[1]) {
-        return message.channel.send(`That's more money than you've got in your balance. try again.`)
-    }
-
-    message.channel.send(`${message.author.tag}, You successfully paid ${user.user.username} ${args[1]}$.`)
-    db.add(`money_${user.id}`, args[1])
-    db.subtract(`money_${message.author.id}`, args[1])
-
-
-
-
+const Discord = require("discord.js")
+const eco = require("discord-economy")
+module.exports.run = async (bot, message, args) => {
+  //message.channel.send("This command is still a work in progress!")
+  var user = message.mentions.users.first()
+    var amount = args[1]
+    if(isNaN(amount)) return message.reply('Please enter a valid number')
+ if(message.author.id === user.id) return message.channel.send("Sorry but you can't send money to yourself!")
+    if (!user) return message.reply('Reply the user you want to send money to!')
+    if (!amount) return message.reply('Specify the amount you want to pay!')
+  
+ 
+    var output = await eco.FetchBalance(message.author.id)
+    if (output.balance < amount) return message.reply('You have less coins than the amount you want to transfer!')
+ 
+    var transfer = await eco.Transfer(message.author.id, user.id, amount)
+    message.reply(`Transfering coins succesfully done!\nBalance from ${message.author.tag}: ${transfer.FromUser}\nBalance to ${user.tag}: ${transfer.ToUser}`);
 }
+
 module.exports.help = {
   name: "transfer",
   aliases: ["pay"],
