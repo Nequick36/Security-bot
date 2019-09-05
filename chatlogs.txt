@@ -592,3 +592,27 @@ TypeError: "" is not a function
 [05.09.2019][07:07:16][biljeske-servera] = 《Security》#1536: 
 [05.09.2019][07:08:33][biljeske-servera] = 《Security》#1536: 
 [05.09.2019][07:08:36][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:13:34][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:17:09][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:17:09][「🙋」welcome] ExtremeCommunity#0316: <@583843339447566349> je ušao/la u server. Pogledaj poruku od Extreme 1
+[05.09.2019][07:17:09][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:17:09][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:17:09][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:17:10][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:17:11][freespotify] Spotify Bot#1641: Type !spotify in this channel to generate accounts
+[05.09.2019][07:17:15][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:17:15][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:17:15][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:17:21][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:17:35][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:17:35][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:18:13][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:18:37][「🙋」welcome] ExtremeCommunity#0316: <@583751819717509120> je ušao/la u server. Pogledaj poruku od Extreme 1
+[05.09.2019][07:18:37][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:18:37][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:18:37][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:18:37][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:18:37][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:18:43][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:19:01][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:19:30][biljeske-servera] = 《Security》#1536: 
