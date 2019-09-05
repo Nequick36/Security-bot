@@ -57,3 +57,112 @@ SyntaxError: Unexpected token !
 SyntaxError: Unexpected token %
 ```
 [05.09.2019][08:59:01][biljeske-servera] % 《Staff-Apply》#7283: 
+[05.09.2019][09:01:49][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!questions
+[05.09.2019][09:01:49][biljeske-servera] ExtremeCommunity#0316: Questions
+1: Da li se spreman za Staff Apply? Sto bolje odgovoris na ova pitanja imas vece sanse za ulazak u Staff Team! Sretno!2: Kako se zoves u real life?3: Koje si godiste?4: Kolko imas godina?5: Koliko dugo koristis Discord?6: Koliko znas o Discordu!(1-10)7: Koliko znas o Botovima! (1-10)8: Navedi nam minimum 6 Discord botova? (Sto vise to bolje)9: Navedi sto vise botova koji pomazu u administraciji servera!10: Koliko mozes da budes aktivan?11: Da li si nekada bio/la staff na nekom srv i koji su to serveri? (koliko membera)12: Zasto bi zelio bas da budes dio Staff-Teama na ExtremeCommunity Discord serveru?13: Ocijeni nas Discord server!(1-10)14: Sta bi promjenio na nasem Discord serveru?15: Sta ti se najvise i najmanje svidja na nasem Discord serveru?16: Srecno!
+[05.09.2019][09:01:49][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:01:49][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][09:05:24][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!questions
+[05.09.2019][09:05:24][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:05:24][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][09:08:31][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!apply
+[05.09.2019][09:08:31][biljeske-servera] ExtremeCommunity#0316: Ticket help:
+!ticket new - Makes new ticket
+!ticket close - Deletes the ticket
+[05.09.2019][09:08:32][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:08:32][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][09:08:36][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!apply new
+[05.09.2019][09:08:36][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:08:36][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:08:36][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][09:08:36][apply-532659544791318540] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740
+       **Staff Apply**
+
+1: Da li se spreman za Staff Apply? Sto bolje odgovoris na ova pitanja imas vece sanse za ulazak u Staff Team! Sretno!
+2: Kako se zoves u real life?
+3: Koje si godiste?
+4: Kolko imas godina?
+5: Koliko dugo koristis Discord?
+6: Koliko znas o Discordu!(1-10)
+7: Koliko znas o Botovima! (1-10)
+8: Navedi nam minimum 6 Discord botova? (Sto vise to bolje)
+9: Navedi sto vise botova koji pomazu u administraciji servera!
+10: Koliko mozes da budes aktivan?
+11: Da li si nekada bio/la staff na nekom srv i koji su to serveri? (koliko membera)
+12: Zasto bi zelio bas da budes dio Staff-Teama na ExtremeCommunity Discord serveru?
+13: Ocijeni nas Discord server!(1-10)
+14: Sta bi promjenio na nasem Discord serveru?
+15: Sta ti se najvise i najmanje svidja na nasem Discord serveru?
+16: Srecno!
+[05.09.2019][09:08:36][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:08:36][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:08:36][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:08:36][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:08:42][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:09:18][bug-report] Delija_ 《Mod》#9442: Veka je na serveru haha
+[05.09.2019][09:09:29][「💬」bot-commands] Delija_ 《Mod》#9442: %apply
+[05.09.2019][09:09:29][「💬」bot-commands] % 《Staff-Apply》#7283: You have already submitted an application.
+[05.09.2019][09:09:45][「💬」bot-commands] Delija_ 《Mod》#9442: <@!532659544791318540> nmg da applijam
+[05.09.2019][09:09:56][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:10:29][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!apply new
+[05.09.2019][09:10:29][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:10:29][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:10:29][apply-532659544791318540] ExtremeCommunity#0316: undefined
+       **Staff Apply**
+
+1: Da li se spreman za Staff Apply? Sto bolje odgovoris na ova pitanja imas vece sanse za ulazak u Staff Team! Sretno!
+2: Kako se zoves u real life?
+3: Koje si godiste?
+4: Kolko imas godina?
+5: Koliko dugo koristis Discord?
+6: Koliko znas o Discordu!(1-10)
+7: Koliko znas o Botovima! (1-10)
+8: Navedi nam minimum 6 Discord botova? (Sto vise to bolje)
+9: Navedi sto vise botova koji pomazu u administraciji servera!
+10: Koliko mozes da budes aktivan?
+11: Da li si nekada bio/la staff na nekom srv i koji su to serveri? (koliko membera)
+12: Zasto bi zelio bas da budes dio Staff-Teama na ExtremeCommunity Discord serveru?
+13: Ocijeni nas Discord server!(1-10)
+14: Sta bi promjenio na nasem Discord serveru?
+15: Sta ti se najvise i najmanje svidja na nasem Discord serveru?
+16: Srecno!
+[05.09.2019][09:10:29][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][09:10:29][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:10:29][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:10:29][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:10:35][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:10:52][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:10:52][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:11:13][「💎」self-roles] Delija_ 《Mod》#9442: !insta
+[05.09.2019][09:11:13][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:11:13][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:11:13][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:11:20][「💎」self-roles] Delija_ 《Mod》#9442: !spotify
+[05.09.2019][09:11:20][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:11:20][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:11:20][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:11:26][「💎」self-roles] Delija_ 《Mod》#9442: !yt
+[05.09.2019][09:11:27][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:11:27][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:11:35][「💎」self-roles] Delija_ 《Mod》#9442: !Snapchat
+[05.09.2019][09:11:35][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:11:36][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:11:36][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:11:42][「💎」self-roles] Delija_ 《Mod》#9442: !fb
+[05.09.2019][09:11:42][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:11:43][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:11:43][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:11:49][「💎」self-roles] Delija_ 《Mod》#9442: !twich
+[05.09.2019][09:11:49][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:11:50][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][09:11:50][biljeske-servera] ExtremeCommunity#0316: 
