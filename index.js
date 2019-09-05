@@ -135,10 +135,48 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 	});
 });
 
-    if(cmd === `zz`) {
-      if(!args[0])  {
-        message.channel.send(`Zz`)
-};
+
+client.on('ready', () => {
+  // Module Configuration Constructor
+   antispam(client, {
+        warnBuffer: 3, // Maximum ammount of messages allowed to send in the interval time before getting warned.
+        maxBuffer: 3, // Maximum amount of messages allowed to send in the interval time before getting banned.
+        interval: 2000, // Amount of time in ms users can send the maxim amount of messages(maxBuffer) before getting banned. 
+        warningMessage: "please stop spamming!", // Message users receive when warned. (message starts with '@User, ' so you only need to input continue of it.) 
+        banMessage: "has been hit by ban hammer for spamming!", // Message sent in chat when user is banned. (message starts with '@User, ' so you only need to input continue of it.) 
+        maxDuplicatesWarning: 7,// Maximum amount of duplicate messages a user can send in a timespan before getting warned.
+        maxDuplicatesBan: 10, // Maximum amount of duplicate messages a user can send in a timespan before getting banned.
+        deleteMessagesAfterBanForPastDays: 7, // Deletes the message history of the banned user in x days.
+        exemptRoles: ["Pristup"], // Name of roles (case sensitive) that are exempt from spam filter.
+        exemptUsers: ["MrAugu#9016"] // The Discord tags of the users (e.g: MrAugu#9016) (case sensitive) that are exempt from spam filter.
+      });
+
+bot.on("message", (message) => {
+  if(message.content === "zz") {
+    message.channel.send(`${message.author.tag} zz`);
+  }
+  if(message.content === "jutro") {
+    message.channel.send(`${message.author.tag} Jutro`);
+  }
+    if(message.content === "Jutro") {
+    message.channel.send(`${message.author.tag} Jutro`);
+  }
+    if(message.content === "Zz") {
+    message.channel.send(`${message.author.tag} zz`);
+  }
+    if(message.content === "cao") {
+    message.channel.send(`${message.author.tag} cao`);
+  }
+    if(message.content === "lkn") {
+    message.channel.send(`${message.author.tag} Lkn`);
+  }
+    if(message.content === "laku noc") {
+    message.channel.send(`${message.author.tag} laku noc`);
+  }
+    if(message.content === "Cao") {
+    message.channel.send(`${message.author.tag} Cao`);
+  }
+});
 
 bot.on('message', message => {
   if(botconfig.badwords.some(word => message.content.toLowerCase().includes(word))){
