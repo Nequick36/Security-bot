@@ -34,3 +34,26 @@ SyntaxError: Unexpected token !
 [05.09.2019][08:45:02][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
 SyntaxError: Unexpected token !
 ```
+[05.09.2019][08:54:35][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
+[05.09.2019][08:54:36][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
+[05.09.2019][08:54:36][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:54:36][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][08:57:11][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
+[05.09.2019][08:57:11][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
+[05.09.2019][08:57:11][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:57:11][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][08:57:41][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
+[05.09.2019][08:57:41][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
+[05.09.2019][08:57:41][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:57:41][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][08:59:01][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: %questions
+[05.09.2019][08:59:01][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token %
+```
+[05.09.2019][08:59:01][biljeske-servera] % 《Staff-Apply》#7283: 
