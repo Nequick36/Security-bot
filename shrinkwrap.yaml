@@ -20,6 +20,7 @@ dependencies:
   superagent: 4.1.0
   vue: 2.6.10
   winston: 2.4.4
+  winston-discord: 0.2.0
 packages:
   /@types/geojson/1.0.6:
     dev: false
@@ -1632,6 +1633,12 @@ packages:
     dev: false
     resolution:
       integrity: sha512-QGkOQc8XL6Bt5PwnsExKBPuMKBxnGxWWW3fU55Xt4feHozMUhdUMaBCk290qpm/wG5u/RSKzwdAC4i51YigihA==
+  /winston-discord/0.2.0:
+    dependencies:
+      winston: 2.4.4
+    dev: false
+    resolution:
+      integrity: sha512-JAGD49zOLEsYIAeJVQf5E9g0Bg5Ysbgf8xocwHd8Tfr9oTPkEYkupKPsCobSv//tqvR5li8MeuVB9NZLAjGZ3A==
   /winston/2.4.4:
     dependencies:
       async: 1.0.0
@@ -1704,3 +1711,4 @@ specifiers:
   superagent: ^4.1.0
   vue: ^2.6.8
   winston: ^2.3.1
+  winston-discord: ^0.2.0
