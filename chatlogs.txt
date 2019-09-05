@@ -25,3 +25,24 @@
 [05.09.2019][08:31:19][biljeske-servera] = 《Security》#1536: 
 [05.09.2019][08:31:23][biljeske-servera] = 《Security》#1536: 
 [05.09.2019][08:31:49][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][08:44:01][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: zz
+[05.09.2019][08:44:01][「📜」chat] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 zz
+[05.09.2019][08:44:52][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: pls cmds
+[05.09.2019][08:44:53][biljeske-servera] pls 《X-O》#6539: 
+[05.09.2019][08:44:53][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[05.09.2019][08:45:08][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: pls commands config
+[05.09.2019][08:45:08][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> se level-upo na level 38!
+[05.09.2019][08:45:08][biljeske-servera] pls 《X-O》#6539: 
+[05.09.2019][08:45:08][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[05.09.2019][08:45:40][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: pls commands moderation
+[05.09.2019][08:45:40][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[05.09.2019][08:45:40][biljeske-servera] pls 《X-O》#6539: 
+[05.09.2019][08:50:04][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][08:50:04][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][08:50:04][biljeske-servera] = 《Security》#1536: 
