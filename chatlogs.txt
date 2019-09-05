@@ -1,0 +1,36 @@
+[05.09.2019][08:38:42][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!eval
+[05.09.2019][08:38:42][biljeske-servera] ExtremeCommunity#0316: 🛑 **ACCESS DENIED! THIS IS A DEVELOPER ONLY COMMAND. 🛑**
+[05.09.2019][08:38:42][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:39:27][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!refresh index.js
+[05.09.2019][08:39:27][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[05.09.2019][08:39:27][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:41:52][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
+[05.09.2019][08:41:52][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
+[05.09.2019][08:41:52][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:41:52][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][08:44:44][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!
+[05.09.2019][08:44:44][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[05.09.2019][08:44:44][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:44:44][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][08:44:45][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!
+[05.09.2019][08:44:46][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[05.09.2019][08:44:46][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:44:48][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!
+[05.09.2019][08:44:50][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][08:44:50][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[05.09.2019][08:44:51][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:44:51][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][08:45:02][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
+[05.09.2019][08:45:02][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
+[05.09.2019][08:45:02][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:45:02][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
