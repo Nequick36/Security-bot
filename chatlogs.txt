@@ -652,3 +652,9 @@ ReferenceError: mrs is not defined
 ```
 [05.09.2019][07:46:36][biljeske-servera] = 《Security》#1536: 
 [05.09.2019][07:46:36][logs] ExtremeCommunity#0316: 
+[05.09.2019][07:50:47][logs] ⚡ Veka ⚡ 《Vlasnik》#7740: a en!
+[05.09.2019][07:50:49][logs] ⚡ Veka ⚡ 《Vlasnik》#7740: en!
+[05.09.2019][07:50:49][logs] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[05.09.2019][07:50:49][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][07:50:56][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][07:50:58][biljeske-servera] = 《Security》#1536: 

@@ -135,49 +135,10 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 	});
 });
 
-bot.on("message", (message) => {
-//let's use something like a spam variable for 10 or more messages sent within 5000ms
-if(message.content === "mrs") {
+bot.on('message', message => {
+  if(bot.FILTER_LIST.some(word => message.content.toLowerCase().includes(word))){
     message.delete()
-  }
-});
-bot.on("message", (message) => {
-//let's use something like a spam variable for 10 or more messages sent within 5000ms
-if(message.content === "mrs") {
-    message.delete()
-  }
-});
-bot.on("message", (message) => {
-//let's use something like a spam variable for 10 or more messages sent within 5000ms
-if(message.content === "mrs") {
-    message.delete()
-  }
-});
-bot.on("message", (message) => {
-//let's use something like a spam variable for 10 or more messages sent within 5000ms
-if(message.content === "mrs") {
-    message.delete()
-  }
-});
-bot.on("message", (message) => {
-//let's use something like a spam variable for 10 or more messages sent within 5000ms
-if(message.content === "mrs") {
-    message.delete()
-  }
-});
-bot.on("message", (message) => {
-//let's use something like a spam variable for 10 or more messages sent within 5000ms
-if(message.content === "mrs") {
-    message.delete()
-  }
-});
-bot.on("message", (message) => {
-//let's use something like a spam variable for 10 or more messages sent within 5000ms
-if(message.content === "mrs") {
-    message.delete()
-  }
-});
-
+  }})
 
 bot.on("guildMemberAdd", function (member) {
     member.send(`DobroDošli ${member.user.tag} na naš Discord Server ExtremeCommunity, Zabavite se i pročitajte pravila. Hvala unapred!`)
