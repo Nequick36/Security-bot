@@ -135,9 +135,13 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 	});
 });
 
+    if(cmd === `zz`) {
+      if(!args[0])  {
+        message.channel.send(`Zz`)
+};
+
 bot.on('message', message => {
-  if(botconfig.FILTER_LIST.some(word => message.content.toLowerCase().includes(word))){
-    let muterole = message.guild.roles.find(`name`, "Extreme | Muted");  
+  if(botconfig.badwords.some(word => message.content.toLowerCase().includes(word))){
     message.delete()
   }})
 
