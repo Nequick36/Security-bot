@@ -1,28 +1,24 @@
-const Discord = require("discord.js")
-const eco = require("discord-economy")
+
+const Discord = require('discord.js')
+const db = require('quick.db')
 
 module.exports.run = async (bot, message, args) => {
-      if(!message.member.hasPermission("ADMINISTRATOR")) return message.reply("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**")
-  let amount = message.content.split(" ").slice(2).join(" ");
-        if (!message.member.hasPermission("ADMINISTRATOR"))
-        {
-          return message.reply("🛑**ACCESS DENIED! THIS IS A STAFF-ONLY COMMAND.🛑**")
-        }
-       if (!amount) return message.reply("You have not specified an amount!");
-        var user = message.mentions.users.first() || message.guild.members.get(args[0])
-         if (!user) return message.reply('cannot find user!')
 
 
-        eco.FetchBalance(user.id).then(x => {
-                   eco.AddToBalance(user.id, amount).then(l =>
-                     message.reply(`You have successfuly added ${amount} coins to ${user.tag}'s account.`));
-                 })
+
+    if (!message.member.hasPermission('ADMINISTRATOR')) {
+        return message.reply('You do not have enough permission to use this command.')
+    }
+
+    if (!args[0]) return message.reply('Please specify an amount to add.')
+    if (isNaN(args[0])) return message.reply('That was not a valid number!')
+
+    let user = message.mentions.users.first() || message.author
+    message.channel.send('Successfully added ' + args[0] + ' to ' + user)
+    db.add(`money_${message.guild.id}_${message.author.id}`, args[0])
+
 }
-
 module.exports.help = {
-  name: "addbalance",
-  aliases: ["addbal"],
-  perm: "",
-  role: "",
-  group: "economy"
+name: "addbal",
+aliases: ["addBalance","addMoney","addmoney"]
 }

@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "ms": "^2.1.1",
+    "parse-ms": "^2.1.0",
     "quick.db": "^7.0.0-b16",
     "discord-leveling": "^1.1.0",
     "discord-economy": "^1.1.6",

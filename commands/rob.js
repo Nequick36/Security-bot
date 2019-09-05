@@ -1,13 +1,12 @@
-
+const db = require('quick.db')
 const Discord = require('discord.js')
-const eco = require('discord-economy')
 
 exports.run = async (client, message, args, config) => {
 
 
     let user = message.mentions.members.first()
-    let targetuser = await eco.balance(`money_${user.id}`) // fetch mentioned users balance
-    let author = await eco.balance(`money_${message.author.id}`) // fetch authors balance
+    let targetuser = await db.fetch(`money_${user.id}`) // fetch mentioned users balance
+    let author = await db.fetch(`money_${message.author.id}`) // fetch authors balance
 
 
     if (!user) {
@@ -32,8 +31,8 @@ exports.run = async (client, message, args, config) => {
     message.channel.send(embed)
 
 
-    eco.subtract(`money_${user.id}`, random)
-    eco.add(`money_${message.author.id}`, random)
+    db.subtract(`money_${user.id}`, random)
+    db.add(`money_${message.author.id}`, random)
 }
 module.exports.help = {
   name: "rob",
