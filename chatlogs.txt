@@ -536,3 +536,6 @@ TypeError: "" is not a function
 [05.09.2019][10:21:40][biljeske-servera] = 《Security》#1536: 
 [05.09.2019][10:21:51][biljeske-servera] = 《Security》#1536: 
 [05.09.2019][10:22:37][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][11:29:11][「📜」chat] Aptul#5641: <@532659544791318540>
+[05.09.2019][11:29:24][「📜」chat] Aptul#5641: Si ti napravio ono ?
+[05.09.2019][11:29:31][「📜」chat] Aptul#5641: Odnosno Vanillu ?
