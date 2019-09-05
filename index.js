@@ -136,7 +136,8 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 });
 
 bot.on('message', message => {
-  if(bot.FILTER_LIST.some(word => message.content.toLowerCase().includes(word))){
+  if(botconfig.FILTER_LIST.some(word => message.content.toLowerCase().includes(word))){
+    let muterole = message.guild.roles.find(`name`, "Extreme | Muted");  
     message.delete()
   }})
 
