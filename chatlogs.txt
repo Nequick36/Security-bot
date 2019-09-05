@@ -167,3 +167,64 @@
 [05.09.2019][07:53:03][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ
 Radili ste kao ` Dishwasher ` i zaradili ste :money_with_wings: 62
 Vi sada imate :money_with_wings: 3270
+[05.09.2019][08:07:47][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!work
+[05.09.2019][08:07:47][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:08:00][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!work Ucitelj
+[05.09.2019][08:08:00][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:08:00][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:08:49][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!weekly
+[05.09.2019][08:08:49][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:08:49][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:08:53][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!weekly
+[05.09.2019][08:08:53][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:08:54][biljeske-servera] ExtremeCommunity#0316: You already collected ur weekly reward, you can come back and collect it in **6d 23h 59m 55s**!
+[05.09.2019][08:08:56][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!daily
+[05.09.2019][08:08:56][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:08:57][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:09:01][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!monthly
+[05.09.2019][08:09:01][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:09:01][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:09:05][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!bal
+[05.09.2019][08:09:05][biljeske-servera] ExtremeCommunity#0316: You have a balance of `0`
+[05.09.2019][08:09:05][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:09:17][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!work
+[05.09.2019][08:09:17][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:09:22][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!work programer
+[05.09.2019][08:09:22][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:09:34][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!work programer
+[05.09.2019][08:09:34][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:09:47][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!work programer
+[05.09.2019][08:09:47][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:09:47][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:09:51][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!bal
+[05.09.2019][08:09:51][biljeske-servera] ExtremeCommunity#0316: You have a balance of `0`
+[05.09.2019][08:09:51][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:10:06][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!addbal <@!532659544791318540> 1000
+[05.09.2019][08:10:06][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, That was not a valid number!
+[05.09.2019][08:10:06][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:10:10][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!Bal
+[05.09.2019][08:10:10][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[05.09.2019][08:10:10][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:10:13][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!addbal 100
+[05.09.2019][08:10:13][biljeske-servera] ExtremeCommunity#0316: Successfully added 100 to <@532659544791318540>
+[05.09.2019][08:10:14][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:10:16][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!bal
+[05.09.2019][08:10:16][biljeske-servera] ExtremeCommunity#0316: You have a balance of `100`
+[05.09.2019][08:10:17][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:11:10][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!addbal <@!560515595213340693>
+[05.09.2019][08:11:10][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, That was not a valid number!
+[05.09.2019][08:11:10][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:11:18][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!addbal 1000 <@!560515595213340693>
+[05.09.2019][08:11:18][biljeske-servera] ExtremeCommunity#0316: Successfully added 1000 to <@560515595213340693>
+[05.09.2019][08:11:18][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:11:23][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!bal
+[05.09.2019][08:11:23][biljeske-servera] ExtremeCommunity#0316: You have a balance of `1100`
+[05.09.2019][08:11:23][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:11:37][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!work programer
+[05.09.2019][08:11:37][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:11:42][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!bal
+[05.09.2019][08:11:42][biljeske-servera] ExtremeCommunity#0316: You have a balance of `1100`
+[05.09.2019][08:11:42][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][08:12:07][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!bal <@!560515595213340693>
+[05.09.2019][08:12:07][biljeske-servera] ExtremeCommunity#0316: You have a balance of `1100`
+[05.09.2019][08:12:08][biljeske-servera] ExtremeCommunity#0316: 
