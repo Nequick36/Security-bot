@@ -98,3 +98,59 @@ SyntaxError: Unexpected token !
 ```
 [05.09.2019][10:02:00][「📯」obavjestenja] ⚡ Veka ⚡ 《Vlasnik》#7740: @everyone
 [05.09.2019][10:02:20][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:02:25][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:02:53][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:02:58][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:03:22][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:03:33][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:03:37][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:03:50][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:03:54][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:03:54][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:04:11][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:04:15][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:04:22][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:06:41][「📯」obavjestenja] ⚡ Veka ⚡ 《Vlasnik》#7740: **Reagujte na poruku od <@610107625383919616> ako ste procitali obavjestenje!**
+[05.09.2019][10:07:12][biljeske-servera] = 《Security》#1536: 
+[05.09.2019][10:07:12][logs] ExtremeCommunity#0316: 
+[05.09.2019][10:09:51][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: g!create
+[05.09.2019][10:09:51][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][10:09:51][biljeske-servera] g! 《Giveaways》#2381: 🎉 Alright! Let's set up your giveaway! First, what channel do you want the giveaway in?
+You can type `cancel` at any time to cancel creation.
+
+`Please type the name of a channel in this server.`
+[05.09.2019][10:09:55][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: <#582664854004039680>
+[05.09.2019][10:09:55][biljeske-servera] g! 《Giveaways》#2381: 🎉 Sweet! The giveaway will be in <#582664854004039680>! Next, how long should the giveaway last?
+
+`Please enter the duration of the giveaway in seconds.`
+`Alternatively, enter a duration in minutes and include an M at the end, or days and include a D.`
+[05.09.2019][10:09:55][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token <
+```
+[05.09.2019][10:10:07][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: 24h
+[05.09.2019][10:10:07][biljeske-servera] g! 《Giveaways》#2381: 🎉 Neat! This giveaway will last **1** day! Now, how many winners should there be?
+
+`Please enter a number of winners between 1 and 15.`
+[05.09.2019][10:10:07][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Invalid or unexpected token
+```
+[05.09.2019][10:10:09][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: 1
+[05.09.2019][10:10:09][biljeske-servera] ExtremeCommunity#0316: ```xl
+1
+```
+[05.09.2019][10:10:09][biljeske-servera] g! 《Giveaways》#2381: 🎉 Ok! 1 winner it is! Finally, what do you want to give away?
+
+`Please enter the giveaway prize. This will also begin the giveaway.`
+[05.09.2019][10:10:19][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: Minecraft Premium
+[05.09.2019][10:10:19][biljeske-servera] g! 《Giveaways》#2381: 🎉 Done! The giveaway for the `Minecraft Premium` is starting in <#582664854004039680>!
+[05.09.2019][10:10:19][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[05.09.2019][10:10:19][「🎁」giveaways] g! 《Giveaways》#2381: <:yay:585696613507399692>   **GIVEAWAY**   <:yay:585696613507399692>
+[05.09.2019][10:10:22][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: 2+2
+[05.09.2019][10:10:22][biljeske-servera] ExtremeCommunity#0316: ```xl
+4
+```
+[05.09.2019][10:10:51][「🎁」giveaways] ⚡ Veka ⚡ 《Vlasnik》#7740: @everyone **POBJEDNIK OVOG GIVEAWAYA NEKA MI SE JAVI U DM!!!**
