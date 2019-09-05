@@ -61,3 +61,40 @@ SyntaxError: Unexpected identifier
 9 - Sword#9776 | level 22 | 10 xp
 10 - Halcyon#0002 | level 17 | 193 xp
 [05.09.2019][09:47:52][biljeske-servera] ⚡ Ana ⚡ 《Vlasnica》#4953: @Karma!#1542
+[05.09.2019][09:54:47][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!setlevel
+[05.09.2019][09:54:47][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:54:47][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][09:55:02][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!setlevel Joshua#4954 0
+[05.09.2019][09:55:02][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:55:02][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 je sada level 0!
+[05.09.2019][09:55:03][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][09:55:07][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!level
+[05.09.2019][09:55:07][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:55:07][biljeske-servera] ExtremeCommunity#0316: Vi ste level 0 i imate 9 xp-a!
+[05.09.2019][09:55:09][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][09:55:20][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!setlevel 38
+[05.09.2019][09:55:20][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:55:20][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][09:55:28][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!setlevel Joshua#4954 38
+[05.09.2019][09:55:28][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][09:55:28][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 je sada level 38!
+[05.09.2019][09:55:28][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][10:01:33][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!new <#578363546937851915> kod nas se jako lako stize do petog levela pa bi nam bilo glupo da stavimo 5 level pa da otkljucate generator kanale pa ce mo mi staviti level 15 ili 20 videcemo!
+[05.09.2019][10:01:33][「📯」obavjestenja] ExtremeCommunity#0316: 
+[05.09.2019][10:01:34][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, **Your message has been announced!**
+[05.09.2019][10:01:34][biljeske-servera] ExtremeCommunity#0316: 
+[05.09.2019][10:01:34][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[05.09.2019][10:02:00][「📯」obavjestenja] ⚡ Veka ⚡ 《Vlasnik》#7740: @everyone
+[05.09.2019][10:02:20][biljeske-servera] = 《Security》#1536: 
