@@ -273,15 +273,14 @@ bot.on("guildMemberRemove", function (member) {
      channel.sendMessage(`${member.user.tag} je izašao sa servera.`).catch(console.error);
 });
 bot.on('ready', () => {
-    console.log(`${bot.user.username} is online!`)
-
     bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
-            name: 'Welcome to Server!',
-            type: "WATCHING",
+            name: "Bot Prefix (en!)",
+            type: "STREAMING",
+            url: "https://www.twitch.tv/monstercat"
         }
-    })
+    });
 });
 
 bot.login(process.env.TOKEN)
