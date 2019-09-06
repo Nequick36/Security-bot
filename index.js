@@ -232,8 +232,9 @@ bot.on('message', message => {
 let y = process.openStdin()
 y.addListener("data", res => {
   let x = res.toString().trim().split(/ +/g)
-  bot.channels.get("619572431211724800").sed
-})
+  bot.channels.get("619572431211724800").send(x.join(" "));
+});
+
 
 const randomtext = {
   prvi: '619572540574269479',
