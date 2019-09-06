@@ -844,3 +844,26 @@ na vas yt kanal
 [06.09.2019][06:27:51][「📜」chat] ExtremeCommunity#0316: <@!532659544791318540>, Pong! The bot's average ping is 28ms.
 [06.09.2019][06:27:56][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: et tolki je nas pingic
 [06.09.2019][06:28:54][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: staff
+[06.09.2019][06:38:06][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!botavatar
+[06.09.2019][06:38:06][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[06.09.2019][06:38:06][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][06:38:15][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: botavatar
+[06.09.2019][06:38:32][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!botavatar https://cdn.discordapp.com/attachments/619572435787710464/619602237479583744/audii.jpg
+[06.09.2019][06:38:32][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[06.09.2019][06:38:32][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][06:38:48][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: botavatar https://cdn.discordapp.com/attachments/619572435787710464/619602237479583744/audii.jpg
+[06.09.2019][06:39:12][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: botavatar
+[06.09.2019][06:39:15][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!botavatar
+[06.09.2019][06:39:15][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][06:39:15][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[06.09.2019][06:40:01][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!botavatar https://cdn.discordapp.com/attachments/619572435787710464/619602237479583744/audii.jpg
+[06.09.2019][06:40:01][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][06:40:01][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[06.09.2019][06:40:17][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!botavatar https://images-ext-1.discordapp.net/external/kOGcq_6TnSE_8TreH18Wa7nCZUfgragFGUJA2BbH8OA/https/cdn.discordapp.com/attachments/619572435787710464/619602237479583744/audii.jpg?width=211&height=158
+[06.09.2019][06:40:17][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[06.09.2019][06:40:17][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][06:41:13][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!botnickname a
+[06.09.2019][06:41:13][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][06:41:13][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[06.09.2019][06:41:43][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!botnickname <@610107625383919616> Extreme
+[06.09.2019][06:41:43][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
