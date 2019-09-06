@@ -660,3 +660,101 @@ Zabranjeno vređanje po bilo kom osnovu!
 --------------------------------------------------------------------------------------------------
 <[) @everyone  (]>
 [06.09.2019][04:45:51][「🙋」welcome] ExtremeCommunity#0316: <@351388034220163081> je ušao/la u server. Pogledaj poruku od ExtremeCommunity
+[06.09.2019][04:50:18][「💎」self-roles] ⚡ Veka ⚡ 《Vlasnik》#7740: **__Self Roles__**
+
+**__Spol__**
+Musko , Ukucajte  !man Da dobijete role
+Zensko , Ukucajte  !girl Da dobijete role
+
+**__Igrice__**
+Fortnite , Ukucajte  !fort Da dobijete role
+Pubg Mobile , Ukucajte  !pubgmobile Da dobijete role
+Pubg Lite , Ukucajte  !pubglite Da dobijete role
+Samp , Ukucajte  !samp Da dobijete role
+Lol , Ukucajte  !lol Da dobijete role
+Gta V , Ukucajte  !gtav Da dobijete role
+Zula , Ukucajte  !zula Da dobijete role
+Cs:Go , Ukucajte  !csgo Da dobijete role
+Roblox , Ukucajte  !roblox Da dobijete role
+Minecraft , Ukucajte  !mc Da dobijete role
+Battlefield , Ukucajte  !bf Da dobijete role
+
+**__Drzave__**
+Hrvatska , Ukucajte  !hrv Da dobijete role
+Srbija , Ukucajte  !srb Da dobijete role
+Makedonija , Ukucajte  !mkd Da dobijete role
+BiH , Ukucajte  !bih Da dobijete role
+
+**__Socialne Mreze__**
+Spotify  , Ukucajte  !spotify Da dobijete role
+Instagram , Ukucajte  !insta Da dobijete role
+YouTube , Ukucajte  !yt Da dobijete role
+Snapchat , Ukucajte  !snapchat Da dobijete role
+Facebook  , Ukucajte  !fb Da dobijete role
+Twich , Ukucajte  !twich Da dobijete role
+                   **__Self Roles__**
+<here>
+[06.09.2019][04:50:41][「📜」chat] Joka 《Glavni lik》#5280: helo helo
+[06.09.2019][04:51:03][「📜」chat] Dejann#5633: I tebi
+[06.09.2019][04:51:15][「📜」chat] Dejann#5633: Velo nisam ja samo dejann
+[06.09.2019][04:51:21][「📜」chat] Joka 《Glavni lik》#5280: sta se to slusa
+[06.09.2019][04:51:29][「📜」chat] Joka 《Glavni lik》#5280: samo ostoja
+[06.09.2019][04:51:33][「📜」chat] Dejann#5633: Jes
+[06.09.2019][04:51:48][「📜」chat] Dejann#5633: De me metni not
+[06.09.2019][04:51:51][「📜」chat] Wreox_#3752: !man
+[06.09.2019][04:51:51][logs] ExtremeCommunity#0316: 
+[06.09.2019][04:51:51][「📜」chat] Joka 《Glavni lik》#5280: jesi sluso ovu novu od emira
+[06.09.2019][04:51:57][「📜」chat] Dejann#5633: Ma nidje veze
+[06.09.2019][04:52:01][「💎」self-roles] Wreox_#3752: !man
+[06.09.2019][04:52:02][logs] ExtremeCommunity#0316: 
+[06.09.2019][04:52:09][「💎」self-roles] Wreox_#3752: !fort
+[06.09.2019][04:52:10][logs] ExtremeCommunity#0316: 
+[06.09.2019][04:52:12][「📜」chat] NotDejann#5633: Ma ne valja to
+[06.09.2019][04:52:14][「📜」chat] NotDejann#5633: Fali tm
+[06.09.2019][04:52:21][「📜」chat] Joka 《Glavni lik》#5280: ajde posalji mi to tm
+[06.09.2019][04:52:31][「📜」chat] NotDejann#5633: ™
+[06.09.2019][04:52:33][「📜」chat] NotDejann#5633: Mrs
+[06.09.2019][04:52:34][logs] ExtremeCommunity#0316: 
+[06.09.2019][04:52:35][「📜」chat] NotDejann#5633: Vidi nece
+[06.09.2019][04:52:44][「📜」chat] NotDejann#5633: Also ™
+[06.09.2019][04:52:50][「📜」chat] NotDejann™#5633: Evo pa prekopirqj
+[06.09.2019][04:53:24][faq] ⚡ Veka ⚡ 《Vlasnik》#7740: **[?] Kako dobiti besplatne rankove?**
+[-] Besplatni rankovi se nalaze u <#619572458445340683>  , drugi način jeste kada dobijete Level UP time dobijete novi rank sa više mogučnosti na serveru, i treči je kada pozovete vaše priatelje na server, na svakih 5 pozivnica dobijete novi rank sa više mogučnosti i koji je iznad sve Level UP Rankove.
+
+
+**[?] Kako postati Staff na Serveru?**
+[-] Kada su aplikacije otvorene možete se prijaviti komandom "%apply", i ako prođete prijavu dobičete Moderatora. Prijave su otvorene svakih 50 Membera ili po potrebi. 
+
+
+**[?] Gde mogu da koristim komande, i koje komande mogu koristiti?**
+[-] Logično, komande se koriste u <#619572435787710464>  . Skoro pa svaki bot ima svoju "help" komandu gde imate sve informacije za taj bot. Prefix svakog bota je pored njegovog imena.
+
+**[?] Kako da predložim neku stvar koju bi ste mogli dodati na server, ili prijaviti bug?**
+[-] To možete uraditi u kanalu <#619572442255458310> komandom "en!suggest (pitanje)"
+kako prijaviti bug, to mozete u kanalu <#619572443937505311> komandom "en!bugreport (bug)"
+
+**[?] Zašto nemam pristup u voice kanalu "Privatna Soba"?**
+[-] Pristup tom voice kanalu imaju samo članovi našeg Staff Tima i svi korisnici sa rankom ↠ Special, Friend, Nitro Booster, Level 6 i više, Partner, Media, kao i Inviter korisnici. 
+
+
+[?] Gde mogu pronači Pravila i Informacije servera?
+[-] Sve najbitnije Informacije kao i Pravila servera možete pronači u kanalu #📚↞informacije↠ 
+
+[?] Kako da pozovem priatelje na server?
+[-] Napravite svoj invite link iz kanala #📚↞informacije↠ (Never Expire, No Limit) i onda to pošaljite vašim priateljima. Na svakih 5 pozivnica dobijete novi rank i time odključate više mogučnosti na serveru.
+[06.09.2019][04:53:24][「📜」chat] NotDejann™#5633: Aj dm
+[06.09.2019][04:53:25][「📜」chat] NotDejann™#5633: Joka
+[06.09.2019][04:53:27][「📜」chat] Joka 《Glavni lik》#5280: ae
+[06.09.2019][04:53:42][「📜」chat] NotDejann™#5633: jebo te “AE”
+[06.09.2019][04:53:51][「📜」chat] Joka 《J&MP》#5280: ae
+[06.09.2019][04:55:42][logs] ExtremeCommunity#0316: 
+[06.09.2019][04:57:39][「🤝」kako-postati-partneri] ⚡ Veka ⚡ 《Vlasnik》#7740: =============================================
+**Kako postati nas partner?**
+=============================================
+Da postanete nas partner trebate imati minimalno 50+ Membera
+100+ Membera tag @here 
+150+ Membera tag @everyone @here 
+200+ Membera tag @everyone @here i Dmall
+==============================================
+[06.09.2019][04:57:50][logs] ExtremeCommunity#0316: 
+[06.09.2019][04:59:29][「😢」leaves] ExtremeCommunity#0316: MEE6#4876 je izašao sa servera.
