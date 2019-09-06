@@ -834,3 +834,13 @@ na vas yt kanal
 [06.09.2019][06:25:00][「📜」chat] Joka 《J&MP》#5280: Žvelimire
 [06.09.2019][06:25:18][「📜」chat] Joka 《J&MP》#5280: veko peko
 [06.09.2019][06:25:32][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: a
+[06.09.2019][06:27:35][「📜」chat] Joka 《J&MP》#5280: daj mi permisn
+[06.09.2019][06:27:45][「📜」chat] Joka 《J&MP》#5280: da mogu davati rolove
+[06.09.2019][06:27:47][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: en!Ping
+[06.09.2019][06:27:47][「📜」chat] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[06.09.2019][06:27:47][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][06:27:51][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: en!ping
+[06.09.2019][06:27:51][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][06:27:51][「📜」chat] ExtremeCommunity#0316: <@!532659544791318540>, Pong! The bot's average ping is 28ms.
+[06.09.2019][06:27:56][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: et tolki je nas pingic
+[06.09.2019][06:28:54][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: staff
