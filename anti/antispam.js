@@ -24,7 +24,7 @@ module.exports = class extends Monitor {
         const cooldown = msg.guild.configs.cooldown;
         const msgTS = msg.createdTimestamp;
         const data = [];
-        msg.channel.messages.fetch({ limit: 15 })
+        msg.channel.messages.fetch({ limit: 3 })
           .then(m => {
             const arr = m.array();
             for (let i = 0; i < arr.length; i++) {

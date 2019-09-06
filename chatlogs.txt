@@ -867,3 +867,12 @@ na vas yt kanal
 [06.09.2019][06:41:13][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
 [06.09.2019][06:41:43][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!botnickname <@610107625383919616> Extreme
 [06.09.2019][06:41:43][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[06.09.2019][07:28:19][「📋」slike] Wizard#3377: 
+[06.09.2019][07:28:22][「📋」slike] Wizard#3377: 
+[06.09.2019][07:28:22][「📋」slike] Wizard#3377: 
+[06.09.2019][07:28:22][logs] ExtremeCommunity#0316: 
+[06.09.2019][07:28:36][logs] ExtremeCommunity#0316: 
+[06.09.2019][07:28:40][logs] ExtremeCommunity#0316: 
+[06.09.2019][07:28:49][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!antispam
+[06.09.2019][07:28:50][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[06.09.2019][07:28:50][biljeske-servera] ExtremeCommunity#0316: 
