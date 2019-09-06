@@ -260,7 +260,7 @@ bot.on('message', message => {
 
 bot.on("guildMemberAdd", function (member) {
     member.send(`DobroDošli ${member.user.tag} na naš Discord Server ExtremeCommunity, Zabavite se i pročitajte pravila. Hvala unapred!`)
-    let memberRole = member.guild.roles.find(role => role.name === "Memberi");
+    let memberRole = member.guild.roles.find(role => role.name === "Member");
     member.addRole(memberRole);
   let guild = member.guild;
   let channel = member.guild.channels.find(channel => channel.name === '「🙋」welcome')//wouldnt it be better w ids?
