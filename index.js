@@ -132,7 +132,7 @@ Commands:<br><br>
 <b>xpdelete, Vlasnik Komanda!</b>,<br>
 <br>
 
-  <b>Bot made by ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740</b>
+  <b>Bot made by ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740</b><br>
  <b>Official Server https://discord.gg/BgxSdvP</b><br>\n`
            props.help.aliases.forEach(alias => {
          bot.aliases.set(alias, props.help.name);
