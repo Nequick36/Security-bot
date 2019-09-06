@@ -594,3 +594,69 @@ SyntaxError: Unexpected token !
 [06.09.2019][04:37:52][biljeske-servera] Carl-bot#1536: 
 [06.09.2019][04:37:52][biljeske-servera] Carl-bot#1536: 
 [06.09.2019][04:37:52][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:58][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:58][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:58][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:58][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:59][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:04][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:04][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:04][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:04][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:04][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:10][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:10][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:10][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:10][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:11][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:16][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:16][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:16][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:16][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:16][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:22][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:22][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:22][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:23][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:23][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:28][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:28][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:28][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:28][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:28][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:34][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:35][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:35][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:35][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:35][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:40][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:40][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:40][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:40][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:40][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:47][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:47][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:47][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:47][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:47][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:53][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:53][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:53][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:53][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:38:53][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:42:33][freespotify] Xenon#7325: 
+[06.09.2019][04:43:32][「📌」rules] ⚡ Veka ⚡ 《Vlasnik》#7740: --------------------------------------------------------------------------------------------
+Zabranjeno vređanje po bilo kom osnovu!
+  Zabranjeno je slanje linkova.
+  Zabranjeno je smaranje za dobijanje ranka.
+  Zabranjeno deranje,duvanje u mikrofon, vikanje i ostali neartikulisani zvuci ! 
+  Bez političkih, religioznih i nacističkih tema.6  U sobi <#619572470068019201>  Zabranjeni su video klipovi  . (Znaci samo **muzika**!)
+  Zabranjeno imitranje staff-a na serveru. (Raditi posao helpera, moderatora, admina)
+  Zabranjeno je da tagujete Ownera-Vlasnika bez razloga (zato se dobija warn!)
+  Zabranjeno je davanje sebi rankova preko (masine, client, hack,  cheat za to se dobija **BAN**)
+ Trazenje rankova besplatno. (pls mogu rank itd... je zabranjeno)
+ Zabranjeni su cudni fontovi i znakovi prije imena
+ Najstrozije zabranjeno je psovanje (**Dobija se Mute na 30min**)
+--------------------------------------------------------------------------------------------------
+<[) @everyone  (]>
+[06.09.2019][04:45:51][「🙋」welcome] ExtremeCommunity#0316: <@351388034220163081> je ušao/la u server. Pogledaj poruku od ExtremeCommunity
