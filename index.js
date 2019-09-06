@@ -228,6 +228,13 @@ bot.on('message', message => {
   }})
 
 
+//console chatter
+let y = process.openStdin()
+y.addListener("data", res => {
+  let x = res.toString().trim().split(/ +/g)
+  bot.channels.get("619572431211724800").sed
+})
+
 const randomtext = {
   prvi: '619572540574269479',
   drugi: '619572542209785866'  
