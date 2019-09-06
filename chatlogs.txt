@@ -86,3 +86,54 @@ Timeout {
   [Symbol(triggerAsyncId)]: 126 }
 ```
 [06.09.2019][08:14:07][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][08:15:53][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!eval const randomtext = {
+  prvi: '619572540574269479',
+  drugi: '619572542209785866'  
+  
+  
+}
+
+    let texts = ['W','', 'We','', 'Wel','', 'Welc','', 'Welco','', 'Welcom','', 'Welcome','', 'Welcome t','', 'Welcome to ','', 'Welcome to S','', 'Welcome to Se','', 'Welcome to Ser','', 'Welcome to Serv','', 'Welcome to Serve','', 'Welcome to Server']
+    let texts2 = ['C', 'Ci', 'Cil', 'Cilj', 'Cilj:', 'Cilj: ', 'Cilj: 1', 'Cilj: 17', 'Cilj: 175']
+    
+    setInterval(() => {
+        texts.forEach(text => {
+            setTimeout(() => {
+              bot.channels.get(randomtext.prvi).setName(text);
+            }, 1500);
+        })
+        texts2.forEach(text => {
+            setTimeout(() => {
+                bot.channels.get(randomtext.drugi).setName(text);
+            }, 6500);
+        })
+    }, 10000);
+[06.09.2019][08:15:53][biljeske-servera] ExtremeCommunity#0316: ```xl
+Timeout {
+  _called: false,
+  _idleTimeout: 10000,
+  _idlePrev: 
+   TimersList {
+     _idleNext: [Circular],
+     _idlePrev: [Circular],
+     _timer: Timer { '0': [Function: listOnTimeout], _list: [Circular] },
+     _unrefed: false,
+     msecs: 10000,
+     nextTick: false },
+  _idleNext: 
+   TimersList {
+     _idleNext: [Circular],
+     _idlePrev: [Circular],
+     _timer: Timer { '0': [Function: listOnTimeout], _list: [Circular] },
+     _unrefed: false,
+     msecs: 10000,
+     nextTick: false },
+  _idleStart: 72640,
+  _onTimeout: [Function],
+  _timerArgs: undefined,
+  _repeat: 10000,
+  _destroyed: false,
+  [Symbol(asyncId)]: 200,
+  [Symbol(triggerAsyncId)]: 131 }
+```
+[06.09.2019][08:15:53][biljeske-servera] ExtremeCommunity#0316: 

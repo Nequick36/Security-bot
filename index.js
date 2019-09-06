@@ -259,6 +259,28 @@ bot.on('message', message => {
   }})
 
 
+const randomtext = {
+  prvi: '619572540574269479',
+  drugi: '619572542209785866'  
+  
+  
+}
+
+    let texts = ['W', 'W_', 'We', 'We_', 'We', 'Wel', 'Wel_', 'Wel', 'Welc', 'Welc_', 'Welc', 'Welco', 'Welco_', 'Welco', 'Welcom', 'Welcom_', 'Welcom', 'Welcome', 'Welcome_', 'Welcome', 'Welcome t', 'Welcome t_', 'Welcome t', 'Welcome to', 'Welcome to_', 'Welcome to', 'Welcome to S', 'Welcome to S_', 'Welcome to S', 'Welcome to Se', 'Welcome to Se_', 'Welcome to Se', 'Welcome to Ser', 'Welcome to Ser_', 'Welcome to Ser', 'Welcome to Serv', 'Welcome to Serv_', 'Welcome to Serv', 'Welcome to Serve', 'Welcome to Serve_', 'Welcome to Serve', 'Welcome to Server', 'Welcome to Server_', 'Welcome to Server']
+    let texts2 = ['C', 'C_', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', '', '', '', '', '']
+    
+    setInterval(() => {
+        texts.forEach(text => {
+            setTimeout(() => {
+              bot.channels.get(randomtext.prvi).setName(text);
+            }, 1500);
+        })
+        texts2.forEach(text => {
+            setTimeout(() => {
+                bot.channels.get(randomtext.drugi).setName(text);
+            }, 6500);
+        })
+    }, 10000);
 
 
 
