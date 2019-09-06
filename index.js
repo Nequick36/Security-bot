@@ -222,37 +222,6 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 	});
 });
 
-
-
-
-
-bot.on("message", (message) => {
-  if(message.content === "zz") {
-    message.channel.send(`${message.author.tag} zz`);
-  }
-  if(message.content === "jutro") {
-    message.channel.send(`${message.author.tag} Jutro`);
-  }
-    if(message.content === "Jutro") {
-    message.channel.send(`${message.author.tag} Jutro`);
-  }
-    if(message.content === "Zz") {
-    message.channel.send(`${message.author.tag} zz`);
-  }
-    if(message.content === "cao") {
-    message.channel.send(`${message.author.tag} cao`);
-  }
-    if(message.content === "lkn") {
-    message.channel.send(`${message.author.tag} Lkn`);
-  }
-    if(message.content === "laku noc") {
-    message.channel.send(`${message.author.tag} laku noc`);
-  }
-    if(message.content === "Cao") {
-    message.channel.send(`${message.author.tag} Cao`);
-  }
-});
-
 bot.on('message', message => {
   if(botconfig.badwords.some(word => message.content.toLowerCase().includes(word))){
     message.delete()
@@ -267,7 +236,7 @@ const randomtext = {
 }
 
     let texts = ['W', 'W_', 'We', 'We_', 'We', 'Wel', 'Wel_', 'Wel', 'Welc', 'Welc_', 'Welc', 'Welco', 'Welco_', 'Welco', 'Welcom', 'Welcom_', 'Welcom', 'Welcome', 'Welcome_', 'Welcome', 'Welcome t', 'Welcome t_', 'Welcome t', 'Welcome to', 'Welcome to_', 'Welcome to', 'Welcome to S', 'Welcome to S_', 'Welcome to S', 'Welcome to Se', 'Welcome to Se_', 'Welcome to Se', 'Welcome to Ser', 'Welcome to Ser_', 'Welcome to Ser', 'Welcome to Serv', 'Welcome to Serv_', 'Welcome to Serv', 'Welcome to Serve', 'Welcome to Serve_', 'Welcome to Serve', 'Welcome to Server', 'Welcome to Server_', 'Welcome to Server']
-    let texts2 = ['C', 'C_', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', '', '', '', '', '']
+    let texts2 = ['C', 'C_', 'C', 'Ci', 'Ci_', 'Ci', 'Cil', 'Cil_', 'Cil', 'Cilj', 'Cilj_', 'Cilj', 'Cilj:', 'Cilj:_', 'Cilj: 1', 'Cilj: 1_', 'Cilj: 1', 'Cilj: 17', 'Cilj: 17_', 'Cilj: 17', 'Cilj: 175', 'Cilj: 175_', 'Cilj: 175']
     
     setInterval(() => {
         texts.forEach(text => {
