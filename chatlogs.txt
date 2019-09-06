@@ -460,3 +460,137 @@ To chat with me, just send a message in that channel and I'll respond to you.
 [06.09.2019][04:24:51][「📜」chat] NotDejann™#5633: samo mi treba backup zbog rolova
 [06.09.2019][04:25:38][「📜」chat] NotDejann™#5633: <@526869942713319436>
 [06.09.2019][04:25:38][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:26:06][「📜」chat] Joka#5280: a
+[06.09.2019][04:26:40][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:26:51][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:26:54][「📜」chat] NotDejann™#5633: aj dm
+[06.09.2019][04:27:03][「📜」chat] NotDejann™#5633: da bacimo koju suplju
+[06.09.2019][04:27:53][「📜」chat] NotDejann™#5633: <@!532659544791318540>
+[06.09.2019][04:27:53][「📜」chat] NotDejann™#5633: <@!532659544791318540>
+[06.09.2019][04:27:54][logs] ExtremeCommunity#0316: 
+[06.09.2019][04:27:54][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:27:54][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:27:54][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:27:54][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:27:54][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:27:58][「🙋」welcome] ExtremeCommunity#0316: <@538819014575652869> je ušao/la u server. Pogledaj poruku od ExtremeCommunity
+[06.09.2019][04:27:59][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:27:59][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:29:50][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: x!backup list
+[06.09.2019][04:29:51][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[06.09.2019][04:29:51][biljeske-servera] Xenon#7325: 
+[06.09.2019][04:30:02][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: x!backup load 534103580920250399
+[06.09.2019][04:30:02][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[06.09.2019][04:30:02][biljeske-servera] Xenon#7325: 
+[06.09.2019][04:31:01][logs] ExtremeCommunity#0316: 
+[06.09.2019][04:31:01][biljeske-servera] Xenon#7325: 
+[06.09.2019][04:31:12][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:31:13][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:31:18][logs] ExtremeCommunity#0316: 
+[06.09.2019][04:31:38][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:32:13][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:32:20][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:32:20][「🙋」welcome] ExtremeCommunity#0316: <@546443994557710339> je ušao/la u server. Pogledaj poruku od ExtremeCommunity
+[06.09.2019][04:32:20][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:32:20][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:32:21][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:32:21][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:32:26][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:32:27][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:32:41][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:32:49][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:32:49][「🙋」welcome] ExtremeCommunity#0316: <@469440452756635648> je ušao/la u server. Pogledaj poruku od ExtremeCommunity
+[06.09.2019][04:32:49][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:33:16][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:34:07][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:34:07][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:34:07][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:34:07][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:34:08][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:34:13][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:34:13][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:34:13][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:34:13][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:34:13][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:34:22][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:35:14][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:35:22][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:13][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:30][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: x!backup list
+[06.09.2019][04:36:30][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[06.09.2019][04:36:30][biljeske-servera] Xenon#7325: 
+[06.09.2019][04:36:36][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: x!backup load 534103580920250399
+[06.09.2019][04:36:36][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[06.09.2019][04:36:36][biljeske-servera] Xenon#7325: 
+[06.09.2019][04:36:40][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:41][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:42][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:43][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:45][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:46][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:47][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:48][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:49][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:50][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:52][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:52][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:52][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:53][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:53][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:58][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:58][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:58][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:58][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:36:58][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:04][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:04][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:04][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:04][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:04][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:10][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:10][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:10][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:11][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:11][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:16][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:16][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:16][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:16][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:22][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:22][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:23][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:23][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:23][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:28][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:28][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:28][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:28][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:28][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:34][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:34][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:35][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:35][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:35][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:40][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:40][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:40][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:40][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:40][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:46][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:46][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:46][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:47][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:47][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:52][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:52][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:52][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:52][biljeske-servera] Carl-bot#1536: 
+[06.09.2019][04:37:52][biljeske-servera] Carl-bot#1536: 
