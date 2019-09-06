@@ -199,3 +199,11 @@ Puno svi me gledaju
 [06.09.2019][05:14:37][「📜」chat] jeb_ 《Mod》#9861: en!help
 [06.09.2019][05:14:37][「📜」chat] ExtremeCommunity#0316: jeb_#9861 Pogledajte svoj DM!
 [06.09.2019][05:14:37][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][08:11:31][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
+[06.09.2019][08:11:32][「💬」bot-commands] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
+[06.09.2019][08:11:32][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][08:14:47][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
+[06.09.2019][08:14:48][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][08:19:42][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!status a
+[06.09.2019][08:19:42][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][08:19:42][「💬」bot-commands] ExtremeCommunity#0316: 
