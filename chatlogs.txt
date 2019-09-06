@@ -26,3 +26,6 @@ https://www.youtube.com/watch?v=-tVSNHs0Mws
 [06.09.2019][09:47:03][「😢」leaves] ExtremeCommunity#0316: Trovixo#2934 je izašao sa servera.
 [06.09.2019][09:57:29][「🙋」welcome] ExtremeCommunity#0316: <@411678472222539787> je ušao/la u server. Pogledaj poruku od ExtremeCommunity
 [06.09.2019][10:08:43][「🙋」welcome] ExtremeCommunity#0316: <@454751077279989771> je ušao/la u server. Pogledaj poruku od ExtremeCommunity
+[06.09.2019][10:21:18][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
+[06.09.2019][10:21:18][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][10:21:18][「💬」bot-commands] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
