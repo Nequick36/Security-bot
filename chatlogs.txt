@@ -35,3 +35,10 @@ Snimit cu na svakom videu
 [06.09.2019][10:29:53][yt-apply] KALE#3725: I na yt se zovem ianyanab allgtv
 [06.09.2019][10:30:08][logs] ExtremeCommunity#0316: 
 [06.09.2019][10:31:35][yt-apply] ⚡ Veka ⚡ 《Vlasnik》#7740: eto
+[06.09.2019][10:45:49][「💬」bot-commands] Wizard 《Pomoćnik》#3377: en!botavatar
+[06.09.2019][10:45:49][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[06.09.2019][10:45:49][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][10:46:46][「💬」bot-commands] Wizard 《Pomoćnik》#3377: en!afk
+[06.09.2019][10:46:46][「💬」bot-commands] ExtremeCommunity#0316: 
+[06.09.2019][10:46:46][biljeske-servera] ExtremeCommunity#0316: 
+[06.09.2019][10:47:45][「🙋」welcome] ExtremeCommunity#0316: <@324517143091740672> je ušao/la u server. Pogledaj poruku od ExtremeCommunity
