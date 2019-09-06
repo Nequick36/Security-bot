@@ -207,3 +207,6 @@ Puno svi me gledaju
 [06.09.2019][08:19:42][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!status a
 [06.09.2019][08:19:42][biljeske-servera] ExtremeCommunity#0316: 
 [06.09.2019][08:19:42][「💬」bot-commands] ExtremeCommunity#0316: 
+[06.09.2019][09:05:11][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!serverinfo
+[06.09.2019][09:05:11][「💬」bot-commands] ExtremeCommunity#0316: 
+[06.09.2019][09:05:11][biljeske-servera] ExtremeCommunity#0316: 
