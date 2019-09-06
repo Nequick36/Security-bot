@@ -258,6 +258,19 @@ bot.on('message', message => {
     message.delete()
   }})
 
+
+const guild = bot.guilds.get('534103580920250399');
+
+// Get our stats channels
+const totalUsers = bot.channels.get('619572606500208641');
+const onlineUsers = bot.channels.get('619592831199084554');
+const codeMonkeys = bot.channels.get('619593058744270918');
+
+
+var userCount = guild.memberCount;
+var onlineCount = guild.members.filter(m => m.presence.status === 'online').size
+
+
 bot.on("guildMemberAdd", function (member) {
     member.send(`DobroDošli ${member.user.tag} na naš Discord Server ExtremeCommunity, Zabavite se i pročitajte pravila. Hvala unapred!`)
     let memberRole = member.guild.roles.find(role => role.name === "Member");
