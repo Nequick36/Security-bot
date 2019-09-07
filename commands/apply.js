@@ -13,8 +13,8 @@ module.exports.run = async (bot, message, args) => {
     message.guild.createChannel(`apply-${message.author.id}`, 'text').then(channel => {
       channel.setTopic(`Apply: ${message.author.tag}`)
       channel.send(`
-${message.author.tag}
-       **Staff Apply**
+${message.author.tag} Prije svega dobrodosli na nas server ${message.guild.name} odgovorite na ova pitanja i imacete sanse da dobijete staffa!
+       **Pitanja za Staff Apply**
 
 1: Da li se spreman za Staff Apply? Sto bolje odgovoris na ova pitanja imas vece sanse za ulazak u Staff Team! Sretno!
 2: Kako se zoves u real life?
