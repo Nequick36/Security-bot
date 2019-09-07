@@ -162,3 +162,12 @@ Snimit cu na svakom videu
 [07.09.2019][12:14:12][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!Botinfo
 [07.09.2019][12:14:12][biljeske-servera] ExtremeCommunity#0316: 
 [07.09.2019][12:14:12][「💬」bot-commands] ExtremeCommunity#0316: 
+[07.09.2019][01:13:20][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!setstatus
+[07.09.2019][01:13:20][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][01:13:20][「💬」bot-commands] ExtremeCommunity#0316: <@!532659544791318540>, Usage: .setstatus (type) (new status) )
+[07.09.2019][01:13:22][logs] ExtremeCommunity#0316: 
+[07.09.2019][01:13:25][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!settatus a
+[07.09.2019][01:13:25][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][01:13:30][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!setstatus a
+[07.09.2019][01:13:30][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][01:13:30][「💬」bot-commands] ExtremeCommunity#0316: <@!532659544791318540>, Wrong status! Use `playing`, `watching`, `streaming`, or `listening`
