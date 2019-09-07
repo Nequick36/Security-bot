@@ -252,3 +252,64 @@ Snimit cu na svakom videu
 [07.09.2019][06:55:20][「📜」chat] Delija_#9442: Hahahahaha
 [07.09.2019][06:59:09][「📜」chat] Delija_#9442: Pravi bota hahaha
 [07.09.2019][06:59:12][「📜」chat] Delija_#9442: <@!532659544791318540>
+[07.09.2019][07:07:33][「📜」chat] Faze Terminator#5336: Pozic
+[07.09.2019][07:07:44][「📜」chat] Faze Terminator#5336: Dajem svima jedan blokic
+[07.09.2019][07:07:48][「📜」chat] Faze Terminator#5336: Salim se xd
+[07.09.2019][07:08:03][「📜」chat] Ognjen#2857: <@532659544791318540>
+[07.09.2019][07:08:04][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: blokic xd
+[07.09.2019][07:08:05][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: a
+[07.09.2019][07:08:06][「📜」chat] Ognjen#2857: De mi je rank
+[07.09.2019][07:08:21][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: koi
+[07.09.2019][07:08:29][「📜」chat] Ognjen#2857: Nzm koj sam imao
+[07.09.2019][07:08:38][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: imo si iron XD
+[07.09.2019][07:08:41][「📜」chat] Ognjen#2857: Nisam
+[07.09.2019][07:08:43][「📜」chat] Delija_#9442: Ahah
+[07.09.2019][07:08:44][「📜」chat] Ognjen#2857: Staff neki
+[07.09.2019][07:08:55][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: aj ukucaj %apply
+[07.09.2019][07:09:05][「📜」chat] Ognjen#2857: De
+[07.09.2019][07:09:13][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: dje oces XD
+[07.09.2019][07:09:17][「📜」chat] Ognjen#2857: %apply
+[07.09.2019][07:09:29][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: ahm
+[07.09.2019][07:09:31][「📜」chat] Ognjen#2857: en!apply
+[07.09.2019][07:09:31][「📜」chat] ExtremeCommunity#0316: Apply help:
+!apply new - Makes new ticket
+[07.09.2019][07:09:31][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][07:09:40][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: e ja ima i to XD
+[07.09.2019][07:09:42][「📜」chat] Delija_#9442: en!apply
+[07.09.2019][07:09:42][「📜」chat] ExtremeCommunity#0316: Apply help:
+!apply new - Makes new ticket
+[07.09.2019][07:09:43][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][07:09:46][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: ovo makes a new ticket
+[07.09.2019][07:09:51][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: to sam zaboravio promjenit
+[07.09.2019][07:09:53][「📜」chat] Delija_#9442: !apply new
+[07.09.2019][07:09:55][「📜」chat] Ognjen#2857: !apply new
+[07.09.2019][07:09:58][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: en!
+[07.09.2019][07:09:58][「📜」chat] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][07:09:58][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][07:10:01][「📜」chat] Delija_#9442: Kako da applian
+[07.09.2019][07:10:04][biljeske-servera] 《Security》#1536: 
+[07.09.2019][07:10:04][logs] ExtremeCommunity#0316: 
+[07.09.2019][07:10:06][「📜」chat] ⚡ Veka ⚡ 《Vlasnik》#7740: .en!apply new
+[07.09.2019][07:10:25][「📜」chat] Delija_#9442: en!apply new
+[07.09.2019][07:10:25][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][07:10:25][biljeske-servera] 《Security》#1536: 
+[07.09.2019][07:10:25][apply-543004967598948356] ExtremeCommunity#0316: Delija_#9442
+       **Staff Apply**
+
+1: Da li se spreman za Staff Apply? Sto bolje odgovoris na ova pitanja imas vece sanse za ulazak u Staff Team! Sretno!
+2: Kako se zoves u real life?
+3: Koje si godiste?
+4: Kolko imas godina?
+5: Koliko dugo koristis Discord?
+6: Koliko znas o Discordu!(1-10)
+7: Koliko znas o Botovima! (1-10)
+8: Navedi nam minimum 6 Discord botova? (Sto vise to bolje)
+9: Navedi sto vise botova koji pomazu u administraciji servera!
+10: Koliko mozes da budes aktivan?
+11: Da li si nekada bio/la staff na nekom srv i koji su to serveri? (koliko membera)
+12: Zasto bi zelio bas da budes dio Staff-Teama na ExtremeCommunity Discord serveru?
+13: Ocijeni nas Discord server!(1-10)
+14: Sta bi promjenio na nasem Discord serveru?
+15: Sta ti se najvise i najmanje svidja na nasem Discord serveru?
+16: Srecno!
+[07.09.2019][07:11:09][apply-543004967598948356] Delija_#9442: Jsm spreman sam hah
