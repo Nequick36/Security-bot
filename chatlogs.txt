@@ -49,3 +49,44 @@ Snimit cu na svakom videu
 [06.09.2019][11:00:47][「💬」bot-commands] ExtremeCommunity#0316: <@!429920777572319233>, Wizard#3377je dosao nazad!
 [07.09.2019][03:00:27][「🙋」welcome] ExtremeCommunity#0316: <@272722210567880704> je ušao/la u server. Pogledaj poruku od ExtremeCommunity
 [07.09.2019][03:00:57][「😢」leaves] ExtremeCommunity#0316: uRiX0369#7405 je izašao sa servera.
+[07.09.2019][08:41:25][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!info
+[07.09.2019][08:41:25][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][08:41:26][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][08:41:31][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!info <@!429920777572319233>
+[07.09.2019][08:41:31][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][08:41:31][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][08:41:59][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!lock
+[07.09.2019][08:41:59][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][08:41:59][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][08:44:21][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:22][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:22][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:22][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:25][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:27][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:27][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:27][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:27][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:27][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:33][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:33][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:33][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:33][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:33][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:39][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:39][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:39][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:39][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:39][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:45][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:46][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:46][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:46][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:46][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:51][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:51][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:51][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:51][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:51][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:57][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:44:57][biljeske-servera] = 《Security》#1536: 
