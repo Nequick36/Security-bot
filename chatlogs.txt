@@ -47,3 +47,5 @@ Snimit cu na svakom videu
 [06.09.2019][10:58:46][logs] ExtremeCommunity#0316: 
 [06.09.2019][11:00:47][「💬」bot-commands] [AFK] Wizard 《Pomoćnik》#3377: back
 [06.09.2019][11:00:47][「💬」bot-commands] ExtremeCommunity#0316: <@!429920777572319233>, Wizard#3377je dosao nazad!
+[07.09.2019][03:00:27][「🙋」welcome] ExtremeCommunity#0316: <@272722210567880704> je ušao/la u server. Pogledaj poruku od ExtremeCommunity
+[07.09.2019][03:00:57][「😢」leaves] ExtremeCommunity#0316: uRiX0369#7405 je izašao sa servera.
