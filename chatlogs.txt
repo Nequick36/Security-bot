@@ -340,3 +340,12 @@ Snimit cu na svakom videu
 [07.09.2019][07:46:09][「😢」leaves] ExtremeCommunity#0316: LemiKing#6799 je izašao sa servera.
 [07.09.2019][07:49:33][「📜」chat] Delija_#9442: 〖📝〗logs
 [07.09.2019][07:49:35][「📜」chat] Delija_#9442: 〖📝〗logs
+[07.09.2019][08:17:22][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!ban
+[07.09.2019][08:17:22][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][08:17:22][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][08:17:24][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!kick
+[07.09.2019][08:17:24][「💬」bot-commands] ExtremeCommunity#0316: Sorry, I couldn't find that user
+[07.09.2019][08:17:24][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][08:17:39][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!ban
+[07.09.2019][08:17:39][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][08:17:39][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
