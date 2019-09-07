@@ -144,3 +144,15 @@ Snimit cu na svakom videu
 [07.09.2019][09:27:46][biljeske-servera] = 《Security》#1536: 
 [07.09.2019][09:27:46][logs] ExtremeCommunity#0316: 
 [07.09.2019][09:28:05][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][09:32:00][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!Help
+[07.09.2019][09:32:00][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][09:32:00][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][09:32:06][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
+[07.09.2019][09:32:07][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
+[07.09.2019][09:32:07][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][09:32:25][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!ping
+[07.09.2019][09:32:25][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, Pong! The bot's average ping is 15ms.
+[07.09.2019][09:32:25][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][09:34:10][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
+[07.09.2019][09:34:11][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
+[07.09.2019][09:34:11][biljeske-servera] ExtremeCommunity#0316: 
