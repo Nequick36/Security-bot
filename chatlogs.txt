@@ -90,3 +90,31 @@ Snimit cu na svakom videu
 [07.09.2019][08:44:51][biljeske-servera] = 《Security》#1536: 
 [07.09.2019][08:44:57][biljeske-servera] = 《Security》#1536: 
 [07.09.2019][08:44:57][biljeske-servera] = 《Security》#1536: 
+[07.09.2019][08:57:19][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!setprefix
+[07.09.2019][08:57:20][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][08:57:20][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][08:57:28][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!setprefix
+[07.09.2019][08:57:28][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][08:57:28][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][08:57:30][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: setprefix
+[07.09.2019][08:59:15][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!setprefix !
+[07.09.2019][08:59:15][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][08:59:15][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][08:59:19][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: !help
+[07.09.2019][08:59:19][biljeske-servera] ! 《Muzika》#3722: ✅ **Check <https://rythmbot.co/features#list> for a list of commands**
+[07.09.2019][09:01:34][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!setprefix .
+[07.09.2019][09:01:34][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][09:01:34][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][09:01:34][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> se level-upo na level 39!
+[07.09.2019][09:02:04][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!setprefix .
+[07.09.2019][09:02:04][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][09:02:05][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][09:02:08][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!prefix .
+[07.09.2019][09:02:08][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][09:02:08][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][09:02:11][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: .help
+[07.09.2019][09:02:37][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!prefix .
+[07.09.2019][09:02:37][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[07.09.2019][09:02:37][biljeske-servera] ExtremeCommunity#0316: 
+[07.09.2019][09:02:41][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: prefix .
+[07.09.2019][09:02:46][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: setprefix .
