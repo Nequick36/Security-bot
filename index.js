@@ -158,7 +158,7 @@ const randomtext = {
   drugi: '619572542209785866'  
 }
     let texts = ['W', 'W_', 'We', 'We_', 'We', 'Wel', 'Wel_', 'Wel', 'Welc', 'Welc_', 'Welc', 'Welco', 'Welco_', 'Welco', 'Welcom', 'Welcom_', 'Welcom', 'Welcome', 'Welcome_', 'Welcome', 'Welcome t', 'Welcome t_', 'Welcome t', 'Welcome to', 'Welcome to_', 'Welcome to', 'Welcome to S', 'Welcome to S_', 'Welcome to S', 'Welcome to Se', 'Welcome to Se_', 'Welcome to Se', 'Welcome to Ser', 'Welcome to Ser_', 'Welcome to Ser', 'Welcome to Serv', 'Welcome to Serv_', 'Welcome to Serv', 'Welcome to Serve', 'Welcome to Serve_', 'Welcome to Serve', 'Welcome to Server', 'Welcome to Server_', 'Welcome to Server']
-    let texts2 = ['C', 'C_', 'C', 'Ci', 'Ci_', 'Ci', 'Cil', 'Cil_', 'Cil', 'Cilj', 'Cilj_', 'Cilj', 'Cilj:', 'Cilj:_', 'Cilj: 1', 'Cilj: 1_', 'Cilj: 1', 'Cilj: 17', 'Cilj: 17_', 'Cilj: 17', 'Cilj: 175', 'Cilj: 175_', 'Cilj: 175']
+    let texts2 = ['C', 'C_', 'C', 'Ci', 'Ci_', 'Ci', 'Cil', 'Cil_', 'Cil', 'Cilj', 'Cilj_', 'Cilj', 'Cilj:', 'Cilj:_', 'Cilj:1', 'Cilj:1_', 'Cilj:1', 'Cilj:12', 'Cilj:12_', 'Cilj:12', 'Cilj:125', 'Cilj:125_', 'Cilj:125' ,'M', 'M_' ,'M' ,'Me' ,'Me_' ,'Me' ,'Mem' ,'Mem_' ,'Mem' ,'Memb' ,'Memb_' ,'Memb' ,'Membe' ,'Membe_' ,'Membe' ,'Member' ,'Member_' ,'Member' ,'Membera' ,'Membera_' ,'Membera']
     
     setInterval(() => {
         texts.forEach(text => {
@@ -169,9 +169,9 @@ const randomtext = {
         texts2.forEach(text => {
             setTimeout(() => {
                 bot.channels.get(randomtext.drugi).setName(text);
-            }, 6500);
+            }, 9500);
         })
-    }, 10000);
+    }, 13500);
 bot.on("guildMemberAdd", function (member) {
     member.send(`DobroDošli ${member.user.tag} na naš Discord Server ExtremeCommunity, Zabavite se i pročitajte pravila. Hvala unapred!`)
     let memberRole = member.guild.roles.find(role => role.name === "Member");
