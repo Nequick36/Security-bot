@@ -489,3 +489,12 @@ Snimit cu na svakom videu
 [08.09.2019][03:03:58][biljeske-servera] 《Security》#1536: 
 [08.09.2019][03:11:14][chat] TLVA 《Admin》#2179: Rip
 [08.09.2019][04:18:29][chat] ⚡ Veka ⚡ 《Vlasnik》#7740: sta rip
+[08.09.2019][05:21:49][biljeske-servera] 《Security》#1536: 
+[08.09.2019][05:22:01][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: <@!458664297732636672> bind <#620268275128860682>
+[08.09.2019][05:22:02][biljeske-servera] 《Prijatelj》#3825: Bound to Channel <#620268275128860682>
+
+To chat with me, just send a message in that channel and I'll respond to you.
+[08.09.2019][05:22:02][chat-sa-botom] 《Prijatelj》#3825: **⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740** bound me to this channel
+[08.09.2019][05:22:10][logs] ExtremeCommunity#0316: 
+[08.09.2019][05:22:11][chat-sa-botom] ⚡ Veka ⚡ 《Vlasnik》#7740: ja ja
+[08.09.2019][05:22:21][chat-sa-botom] 《Prijatelj》#3825: **⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740**, Ich liebe dich.
