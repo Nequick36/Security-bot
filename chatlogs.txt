@@ -361,3 +361,6 @@ Snimit cu na svakom videu
 [08.09.2019][09:23:58][biljeske-servera] 《Security》#1536: 
 [08.09.2019][09:23:59][「🙋」welcome] ExtremeCommunity#0316: <@620185976551112705> je ušao/la u server. Pogledaj poruku od ExtremeCommunity
 [08.09.2019][09:23:59][biljeske-servera] 《Security》#1536: 
+[08.09.2019][11:34:04][「💬」bot-commands] jeb_ 《Mod》#9861: en!help
+[08.09.2019][11:34:04][「💬」bot-commands] ExtremeCommunity#0316: jeb_#9861 Pogledajte svoj DM!
+[08.09.2019][11:34:04][biljeske-servera] ExtremeCommunity#0316: 
