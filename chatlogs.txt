@@ -451,3 +451,19 @@ Snimit cu na svakom videu
 [08.09.2019][02:23:10][biljeske-servera] 《Security》#1536: 
 [08.09.2019][02:23:25][biljeske-servera] 《Security》#1536: 
 [08.09.2019][02:23:35][biljeske-servera] 《Security》#1536: 
+[08.09.2019][02:33:27][biljeske-servera] 《Security》#1536: 
+[08.09.2019][02:33:32][biljeske-servera] 《Security》#1536: 
+[08.09.2019][02:33:37][biljeske-servera] 《Security》#1536: 
+[08.09.2019][02:39:47][biljeske-servera] 《Security》#1536: 
+[08.09.2019][02:39:51][biljeske-servera] 《Security》#1536: 
+[08.09.2019][02:39:58][biljeske-servera] 《Security》#1536: 
+[08.09.2019][02:40:30][biljeske-servera] 《Security》#1536: 
+[08.09.2019][02:40:34][biljeske-servera] 《Security》#1536: 
+[08.09.2019][02:40:38][biljeske-servera] 《Security》#1536: 
+[08.09.2019][02:40:42][biljeske-servera] 《Security》#1536: 
+[08.09.2019][02:42:08][chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: x!backup list
+[08.09.2019][02:42:08][chat] Xenon#7325: 
+[08.09.2019][02:42:16][chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: x!backup load egts065x7s88mulf
+[08.09.2019][02:42:16][chat] Xenon#7325: 
+[08.09.2019][02:42:18][logs] ExtremeCommunity#0316: 
+[08.09.2019][02:42:18][chat] Xenon#7325: 
