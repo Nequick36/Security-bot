@@ -352,3 +352,12 @@ Snimit cu na svakom videu
 [08.09.2019][09:04:53][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!ban
 [08.09.2019][09:04:53][biljeske-servera] ExtremeCommunity#0316: 
 [08.09.2019][09:04:53][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[08.09.2019][09:17:50][「📜」voting] ⚡ Veka ⚡ 《Vlasnik》#7740: en!vote da li da uradimo potpuno nove kanale i rolove?
+[08.09.2019][09:17:50][「📜」voting] ExtremeCommunity#0316: 
+[08.09.2019][09:17:50][biljeske-servera] ExtremeCommunity#0316: 
+[08.09.2019][09:17:52][logs] ExtremeCommunity#0316: 
+[08.09.2019][09:17:52][biljeske-servera] 《Security》#1536: 
+[08.09.2019][09:18:04][「📜」voting] ⚡ Veka ⚡ 《Vlasnik》#7740: @everyone @everyone @here @here @here
+[08.09.2019][09:23:58][biljeske-servera] 《Security》#1536: 
+[08.09.2019][09:23:59][「🙋」welcome] ExtremeCommunity#0316: <@620185976551112705> je ušao/la u server. Pogledaj poruku od ExtremeCommunity
+[08.09.2019][09:23:59][biljeske-servera] 《Security》#1536: 
