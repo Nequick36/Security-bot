@@ -349,3 +349,6 @@ Snimit cu na svakom videu
 [07.09.2019][08:17:39][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!ban
 [07.09.2019][08:17:39][biljeske-servera] ExtremeCommunity#0316: 
 [07.09.2019][08:17:39][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[08.09.2019][09:04:53][「💬」bot-commands] ⚡ Veka ⚡ 《Vlasnik》#7740: en!ban
+[08.09.2019][09:04:53][biljeske-servera] ExtremeCommunity#0316: 
+[08.09.2019][09:04:53][「💬」bot-commands] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
