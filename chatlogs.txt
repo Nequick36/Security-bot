@@ -498,3 +498,11 @@ To chat with me, just send a message in that channel and I'll respond to you.
 [08.09.2019][05:22:10][logs] ExtremeCommunity#0316: 
 [08.09.2019][05:22:11][chat-sa-botom] ⚡ Veka ⚡ 《Vlasnik》#7740: ja ja
 [08.09.2019][05:22:21][chat-sa-botom] 《Prijatelj》#3825: **⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740**, Ich liebe dich.
+[08.09.2019][05:41:55][biljeske-servera] 《Security》#1536: 
+[08.09.2019][05:42:11][biljeske-servera] 《Security》#1536: 
+[08.09.2019][05:42:13][biljeske-servera] 《Security》#1536: 
+[08.09.2019][05:43:41][biljeske-servera] 《Security》#1536: 
+[08.09.2019][05:43:53][biljeske-servera] 《Security》#1536: 
+[08.09.2019][05:44:09][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!ban
+[08.09.2019][05:44:09][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[08.09.2019][05:44:10][biljeske-servera] ExtremeCommunity#0316: 
