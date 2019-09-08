@@ -172,20 +172,6 @@ const randomtext = {
             }, 9500);
         })
     }, 13500);
-bot.on("guildMemberAdd", function (member) {
-    member.send(`DobroDošli ${member.user.tag} na naš Discord Server ExtremeCommunity, Zabavite se i pročitajte pravila. Hvala unapred!`)
-    let memberRole = member.guild.roles.find(role => role.name === "Member");
-    member.addRole(memberRole);
-  let guild = member.guild;
-  let channel = member.guild.channels.find(channel => channel.name === '「🙋」welcome')//wouldnt it be better w ids?
-    channel.sendMessage(`${member.user} je ušao/la u server. Pogledaj poruku od ExtremeCommunity`).catch(console.error);
-});
-
-bot.on("guildMemberRemove", function (member) {
-     let guild = member.guild;
-  let channel = member.guild.channels.find(channel => channel.name === '「😢」leaves')
-     channel.sendMessage(`${member.user.tag} je izašao sa servera.`).catch(console.error);
-});
 bot.on('ready', () => {
     bot.user.setStatus('available')
     bot.user.setPresence({
