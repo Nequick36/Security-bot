@@ -18,7 +18,6 @@ dependencies:
   sequelize: 5.1.1
   sqlite3: 4.0.6
   superagent: 4.1.0
-  then-redis: 2.0.1
   winston: 2.4.4
   winston-discord: 0.2.0
 packages:
@@ -1527,13 +1526,6 @@ packages:
       '@types/geojson': 1.0.6
     resolution:
       integrity: sha512-YlmQ1fsMWTkKGDGibCRWgmLzrpDRUr63Q025LJ/taYQ6j1Yb8q9McKF7NBi6ACAyUXO6F/bl9w6v4MY307y5Ag==
-  /then-redis/2.0.1:
-    dev: false
-    peerDependencies:
-      redis: '*'
-      redis-commands: '*'
-    resolution:
-      integrity: sha1-55fxj/9/PFC/wq6Vo121rQsIFv8=
   /toposort-class/1.0.1:
     dev: false
     resolution:
@@ -1715,6 +1707,5 @@ specifiers:
   sequelize: ^5.1.1
   sqlite3: ^4.0.6
   superagent: ^4.1.0
-  then-redis: ^2.0.1
   winston: ^2.3.1
   winston-discord: ^0.2.0
