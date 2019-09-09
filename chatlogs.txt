@@ -24,3 +24,38 @@ To finish setup, have an admin run **<@431247481267814410> setup** in this chann
 [09.09.2019][08:31:58][biljeske-servera] 《Security》#1536: 
 [09.09.2019][08:32:02][biljeske-servera] 《Security》#1536: 
 [09.09.2019][08:32:07][biljeske-servera] 《Security》#1536: 
+[09.09.2019][08:32:15][biljeske-servera] 《Security》#1536: 
+[09.09.2019][08:32:27][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: <@431247481267814410> setup
+[09.09.2019][08:32:27][biljeske-servera] INVITE.GG#2032: <:invite_blurple:429481856317128704> **Step 1/3: Choose a Vanity Link**
+Let's get this server set up! First, what would you like the server's vanity link code to be?
+For example, if you wanted your invite link to be `invite.gg/example`, you would type `example`.
+To cancel setup at any time, simply type `cancel`.
+[09.09.2019][08:32:34][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: ExtremeCommunity
+[09.09.2019][08:32:34][biljeske-servera] INVITE.GG#2032: <:invite_blurple:429481856317128704> `SUCCESS`: The invite code `extremecommunity` is available!
+
+<:invite_blurple:429481856317128704> **Step 2/3: Server Description**
+Now, please provide a brief description of this server (under 250 characters). To cancel setup, type `cancel`.
+[09.09.2019][08:32:41][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: Join Now!
+[09.09.2019][08:32:41][biljeske-servera] INVITE.GG#2032: <:invite_blurple:429481856317128704> `SUCCESS`: Excellent description!
+
+<:invite_blurple:429481856317128704> **Step 3/3: Choose Color**
+Finally, what would you like this server's theme color to be? Please provide a hex color (ex: `#7289DA`), `skip` to skip this, or `cancel` to cancel setup.
+[09.09.2019][08:32:45][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: skip
+[09.09.2019][08:32:45][biljeske-servera] INVITE.GG#2032: <:invite_blurple:429481856317128704> `SUCCESS`: Skipping the color. Please wait while I finish setting up your invite link...
+[09.09.2019][08:32:45][biljeske-servera] INVITE.GG#2032: <:invite_blurple:429481856317128704> `SUCCESS`: Your custom invite link has been set up! https://invite.gg/extremecommunity can now be used to join your server!
+Note: To remove your vanity link, kick me from this server.
+Note: The Discord preview embed may take several minutes to update
+[09.09.2019][08:32:59][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: https://invite.gg/extremecommunity
+[09.09.2019][08:41:11][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!dmall https://invite.gg/rare ko moze neka udje
+[09.09.2019][08:41:11][biljeske-servera] ExtremeCommunity#0316: Dmall is complete please wait 7 seconds
+[09.09.2019][08:41:12][biljeske-servera] ExtremeCommunity#0316: 
+[09.09.2019][08:41:54][〔💬〕chat-sa-botom] jeb_ 《Mod》#9861: en!dmall
+[09.09.2019][08:41:54][biljeske-servera] ExtremeCommunity#0316: 
+[09.09.2019][08:41:54][〔💬〕chat-sa-botom] ExtremeCommunity#0316: Nemas dozvolu za tu komandu!
+[09.09.2019][08:41:59][〔💬〕chat-sa-botom] jeb_ 《Mod》#9861: najss
+[09.09.2019][08:42:00][〔💬〕chat-sa-botom] 《Prijatelj》#3825: **jeb_#9861**, De nem.
+[09.09.2019][08:42:05][〔💬〕chat-sa-botom] 《Prijatelj》#3825: **jeb_#9861**, Ty to dziewczyna czy chłopak?
+[09.09.2019][08:42:33][〔💬〕chat-sa-botom] jeb_ 《Mod》#9861: koji ti vrag
+[09.09.2019][08:42:39][〔💬〕chat-sa-botom] 《Prijatelj》#3825: **jeb_#9861**, Koj ti moj.
+[09.09.2019][08:42:47][〔💬〕chat-sa-botom] ⚡ Veka ⚡ 《Vlasnik》#7740: a vidis da je puko
+[09.09.2019][08:42:53][〔💬〕chat-sa-botom] 《Prijatelj》#3825: **⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740**, Ti stvarno jesi ubojicz.
