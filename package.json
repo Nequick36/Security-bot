@@ -10,6 +10,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "then-redis": "^2.0.1",
     "ms": "^2.1.1",
     "discord.io": "^2.5.3",
     "winston-discord": "^0.2.0",
