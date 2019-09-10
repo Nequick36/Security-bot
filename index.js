@@ -166,12 +166,12 @@ const randomtext = {
               bot.channels.get(randomtext.prvi).setName(text);
             }, 1500);
         })
-        texts2.forEach(text => {
+        texts2.forEach(texts2 => {
             setTimeout(() => {
-                bot.channels.get(randomtext.drugi).setName(text);
-            }, 9500);
+                bot.channels.get(randomtext.drugi).setName(texts2);
+            }, 8000);
         })
-    }, 13500);
+    }, 10000);
 bot.on('ready', () => {
     bot.user.setStatus('available')
     bot.user.setPresence({
