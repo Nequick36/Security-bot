@@ -196,3 +196,39 @@ Zabavu vam zeli na ovome serveru nas staff team 🙂
 [09.09.2019][08:55:54][〔🎵〕narucivanje-muzike] ! 《Muzika》#3722: 
 [09.09.2019][08:58:59][〔🎵〕narucivanje-muzike] ! 《Muzika》#3722: 
 [09.09.2019][09:02:05][〔🎵〕narucivanje-muzike] ! 《Muzika》#3722: 
+[10.09.2019][08:23:11][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: !join
+[10.09.2019][08:23:11][biljeske-servera] 《Security》#1393: <:blobthinkingeyes:428315439769321472>  Unknown command. Type `!help` for a list of commands.
+[10.09.2019][08:23:11][biljeske-servera] ! 《Muzika》#3722: 👍 **Joined** `Server Otvoren: 13.1.2019` :page_facing_up: **And bound to** `biljeske-servera`
+[10.09.2019][08:23:12][〔🎵〕narucivanje-muzike] ! 《Muzika》#3722: 
+[10.09.2019][08:23:21][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: !loop
+[10.09.2019][08:23:21][biljeske-servera] 《Security》#1393: <:blobthinkingeyes:428315439769321472>  Unknown command. Type `!help` for a list of commands.
+[10.09.2019][08:23:22][biljeske-servera] ! 《Muzika》#3722: 🔂 **Disabled!**
+[10.09.2019][08:23:23][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: !s
+[10.09.2019][08:23:24][biljeske-servera] ! 《Muzika》#3722: ❌ **You cannot run this command while deafened**
+[10.09.2019][08:23:24][biljeske-servera] 《Security》#1393: <:blobthinkingeyes:428315439769321472>  Unknown command. Type `!help` for a list of commands.
+[10.09.2019][08:23:26][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: !q
+[10.09.2019][08:23:26][biljeske-servera] 《Security》#1393: <:blobthinkingeyes:428315439769321472>  Unknown command. Type `!help` for a list of commands.
+[10.09.2019][08:23:27][biljeske-servera] ! 《Muzika》#3722: 
+[10.09.2019][08:23:29][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: !s
+[10.09.2019][08:23:29][biljeske-servera] 《Security》#1393: <:blobthinkingeyes:428315439769321472>  Unknown command. Type `!help` for a list of commands.
+[10.09.2019][08:23:29][biljeske-servera] ! 《Muzika》#3722: ❌ **You cannot run this command while deafened**
+[10.09.2019][08:23:32][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: !q
+[10.09.2019][08:23:32][biljeske-servera] 《Security》#1393: <:blobthinkingeyes:428315439769321472>  Unknown command. Type `!help` for a list of commands.
+[10.09.2019][08:23:32][biljeske-servera] ! 《Muzika》#3722: 
+[10.09.2019][08:24:02][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: >join
+[10.09.2019][08:24:02][biljeske-servera] > 《Muzika》#2000: 👍 **Joined** `Owner Music #1` :page_facing_up: **And bound to** `biljeske-servera`
+[10.09.2019][08:24:11][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: >play serbian sretan rodjendan
+[10.09.2019][08:24:12][biljeske-servera] > 《Muzika》#2000: <:youtube:335112740957978625> **Searching** 🔎 `serbian sretan rodjendan`
+[10.09.2019][08:24:12][biljeske-servera] > 《Muzika》#2000: 
+[10.09.2019][08:24:12][biljeske-servera] > 《Muzika》#2000: **Playing** 🎶 `SERBIAN - SRECAN RODJENDAN ★ LIGU LIGU ★ Decije pesme / Pesmice za decu / SerbianGamesBL Pesme` - Now!
+[10.09.2019][08:24:14][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: >help
+[10.09.2019][08:24:14][biljeske-servera] > 《Muzika》#2000: ✅ **Check <https://rythmbot.co/features#list> for a list of commands**
+[10.09.2019][08:24:19][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: >qp
+[10.09.2019][08:24:22][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: >mp
+[10.09.2019][08:24:28][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: >np
+[10.09.2019][08:24:28][biljeske-servera] > 《Muzika》#2000: 
+[10.09.2019][08:24:45][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: !lyrics
+[10.09.2019][08:24:45][biljeske-servera] 《Security》#1393: <:blobthinkingeyes:428315439769321472>  Unknown command. Type `!help` for a list of commands.
+[10.09.2019][08:24:45][biljeske-servera] ! 《Muzika》#3722: 🔍 **Searching lyrics for ** `Zorica Brunclik  Ja znam   HD`
+[10.09.2019][08:24:49][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: >lyrics
+[10.09.2019][08:24:49][biljeske-servera] > 《Muzika》#2000: 🔍 **Searching lyrics for ** `SERBIAN  SRECAN RODJENDAN ★ LIGU LIGU ★ Decije pesme / Pesmice za decu / SerbianGamesBL Pesme`
