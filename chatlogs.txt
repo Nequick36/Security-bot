@@ -45,3 +45,7 @@ I pustate muziku sa Rythm botom i ko zadnji ostane dobije role Titan i 250$ na n
 [11.09.2019][08:36:40][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!ping
 [11.09.2019][08:36:41][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, Pong! The bot's average ping is 86ms.
 [11.09.2019][08:36:41][biljeske-servera] ExtremeCommunity#0316: 
+[11.09.2019][09:12:00][naručivanje-muzike] Joka 《J&MP》#5280: ima li vas
+[11.09.2019][09:12:05][naručivanje-muzike] ⚡ Veka ⚡ 《Vlasnik》#7740: ne tu
+[11.09.2019][09:12:09][naručivanje-muzike] ⚡ Veka ⚡ 《Vlasnik》#7740: aj na radiationu tam
+[11.09.2019][09:12:12][naručivanje-muzike] ⚡ Veka ⚡ 《Vlasnik》#7740: da te movam u sobu
