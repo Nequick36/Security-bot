@@ -441,3 +441,6 @@ You can type `cancel` at any time to cancel creation.
 [11.09.2019][05:55:08][〔🤖〕bot-komande] its my bday (jeb_) 《Mod》#9861: !gw
 [11.09.2019][05:55:08][〔🤖〕bot-komande] 《Welcomer》#4876: Sada mozete ucestvovati u giveawayima <@!373459214670102528>
 [11.09.2019][05:55:09][logs] ExtremeCommunity#0316: 
+[11.09.2019][06:13:36][〔🤖〕bot-komande] Profesor 《B-Admin》#7676: !gw
+[11.09.2019][06:13:37][〔🤖〕bot-komande] 《Welcomer》#4876: Sada mozete ucestvovati u giveawayima <@!546443994557710339>
+[11.09.2019][06:13:38][logs] ExtremeCommunity#0316: 
