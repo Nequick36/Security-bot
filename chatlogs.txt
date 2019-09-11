@@ -369,3 +369,58 @@ Sada nas ima  : 113
 [11.09.2019][05:21:57][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: ne mam
 [11.09.2019][05:22:00][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: jel vako se pise
 [11.09.2019][05:22:16][〔💬〕balkan-chat] Joka 《J&MP》#5280: nisam nemam necu nemoj se pise zajedno
+[11.09.2019][05:34:12][〔🤖〕bot-komande] ⚡ Veka ⚡ 《Vlasnik》#7740: en!Botinfo
+[11.09.2019][05:34:13][biljeske-servera] ExtremeCommunity#0316: 
+[11.09.2019][05:34:13][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[11.09.2019][05:34:15][〔🤖〕bot-komande] ⚡ Veka ⚡ 《Vlasnik》#7740: nojs
+[11.09.2019][05:39:44][〔🤖〕bot-komande] ⚡ Veka ⚡ 《Vlasnik》#7740: en!avatar
+[11.09.2019][05:39:45][biljeske-servera] ExtremeCommunity#0316: 
+[11.09.2019][05:39:45][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[11.09.2019][05:40:06][〔🤖〕bot-komande] ⚡ Veka ⚡ 《Vlasnik》#7740: en!baltop
+[11.09.2019][05:40:06][biljeske-servera] ExtremeCommunity#0316: 
+[11.09.2019][05:40:07][〔🤖〕bot-komande] ⚡ Veka ⚡ 《Vlasnik》#7740: en!daily
+[11.09.2019][05:40:07][biljeske-servera] ExtremeCommunity#0316: 
+[11.09.2019][05:40:07][〔🤖〕bot-komande] ExtremeCommunity#0316: <@!532659544791318540>, **Uzeli ste svoki nagradu od 250:money_with_wings: sada imate 3620:money_with_wings:**
+[11.09.2019][05:40:08][〔🤖〕bot-komande] ExtremeCommunity#0316: My leaderboard:
+ 
+**1** - A retard#2649 **|** **Balance** 2135992578 
+**2** - Joshua#4954 **|** **Balance** 86444 
+**3** - Deleted User 56c54dae#9847 **|** **Balance** 11495 
+**4** - Seth#7796 **|** **Balance** 6080 
+**5** - ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 **|** **Balance** 3270 
+**6** - TLVA#2179 **|** **Balance** 2708 
+**7** - omerpro#1406 **|** **Balance** 2561 
+**8** - OfficialHypro#3269 **|** **Balance** 2365 
+**9** - TryHardBoy7#7170 **|** **Balance** 1540 
+**10** - CameronT05092002#4064 **|** **Balance** 1273
+[11.09.2019][05:40:11][〔🤖〕bot-komande] ⚡ Veka ⚡ 《Vlasnik》#7740: en!work
+[11.09.2019][05:40:11][〔🤖〕bot-komande] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ
+Radili ste kao ` Cleaner ` i zaradili ste :money_with_wings: 116
+Vi sada imate :money_with_wings: 3736
+[11.09.2019][05:40:11][biljeske-servera] ExtremeCommunity#0316: 
+[11.09.2019][05:42:42][〔🤖〕bot-komande] ⚡ Veka ⚡ 《Vlasnik》#7740: g!create
+[11.09.2019][05:42:42][〔🤖〕bot-komande] 《Giveaways》#2381: 🎉 Alright! Let's set up your giveaway! First, what channel do you want the giveaway in?
+You can type `cancel` at any time to cancel creation.
+
+`Please type the name of a channel in this server.`
+[11.09.2019][05:42:48][〔🤖〕bot-komande] ⚡ Veka ⚡ 《Vlasnik》#7740: <#620269502357045268>
+[11.09.2019][05:42:48][〔🤖〕bot-komande] 《Giveaways》#2381: 🎉 Sweet! The giveaway will be in <#620269502357045268>! Next, how long should the giveaway last?
+
+`Please enter the duration of the giveaway in seconds.`
+`Alternatively, enter a duration in minutes and include an M at the end, or days and include a D.`
+[11.09.2019][05:42:51][〔🤖〕bot-komande] ⚡ Veka ⚡ 《Vlasnik》#7740: 24h
+[11.09.2019][05:42:51][〔🤖〕bot-komande] 《Giveaways》#2381: 🎉 Neat! This giveaway will last **1** day! Now, how many winners should there be?
+
+`Please enter a number of winners between 1 and 15.`
+[11.09.2019][05:42:53][〔🤖〕bot-komande] ⚡ Veka ⚡ 《Vlasnik》#7740: 1
+[11.09.2019][05:42:53][〔🤖〕bot-komande] 《Giveaways》#2381: 🎉 Ok! 1 winner it is! Finally, what do you want to give away?
+
+`Please enter the giveaway prize. This will also begin the giveaway.`
+[11.09.2019][05:43:03][〔🤖〕bot-komande] ⚡ Veka ⚡ 《Vlasnik》#7740: Spotify Premium (Provjeren)
+[11.09.2019][05:43:03][〔🤖〕bot-komande] 《Giveaways》#2381: 🎉 Done! The giveaway for the `Spotify Premium (Provjeren)` is starting in <#620269502357045268>!
+[11.09.2019][05:43:03][〔🎁〕giveaways] 《Giveaways》#2381: <:yay:585696613507399692>   **GIVEAWAY**   <:yay:585696613507399692>
+[11.09.2019][05:43:12][〔🎁〕giveaways] ⚡ Veka ⚡ 《Vlasnik》#7740: en!emojify NOVI GIVEAWAY
+[11.09.2019][05:43:13][biljeske-servera] ExtremeCommunity#0316: 
+[11.09.2019][05:43:13][〔🎁〕giveaways] ExtremeCommunity#0316: :regional_indicator_n: :regional_indicator_o: :regional_indicator_v: :regional_indicator_i:    :regional_indicator_g: :regional_indicator_i: :regional_indicator_v: :regional_indicator_e: :regional_indicator_a: :regional_indicator_w: :regional_indicator_a: :regional_indicator_y:
+[11.09.2019][05:43:17][logs] ExtremeCommunity#0316: 
+[11.09.2019][05:43:22][〔🎁〕giveaways] ⚡ Veka ⚡ 《Vlasnik》#7740: @everyone

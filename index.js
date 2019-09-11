@@ -154,9 +154,9 @@ bot.on('ready', () => {
     bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
-            name: "Bot Prefix (en!)",
+            name: "Official Bot",
             type: "STREAMING",
-            url: "https://www.twitch.tv/monstercat"
+            url: "https://www.twitch.tv/veka_peka312"
         }
     });
 });
