@@ -153,25 +153,6 @@ y.addListener("data", res => {
 
 //animated text
 
-const randomtext = {
-  prvi: '619572540574269479',
-  drugi: '619572542209785866'  
-}
-    let texts = ['W', 'W_', 'We', 'We_', 'We', 'Wel', 'Wel_', 'Wel', 'Welc', 'Welc_', 'Welc', 'Welco', 'Welco_', 'Welco', 'Welcom', 'Welcom_', 'Welcom', 'Welcome', 'Welcome_', 'Welcome', 'Welcome t', 'Welcome t_', 'Welcome t', 'Welcome to', 'Welcome to_', 'Welcome to', 'Welcome to S', 'Welcome to S_', 'Welcome to S', 'Welcome to Se', 'Welcome to Se_', 'Welcome to Se', 'Welcome to Ser', 'Welcome to Ser_', 'Welcome to Ser', 'Welcome to Serv', 'Welcome to Serv_', 'Welcome to Serv', 'Welcome to Serve', 'Welcome to Serve_', 'Welcome to Serve', 'Welcome to Server', 'Welcome to Server_', 'Welcome to Server']
-    let texts2 = ['C', 'C_', 'C', 'Ci', 'Ci_', 'Ci', 'Cil', 'Cil_', 'Cil', 'Cilj', 'Cilj_', 'Cilj', 'Cilj:', 'Cilj:_', 'Cilj:1', 'Cilj: 1_', 'Cilj: 1', 'Cilj: 12', 'Cilj: 12_', 'Cilj: 12', 'Cilj: 125', 'Cilj: 125_', 'Cilj: 125' ,'Cilj: 125 M', 'Cilj: 125 M_' ,'Cilj: 125 M' ,'Cilj: 125 Me' ,'Cilj: 125 Me_' ,'Cilj: 125 Me' ,'Cilj: 125 Mem' ,'Cilj: 125 Mem_' ,'Cilj: 125 Mem' ,'Cilj: 125 Memb' ,'Cilj: 125 Memb_' ,'Cilj: 125 Memb' ,'Cilj: 125 Membe' ,'Cilj: 125 Membe_' ,'Cilj: 125 Membe' ,'Cilj: 125 Member' ,'Cilj: 125 Member_' ,'Cilj: 125 Member' ,'Cilj: 125 Membera' ,'Cilj: 125 Membera_' ,'Cilj: 125 Membera']
-    
-    setInterval(() => {
-        texts.forEach(text => {
-            setTimeout(() => {
-              bot.channels.get(randomtext.prvi).setName(text);
-            }, 1500);
-        })
-        texts2.forEach(text => {
-            setTimeout(() => {
-                bot.channels.get(randomtext.drugi).setName(text);
-            }, 8000);
-        })
-    }, 10000);
 
 bot.on('ready', () => {
     bot.user.setStatus('available')
