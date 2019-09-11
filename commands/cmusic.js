@@ -19,12 +19,6 @@ en!music close - Deletes the event`)
 VIEW_CHANNEL: true, 
 SPEAK: false
 })
-channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Fail'), {
-VIEW_CHANNEL: true,
-SEND_MESSAGES: false,
-READ_MESSAGE_HISTORY: true,
-SPEAK: false
-})
 channel.overwritePermissions(message.author, {
 VIEW_CHANNEL: true,
 SEND_MESSAGES: true,

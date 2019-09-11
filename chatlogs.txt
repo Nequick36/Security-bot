@@ -13,3 +13,25 @@
 [11.09.2019][06:57:25][〔💬〕balkan-chat] Joka 《J&MP》#5280: A sto se operiso
 [11.09.2019][06:57:44][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: sta ja znam XD
 [11.09.2019][06:57:51][〔💬〕balkan-chat] Joka 《J&MP》#5280: E jesi paglu
+[11.09.2019][07:52:07][logs] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!send
+[11.09.2019][07:52:07][biljeske-servera] GODEsport Bot#1052: 
+[11.09.2019][07:52:08][biljeske-servera] ExtremeCommunity#0316: 
+[11.09.2019][07:52:08][logs] ExtremeCommunity#0316: < @here > **NOVI MUSIC EVENT** < @here >
+Udjite u voice channel [ **Music Event** ]
+I pustate muziku sa Rythm botom i ko zadnji ostane dobije role Titan i 250$ na nasem Official Botu
+[11.09.2019][07:54:31][logs] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!music
+[11.09.2019][07:54:32][biljeske-servera] GODEsport Bot#1052: 
+[11.09.2019][07:54:32][logs] ExtremeCommunity#0316: Event help:
+en!music new - Makes new event
+en!music close - Deletes the event
+[11.09.2019][07:54:32][biljeske-servera] ExtremeCommunity#0316: 
+[11.09.2019][07:54:36][logs] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!music new
+[11.09.2019][07:54:36][biljeske-servera] GODEsport Bot#1052: 
+[11.09.2019][07:54:36][biljeske-servera] ExtremeCommunity#0316: 
+[11.09.2019][07:54:41][naruci-muziku-za-event] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!send
+[11.09.2019][07:54:41][biljeske-servera] GODEsport Bot#1052: 
+[11.09.2019][07:54:41][biljeske-servera] ExtremeCommunity#0316: 
+[11.09.2019][07:54:41][logs] ExtremeCommunity#0316: 
+[11.09.2019][07:54:41][naruci-muziku-za-event] ExtremeCommunity#0316: < @here > **NOVI MUSIC EVENT** < @here >
+Udjite u voice channel [ **Music Event** ]
+I pustate muziku sa Rythm botom i ko zadnji ostane dobije role Titan i 250$ na nasem Official Botu
