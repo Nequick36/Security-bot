@@ -17,7 +17,7 @@
     },
     "610107625383919616": {
         "username": "ExtremeCommunity",
-        "count": 648
+        "count": 651
     },
     "440451286794633216": {
         "username": "ZajeboSistemV1",
@@ -33,7 +33,7 @@
     },
     "159985870458322944": {
         "username": "MEE6",
-        "count": 11
+        "count": 12
     },
     "412269163684560896": {
         "username": "TLVA",
@@ -149,7 +149,7 @@
     },
     "620695413602648064": {
         "username": "Carl-bot Logging",
-        "count": 59
+        "count": 74
     },
     "501982335076532224": {
         "username": "BetterAntispam",
@@ -162,5 +162,9 @@
     "619648611118088214": {
         "username": "Spotify Bot V2",
         "count": 2
+    },
+    "584454406448087045": {
+        "username": "Crunchyroll Bot",
+        "count": 1
     }
 }
