@@ -346,3 +346,7 @@ Server Owner**: Veka**
 [11.09.2019][08:45:31][biljeske-servera] 《Security》#1393: 
 [11.09.2019][08:45:36][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: !prefix -
 [11.09.2019][08:45:37][biljeske-servera] 《Security》#1393: <:blobokhand:428315439173468180> The command prefix has been changed to -
+[11.09.2019][10:55:13][〔💧〕leave] 《Welcomer》#4876: ====================================
+**Hexyo#9694** nas je napustio 
+Sada nas ima  : 113 
+====================================
