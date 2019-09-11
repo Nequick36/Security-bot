@@ -305,3 +305,21 @@ Server Owner**: Veka**
 [11.09.2019][07:41:51][〔🎉〕freeminecraft] ⚡ Veka ⚡ 《Vlasnik》#7740: **!minecraft and !m**
 [11.09.2019][07:41:58][〔🎉〕freespotify] ⚡ Veka ⚡ 《Vlasnik》#7740: **!spotify and !s**
 [11.09.2019][07:42:12][〔🎉〕freecrunchyroll] ⚡ Veka ⚡ 《Vlasnik》#7740: **!crunchyroll and !c**
+[11.09.2019][07:52:58][〔🤖〕bot-komande] CrispyCookie#8613: !s
+[11.09.2019][07:53:04][〔🤖〕bot-komande] CrispyCookie#8613: !m
+[11.09.2019][07:57:40][〔🎉〕rewards] ⚡ Veka ⚡ 《Vlasnik》#7740: **Ako hocete Crunchryroll accaunt morate imati level 10 ili 10 Invitova
+Ako hocete Hulu accaunt morate imati level 15 ili 10 Invitova
+Ako hocete Spotify accaunt morate imati level 30 ili 20 Invitova 
+Ako hocete Minecraft accaunt morate imati level 35 ili 30 Invitova**
+< @everyone >
+[11.09.2019][08:01:05][〔🔰〕welcome] 《Welcomer》#4876: Dobrodosli <@619648611118088214> na nas Discord Server ExtremeCommunity Zabavi se i procitaj pravila
+=====================================
+Members : 111 
+Server Owner**: Veka**
+=====================================
+[11.09.2019][08:01:07][freespotify] Spotify Bot V2#0717: Type !spotify in this channel to generate accounts
+[11.09.2019][08:01:35][freespotify] ⚡ Veka ⚡ 《Vlasnik》#7740: !s
+[11.09.2019][08:01:35][freespotify] 《Security》#1393: <:blobthinkingeyes:428315439769321472>  Unknown command. Type `!help` for a list of commands.
+[11.09.2019][08:01:35][freespotify] Spotify Bot V2#0717: You will receive an account once we check its working 
+ Estimated time: 2:00 mins  <@532659544791318540>
+[11.09.2019][08:01:38][logs] ExtremeCommunity#0316: 
