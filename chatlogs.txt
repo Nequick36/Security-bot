@@ -424,3 +424,20 @@ You can type `cancel` at any time to cancel creation.
 [11.09.2019][05:43:13][〔🎁〕giveaways] ExtremeCommunity#0316: :regional_indicator_n: :regional_indicator_o: :regional_indicator_v: :regional_indicator_i:    :regional_indicator_g: :regional_indicator_i: :regional_indicator_v: :regional_indicator_e: :regional_indicator_a: :regional_indicator_w: :regional_indicator_a: :regional_indicator_y:
 [11.09.2019][05:43:17][logs] ExtremeCommunity#0316: 
 [11.09.2019][05:43:22][〔🎁〕giveaways] ⚡ Veka ⚡ 《Vlasnik》#7740: @everyone
+[11.09.2019][05:48:45][〔📢〕obavjestenja] ⚡ Veka ⚡ 《Vlasnik》#7740: **Zasto ne vidim kanal giveaways ukucajte u chatu ili u <#620267256802312212> !gw da dobijete pristup giveaway kanalu.Zasto smo ovo uradili? ovo smo uradili da ne smaramo ostale clanove servera!** < @everyone >
+[11.09.2019][05:50:06][〔🤖〕bot-komande] Ognjen#2857: !gw
+[11.09.2019][05:50:06][〔🤖〕bot-komande] 《Welcomer》#4876: Sada mozete ucestvovati u giveawayima <@!421325315567255553>
+[11.09.2019][05:50:07][logs] ExtremeCommunity#0316: 
+[11.09.2019][05:50:26][〔🤖〕bot-komande] ⚡ Veka ⚡ 《Vlasnik》#7740: nojs nojs
+[11.09.2019][05:50:27][〔🤖〕bot-komande] 《Leveling》#2867: Cestitam! <@532659544791318540>! Vi ste sada **level 3**!
+[11.09.2019][05:50:59][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: **Zasto ne vidim kanal giveaways ukucajte u chatu ili u <#620267256802312212> !gw da dobijete pristup giveaway kanalu.Zasto smo ovo uradili? ovo smo uradili da ne smaramo ostale clanove servera!** < @everyone >
+[11.09.2019][05:51:46][〔💬〕balkan-chat] Joka 《J&MP》#5280: MOLIM
+[11.09.2019][05:52:06][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: procitaj
+[11.09.2019][05:52:21][〔💬〕balkan-chat] Joka 《J&MP》#5280: da vas ne smaramo sad nas smaras
+[11.09.2019][05:52:34][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: pa
+[11.09.2019][05:52:39][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: da svi vide
+[11.09.2019][05:52:40][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: pa ko oce
+[11.09.2019][05:52:47][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: ukucaj !gw ako os ucestvovat
+[11.09.2019][05:55:08][〔🤖〕bot-komande] its my bday (jeb_) 《Mod》#9861: !gw
+[11.09.2019][05:55:08][〔🤖〕bot-komande] 《Welcomer》#4876: Sada mozete ucestvovati u giveawayima <@!373459214670102528>
+[11.09.2019][05:55:09][logs] ExtremeCommunity#0316: 
