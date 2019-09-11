@@ -147,12 +147,8 @@ bot.on('message', message => {
 let y = process.openStdin()
 y.addListener("data", res => {
   let x = res.toString().trim().split(/ +/g)
-  bot.channels.get("619572431211724800").send(x.join(" "));
+  bot.channels.get("619572522677043211").send(x.join(" "));
 });
-
-
-//animated text
-
 
 bot.on('ready', () => {
     bot.user.setStatus('available')
