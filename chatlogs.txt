@@ -35,3 +35,6 @@ en!music close - Deletes the event
 [11.09.2019][07:54:41][naruci-muziku-za-event] ExtremeCommunity#0316: < @here > **NOVI MUSIC EVENT** < @here >
 Udjite u voice channel [ **Music Event** ]
 I pustate muziku sa Rythm botom i ko zadnji ostane dobije role Titan i 250$ na nasem Official Botu
+[11.09.2019][08:21:52][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!profile
+[11.09.2019][08:21:52][biljeske-servera] ExtremeCommunity#0316: 
+[11.09.2019][08:21:53][biljeske-servera] ExtremeCommunity#0316: 
