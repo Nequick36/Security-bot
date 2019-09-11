@@ -444,3 +444,15 @@ You can type `cancel` at any time to cancel creation.
 [11.09.2019][06:13:36][〔🤖〕bot-komande] Profesor 《B-Admin》#7676: !gw
 [11.09.2019][06:13:37][〔🤖〕bot-komande] 《Welcomer》#4876: Sada mozete ucestvovati u giveawayima <@!546443994557710339>
 [11.09.2019][06:13:38][logs] ExtremeCommunity#0316: 
+[11.09.2019][06:23:35][「📜」chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: +eval
+[11.09.2019][06:23:35][logs] RARE  Official Bot#4340: 
+[11.09.2019][06:23:35][「📜」chat] RARE  Official Bot#4340: ```xl
+undefined
+```
+[11.09.2019][06:23:38][「📜」chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: +to
+[11.09.2019][06:23:38][logs] RARE  Official Bot#4340: 
+[11.09.2019][06:23:42][「📜」chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: +eval 2+2
+[11.09.2019][06:23:42][logs] RARE  Official Bot#4340: 
+[11.09.2019][06:23:42][「📜」chat] RARE  Official Bot#4340: ```xl
+4
+```
