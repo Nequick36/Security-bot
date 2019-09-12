@@ -118,3 +118,31 @@ But no worries, over 0d 15h 27m 56s you can use daily again!
 [12.09.2019][09:06:43][〔🎉〕rewards] ⚡ Veka ⚡ 《Vlasnik》#7740: **I PAZITE STA PITESETE U KANALIMA <#621247548606382080> <#621246520146264065> <#621247498068951041> <#621247526909247508> KADA IH OTKLJUCATE COOLDOWN JE 30 MIN ZA MINECRAFT JE 24H**
 [12.09.2019][09:33:52][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: 
 [12.09.2019][10:17:47][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: <@&619572381987373066>
+[12.09.2019][10:22:40][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!mute
+[12.09.2019][10:22:40][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:22:41][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:22:44][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!unmute
+[12.09.2019][10:22:44][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[12.09.2019][10:22:44][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:22:50][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!tempmute
+[12.09.2019][10:22:51][biljeske-servera] Extreme#0316: <@!532659544791318540>, Couldn't find user.
+[12.09.2019][10:22:51][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:30:14][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!Poll
+[12.09.2019][10:30:14][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[12.09.2019][10:30:14][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:30:24][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!poll a 🇳
+[12.09.2019][10:30:24][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[12.09.2019][10:30:24][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:30:34][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: '🇦', '🇧', '🇨', '🇩', '🇪', '🇫', '🇬', '🇭', '🇮', '🇯', '🇰', '🇱', '🇲', '🇳'
+[12.09.2019][10:30:47][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!poll abcd
+[12.09.2019][10:30:47][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[12.09.2019][10:30:47][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:31:37][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!dm <@!532659544791318540> e
+[12.09.2019][10:31:37][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[12.09.2019][10:31:37][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:31:56][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!ban
+[12.09.2019][10:31:56][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[12.09.2019][10:31:56][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:31:57][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!kick
+[12.09.2019][10:31:58][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[12.09.2019][10:31:58][biljeske-servera] Extreme#0316: 

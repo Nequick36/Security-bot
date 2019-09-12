@@ -28,12 +28,15 @@ module.exports.run = async (bot, message, args) => {
   let reason = args.filter(arg => arg!==args[0]).join(" ") || "Reason is not seted"
 try {
   await(tomute.addRole(muterole.id));
-  message.channel.send({embed:{description:`${tomute} je mutovan  \`${reason}\``, color:0xff0000}})
+  message.channel.send({embed:{description:`${tomute} is muted, reason \`${reason}\``, color:0xff0000}})
 } catch (e) {
-  if (e) return message.channel.send(e+'\nError: Kontaktirajte ownera')
+  if (e) return message.channel.send(e+'\nError: Contant Owner!')
 }
 }
 module.exports.help = {
     name:"mute",
-    aliases:[]
+    aliases:["Mute"],
+    perm: "MANAGE_MESSAGES",
+   role: "Pristup",
+   group: "Admin"
 }

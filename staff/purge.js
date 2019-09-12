@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  if(!message.member.hasPermission("MANAGE_GUILD"))
+  if(!message.member.hasPermission("MANAGE_MESSAGES"))
         {
             message.channel.send("🛑 **ACCESS DENIED! THIS IS AN ADMIN-ONLY COMMAND. 🛑**");
             return;
@@ -20,6 +20,6 @@ module.exports.help = {
   name: "purge",
   aliases: ["Purge", "clear", "Clear"],
   perm: "MANAGE_MESSAGES",
-  role: "",
+  role: "Pristup",
   group:"Admin"
 }

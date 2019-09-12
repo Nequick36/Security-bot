@@ -1,6 +1,6 @@
 const discord = require("discord.js")
 exports.run = async (bot, message, args) => {
-  if(!bot.devs.includes(message.author.id)) return message.channel.send(`🛑 **NE MOŽE!🛑**`)
+    if(!message.member.hasPermission("MANAGE_MESSAGES")) message.channel.send("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**")
   let user = message.mentions.members.first()
   let name = args[1]
   if(!user || !name) return message.channel.send('Pomoc: en!rename <@member> <ime>')
@@ -9,5 +9,8 @@ exports.run = async (bot, message, args) => {
 }
 module.exports.help = {
 name: "rename",
-aliases: []
+aliases: ["Rename"],
+perm: "MANAGE_MESSAGES",
+role: "Pristup",
+group: "admin"
 }
