@@ -1,83 +1,39 @@
-const Discord = require("discord.js");
-const ms = require("ms"); 
+const discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  let tomute = message.guild.member(message.mentions.users.first() || message.guild.members.get(args[0]));
-  if(!message.member.hasPermission("MANAGE_MESSAGES")) return message.reply("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**")
-  if(!tomute) return message.reply("Couldn't find user.");
-  //if(tomute.hasPermission("MANAGE_MESSAGES")) return message.reply("Can't mute them!");
-  let muterole = message.guild.roles.find(`name`, "Extreme | Muted");
-
-  //start of create role
-
+  if(!message.member.hasPermission("MANAGE_MESSAGES")) return message.channel.send({embed:{description:`You not permissions for the command!`, color:0xff0000}})
+    let tomute = message.mentions.members.first()
+  if(!tomute) return message.channel.send({embed:{description:` :x: Please tag member! :x: `, color:0xff0000}})
+  let muterole = message.guild.roles.find(r => r.name==="Extreme | Mute");
   if(!muterole){
-
     try{
-
       muterole = await message.guild.createRole({
-
-        name: "Extreme | Muted",
-
-        color: "#BBBBBB",
-
+        name: "Extreme | Mute",
+        color: "#000000",
         permissions:[]
-
       })
 
       message.guild.channels.forEach(async (channel, id) => {
-
         await channel.overwritePermissions(muterole, {
-          
-          VIEW_CHANNEL: false,
-
           SEND_MESSAGES: false,
-          
-          ADD_REACTIONS: false
-
+          ADD_REACTIONS: false,
+          VIEW_CHANNEL: false
         });
-
       });
-
     }catch(e){
-
-      console.log(e.stack);
-
+      if(e) return message.channel.send(e)
     }
-
   }
 
-  //end of create role
-
-  let mutetime = args[1]
-  if(!mutetime) return message.reply("Niste stavili vreme! , Upute: en!mute <time in s> <reason>");
-  
-  let reason = message.content.split(" ").slice(3).join(" ")
-  if(!reason) return message.reply("Niste stavili razlog, Upute: !mute <time in s> <reason>")
-  let embed = new Discord.RichEmbed()
-  .setTitle(`${tomute.user.username} has been muted`)
-  .addField("Duration", mutetime)
-  .addField("reason", reason)
-  .setThumbnail(tomute.user.avatarURL)
-
-  
-
+  let reason = args.filter(arg => arg!==args[0]).join(" ") || "Reason is not seted"
+try {
   await(tomute.addRole(muterole.id));
-
-  message.reply(`<@${tomute.id}> **Je mutovan** ${ms(ms(mutetime))}`);
-  message.guild.channels.get("602090584924094470").send(embed)
-  setTimeout(function(){
-    if(!tomute.roles.has(muterole.id)) return;
-    tomute.removeRole(muterole.id);
-    message.channel.send(`<@${tomute.id}> **Je unmutovan/a**`);
-    message.guild.channels.get("602090584924094470").send({embed:{description: `**${tomute.user.username} Je unmutovan/a**`, color:10000}})
-  }, ms(mutetime));
+  message.channel.send({embed:{description:`${tomute} je mutovan  \`${reason}\``, color:0xff0000}})
+} catch (e) {
+  if (e) return message.channel.send(e+'\nError: Kontaktirajte ownera')
 }
-
+}
 module.exports.help = {
-  name: "mute",
-  aliases: ["Mute"],
-  perm: "MANAGE_MESSAGES",
-  role: "Pristup",
-  group: "Admin"
-
+    name:"mute",
+    aliases:[]
 }
