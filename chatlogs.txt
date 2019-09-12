@@ -52,3 +52,32 @@ I pustate muziku sa Rythm botom i ko zadnji ostane dobije role Titan i 250$ na n
 [12.09.2019][07:27:48][〔📢〕24-7-invite-link] ⚡ Veka ⚡ 《Vlasnik》#7740: <>~<>~<>~<>~<>~<>~<>~<>~<>~<>~<>~<>~<>~<>~<>~<>
 🔗 Invite link 🔗 https://invite.gg/extremecommunity 🔗
 <>~<>~<>~<>~<>~<>~<>~<>~<>~<>~<>~<>~<>~<>~<>~<>
+[12.09.2019][08:12:20][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: <@!431247481267814410>
+[12.09.2019][08:12:24][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: <@!431247481267814410> setup
+[12.09.2019][08:12:24][biljeske-servera] 《Custom link》#2032: <:invite_blurple:429481856317128704> **Step 1/3: Choose a Vanity Link**
+Let's get this server set up! First, what would you like the server's vanity link code to be?
+For example, if you wanted your invite link to be `invite.gg/example`, you would type `example`.
+To cancel setup at any time, simply type `cancel`.
+[12.09.2019][08:12:31][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: extremecommunity
+[12.09.2019][08:12:31][biljeske-servera] 《Custom link》#2032: <:invite_red:431334295114612736> `ERROR`: Sorry, a different server is already using the code `extremecommunity`.
+
+<:invite_blurple:429481856317128704> **Step 1/3: Choose a Vanity Link**
+Please choose a different invite code, or type `cancel` to cancel.
+[12.09.2019][08:12:39][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: Extremecommunity-1
+[12.09.2019][08:12:39][biljeske-servera] 《Custom link》#2032: <:invite_blurple:429481856317128704> `SUCCESS`: The invite code `extremecommunity1` is available!
+
+<:invite_blurple:429481856317128704> **Step 2/3: Server Description**
+Now, please provide a brief description of this server (under 250 characters). To cancel setup, type `cancel`.
+[12.09.2019][08:12:46][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: Join Now
+[12.09.2019][08:12:46][biljeske-servera] 《Custom link》#2032: <:invite_blurple:429481856317128704> `SUCCESS`: Excellent description!
+
+<:invite_blurple:429481856317128704> **Step 3/3: Choose Color**
+Finally, what would you like this server's theme color to be? Please provide a hex color (ex: `#7289DA`), `skip` to skip this, or `cancel` to cancel setup.
+[12.09.2019][08:12:50][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: skip
+[12.09.2019][08:12:50][biljeske-servera] 《Custom link》#2032: <:invite_blurple:429481856317128704> `SUCCESS`: Skipping the color. Please wait while I finish setting up your invite link...
+[12.09.2019][08:12:51][biljeske-servera] 《Custom link》#2032: <:invite_blurple:429481856317128704> `SUCCESS`: Your custom invite link has been set up! https://invite.gg/extremecommunity1 can now be used to join your server!
+Note: To remove your vanity link, kick me from this server.
+Note: The Discord preview embed may take several minutes to update
+[12.09.2019][08:16:00][〔🤖〕bot-komande] Server#2440: !gw
+[12.09.2019][08:16:01][〔🤖〕bot-komande] 《Welcomer》#4876: Sada mozete ucestvovati u giveawayima <@!594613819624390669>
+[12.09.2019][08:16:02][logs] ExtremeCommunity#0316: 
