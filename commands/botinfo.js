@@ -6,6 +6,7 @@ exports.run = async (bot,message,args) => {
   .setTitle("Bot Info")
   .setDescription("**Private Bot!**")
   .addField("Created By", "This bot created by: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740")
+  .addField("Name of the bot", "ExtremeCommunity")
   .addField("Bot Created", "19.5.2019")
   .addField("Made With", "[Discord.PY](https://www.python.org/)")
   .addField("Contant Me", "**__⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740__**")
