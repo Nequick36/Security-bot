@@ -151,13 +151,13 @@ y.addListener("data", res => {
 });
 bot.on('ready', () => {
     setInterval(() => {
-        bot.user.setActivity(`ExtremeCommunity`, {type: 'STREAMING', url: 'https://www.twitch.tv/veka_peka312'}); 
+        bot.user.setActivity(`ExtremeCommunity`, {type: 'WATCHING'}); 
     }, 8000);
 });
 
 bot.on('ready', () => {
     setInterval(() => {
-        bot.user.setActivity(`Official Bot`, {type: 'STREAMING', url: 'https://www.twitch.tv/veka_peka312'}); 
+        bot.user.setActivity(`Moderation`, {type: 'WATCHING'}); 
     }, 14000);
 });
 
