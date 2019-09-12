@@ -146,3 +146,15 @@ But no worries, over 0d 15h 27m 56s you can use daily again!
 [12.09.2019][10:31:57][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!kick
 [12.09.2019][10:31:58][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
 [12.09.2019][10:31:58][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:33:26][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!warn
+[12.09.2019][10:33:27][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[12.09.2019][10:33:27][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:35:34][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!warn
+[12.09.2019][10:35:34][biljeske-servera] Extreme#0316: <@!532659544791318540>, cannot find user!
+[12.09.2019][10:35:34][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:35:37][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!dm
+[12.09.2019][10:35:37][biljeske-servera] Extreme#0316: **Uputsvo**: undefined**__dm <member> <poruka>__**
+[12.09.2019][10:35:38][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:35:41][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!dm <@!532659544791318540> 2
+[12.09.2019][10:35:41][biljeske-servera] Extreme#0316: 
+[12.09.2019][10:35:41][logs] Extreme#0316: 

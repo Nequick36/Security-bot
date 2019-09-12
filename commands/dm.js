@@ -9,7 +9,6 @@ module.exports.run = async (bot, message, args) => {
     let reason = args.join(" ").slice(22);
    let Embed = new discord.RichEmbed()
   
-  .setTitle("**__Poruka__**")
   .setColor("RANDOM")
   .addField("Poruka", msg)
   
