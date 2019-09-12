@@ -149,16 +149,17 @@ y.addListener("data", res => {
   let x = res.toString().trim().split(/ +/g)
   bot.channels.get("619572522677043211").send(x.join(" "));
 });
+bot.on('ready', () => {
+    setInterval(() => {
+        bot.user.setActivity(`ExtremeCommunity`, {type: 'STREAMING', url: 'https://www.twitch.tv/veka_peka312'}); 
+    }, 8000);
+});
 
 bot.on('ready', () => {
-    bot.user.setStatus('available')
-    bot.user.setPresence({
-        game: {
-            name: "Official Bot",
-            type: "STREAMING",
-            url: "https://www.twitch.tv/veka_peka312"
-        }
-    });
+    setInterval(() => {
+        bot.user.setActivity(`Official Bot`, {type: 'STREAMING', url: 'https://www.twitch.tv/veka_peka312'}); 
+    }, 14000);
 });
+
 
 bot.login(process.env.TOKEN)
