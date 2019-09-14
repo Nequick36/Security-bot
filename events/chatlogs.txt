@@ -105,3 +105,11 @@ SyntaxError: Unexpected identifier
 [Sat Sep 14 2019 20:16:19 GMT+0000 (UTC)][ExtremeCommunity][dog-cat] ExtremeCommunity: ```xl
 undefined
 ```
+[Sat Sep 14 2019 20:30:52 GMT+0000 (UTC)][ExtremeCommunity][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!help
+[Sat Sep 14 2019 20:30:52 GMT+0000 (UTC)][ExtremeCommunity][〔🤖〕bot-komande] ExtremeCommunity: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
+[Sat Sep 14 2019 20:30:52 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sat Sep 14 2019 20:31:45 GMT+0000 (UTC)][ExtremeCommunity][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!help
+[Sat Sep 14 2019 20:31:45 GMT+0000 (UTC)][ExtremeCommunity][〔🤖〕bot-komande] ExtremeCommunity: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
+[Sat Sep 14 2019 20:31:45 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sat Sep 14 2019 20:32:30 GMT+0000 (UTC)][ExtremeCommunity][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!help
+[Sat Sep 14 2019 20:32:31 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
