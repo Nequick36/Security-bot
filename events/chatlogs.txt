@@ -1,0 +1,98 @@
+[Sat Sep 14 2019 19:13:15 GMT+0000 (UTC)][ExtremeCommunity][staff-chat] TLVA: :)
+[Sat Sep 14 2019 19:13:30 GMT+0000 (UTC)][ExtremeCommunity][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: a
+[Sat Sep 14 2019 19:13:30 GMT+0000 (UTC)][ExtremeCommunity][staff-chat] Pokécord: 
+[Sat Sep 14 2019 19:13:37 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] TLVA: Hi my friends
+[Sat Sep 14 2019 19:13:47 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: ja ja
+[Sat Sep 14 2019 19:13:47 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ExtremeCommunity: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[Sat Sep 14 2019 19:13:52 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: jeb ti xd
+[Sat Sep 14 2019 19:13:52 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ExtremeCommunity: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
+[Sat Sep 14 2019 19:14:03 GMT+0000 (UTC)][ExtremeCommunity][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: a
+[Sat Sep 14 2019 19:14:05 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: a
+[Sat Sep 14 2019 19:14:05 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ExtremeCommunity: `ERROR` ```xl
+ReferenceError: a is not defined
+```
+[Sat Sep 14 2019 19:14:06 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] TLVA: Lol
+[Sat Sep 14 2019 19:14:09 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: jebemti
+[Sat Sep 14 2019 19:14:09 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ExtremeCommunity: `ERROR` ```xl
+ReferenceError: jebemti is not defined
+```
+[Sat Sep 14 2019 19:14:09 GMT+0000 (UTC)][ExtremeCommunity][chat-logs] ExtremeCommunity: 
+[Sat Sep 14 2019 19:14:10 GMT+0000 (UTC)][ExtremeCommunity][chat-logs] ExtremeCommunity: 
+[Sat Sep 14 2019 19:14:10 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] TLVA: Rip
+[Sat Sep 14 2019 19:14:24 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: message.channel.send("jeb ti zivotr")
+[Sat Sep 14 2019 19:14:24 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ExtremeCommunity: jeb ti zivotr
+[Sat Sep 14 2019 19:14:24 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] Pokécord: 
+[Sat Sep 14 2019 19:14:24 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ExtremeCommunity: ```xl
+Promise { <pending> }
+```
+[Sat Sep 14 2019 19:14:27 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: vid
+[Sat Sep 14 2019 19:14:27 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ExtremeCommunity: `ERROR` ```xl
+ReferenceError: vid is not defined
+```
+[Sat Sep 14 2019 19:14:29 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: XDD
+[Sat Sep 14 2019 19:14:29 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ExtremeCommunity: `ERROR` ```xl
+ReferenceError: XDD is not defined
+```
+[Sat Sep 14 2019 19:14:41 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] TLVA: Tf
+[Sat Sep 14 2019 19:14:45 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!eval const Discord = require("discord.js")
+
+module.exports.run = async (bot, message, args) => {
+  let developers = bot.devs
+  if(!developers.includes(message.author.id)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A DEVELOPER ONLY COMMAND. 🛑**`)
+  function clean(text) {
+  if (typeof(text) === "string")
+    return text.replace(/`/g, "`" + String.fromCharCode(8203)).replace(/@/g, "@" + String.fromCharCode(8203));
+  else
+      return text;
+}
+  
+    try {
+      const code = args.join(" ");
+      let evaled = eval(code);
+ 
+      if (typeof evaled !== "string")
+        evaled = require("util").inspect(evaled);
+ 
+      message.channel.send(clean(evaled), {code:"xl"});
+    } catch (err) {
+      message.channel.send(`\`ERROR\` \`\`\`xl\n${clean(err)}\n\`\`\``);
+    }
+}
+
+module.exports.help = {
+  name: "eval",
+  aliases: [],
+  perm: "ADMINISTRATOR",
+  role: "*",
+  group:"Developer"
+}
+[Sat Sep 14 2019 19:14:45 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: ```xl
+{ name: 'eval',
+  aliases: [],
+  perm: 'ADMINISTRATOR',
+  role: '*',
+  group: 'Developer' }
+```
+[Sat Sep 14 2019 19:14:46 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sat Sep 14 2019 19:14:46 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] TLVA: Propo
+[Sat Sep 14 2019 19:14:48 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: a
+[Sat Sep 14 2019 19:14:50 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: a
+[Sat Sep 14 2019 19:14:51 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ExtremeCommunity: `ERROR` ```xl
+ReferenceError: a is not defined
+```
+[Sat Sep 14 2019 19:14:54 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: jebemti
+[Sat Sep 14 2019 19:14:54 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ExtremeCommunity: `ERROR` ```xl
+ReferenceError: jebemti is not defined
+```
+[Sat Sep 14 2019 19:14:55 GMT+0000 (UTC)][ExtremeCommunity][chat-logs] ExtremeCommunity: 
+[Sat Sep 14 2019 19:14:55 GMT+0000 (UTC)][ExtremeCommunity][chat-logs] ExtremeCommunity: 
+[Sat Sep 14 2019 19:16:15 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] TLVA: Rip bot 2019-2019
+[Sat Sep 14 2019 19:16:29 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: a jebat mu mamu
+[Sat Sep 14 2019 19:16:30 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ExtremeCommunity: <@532659544791318540> se level-upo na level 42!
+[Sat Sep 14 2019 19:16:30 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ExtremeCommunity: `ERROR` ```xl
+SyntaxError: Unexpected identifier
+```
