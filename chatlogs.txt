@@ -245,3 +245,43 @@ Sada nas ima  : 110
 **Neca#9654** nas je napustio 
 Sada nas ima  : 109 
 ====================================
+[14.09.2019][09:53:29][koliko-sam-glup] ⚡ Veka ⚡ 《Vlasnik》#7740: !glup
+[14.09.2019][09:53:30][koliko-sam-glup] 《Welcomer》#4876: znam da si ti seronjo.... naravno da si glup
+[14.09.2019][09:53:30][koliko-sam-glup] 《Welcomer》#4876: da, nazalost glup si, al ipak ima malo pameti u tebi
+[14.09.2019][09:53:31][koliko-sam-glup] 《Welcomer》#4876: mislis da sam ja retard?                                                                                                                                                                                                                  (glup si)
+[14.09.2019][09:53:31][koliko-sam-glup] 《Welcomer》#4876: smrdis na govna
+[14.09.2019][09:53:31][koliko-sam-glup] 《Welcomer》#4876: pa onako malo si gluplji al nista strasno
+[14.09.2019][09:53:36][logs] Extreme#0316: 
+[14.09.2019][09:53:40][logs] Extreme#0316: 
+[14.09.2019][09:53:44][koliko-sam-glup] ⚡ Veka ⚡ 《Vlasnik》#7740: !clear 5
+[14.09.2019][09:53:44][koliko-sam-glup] ! 《Muzika》#3722: ❌ **You have to be in a voice channel to use this command.**
+[14.09.2019][09:53:44][logs] Extreme#0316: 
+[14.09.2019][10:00:54][koliko-sam-glup] ⚡ Veka ⚡ 《Vlasnik》#7740: en!glup
+[14.09.2019][10:00:54][koliko-sam-glup] Extreme#0316: 
+[14.09.2019][10:00:54][biljeske-servera] Extreme#0316: 
+[14.09.2019][10:01:03][fortnite-stats] ⚡ Veka ⚡ 《Vlasnik》#7740: !fm Ninja
+[14.09.2019][10:01:04][fortnite-stats] 《Fortnite Stats》#2375: 
+[14.09.2019][10:01:17][anime] ⚡ Veka ⚡ 《Vlasnik》#7740: $anime
+[14.09.2019][10:01:29][pokecards] ⚡ Veka ⚡ 《Vlasnik》#7740: !p
+[14.09.2019][10:01:29][pokecards] ! 《Muzika》#3722: 
+[14.09.2019][10:01:34][pokecards] ⚡ Veka ⚡ 《Vlasnik》#7740: p!help
+[14.09.2019][10:01:35][pokecards] 《Pokecord》#4503: Sent you a DM containing the help message!
+[14.09.2019][10:01:39][pokecards] ⚡ Veka ⚡ 《Vlasnik》#7740: bb!Help
+[14.09.2019][10:01:42][pokecards] ⚡ Veka ⚡ 《Vlasnik》#7740: bb!help
+[14.09.2019][10:01:43][pokecards] ⚡ Veka ⚡ 《Vlasnik》#7740: b!help
+[14.09.2019][10:02:07][pokecards] ⚡ Veka ⚡ 《Vlasnik》#7740: p!help 4
+[14.09.2019][10:02:07][pokecards] 《Pokecord》#4503: Sent you a DM containing the help message!
+[14.09.2019][10:02:28][pokecards] ⚡ Veka ⚡ 《Vlasnik》#7740: p!channel <#621748432813424660>
+[14.09.2019][10:02:47][pokecards] ⚡ Veka ⚡ 《Vlasnik》#7740: p!channel enable
+[14.09.2019][10:02:47][pokecards] 《Pokecord》#4503: Pokécord commands and spawns are already enabled here!
+[14.09.2019][10:02:51][pokecards] ⚡ Veka ⚡ 《Vlasnik》#7740: ja
+[14.09.2019][10:03:10][brawl-boxs] ⚡ Veka ⚡ 《Vlasnik》#7740: b!open
+[14.09.2019][10:03:14][brawl-boxs] ⚡ Veka ⚡ 《Vlasnik》#7740: bb!open
+[14.09.2019][10:03:16][brawl-boxs] ⚡ Veka ⚡ 《Vlasnik》#7740: bb!help
+[14.09.2019][10:04:25][〔🔰〕welcome] 《Welcomer》#4876: Dobrodosli <@466204515390193674> na nas Discord Server ExtremeCommunity Zabavi se i procitaj pravila
+=====================================
+Members : 111 
+Server Owner**: Veka**
+=====================================
+[14.09.2019][10:05:02][brawl-stats] ⚡ Veka ⚡ 《Vlasnik》#7740: .bs help
+[14.09.2019][10:05:03][brawl-stats] MyBrawlStats#4379: 
