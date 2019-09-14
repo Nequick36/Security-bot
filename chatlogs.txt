@@ -285,3 +285,45 @@ Server Owner**: Veka**
 =====================================
 [14.09.2019][10:05:02][brawl-stats] ⚡ Veka ⚡ 《Vlasnik》#7740: .bs help
 [14.09.2019][10:05:03][brawl-stats] MyBrawlStats#4379: 
+[14.09.2019][10:05:15][brawl-stats] ⚡ Veka ⚡ 《Vlasnik》#7740: .bs club King Games
+[14.09.2019][10:05:16][brawl-stats] MyBrawlStats#4379: 
+[14.09.2019][10:05:44][brawl-stats] ⚡ Veka ⚡ 《Vlasnik》#7740: .bs setlanguage
+[14.09.2019][10:05:46][brawl-stats] MyBrawlStats#4379: 
+[14.09.2019][10:05:46][logs] Extreme#0316: 
+[14.09.2019][10:05:58][brawl-stats] ⚡ Veka ⚡ 《Vlasnik》#7740: .bs setlanguage Serbian
+[14.09.2019][10:05:59][brawl-stats] MyBrawlStats#4379: 
+[14.09.2019][10:05:59][logs] Extreme#0316: 
+[14.09.2019][10:06:06][brawl-stats] MyBrawlStats#4379: 
+[14.09.2019][10:06:06][brawl-stats] MyBrawlStats#4379: 
+[14.09.2019][10:06:06][logs] Extreme#0316: 
+[14.09.2019][10:06:07][logs] Extreme#0316: 
+[14.09.2019][10:06:09][brawl-stats] ⚡ Veka ⚡ 《Vlasnik》#7740: .bs setlanguage
+[14.09.2019][10:06:11][brawl-stats] MyBrawlStats#4379: 
+[14.09.2019][10:06:11][logs] Extreme#0316: 
+[14.09.2019][10:06:13][brawl-stats] MyBrawlStats#4379: 
+[14.09.2019][10:06:13][logs] Extreme#0316: 
+[14.09.2019][10:06:45][〔💧〕leave] 《Welcomer》#4876: ====================================
+**Brawl Box#7429** nas je napustio 
+Sada nas ima  : 110 
+====================================
+[14.09.2019][10:10:24][buy-items] ⚡ Veka ⚡ 《Vlasnik》#7740: en!shop
+[14.09.2019][10:10:24][biljeske-servera] Extreme#0316: 
+[14.09.2019][10:10:26][buy-items] ⚡ Veka ⚡ 《Vlasnik》#7740: en!Buy Iron
+[14.09.2019][10:10:27][biljeske-servera] Extreme#0316: 
+[14.09.2019][10:10:28][buy-items] Extreme#0316: <@532659544791318540> Uspjesno ste kupili Iron Rank
+[14.09.2019][10:11:09][buy-items] ⚡ Veka ⚡ 《Vlasnik》#7740: en!addbalance <@!532659544791318540> 750
+[14.09.2019][10:11:10][biljeske-servera] Extreme#0316: 
+[14.09.2019][10:11:11][buy-items] Extreme#0316: <@!532659544791318540>, You have successfuly added 750 coins to ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740's account.
+[14.09.2019][10:11:20][buy-items] ⚡ Veka ⚡ 《Vlasnik》#7740: en!work
+[14.09.2019][10:11:20][biljeske-servera] Extreme#0316: 
+[14.09.2019][10:11:20][buy-items] Extreme#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ
+Radili ste kao ` Cleaner ` i zaradili ste :money_with_wings: 25
+Vi sada imate :money_with_wings: 4197
+[14.09.2019][10:11:22][buy-items] ⚡ Veka ⚡ 《Vlasnik》#7740: en!daily
+[14.09.2019][10:11:22][biljeske-servera] Extreme#0316: 
+[14.09.2019][10:11:22][buy-items] Extreme#0316: <@!532659544791318540>, **Uzeli ste svoju nagradu od 250:money_with_wings: sada imate 4547:money_with_wings:**
+[14.09.2019][10:12:45][〔🎉〕rewards] ⚡ Veka ⚡ 《Vlasnik》#7740: ***INVITE REWARDS SERVER!*** https://discord.gg/RbFV83Q
+[14.09.2019][10:12:52][〔🎉〕rewards] ⚡ Veka ⚡ 《Vlasnik》#7740: @everyone
+[14.09.2019][10:13:42][buy-items] ⚡ Veka ⚡ 《Vlasnik》#7740: en!
+[14.09.2019][10:13:43][biljeske-servera] Extreme#0316: 
+[14.09.2019][10:13:43][buy-items] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
