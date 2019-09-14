@@ -100,3 +100,8 @@ SyntaxError: Unexpected identifier
 [Sat Sep 14 2019 19:54:33 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
 [Sat Sep 14 2019 19:54:39 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!dm a <@!532659544791318540>
 [Sat Sep 14 2019 19:54:39 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sat Sep 14 2019 20:16:18 GMT+0000 (UTC)][ExtremeCommunity][dog-cat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!eval message.guild.servericon
+[Sat Sep 14 2019 20:16:19 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sat Sep 14 2019 20:16:19 GMT+0000 (UTC)][ExtremeCommunity][dog-cat] ExtremeCommunity: ```xl
+undefined
+```

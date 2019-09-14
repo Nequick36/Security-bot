@@ -154,3 +154,8 @@ SyntaxError: Unexpected identifier
 [14.09.2019][07:54:33][biljeske-servera] Extreme#0316: 
 [14.09.2019][07:54:39][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!dm a <@!532659544791318540>
 [14.09.2019][07:54:39][biljeske-servera] Extreme#0316: 
+[14.09.2019][08:16:18][dog-cat] ⚡ Veka ⚡ 《Vlasnik》#7740: en!eval message.guild.servericon
+[14.09.2019][08:16:19][biljeske-servera] Extreme#0316: 
+[14.09.2019][08:16:19][dog-cat] Extreme#0316: ```xl
+undefined
+```
