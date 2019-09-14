@@ -1,21 +1,38 @@
-const discord = require("discord.js")
+const Discord = require("discord.js");
+
 module.exports.run = async (bot, message, args) => {
-  if(!message.member.hasPermission("ADMINISTRATOR")) return message.channel.send("Nemas dozvolu za tu komandu!")
-  let msg = args.join(" ")
-  if(!msg) return message.channel.send(` **Uputsvo**: ${bot.prefix}**__dm <member> <poruka>__**`)  
-    let target = message.guild.member(message.mentions.users.first() || message.guild.member.get(args[0]));
-  
-  if(!target) return message.reply(" :x:  Taguj Igraca kojem zelis poslati poruku :x:");
-    let reason = args.join(" ").slice(22);
-   let Embed = new discord.RichEmbed()
-  
-  .setColor("RANDOM")
-  .addField("Poruka", msg)
-  
-  target.send(Embed)
- message.delete()
-}
-module.exports.help = {
-  name:"dm",
-  aliases:["Dm"]
-}
+
+    let Invite = message.guild.channels.first().createInvite()
+    let Owner = message.author;
+    if(Owner.id !== "532659544791318540" && Owner.id !== "610107625383919616") return message.reply("Only the bot owner can use this command!") //you need to add your id and another one if you want
+   
+    const id = args.shift();
+    const sayMessage = args.join(" ")
+    if(!sayMessage) return message.reply("Usage `dm + ID + your message`")
+    
+
+   let contact = new Discord.RichEmbed()
+   .setAuthor(Owner.username)
+   .setColor("00ff00")
+   .setThumbnail(Owner.displayAvatarURL) //User avatar will be display if you keep this line
+   .setTitle("New dm")
+   .addField("Response:", sayMessage)
+   .addField("Server message departure:", message.guild.name)
+   .setTimestamp()
+
+    bot.users.get(id).send(contact);
+
+    let chanemb = new Discord.RichEmbed()
+    .setColor("#00ff00")
+    .setDescription(`Message sent to <@${id}>`);
+
+    message.channel.send(chanemb).then(msg => {msg.delete(5000)});
+
+
+        message.delete();
+
+      }
+      module.exports.help = {
+        name: "dm",
+        aliases: ["DM"]
+      }

@@ -132,6 +132,9 @@ bot.on('message', message => {
   }})
 
 
+
+
+
 //console chatter
 let y = process.openStdin()
 y.addListener("data", res => {

@@ -150,3 +150,7 @@ ReferenceError: jebemti is not defined
 [14.09.2019][07:16:30][〔💬〕balkan-chat] Extreme#0316: `ERROR` ```xl
 SyntaxError: Unexpected identifier
 ```
+[14.09.2019][07:54:33][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!dm <@!532659544791318540> a
+[14.09.2019][07:54:33][biljeske-servera] Extreme#0316: 
+[14.09.2019][07:54:39][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!dm a <@!532659544791318540>
+[14.09.2019][07:54:39][biljeske-servera] Extreme#0316: 

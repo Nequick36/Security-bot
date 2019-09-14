@@ -96,3 +96,7 @@ ReferenceError: jebemti is not defined
 [Sat Sep 14 2019 19:16:30 GMT+0000 (UTC)][ExtremeCommunity][〔💬〕balkan-chat] ExtremeCommunity: `ERROR` ```xl
 SyntaxError: Unexpected identifier
 ```
+[Sat Sep 14 2019 19:54:33 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!dm <@!532659544791318540> a
+[Sat Sep 14 2019 19:54:33 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sat Sep 14 2019 19:54:39 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!dm a <@!532659544791318540>
+[Sat Sep 14 2019 19:54:39 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
