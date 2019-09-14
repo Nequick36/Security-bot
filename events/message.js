@@ -82,7 +82,7 @@ if(bot.afk.has(message.author.id)) {
     options.justafk = false
     bot.afk.set(message.author.id, options)
   } else {
-  message.reply(`${message.author.tag} je dosao/la nazad!`)
+  message.reply(`${message.author.tag}  je dosao/la nazad!`)
   bot.afk.delete(message.author.id)
   if(message.member.nickname) {
     if(message.member.nickname.includes('[AFK] ')) {
