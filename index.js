@@ -131,23 +131,6 @@ bot.on('message', message => {
     message.delete()
   }})
 
-client.on('message', function(message){
-if (message.channel.type === 'dm'){
-console.log(message.author.username + "says: " + message.content);
-
-const rl = readline.createInterface({
-input: process.stdin,
-output: process.stdout
-});
-
-rl.question('Reply to' + message.author.username + ': ' (answer) => {
-
-message.author.send(`${answer}`);
-
-rl.close();
-});
-}
-})
 
 //console chatter
 let y = process.openStdin()
