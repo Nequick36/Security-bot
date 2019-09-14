@@ -41,18 +41,6 @@ eco.FetchBalance(message.author.id).then(User => {
       message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Kafu`)
     })
   }
-       else if(item === 'Hljeb' || item === 'hljeb') {
-    if(User.balance < 3) return message.channel.send(`Sorry but you don't have $2.`)
-    eco.SubstractFromBalance(message.author.id, 3).then(u => {
-      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Hljeb`)
-    })
-  }
-       else if(item === 'Kolac' || item === 'kolac') {
-    if(User.balance < 4) return message.channel.send(`Sorry but you don't have $4.`)
-    eco.SubstractFromBalance(message.author.id, 4).then(u => {
-      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Kolac`)
-    })
-  }
      else if(item === 'Piva' || item === 'piva') {
     if(User.balance < 3) return message.channel.send(`Sorry but you don't have $3.`)
     eco.SubstractFromBalance(message.author.id, 3).then(u => {
@@ -101,6 +89,36 @@ if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry bu
     if(User.balance < 5000) return message.channel.send(`Sorry but you don't have $5000.`)
     eco.SubstractFromBalance(message.author.id, 5000).then(u => {
       message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Diamond Rank`)
+      message.member.addRole(role.id)
+    })
+  }
+     else if(item === 'VIP' || item === 'VIP') {
+    let role = message.guild.roles.find(role => role.name === 'VIP')
+    let currentRole = message.guild.roles.find(role => role.name === 'VIP')
+    if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
+    if(User.balance < 8000) return message.channel.send(`Sorry but you don't have $8000.`)
+    eco.SubstractFromBalance(message.author.id, 8000).then(u => {
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Vip Rank`)
+      message.member.addRole(role.id)
+    })
+  }
+     else if(item === 'VIP+' || item === 'VIP+') {
+    let role = message.guild.roles.find(role => role.name === 'VIP+')
+    let currentRole = message.guild.roles.find(role => role.name === 'VIP+')
+    if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
+    if(User.balance < 8750) return message.channel.send(`Sorry but you don't have $8750.`)
+    eco.SubstractFromBalance(message.author.id, 8750).then(u => {
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Vip+ Rank`)
+      message.member.addRole(role.id)
+    })
+  }
+     else if(item === 'PREMIUM' || item === 'PREMIUM') {
+    let role = message.guild.roles.find(role => role.name === 'PREMIUM')
+    let currentRole = message.guild.roles.find(role => role.name === 'PREMIUM')
+    if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
+    if(User.balance < 10000) return message.channel.send(`Sorry but you don't have $10000.`)
+    eco.SubstractFromBalance(message.author.id, 10000).then(u => {
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Premium Rank`)
       message.member.addRole(role.id)
     })
   }

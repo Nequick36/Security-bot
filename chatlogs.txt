@@ -327,3 +327,25 @@ Vi sada imate :money_with_wings: 4197
 [14.09.2019][10:13:42][buy-items] ⚡ Veka ⚡ 《Vlasnik》#7740: en!
 [14.09.2019][10:13:43][biljeske-servera] Extreme#0316: 
 [14.09.2019][10:13:43][buy-items] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[14.09.2019][10:20:37][shop] ⚡ Veka ⚡ 《Vlasnik》#7740: en!shop
+[14.09.2019][10:20:37][biljeske-servera] Extreme#0316: 
+[14.09.2019][10:20:37][shop] Extreme#0316: 
+[14.09.2019][10:23:02][shop] ⚡ Veka ⚡ 《Vlasnik》#7740: en!clear 5
+[14.09.2019][10:23:03][biljeske-servera] Extreme#0316: 
+[14.09.2019][10:23:03][logs] Extreme#0316: 
+[14.09.2019][10:23:05][shop] ⚡ Veka ⚡ 《Vlasnik》#7740: en!shop
+[14.09.2019][10:23:05][biljeske-servera] Extreme#0316: 
+[14.09.2019][10:23:05][shop] Extreme#0316: 
+[14.09.2019][10:23:10][logs] Extreme#0316: 
+[14.09.2019][10:25:26][shop] ⚡ Veka ⚡ 《Vlasnik》#7740: en!shop
+[14.09.2019][10:25:27][biljeske-servera] Extreme#0316: 
+[14.09.2019][10:25:27][shop] Extreme#0316: 
+[14.09.2019][10:25:30][〔🔰〕welcome] 《Welcomer》#4876: Dobrodosli <@617423802338377794> na nas Discord Server ExtremeCommunity Zabavi se i procitaj pravila
+=====================================
+Members : 111 
+Server Owner**: Veka**
+=====================================
+[14.09.2019][10:25:33][logs] Extreme#0316: 
+[14.09.2019][10:27:48][〔🤖〕bot-komande] ⚡ Veka ⚡ 《Vlasnik》#7740: en!hack <@!532659544791318540>
+[14.09.2019][10:27:49][biljeske-servera] Extreme#0316: 
+[14.09.2019][10:27:49][〔🤖〕bot-komande] Extreme#0316: Please wait trying to get access to database!
