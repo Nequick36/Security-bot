@@ -20,3 +20,32 @@ Sada nas ima  : 108
 [Sat Sep 14 2019 17:23:11 GMT+0000 (UTC)][ExtremeCommunity][dog-cat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!help
 [Sat Sep 14 2019 17:23:12 GMT+0000 (UTC)][ExtremeCommunity][dog-cat] ExtremeCommunity: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
 [Sat Sep 14 2019 17:23:12 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sat Sep 14 2019 18:18:11 GMT+0000 (UTC)][ExtremeCommunity][pokecards] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: p!channel <#621748432813424660>
+[Sat Sep 14 2019 18:18:25 GMT+0000 (UTC)][ExtremeCommunity][yes-no] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: a!yesno jes jes
+[Sat Sep 14 2019 18:18:25 GMT+0000 (UTC)][ExtremeCommunity][yes-no] Atlas: The `Images` plugin that `yesno` belongs to is disabled.
+[Sat Sep 14 2019 18:18:40 GMT+0000 (UTC)][ExtremeCommunity][chat-logs] ExtremeCommunity: 
+[Sat Sep 14 2019 18:19:17 GMT+0000 (UTC)][ExtremeCommunity][yes-no] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: a!yesno reci yes
+[Sat Sep 14 2019 18:19:18 GMT+0000 (UTC)][ExtremeCommunity][yes-no] Atlas: 
+[Sat Sep 14 2019 18:21:45 GMT+0000 (UTC)][ExtremeCommunity][8-ball] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!8ball moze da bude al nemora da znaci
+[Sat Sep 14 2019 18:21:46 GMT+0000 (UTC)][ExtremeCommunity][8-ball] ExtremeCommunity: 
+[Sat Sep 14 2019 18:21:46 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sat Sep 14 2019 18:21:52 GMT+0000 (UTC)][ExtremeCommunity][iq] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!iq
+[Sat Sep 14 2019 18:21:52 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sat Sep 14 2019 18:21:53 GMT+0000 (UTC)][ExtremeCommunity][iq] ExtremeCommunity: 
+[Sat Sep 14 2019 18:21:59 GMT+0000 (UTC)][ExtremeCommunity][gayrate] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!gayrate
+[Sat Sep 14 2019 18:21:59 GMT+0000 (UTC)][ExtremeCommunity][gayrate] ExtremeCommunity: 
+[Sat Sep 14 2019 18:21:59 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sat Sep 14 2019 18:21:59 GMT+0000 (UTC)][ExtremeCommunity][chat-logs] ExtremeCommunity: 
+[Sat Sep 14 2019 18:23:42 GMT+0000 (UTC)][ExtremeCommunity][dog-cat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: ne!cat
+[Sat Sep 14 2019 18:23:47 GMT+0000 (UTC)][ExtremeCommunity][dog-cat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!cat
+[Sat Sep 14 2019 18:23:47 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sat Sep 14 2019 18:23:47 GMT+0000 (UTC)][ExtremeCommunity][dog-cat] ExtremeCommunity: 
+[Sat Sep 14 2019 18:24:17 GMT+0000 (UTC)][ExtremeCommunity][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!work
+[Sat Sep 14 2019 18:24:17 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sat Sep 14 2019 18:24:17 GMT+0000 (UTC)][ExtremeCommunity][work] ExtremeCommunity: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ
+Radili ste kao ` Miner ` i zaradili ste :money_with_wings: 68
+Vi sada imate :money_with_wings: 4615
+[Sat Sep 14 2019 18:24:19 GMT+0000 (UTC)][ExtremeCommunity][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!daily
+[Sat Sep 14 2019 18:24:19 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sat Sep 14 2019 18:24:19 GMT+0000 (UTC)][ExtremeCommunity][work] ExtremeCommunity: Sorry, you already claimed your daily coins!
+But no worries, over 0d 5h 35m 40s you can use daily again!

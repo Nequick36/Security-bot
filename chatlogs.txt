@@ -20,3 +20,32 @@ Sada nas ima  : 108
 [14.09.2019][05:23:11][dog-cat] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
 [14.09.2019][05:23:12][dog-cat] Extreme#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Pogledajte svoj DM!
 [14.09.2019][05:23:12][biljeske-servera] Extreme#0316: 
+[14.09.2019][06:18:11][pokecards] ⚡ Veka ⚡ 《Vlasnik》#7740: p!channel <#621748432813424660>
+[14.09.2019][06:18:25][yes-no] ⚡ Veka ⚡ 《Vlasnik》#7740: a!yesno jes jes
+[14.09.2019][06:18:25][yes-no] 《Leveling》#2867: The `Images` plugin that `yesno` belongs to is disabled.
+[14.09.2019][06:18:40][chat-logs] Extreme#0316: 
+[14.09.2019][06:19:17][yes-no] ⚡ Veka ⚡ 《Vlasnik》#7740: a!yesno reci yes
+[14.09.2019][06:19:18][yes-no] 《Leveling》#2867: 
+[14.09.2019][06:21:45][8-ball] ⚡ Veka ⚡ 《Vlasnik》#7740: en!8ball moze da bude al nemora da znaci
+[14.09.2019][06:21:46][8-ball] Extreme#0316: 
+[14.09.2019][06:21:46][biljeske-servera] Extreme#0316: 
+[14.09.2019][06:21:52][iq] ⚡ Veka ⚡ 《Vlasnik》#7740: en!iq
+[14.09.2019][06:21:52][biljeske-servera] Extreme#0316: 
+[14.09.2019][06:21:53][iq] Extreme#0316: 
+[14.09.2019][06:21:59][gayrate] ⚡ Veka ⚡ 《Vlasnik》#7740: en!gayrate
+[14.09.2019][06:21:59][gayrate] Extreme#0316: 
+[14.09.2019][06:21:59][biljeske-servera] Extreme#0316: 
+[14.09.2019][06:21:59][chat-logs] Extreme#0316: 
+[14.09.2019][06:23:42][dog-cat] ⚡ Veka ⚡ 《Vlasnik》#7740: ne!cat
+[14.09.2019][06:23:47][dog-cat] ⚡ Veka ⚡ 《Vlasnik》#7740: en!cat
+[14.09.2019][06:23:47][biljeske-servera] Extreme#0316: 
+[14.09.2019][06:23:47][dog-cat] Extreme#0316: 
+[14.09.2019][06:24:17][work] ⚡ Veka ⚡ 《Vlasnik》#7740: en!work
+[14.09.2019][06:24:17][biljeske-servera] Extreme#0316: 
+[14.09.2019][06:24:17][work] Extreme#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ
+Radili ste kao ` Miner ` i zaradili ste :money_with_wings: 68
+Vi sada imate :money_with_wings: 4615
+[14.09.2019][06:24:19][work] ⚡ Veka ⚡ 《Vlasnik》#7740: en!daily
+[14.09.2019][06:24:19][biljeske-servera] Extreme#0316: 
+[14.09.2019][06:24:19][work] Extreme#0316: Sorry, you already claimed your daily coins!
+But no worries, over 0d 5h 35m 40s you can use daily again!
