@@ -40,10 +40,10 @@ exports.run = async (bot, message) => {
   
   //xp system
   if(message.author.bot) return;
-  let randomXp = Math.floor(Math.random() * 5)
+  let randomXp = Math.floor(Math.random() * 8)
   let userID = message.author.id
   let Reset = 0
-  dl.AddXp(userID, randomXp || 5)
+  dl.AddXp(userID, randomXp || 8)
  
   let profile = await dl.Fetch(userID)
   
@@ -54,7 +54,7 @@ exports.run = async (bot, message) => {
   }
   
   //console in channel
-  if(message.channel.id === '590474521425739807' && !message.author.bot) {
+  if(message.channel.id === '620267225022201856' && !message.author.bot) {
     if(!developers.includes(message.author.id)) return
     if(message.content.startsWith('//')) return
     function clean(text) {
@@ -82,7 +82,7 @@ if(bot.afk.has(message.author.id)) {
     options.justafk = false
     bot.afk.set(message.author.id, options)
   } else {
-  message.reply(`${message.author.tag}je dosao nazad!`)
+  message.reply(`${message.author.tag} je dosao/la nazad!`)
   bot.afk.delete(message.author.id)
   if(message.member.nickname) {
     if(message.member.nickname.includes('[AFK] ')) {
