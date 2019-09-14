@@ -87,17 +87,15 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
       if(cmd.slice(prefix.length) === 'help') {}
       else message.channel.send(`Ta komanda ne postoji ukucajte en!help da vidite listu komandi`)
       }
-   
-    if(cmd === `${prefix}help`) {
+      
+      if(cmd === `${prefix}dfhgfhfgh`) {
       if(!args[0])  {
-        message.author.send("https://extremecommunitybot.glitch.me/help")
-        message.channel.send(`${message.author.tag} Pogledajte svoj DM!`)
-    fs.writeFile('./help.html', helpCmd, (err) => {
+        message.author.send(`https://web.glitch.me/`)
+        message.channel.send(`Check DMs!`)
+    fs.writeFile('./web.html', helpCmd, (err) => {
  if(err) console.error(err)
-});
-
-        return;
-      }
+})
+}
       let command = bot.commands.get(args[0]) || bot.commands.get(bot.aliases.get(args[0]));
       if(!command) return message.channel.send(`Can't find command named ${args[0]}!`)
       console.log(command)
@@ -149,7 +147,7 @@ bot.on('ready', () => {
 
 bot.on('ready', () => {
     setInterval(() => {
-        bot.user.setActivity(`Moderation`, {type: 'WATCHING'}); 
+        bot.user.setActivity(`Official`, {type: 'WATCHING'}); 
     }, 14000);
 });
 
