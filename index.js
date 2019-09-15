@@ -32,7 +32,7 @@ bot.commands = new Discord.Collection()
 bot.aliases = new Discord.Collection();
 bot.afk = new Map()
 bot.workCooldown = new Map()
-bot.devs = []
+bot.devs = ['532659544791318540']
 let helpCmd = `Prefix is <b>en!</b><br>\nCommands:<br><br>\n\n` 
 fs.readdir("./commands", (err, files) => {
     if(err) console.log(err);
@@ -57,8 +57,7 @@ fs.readdir("./commands", (err, files) => {
       });
   console.log(`Loaded ${jsfile.length} commands!`)
       helpCmd = `${helpCmd}<br>\n
-  <b>Bot made by ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740</b><br>
- <b>Official Server https://discord.gg/BgxSdvP</b><br>`
+  <b>Bot made by ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740</b><br>`
 });
 bot.on("message", message => {
     if(message.channel.type === "dm") return;
@@ -75,27 +74,29 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     let args = messageArray.slice(1);
   if(!message.content.startsWith(prefix)) return;
 
-   // let commandfile = bot.commands.get(cmd.slice(prefix.length)) || bot.commands.get(bot.aliases.get(cmd.slice(prefix.length)));
+    let commandfile = bot.commands.get(cmd.slice(prefix.length)) || bot.commands.get(bot.aliases.get(cmd.slice(prefix.length)));
   // let NeededPerm = commandfile.help.perm
- //  let NeededRole = message.guild.roles.find(r => r.name === commandfile.help.role)
- //  if(!NeededRole) {}
- //  if(NeededRole === '' && NeededPerm === '') {}
-//   if(NeededRole && NeededPerm !== '') if(!message.member.roles.has(NeededRole.id) || !message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
-//   if(NeededPerm !== '' && !NeededRole) if(!message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
-   // if(commandfile) commandfile.run(bot, message, args) //can you go thru files and add needed perms or roles they are blank but add like MANAGE_MESSAGES
+  // let NeededRole = message.guild.roles.find(r => r.name === commandfile.help.role)
+  // if(!NeededRole) {}
+  // if(NeededRole === '' && NeededPerm === '') {}
+  // if(NeededRole && NeededPerm !== '') if(!message.member.roles.has(NeededRole.id) || !message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
+  // if(NeededPerm !== '' && !NeededRole) if(!message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
+    if(commandfile) commandfile.run(bot, message, args) //can you go thru files and add needed perms or roles they are blank but add like MANAGE_MESSAGES
     else { //ok wait is there roles and perms //i need to go now
       if(cmd.slice(prefix.length) === 'help') {}
       else message.channel.send(`Ta komanda ne postoji ukucajte en!help da vidite listu komandi`)
       }
-      
-      if(cmd === `${prefix}dfhgfhfgh`) {
+   
+    if(cmd === `${prefix}hfgdfgeldfggfp`) {
       if(!args[0])  {
-        message.author.send(`https://web.glitch.me/`)
-        message.channel.send(`Check DMs!`)
-    fs.writeFile('./web.html', helpCmd, (err) => {
+        message.author.send(`https://extremecommunitybot.glitch.me/help`)
+        message.channel.send(`${message.author.tag} Pogledajte svoj DM!`)
+    fs.writeFile('./help.html', helpCmd, (err) => {
  if(err) console.error(err)
-})
-}
+});
+
+        return;
+      }
       let command = bot.commands.get(args[0]) || bot.commands.get(bot.aliases.get(args[0]));
       if(!command) return message.channel.send(`Can't find command named ${args[0]}!`)
       console.log(command)
@@ -121,35 +122,19 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 		bot.on(eventName, (...args) => eventFunc.run(bot, ...args));
     console.log(`${file} Loaded!`)
 	});
-});
-
-//anti badwords
-bot.on('message', message => {
-  if(botconfig.badwords.some(word => message.content.toLowerCase().includes(word))){
-    message.delete()
-  }})
-
-
-
-
-
-//console chatter
-let y = process.openStdin()
-y.addListener("data", res => {
-  let x = res.toString().trim().split(/ +/g)
-  bot.channels.get("619572522677043211").send(x.join(" "));
-});
+})
 bot.on('ready', () => {
-    setInterval(() => {
-        bot.user.setActivity(`ExtremeCommunity`, {type: 'WATCHING'}); 
-    }, 8000);
-});
+    console.log(`${bot.user.username} is online!`)
 
-bot.on('ready', () => {
-    setInterval(() => {
-        bot.user.setActivity(`Official Bot`, {type: 'WATCHING'}); 
-    }, 14000);
-});
+    bot.user.setStatus('available')
+    bot.user.setPresence({
+        game: {
+            name: `en!help`,
+          type: "STREAMING",
+          url: "https://www.twitch.tv/veka_peka312   "
+        }
+    })
+})
 
 
 bot.login(process.env.TOKEN)

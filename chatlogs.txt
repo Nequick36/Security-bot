@@ -49,3 +49,52 @@ ReferenceError: mhm is not defined
 [15.09.2019][10:52:07][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!mirror
 [15.09.2019][10:52:08][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
 [15.09.2019][10:52:08][biljeske-servera] Extreme#0316: 
+[15.09.2019][10:56:55][work] ⚡ Veka ⚡ 《Vlasnik》#7740: en!help
+[15.09.2019][10:56:55][biljeske-servera] Extreme#0316: 
+[15.09.2019][10:57:58][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!help
+[15.09.2019][10:57:58][biljeske-servera] ExtremeCommunity#0316: 
+[15.09.2019][10:58:04][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!help
+[15.09.2019][10:58:04][biljeske-servera] ExtremeCommunity#0316: 
+[15.09.2019][10:58:13][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!help
+[15.09.2019][10:58:13][biljeske-servera] ExtremeCommunity#0316: 
+[15.09.2019][10:58:17][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!help
+[15.09.2019][10:58:17][biljeske-servera] ExtremeCommunity#0316: 
+[15.09.2019][10:58:17][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!help
+[15.09.2019][10:58:18][biljeske-servera] ExtremeCommunity#0316: 
+[15.09.2019][10:58:18][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!help
+[15.09.2019][10:58:18][biljeske-servera] ExtremeCommunity#0316: 
+[15.09.2019][10:58:21][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!work
+[15.09.2019][10:58:21][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[15.09.2019][10:58:22][biljeske-servera] ExtremeCommunity#0316: 
+[15.09.2019][11:01:20][biljeske-servera] Carl-bot Logging#0000: 
+[15.09.2019][11:01:22][biljeske-servera] Carl-bot Logging#0000: 
+[15.09.2019][11:01:24][biljeske-servera] Carl-bot Logging#0000: 
+[15.09.2019][11:01:26][〔🔰〕welcome] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!clear 100
+[15.09.2019][11:01:26][biljeske-servera] ExtremeCommunity#0316: 
+[15.09.2019][11:01:26][〔🔰〕welcome] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[15.09.2019][11:01:29][〔🔰〕welcome] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: !clear 99
+[15.09.2019][11:01:29][〔🔰〕welcome] Rythm#3722: ❌ **You have to be in a voice channel to use this command.**
+[15.09.2019][11:01:29][chat-logs] ExtremeCommunity#0316: 
+[15.09.2019][11:01:30][biljeske-servera] Carl-bot Logging#0000: 
+[15.09.2019][11:01:32][〔🔰〕welcome] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: PRAVILA SERVERA 
+
+1.**__ Zabranjeno vrijeđanje po bilo kom osnovu!__**
+2. Zabranjeno je spamovanje.
+3. Zabranjeno je slanje linkova.
+4. Zabranjeno je smaranje za dobijanje ranka.
+5. Zabranjeno duvanje u mikrofon, vikanje i ostali neartikulisani zvuci u voice sobama.
+6. Zabranjeno je slanje neprikladnih slika u <#622747344819191808>
+**__7. Zabranjene su političke, religiozne i nacističke teme.__**
+8. Zabranjeno je puštanje video klipova. (Znači samo muzika, bez navijačkih, himni, nacionalističkih, itd..)
+9. Zabranjeno je tagovanje staffa, i ostalih igraca bez razloga
+10. Zabranjeno je korišćenje alt accounta.
+11. Zabranjeno je imati znakove prije imena.
+12. Zabranjeno imitranje policajaca na serveru. (Raditi posao moderatora,admina)
+**__13. Reklamiranje nije dozvoljeno! Ako želite podijeliti neki svoj video ili kanal, prvo se javite nekom od Vlasnika. __**
+(Ne reklamiramo discord servere!)
+14. Za free rankove ukucajte en!shop i skupljate pare uspomocu sljedecih komandi ( en!work , en!slot , en!daily , (dodacemo jos ovo je samo za sada) i kada je event ako pobjedite dobijate 300$)
+
+Posledice koja povlači nepoštovanje PRAVILA se kreću od opomene, kicka, do banovanja sa servera.
+[15.09.2019][11:05:12][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!help
+[15.09.2019][11:05:13][biljeske-servera] ExtremeCommunity#0316: 
+[15.09.2019][11:05:13][biljeske-servera] ExtremeCommunity#0316: 

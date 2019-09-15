@@ -49,3 +49,52 @@ ReferenceError: mhm is not defined
 [Sun Sep 15 2019 10:52:07 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!mirror
 [Sun Sep 15 2019 10:52:08 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
 [Sun Sep 15 2019 10:52:08 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sun Sep 15 2019 10:56:55 GMT+0000 (UTC)][ExtremeCommunity][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!help
+[Sun Sep 15 2019 10:56:55 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sun Sep 15 2019 10:57:58 GMT+0000 (UTC)][ExtremeCommunity][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!help
+[Sun Sep 15 2019 10:57:58 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sun Sep 15 2019 10:58:04 GMT+0000 (UTC)][ExtremeCommunity][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!help
+[Sun Sep 15 2019 10:58:04 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sun Sep 15 2019 10:58:13 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!help
+[Sun Sep 15 2019 10:58:13 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sun Sep 15 2019 10:58:17 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!help
+[Sun Sep 15 2019 10:58:17 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sun Sep 15 2019 10:58:17 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!help
+[Sun Sep 15 2019 10:58:18 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sun Sep 15 2019 10:58:18 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!help
+[Sun Sep 15 2019 10:58:18 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sun Sep 15 2019 10:58:21 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!work
+[Sun Sep 15 2019 10:58:21 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[Sun Sep 15 2019 10:58:22 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sun Sep 15 2019 11:01:20 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] Carl-bot Logging: 
+[Sun Sep 15 2019 11:01:22 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] Carl-bot Logging: 
+[Sun Sep 15 2019 11:01:24 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] Carl-bot Logging: 
+[Sun Sep 15 2019 11:01:26 GMT+0000 (UTC)][ExtremeCommunity][〔🔰〕welcome] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!clear 100
+[Sun Sep 15 2019 11:01:26 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sun Sep 15 2019 11:01:26 GMT+0000 (UTC)][ExtremeCommunity][〔🔰〕welcome] ExtremeCommunity: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[Sun Sep 15 2019 11:01:29 GMT+0000 (UTC)][ExtremeCommunity][〔🔰〕welcome] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: !clear 99
+[Sun Sep 15 2019 11:01:29 GMT+0000 (UTC)][ExtremeCommunity][〔🔰〕welcome] Rythm: ❌ **You have to be in a voice channel to use this command.**
+[Sun Sep 15 2019 11:01:29 GMT+0000 (UTC)][ExtremeCommunity][chat-logs] ExtremeCommunity: 
+[Sun Sep 15 2019 11:01:30 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] Carl-bot Logging: 
+[Sun Sep 15 2019 11:01:32 GMT+0000 (UTC)][ExtremeCommunity][〔🔰〕welcome] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: PRAVILA SERVERA 
+
+1.**__ Zabranjeno vrijeđanje po bilo kom osnovu!__**
+2. Zabranjeno je spamovanje.
+3. Zabranjeno je slanje linkova.
+4. Zabranjeno je smaranje za dobijanje ranka.
+5. Zabranjeno duvanje u mikrofon, vikanje i ostali neartikulisani zvuci u voice sobama.
+6. Zabranjeno je slanje neprikladnih slika u <#622747344819191808>
+**__7. Zabranjene su političke, religiozne i nacističke teme.__**
+8. Zabranjeno je puštanje video klipova. (Znači samo muzika, bez navijačkih, himni, nacionalističkih, itd..)
+9. Zabranjeno je tagovanje staffa, i ostalih igraca bez razloga
+10. Zabranjeno je korišćenje alt accounta.
+11. Zabranjeno je imati znakove prije imena.
+12. Zabranjeno imitranje policajaca na serveru. (Raditi posao moderatora,admina)
+**__13. Reklamiranje nije dozvoljeno! Ako želite podijeliti neki svoj video ili kanal, prvo se javite nekom od Vlasnika. __**
+(Ne reklamiramo discord servere!)
+14. Za free rankove ukucajte en!shop i skupljate pare uspomocu sljedecih komandi ( en!work , en!slot , en!daily , (dodacemo jos ovo je samo za sada) i kada je event ako pobjedite dobijate 300$)
+
+Posledice koja povlači nepoštovanje PRAVILA se kreću od opomene, kicka, do banovanja sa servera.
+[Sun Sep 15 2019 11:05:12 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!help
+[Sun Sep 15 2019 11:05:13 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
+[Sun Sep 15 2019 11:05:13 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: 
