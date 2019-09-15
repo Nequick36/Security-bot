@@ -2,7 +2,7 @@ const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
   let developers = bot.devs
-  if(!message.member.hasPermission("MANAGE_MESSAGES")) return message.reply("NEMEREEE")
+  if(!message.member.hasPermission("ADMINISTRATOR")) return message.reply("NEMEREEE")
   function clean(text) {
   if (typeof(text) === "string")
     return text.replace(/`/g, "`" + String.fromCharCode(8203)).replace(/@/g, "@" + String.fromCharCode(8203));

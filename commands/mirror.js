@@ -12,7 +12,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
  name: "mirror",
-  aliases: [],
+  aliases: ["Mirror"],
   perm: "",
   role: "",
   group: "simple"

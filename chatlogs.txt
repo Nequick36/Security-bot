@@ -22,3 +22,30 @@ ReferenceError: mhm is not defined
 [15.09.2019][10:03:48][〔💬〕balkan-chat] Extreme#0316: 
 [15.09.2019][10:03:48][chat-logs] Extreme#0316: 
 [15.09.2019][10:03:53][chat-logs] Extreme#0316: 
+[15.09.2019][10:46:59][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!msgs
+[15.09.2019][10:46:59][biljeske-servera] Extreme#0316: 
+[15.09.2019][10:46:59][biljeske-servera] Extreme#0316: 
+[15.09.2019][10:47:03][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: waj
+[15.09.2019][10:47:09][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!msgs 532659544791318540
+[15.09.2019][10:47:09][biljeske-servera] Extreme#0316: 
+[15.09.2019][10:47:10][biljeske-servera] Extreme#0316: 
+[15.09.2019][10:50:09][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: msgslb
+[15.09.2019][10:50:15][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!msgslb
+[15.09.2019][10:50:15][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[15.09.2019][10:50:15][biljeske-servera] Extreme#0316: 
+[15.09.2019][10:51:02][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!lvllb
+[15.09.2019][10:51:02][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[15.09.2019][10:51:02][biljeske-servera] Extreme#0316: 
+[15.09.2019][10:51:03][biljeske-servera] 《Pokecord》#4503: 
+[15.09.2019][10:51:19][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!lvllb
+[15.09.2019][10:51:20][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[15.09.2019][10:51:20][biljeske-servera] Extreme#0316: 
+[15.09.2019][10:51:27][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!levellb
+[15.09.2019][10:51:27][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[15.09.2019][10:51:27][biljeske-servera] Extreme#0316: 
+[15.09.2019][10:51:36][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!8ball
+[15.09.2019][10:51:36][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[15.09.2019][10:51:36][biljeske-servera] Extreme#0316: 
+[15.09.2019][10:52:07][biljeske-servera] ⚡ Veka ⚡ 《Vlasnik》#7740: en!mirror
+[15.09.2019][10:52:08][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[15.09.2019][10:52:08][biljeske-servera] Extreme#0316: 
