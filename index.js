@@ -147,7 +147,7 @@ bot.on('ready', () => {
 
 bot.on('ready', () => {
     setInterval(() => {
-        bot.user.setActivity(`Official`, {type: 'WATCHING'}); 
+        bot.user.setActivity(`Official Bot`, {type: 'WATCHING'}); 
     }, 14000);
 });
 
