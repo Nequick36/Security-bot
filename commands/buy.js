@@ -122,6 +122,36 @@ if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry bu
       message.member.addRole(role.id)
     })
   }
+         else if(item === 'Ultra' || item === 'ultra') {
+    let role = message.guild.roles.find(role => role.name === 'Ultra')
+    let currentRole = message.guild.roles.find(role => role.name === 'Ultra')
+    if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
+    if(User.balance < 12500) return message.channel.send(`Sorry but you don't have $12500.`)
+    eco.SubstractFromBalance(message.author.id, 12500).then(u => {
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Ultra Rank`)
+      message.member.addRole(role.id)
+    })
+  }
+         else if(item === 'Master' || item === 'Master') {
+    let role = message.guild.roles.find(role => role.name === 'Master')
+    let currentRole = message.guild.roles.find(role => role.name === 'Master')
+    if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
+    if(User.balance < 15000) return message.channel.send(`Sorry but you don't have $15000.`)
+    eco.SubstractFromBalance(message.author.id, 15000).then(u => {
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Master Rank`)
+      message.member.addRole(role.id)
+    })
+  }
+       else if(item === 'Supreme' || item === 'Supreme') {
+    let role = message.guild.roles.find(role => role.name === 'Supreme')
+    let currentRole = message.guild.roles.find(role => role.name === 'Supreme')
+    if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
+    if(User.balance < 17500) return message.channel.send(`Sorry but you don't have $17500.`)
+    eco.SubstractFromBalance(message.author.id, 10000).then(u => {
+      message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Supreme Rank`)
+      message.member.addRole(role.id)
+    })
+  }
    else if(item === 'Emerald' || item === 'emerald') {
     let role = message.guild.roles.find(role => role.name === 'Emerald')
     let currentRole = message.guild.roles.find(role => role.name === 'Emerald')
