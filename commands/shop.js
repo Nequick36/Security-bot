@@ -2,7 +2,6 @@ const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
   let Embed = new Discord.RichEmbed()
-             .setTitle("=================    **__Shop__**    ================")
              .addField("Coal - $250", "Rank")
              .addField("Iron - $750", "Rank")
              .addField("Gold - $1000 ", "Rank") 
@@ -16,7 +15,7 @@ module.exports.run = async (bot, message, args) => {
              .addField("Ultra - $12500", "Rank")
              .addField("Master - $15000", "Rank")
              .addField("Supreme - $17500", "Rank")
-             .addField("**en!buy <item-name>**")
+             .setDescription("**en!buy <item-name>**")
              .setColor("GREEN")
 
   message.channel.send(Embed)
