@@ -1,0 +1,24 @@
+[15.09.2019][09:57:53][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: a
+[15.09.2019][09:57:53][〔💬〕balkan-chat] Extreme#0316: `ERROR` ```xl
+ReferenceError: a is not defined
+```
+[15.09.2019][09:57:55][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: e
+[15.09.2019][09:57:55][〔💬〕balkan-chat] Extreme#0316: `ERROR` ```xl
+ReferenceError: e is not defined
+```
+[15.09.2019][09:58:28][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: a
+[15.09.2019][09:58:29][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: e
+[15.09.2019][10:00:59][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: a
+[15.09.2019][10:00:59][〔💬〕balkan-chat] Extreme#0316: `ERROR` ```xl
+ReferenceError: a is not defined
+```
+[15.09.2019][10:01:04][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: mhm
+[15.09.2019][10:01:05][〔💬〕balkan-chat] Extreme#0316: `ERROR` ```xl
+ReferenceError: mhm is not defined
+```
+[15.09.2019][10:03:39][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: a
+[15.09.2019][10:03:47][〔💬〕balkan-chat] ⚡ Veka ⚡ 《Vlasnik》#7740: en!dm 532659544791318540 e
+[15.09.2019][10:03:48][biljeske-servera] Extreme#0316: 
+[15.09.2019][10:03:48][〔💬〕balkan-chat] Extreme#0316: 
+[15.09.2019][10:03:48][chat-logs] Extreme#0316: 
+[15.09.2019][10:03:53][chat-logs] Extreme#0316: 

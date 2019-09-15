@@ -12,12 +12,10 @@ module.exports.run = async (bot, message, args) => {
     
 
    let contact = new Discord.RichEmbed()
-   .setAuthor(Owner.username)
    .setColor("00ff00")
    .setThumbnail(Owner.displayAvatarURL) //User avatar will be display if you keep this line
    .setTitle("New dm")
-   .addField("Response:", sayMessage)
-   .addField("Server message departure:", message.guild.name)
+   .addField("Mesage:", sayMessage)
    .setTimestamp()
 
     bot.users.get(id).send(contact);

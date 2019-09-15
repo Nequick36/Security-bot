@@ -32,7 +32,7 @@ bot.commands = new Discord.Collection()
 bot.aliases = new Discord.Collection();
 bot.afk = new Map()
 bot.workCooldown = new Map()
-bot.devs = ['532659544791318540']
+bot.devs = []
 let helpCmd = `Prefix is <b>en!</b><br>\nCommands:<br><br>\n\n` 
 fs.readdir("./commands", (err, files) => {
     if(err) console.log(err);
@@ -76,12 +76,12 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
   if(!message.content.startsWith(prefix)) return;
 
     let commandfile = bot.commands.get(cmd.slice(prefix.length)) || bot.commands.get(bot.aliases.get(cmd.slice(prefix.length)));
-  // let NeededPerm = commandfile.help.perm
-  // let NeededRole = message.guild.roles.find(r => r.name === commandfile.help.role)
-  // if(!NeededRole) {}
-  // if(NeededRole === '' && NeededPerm === '') {}
-  // if(NeededRole && NeededPerm !== '') if(!message.member.roles.has(NeededRole.id) || !message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
-  // if(NeededPerm !== '' && !NeededRole) if(!message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
+   let NeededPerm = commandfile.help.perm
+   let NeededRole = message.guild.roles.find(r => r.name === commandfile.help.role)
+   if(!NeededRole) {}
+   if(NeededRole === '' && NeededPerm === '') {}
+   if(NeededRole && NeededPerm !== '') if(!message.member.roles.has(NeededRole.id) || !message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
+   if(NeededPerm !== '' && !NeededRole) if(!message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
     if(commandfile) commandfile.run(bot, message, args) //can you go thru files and add needed perms or roles they are blank but add like MANAGE_MESSAGES
     else { //ok wait is there roles and perms //i need to go now
       if(cmd.slice(prefix.length) === 'help') {}
