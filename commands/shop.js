@@ -16,7 +16,7 @@ module.exports.run = async (bot, message, args) => {
              .addField("Ultra - $12500", "Rank")
              .addField("Master - $15000", "Rank")
              .addField("Supreme - $17500", "Rank")
-             .addField("=================    **__Shop__**    ================", "**en!buy <item-name>**")
+             .addField("**en!buy <item-name>**")
              .setColor("GREEN")
 
   message.channel.send(Embed)
