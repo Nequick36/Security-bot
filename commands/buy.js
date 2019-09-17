@@ -64,8 +64,8 @@ if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry bu
     let role = message.guild.roles.find(role => role.name === 'Redstone')
     let currentRole = message.guild.roles.find(role => role.name === 'Redstone')
     if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
-    if(User.balance < 1500) return message.channel.send(`Sorry but you don't have $1500.`)
-    eco.SubstractFromBalance(message.author.id, 1500).then(u => {
+    if(User.balance < 1250) return message.channel.send(`Sorry but you don't have $1250.`)
+    eco.SubstractFromBalance(message.author.id, 1250).then(u => {
       message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Redstone Rank`)
       message.member.addRole(role.id)
     })
@@ -76,8 +76,8 @@ if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry bu
     if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
     let prevrole = message.guild.roles.find(role => role.name === 'Redstone')
 if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry but you need the gold role in order to purchase this role.`)
-    if(User.balance < 2500) return message.channel.send(`Sorry but you don't have $2500.`)
-    eco.SubstractFromBalance(message.author.id, 2500).then(u => {
+    if(User.balance < 1500) return message.channel.send(`Sorry but you don't have $1500.`)
+    eco.SubstractFromBalance(message.author.id, 1500).then(u => {
       message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Lapis Rank`)
       message.member.addRole(role.id)
     })
@@ -86,8 +86,8 @@ if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry bu
     let role = message.guild.roles.find(role => role.name === 'Diamond')
     let currentRole = message.guild.roles.find(role => role.name === 'Diamond')
     if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
-    if(User.balance < 5000) return message.channel.send(`Sorry but you don't have $5000.`)
-    eco.SubstractFromBalance(message.author.id, 5000).then(u => {
+    if(User.balance < 3000) return message.channel.send(`Sorry but you don't have $3000.`)
+    eco.SubstractFromBalance(message.author.id, 3000).then(u => {
       message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Diamond Rank`)
       message.member.addRole(role.id)
     })
@@ -153,8 +153,8 @@ if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry bu
     })
   }
          else if(item === 'Member+' || item === 'Member+') {
-    let role = message.guild.roles.find(role => role.name === 'Supreme')
-    let currentRole = message.guild.roles.find(role => role.name === 'Supreme')
+    let role = message.guild.roles.find(role => role.name === 'Member+')
+    let currentRole = message.guild.roles.find(role => role.name === 'Member+')
     if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
     if(User.balance < 125) return message.channel.send(`Sorry but you don't have $125.`)
     eco.SubstractFromBalance(message.author.id, 125).then(u => {
@@ -176,8 +176,8 @@ if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry bu
     let role = message.guild.roles.find(role => role.name === 'Emerald')
     let currentRole = message.guild.roles.find(role => role.name === 'Emerald')
     if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
-    if(User.balance < 7500) return message.channel.send(`Sorry but you don't have $7500.`)
-    eco.SubstractFromBalance(message.author.id, 7500).then(u => {
+    if(User.balance < 5500) return message.channel.send(`Sorry but you don't have $5500.`)
+    eco.SubstractFromBalance(message.author.id, 5500).then(u => {
       message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Emerald Rank`)
       message.member.addRole(role.id)
     })
