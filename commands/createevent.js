@@ -23,7 +23,7 @@ Zabranjeno Upadanje u Sred eventa (**Warn i Mute 15min**)
 ====================================================================================
 **E ovako na nasem serveru** ${message.guild.name} **Dodali smo evente, Vako se to igra**
 **__Vlasnik servera vam kaze da pricate u chatu i ko se prvi javi dobije role Win__**
-**__Onda kad Vlasnik servera kaze da ne pricate u chatu i ko se javi kad je to reko dobije role Fail i ne moze vise ucestvovati__**
+**__Onda kad Vlasnik servera kaze da ne pricate u chatu i ko se javi u chatu ne moze ucestvovati!__**
 **__i da Winner role nesmje ucestvovati!__**
 `)
 channel.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {
