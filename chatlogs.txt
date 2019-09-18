@@ -1,0 +1,115 @@
+[18.09.2019][06:05:13][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!shop
+[18.09.2019][06:05:14][biljeske-servera] ExtremeCommunity#0316: 
+[18.09.2019][06:05:58][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!reload shop
+[18.09.2019][06:05:58][work] ExtremeCommunity#0316: Command shop was reloaded!
+[18.09.2019][06:05:58][biljeske-servera] ExtremeCommunity#0316: 
+[18.09.2019][06:06:01][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!shop
+[18.09.2019][06:06:01][work] ExtremeCommunity#0316: **en!buy <item-name>**
+
+Member+ - $125
+Coal - $250
+Iron - $750
+Gold - $1000 
+Redstone - $1250
+Lapis - $1500
+Diamond - $3000
+Emerald - $5500         
+Vip - $8000   
+Vip+ - $8750   
+Premium - $10000        
+Ultra - $12500     
+Master - $15000           
+Supeme - $17500           
+Titan - $200000
+[18.09.2019][06:06:01][biljeske-servera] ExtremeCommunity#0316: 
+[18.09.2019][06:07:08][shop] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!shop
+[18.09.2019][06:07:09][biljeske-servera] ExtremeCommunity#0316: 
+[18.09.2019][06:07:09][shop] ExtremeCommunity#0316: **en!buy <item-name>**
+
+Member+ - $125
+Coal - $250
+Iron - $750
+Gold - $1000 
+Redstone - $1250
+Lapis - $1500
+Diamond - $3000
+Emerald - $5500         
+Vip - $8000   
+Vip+ - $8750   
+Premium - $10000        
+Ultra - $12500     
+Master - $15000           
+Supeme - $17500           
+Titan - $200000
+[18.09.2019][06:07:12][biljeske-servera] Carl-bot Logging#0000: 
+[18.09.2019][06:07:13][chat-logs] ExtremeCommunity#0316: 
+[18.09.2019][06:07:14][biljeske-servera] Carl-bot Logging#0000: 
+[18.09.2019][06:07:36][chat-logs] ExtremeCommunity#0316: 
+[18.09.2019][06:07:41][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!reload shop
+[18.09.2019][06:07:41][work] ExtremeCommunity#0316: Command shop was reloaded!
+[18.09.2019][06:07:41][biljeske-servera] ExtremeCommunity#0316: 
+[18.09.2019][06:07:43][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!shop
+[18.09.2019][06:07:43][biljeske-servera] ExtremeCommunity#0316: 
+[18.09.2019][06:07:43][work] ExtremeCommunity#0316: **en!buy <item-name>**
+
+***__Member+ - $125
+Coal - $250
+Iron - $750
+Gold - $1000 
+Redstone - $1250
+Lapis - $1500
+Diamond - $3000
+Emerald - $5500         
+Vip - $8000   
+Vip+ - $8750   
+Premium - $10000        
+Ultra - $12500     
+Master - $15000           
+Supeme - $17500           
+Titan - $200000__***
+[18.09.2019][06:08:41][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!shop
+[18.09.2019][06:08:41][work] ExtremeCommunity#0316: -----------------------------------
+           ROLES SHOP
+-----------------------------------
+**en!buy <item-name>**
+
+***__Member+ - $125
+Coal - $250
+Iron - $750
+Gold - $1000 
+Redstone - $1250
+Lapis - $1500
+Diamond - $3000
+Emerald - $5500         
+Vip - $8000   
+Vip+ - $8750   
+Premium - $10000        
+Ultra - $12500     
+Master - $15000           
+Supeme - $17500           
+Titan - $200000__***
+[18.09.2019][06:08:41][biljeske-servera] ExtremeCommunity#0316: 
+[18.09.2019][06:08:47][shop] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!shop
+[18.09.2019][06:08:48][biljeske-servera] ExtremeCommunity#0316: 
+[18.09.2019][06:08:48][shop] ExtremeCommunity#0316: -----------------------------------
+           ROLES SHOP
+-----------------------------------
+**en!buy <item-name>**
+
+***__Member+ - $125
+Coal - $250
+Iron - $750
+Gold - $1000 
+Redstone - $1250
+Lapis - $1500
+Diamond - $3000
+Emerald - $5500         
+Vip - $8000   
+Vip+ - $8750   
+Premium - $10000        
+Ultra - $12500     
+Master - $15000           
+Supeme - $17500           
+Titan - $200000__***
+[18.09.2019][06:08:51][chat-logs] ExtremeCommunity#0316: 
+[18.09.2019][06:08:52][biljeske-servera] Carl-bot Logging#0000: 

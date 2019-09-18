@@ -8,7 +8,7 @@ exports.run = async (bot, message) => {
   let messageArray = message.content.split(" ")
   let cmd = messageArray[0]
   let args = messageArray.slice(1);
-  let logChannel = message.guild.channel.find(c => c.name === 'biljeske-servera')
+  let logChannel = message.guild.channels.find(c => c.name === 'biljeske-servera')
   if(message.content.startsWith('en!')) logChannel.send({embed:{description: `${message.author.tag} je iskoristio komandu ${message.content} u kanalu ${message.channel.name}.`, color: 0xff0000}})
   if(message.mentions.roles.size >= 2) {
      message.delete() //what are you doing 
