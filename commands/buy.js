@@ -2,10 +2,6 @@ const Discord = require("discord.js")
 const eco = require("discord-economy")
 
 module.exports.run = async (bot, message, args) => {
-     
-       
-  
-
   
   let item = message.content.split(" ").slice(1).join(" ")
 if  (!item) return message.reply("You have not specified an item!");

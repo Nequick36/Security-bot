@@ -2,7 +2,10 @@ const Discord = require("discord.js")
 const eco = require('discord-economy')
 
 module.exports.run = async (bot, message, args) => {
-  if(bot.workCooldown.has(message.author.id)) return message.channel.send(`**Sacekajte 1 minut! Prije sljedeceg posla**`)
+  if(bot.workCooldown.has(message.author.id)) return message.channel.send(`
+@${message.author.tag}
+**Sacekajte 60 Sekundi prije sljedeceg posla!**
+`)
   else {
     bot.workCooldown.set(message.author.id)
     setTimeout(function() {
