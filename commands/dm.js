@@ -14,7 +14,6 @@ module.exports.run = async (bot, message, args) => {
    let contact = new Discord.RichEmbed()
    .setColor("00ff00")
    .setThumbnail(Owner.displayAvatarURL) //User avatar will be display if you keep this line
-   .setTitle("New dm")
    .addField("Mesage:", sayMessage)
    .setTimestamp()
 
