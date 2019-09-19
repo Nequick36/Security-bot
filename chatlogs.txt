@@ -234,3 +234,29 @@ module.exports.help = {
 [19.09.2019][10:47:28][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: aa
 [19.09.2019][03:16:23][〔💬〕balkan-chat] AdnanBro #giveaway🎁#giveaway🎁 0000: [Epic Games Store] Batman Arkham Collection + Lego Batman Trilogy (Free/-100%) Sept. 19 - 26 https://www.epicgames.com/store/en-US/collection/batman-free-week
 [19.09.2019][05:16:07][〔💬〕balkan-chat] AdnanBro #giveaway🎁#giveaway🎁 0000: [Steam] Ring of Elysium-One Year Anniversary Pack (FREE/100% off) https://store.steampowered.com/app/1158790/Ring_of_ElysiumOne_Year_Anniversary_Pack/
+[19.09.2019][05:47:14][〔🎁〕giveaways] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!clear 5
+[19.09.2019][05:47:14][biljeske-servera] ExtremeCommunity#0316: 
+[19.09.2019][05:47:14][chat-logs] ExtremeCommunity#0316: 
+[19.09.2019][05:47:16][biljeske-servera] Carl-bot Logging#0000: 
+[19.09.2019][05:47:22][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: g!create
+[19.09.2019][05:47:22][biljeske-servera] GiveawayBot#2381: 🎉 Alright! Let's set up your giveaway! First, what channel do you want the giveaway in?
+You can type `cancel` at any time to cancel creation.
+
+`Please type the name of a channel in this server.`
+[19.09.2019][05:47:26][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: <#620269502357045268>
+[19.09.2019][05:47:26][biljeske-servera] GiveawayBot#2381: 🎉 Sweet! The giveaway will be in <#620269502357045268>! Next, how long should the giveaway last?
+
+`Please enter the duration of the giveaway in seconds.`
+`Alternatively, enter a duration in minutes and include an M at the end, or days and include a D.`
+[19.09.2019][05:47:29][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: 24h
+[19.09.2019][05:47:29][biljeske-servera] GiveawayBot#2381: 🎉 Neat! This giveaway will last **1** day! Now, how many winners should there be?
+
+`Please enter a number of winners between 1 and 15.`
+[19.09.2019][05:47:32][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: 2
+[19.09.2019][05:47:32][biljeske-servera] GiveawayBot#2381: 🎉 Ok! 2 winners it is! Finally, what do you want to give away?
+
+`Please enter the giveaway prize. This will also begin the giveaway.`
+[19.09.2019][05:47:39][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: Hulu acc i dezzer acc
+[19.09.2019][05:47:39][〔🎁〕giveaways] GiveawayBot#2381: <:yay:585696613507399692>   **GIVEAWAY**   <:yay:585696613507399692>
+[19.09.2019][05:47:39][biljeske-servera] GiveawayBot#2381: 🎉 Done! The giveaway for the `Hulu acc i dezzer acc` is starting in <#620269502357045268>!
+[19.09.2019][05:47:59][〔🎁〕giveaways] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: @everyone **NOVI GIVEAWAY**
