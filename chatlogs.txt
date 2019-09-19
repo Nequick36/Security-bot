@@ -232,3 +232,4 @@ module.exports.help = {
 [19.09.2019][10:45:36][chat-logs] ExtremeCommunity#0316: 
 [19.09.2019][10:45:37][biljeske-servera] Carl-bot Logging#0000: 
 [19.09.2019][10:47:28][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: aa
+[19.09.2019][03:16:23][〔💬〕balkan-chat] AdnanBro #giveaway🎁#giveaway🎁 0000: [Epic Games Store] Batman Arkham Collection + Lego Batman Trilogy (Free/-100%) Sept. 19 - 26 https://www.epicgames.com/store/en-US/collection/batman-free-week
