@@ -1,8 +1,9 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
+  message.delete()
   let developers = bot.devs
-  if(!message.member.hasPermission("ADMINISTRATOR")) return message.reply("NEMEREEE")
+  if(!developers.includes(message.author.id)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A DEVELOPER ONLY COMMAND. 🛑**`)
   function clean(text) {
   if (typeof(text) === "string")
     return text.replace(/`/g, "`" + String.fromCharCode(8203)).replace(/@/g, "@" + String.fromCharCode(8203));

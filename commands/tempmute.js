@@ -58,7 +58,7 @@ module.exports.run = async (bot, message, args) => {
 
   await(tomute.addRole(muterole.id));
 
-  message.reply(`<@${tomute.id}> **Je mutovan** ${ms(ms(mutetime))}`);
+  message.reply(`<@${tomute.id}> **Je mutovan na:** ${ms(ms(mutetime))}`);
   message.guild.channels.get("602090584924094470").send(embed)
   setTimeout(function(){
     if(!tomute.roles.has(muterole.id)) return;

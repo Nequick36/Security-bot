@@ -113,3 +113,121 @@ Supeme - $17500
 Titan - $200000__***
 [18.09.2019][06:08:51][chat-logs] ExtremeCommunity#0316: 
 [18.09.2019][06:08:52][biljeske-servera] Carl-bot Logging#0000: 
+[19.09.2019][10:42:43][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!reload tempmute
+[19.09.2019][10:42:43][biljeske-servera] ExtremeCommunity#0316: 
+[19.09.2019][10:42:43][〔💬〕balkan-chat] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token !
+```
+[19.09.2019][10:42:49][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: a
+[19.09.2019][10:42:49][〔💬〕balkan-chat] ExtremeCommunity#0316: `ERROR` ```xl
+ReferenceError: a is not defined
+```
+[19.09.2019][10:43:11][biljeske-servera] Carl-bot Logging#0000: 
+[19.09.2019][10:43:22][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!eval const Discord = require("discord.js")
+
+module.exports.run = async (bot, message, args) => {
+  let developers = bot.devs
+  if(!message.member.hasPermission("ADMINISTRATOR")) return message.reply("NEMEREEE")
+  function clean(text) {
+  if (typeof(text) === "string")
+    return text.replace(/`/g, "`" + String.fromCharCode(8203)).replace(/@/g, "@" + String.fromCharCode(8203));
+  else
+      return text;
+}
+  
+    try {
+      const code = args.join(" ");
+      let evaled = eval(code);
+ 
+      if (typeof evaled !== "string")
+        evaled = require("util").inspect(evaled);
+ 
+      message.channel.send(clean(evaled), {code:"xl"});
+    } catch (err) {
+      message.channel.send(`\`ERROR\` \`\`\`xl\n${clean(err)}\n\`\`\``);
+    }
+}
+
+module.exports.help = {
+  name: "eval",
+  aliases: [],
+  perm: "ADMINISTRATOR",
+  role: "*",
+  group:"Developer"
+}
+[19.09.2019][10:43:22][biljeske-servera] ExtremeCommunity#0316: ```xl
+{ name: 'eval',
+  aliases: [],
+  perm: 'ADMINISTRATOR',
+  role: '*',
+  group: 'Developer' }
+```
+[19.09.2019][10:43:22][biljeske-servera] ExtremeCommunity#0316: 
+[19.09.2019][10:43:28][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: <#620267225022201856>
+[19.09.2019][10:43:30][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: a
+[19.09.2019][10:43:30][〔💬〕balkan-chat] ExtremeCommunity#0316: `ERROR` ```xl
+ReferenceError: a is not defined
+```
+[19.09.2019][10:43:31][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: e
+[19.09.2019][10:43:32][〔💬〕balkan-chat] ExtremeCommunity#0316: `ERROR` ```xl
+ReferenceError: e is not defined
+```
+[19.09.2019][10:44:51][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: e
+[19.09.2019][10:44:52][〔💬〕balkan-chat] ExtremeCommunity#0316: `ERROR` ```xl
+ReferenceError: e is not defined
+```
+[19.09.2019][10:44:56][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: o
+[19.09.2019][10:44:56][〔💬〕balkan-chat] ExtremeCommunity#0316: `ERROR` ```xl
+ReferenceError: o is not defined
+```
+[19.09.2019][10:44:57][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: k
+[19.09.2019][10:44:58][〔💬〕balkan-chat] ExtremeCommunity#0316: `ERROR` ```xl
+ReferenceError: k is not defined
+```
+[19.09.2019][10:45:20][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!eval const Discord = require("discord.js")
+
+module.exports.run = async (bot, message, args) => {
+  message.delete()
+  let developers = bot.devs
+  if(!developers.includes(message.author.id)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A DEVELOPER ONLY COMMAND. 🛑**`)
+  function clean(text) {
+  if (typeof(text) === "string")
+    return text.replace(/`/g, "`" + String.fromCharCode(8203)).replace(/@/g, "@" + String.fromCharCode(8203));
+  else
+      return text;
+}
+  
+    try {
+      const code = args.join(" ");
+      let evaled = eval(code);
+ 
+      if (typeof evaled !== "string")
+        evaled = require("util").inspect(evaled);
+ 
+      message.channel.send(clean(evaled), {code:"xl"});
+    } catch (err) {
+      message.channel.send(`\`ERROR\` \`\`\`xl\n${clean(err)}\n\`\`\``);
+    }
+}
+
+module.exports.help = {
+  name: "eval",
+  aliases: [],
+  perm: "ADMINISTRATOR",
+  role: "*",
+  group:"Developer"
+}
+[19.09.2019][10:45:20][biljeske-servera] ExtremeCommunity#0316: ```xl
+{ name: 'eval',
+  aliases: [],
+  perm: 'ADMINISTRATOR',
+  role: '*',
+  group: 'Developer' }
+```
+[19.09.2019][10:45:20][chat-logs] ExtremeCommunity#0316: 
+[19.09.2019][10:45:20][biljeske-servera] ExtremeCommunity#0316: 
+[19.09.2019][10:45:21][biljeske-servera] Carl-bot Logging#0000: 
+[19.09.2019][10:45:35][chat-logs] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!clear 100
+[19.09.2019][10:45:36][biljeske-servera] ExtremeCommunity#0316: 
+[19.09.2019][10:45:36][chat-logs] ExtremeCommunity#0316: 
+[19.09.2019][10:45:37][biljeske-servera] Carl-bot Logging#0000: 
