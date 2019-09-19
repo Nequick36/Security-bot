@@ -231,3 +231,4 @@ module.exports.help = {
 [19.09.2019][10:45:36][biljeske-servera] ExtremeCommunity#0316: 
 [19.09.2019][10:45:36][chat-logs] ExtremeCommunity#0316: 
 [19.09.2019][10:45:37][biljeske-servera] Carl-bot Logging#0000: 
+[19.09.2019][10:47:28][〔💬〕balkan-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: aa
