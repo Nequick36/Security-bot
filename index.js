@@ -135,11 +135,5 @@ bot.on('ready', () => {
     }, 14000);
 });
 
-bot.on('ready', () => {
-    setInterval(() => {
-        bot.user.setActivity(`${bot.memberCount} Membera`, {type: 'STREAMING', url: 'https://www.twitch.tv/veka_peka312'}); 
-    }, 21000);
-});
-
 
 bot.login(process.env.TOKEN)
