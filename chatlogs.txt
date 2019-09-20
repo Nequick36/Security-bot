@@ -282,3 +282,30 @@ undefined
 [20.09.2019][07:22:30][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly added 300000 coins to ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740's account.
 [20.09.2019][07:22:33][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!bal
 [20.09.2019][07:22:33][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ Vi imate **310177**:money_with_wings:
+[20.09.2019][07:22:43][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!removebalance <@!532659544791318540> 10177
+[20.09.2019][07:22:44][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly removed 10177 coins to ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740's account.
+[20.09.2019][07:22:45][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!bal
+[20.09.2019][07:22:46][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ Vi imate **300000**:money_with_wings:
+[20.09.2019][07:22:52][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!baltop
+[20.09.2019][07:22:53][biljeske-servera] ExtremeCommunity#0316: My leaderboard:
+ 
+**1** - A retard#2649 **|** **Balance** 2135992578 
+**2** - ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 **|** **Balance** 300000 
+**3** - Joshua#4954 **|** **Balance** 86444 
+**4** - Deleted User 56c54dae#9847 **|** **Balance** 11495 
+**5** - Seth#7796 **|** **Balance** 6080 
+**6** - TLVA#2179 **|** **Balance** 2708 
+**7** - omerpro#1406 **|** **Balance** 2561 
+**8** - OfficialHypro#3269 **|** **Balance** 2365 
+**9** - TryHardBoy7#7170 **|** **Balance** 1540 
+**10** - CameronT05092002#4064 **|** **Balance** 1273
+[20.09.2019][07:26:58][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[20.09.2019][07:31:34][work] Extreme#0316: <@⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740>
+**Sacekajte 60 Sekundi prije sljedeceg posla!**
+[20.09.2019][07:31:55][work] Veka | Vlasnik#7740: en!work
+[20.09.2019][07:31:57][work] Veka | Vlasnik#7740: en!work
+[20.09.2019][07:31:57][work] Extreme#0316: <@532659544791318540>
+**Sacekajte 60 Sekundi prije sljedeceg posla!**
+[20.09.2019][07:32:00][work] Veka | Vlasnik#7740: toooooooo
+[20.09.2019][07:32:58][work] Veka | Vlasnik#7740: en!serverinfo
+[20.09.2019][07:32:58][work] Extreme#0316: 

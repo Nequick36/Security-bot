@@ -109,3 +109,20 @@ undefined
 [Fri Sep 20 2019 19:22:30 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: <@!532659544791318540>, You have successfuly added 300000 coins to ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740's account.
 [Fri Sep 20 2019 19:22:33 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!bal
 [Fri Sep 20 2019 19:22:33 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ Vi imate **310177**:money_with_wings:
+[Fri Sep 20 2019 19:22:43 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!removebalance <@!532659544791318540> 10177
+[Fri Sep 20 2019 19:22:44 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: <@!532659544791318540>, You have successfuly removed 10177 coins to ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740's account.
+[Fri Sep 20 2019 19:22:45 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!bal
+[Fri Sep 20 2019 19:22:46 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ Vi imate **300000**:money_with_wings:
+[Fri Sep 20 2019 19:22:52 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ: en!baltop
+[Fri Sep 20 2019 19:22:53 GMT+0000 (UTC)][ExtremeCommunity][biljeske-servera] ExtremeCommunity: My leaderboard:
+ 
+**1** - A retard#2649 **|** **Balance** 2135992578 
+**2** - ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 **|** **Balance** 300000 
+**3** - Joshua#4954 **|** **Balance** 86444 
+**4** - Deleted User 56c54dae#9847 **|** **Balance** 11495 
+**5** - Seth#7796 **|** **Balance** 6080 
+**6** - TLVA#2179 **|** **Balance** 2708 
+**7** - omerpro#1406 **|** **Balance** 2561 
+**8** - OfficialHypro#3269 **|** **Balance** 2365 
+**9** - TryHardBoy7#7170 **|** **Balance** 1540 
+**10** - CameronT05092002#4064 **|** **Balance** 1273

@@ -8,10 +8,8 @@ exports.run = async (bot, message) => {
   let messageArray = message.content.split(" ")
   let cmd = messageArray[0]
   let args = messageArray.slice(1);
-  let logChannel = message.guild.channels.find(c => c.name === 'biljeske-servera')
-  if(message.content.startsWith('efbdfbfdnbfbdfb!fbdfbdfb')) logChannel.send({embed:{description: `${message.author.tag} je iskoristio komandu ${message.content} u kanalu ${message.channel.name}.`, color: 0xff0000}})
   if(message.mentions.roles.size >= 2) {
-     message.delete() //what are you doing 
+     message.delete()  
     message.reply("Nemojte tagati vise od 2 rola!")
   }
   
@@ -30,12 +28,12 @@ exports.run = async (bot, message) => {
   
   //chat logs
   let date = message.createdTimestamp
-  fs.appendFile('./chatlogs.txt', `[${moment(date).format('DD.MM.YYYY')}][${moment(date).format('hh:mm:ss')}][${message.channel.name}] ${message.author.username}#${message.author.tag.split('#').slice(1).join(" ")}: ${message.content}\n`, (err) => {
+  fs.appendFile('./chatlogs.txt', `[${moment(date).format('DD.MM.YYYY')}][${moment(date).format('hh:mm:ss')}][${message.channel.name}] ${message.member.nickname || message.author.username}#${message.author.tag.split('#').slice(1).join(" ")}: ${message.content}\n`, (err) => {
     if(err) console.log(err)
   })
-   fs.appendFile('events/chatlogs.txt', `[${message.createdAt}][${message.guild.name}][${message.channel.name}] ${message.author.username}: ${message.content}\n`, (err) => {
-         if(err) console.log(err)
-     })
+  // fs.appendFile('events/chatlogs.txt', `[${message.createdAt}][${message.guild.name}][${message.channel.name}] ${message.author.username}: ${message.content}\n`, (err) => {
+  //       if(err) console.log(err)
+  //   })
   
   
   //xp system
@@ -47,14 +45,14 @@ exports.run = async (bot, message) => {
  
   let profile = await dl.Fetch(userID)
   
-  if(profile.xp >= 300) {
+  if(profile.xp >= 350) {
       dl.SetXp(userID, 1).then()//oh
       dl.AddLevel(userID, 1).then()
       message.channel.send(`${message.author} se level-upo na level ${profile.level + 1}!`)
   }
   
   //console in channel
-  if(message.channel.id === '532659544791318540' && !message.author.bot) {
+  if(message.channel.id === '590474521425739807' && !message.author.bot) {
     if(!developers.includes(message.author.id)) return
     if(message.content.startsWith('//')) return
     function clean(text) {
@@ -82,7 +80,7 @@ if(bot.afk.has(message.author.id)) {
     options.justafk = false
     bot.afk.set(message.author.id, options)
   } else {
-  message.reply(`${message.author.tag}  je dosao/la nazad!`)
+  message.reply(`${message.author.tag}je dosao nazad!`)
   bot.afk.delete(message.author.id)
   if(message.member.nickname) {
     if(message.member.nickname.includes('[AFK] ')) {

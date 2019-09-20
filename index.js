@@ -124,17 +124,22 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 	});
 })
 bot.on('ready', () => {
-    console.log(`${bot.user.username} is online!`)
+    setInterval(() => {
+        bot.user.setActivity(`en!help`, {type: 'STREAMING', url: 'https://www.twitch.tv/veka_peka312'}); 
+    }, 8000);
+});
 
-    bot.user.setStatus('available')
-    bot.user.setPresence({
-        game: {
-            name: `en!help`,
-          type: "STREAMING",
-          url: "https://www.twitch.tv/veka_peka312   "
-        }
-    })
-})
+bot.on('ready', () => {
+    setInterval(() => {
+        bot.user.setActivity(`YouTube Veka`, {type: 'STREAMING', url: 'https://www.twitch.tv/veka_peka312'}); 
+    }, 14000);
+});
+
+bot.on('ready', () => {
+    setInterval(() => {
+        bot.user.setActivity(`${bot.memberCount} Membera`, {type: 'STREAMING', url: 'https://www.twitch.tv/veka_peka312'}); 
+    }, 21000);
+});
 
 
 bot.login(process.env.TOKEN)
