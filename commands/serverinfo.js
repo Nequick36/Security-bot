@@ -32,6 +32,8 @@ module.exports.run = async (bot, message, args) => {
               .addField("**:seven: Broj Voice Kanala**", VoiceChanNum)
               .addField("**:eight: Broj Online Membera**", onlineNum)
               .addField("**:tools: Server Napravljen**", creation)
+              .addField("**Server ID**", "534103580920250399")
+              .addField("**Owner ID**", "532659544791318540")
         message.channel.sendEmbed(serverInfo)
         console.log(owner);
 
