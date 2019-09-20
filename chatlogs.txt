@@ -184,3 +184,101 @@ Vi sada imate :money_with_wings: 6886
 [20.09.2019][06:55:07][biljeske-servera] Carl-bot Logging#0000: 
 [20.09.2019][06:57:30][ostalo] Joka#5280: 
 [20.09.2019][06:57:31][biljeske-servera] Carl-bot Logging#0000: 
+[20.09.2019][07:14:53][〔🎉〕proofs] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: ModernHD_ ✅
+[20.09.2019][07:15:09][biljeske-servera] Mister#4953: g!create
+[20.09.2019][07:15:10][biljeske-servera] GiveawayBot#2381: 🎉 Alright! Let's set up your giveaway! First, what channel do you want the giveaway in?
+You can type `cancel` at any time to cancel creation.
+
+`Please type the name of a channel in this server.`
+[20.09.2019][07:15:13][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: aj ti XD
+[20.09.2019][07:15:17][biljeske-servera] Mister#4953: <#620269502357045268>
+[20.09.2019][07:15:17][biljeske-servera] GiveawayBot#2381: 🎉 Sweet! The giveaway will be in <#620269502357045268>! Next, how long should the giveaway last?
+
+`Please enter the duration of the giveaway in seconds.`
+`Alternatively, enter a duration in minutes and include an M at the end, or days and include a D.`
+[20.09.2019][07:15:19][biljeske-servera] Mister#4953: 24h
+[20.09.2019][07:15:19][biljeske-servera] GiveawayBot#2381: 🎉 Neat! This giveaway will last **1** day! Now, how many winners should there be?
+
+`Please enter a number of winners between 1 and 15.`
+[20.09.2019][07:15:21][biljeske-servera] Mister#4953: 1
+[20.09.2019][07:15:21][biljeske-servera] GiveawayBot#2381: 🎉 Ok! 1 winner it is! Finally, what do you want to give away?
+
+`Please enter the giveaway prize. This will also begin the giveaway.`
+[20.09.2019][07:15:31][biljeske-servera] Mister#4953: Spotify Accaunt (Provjeren)
+[20.09.2019][07:15:31][〔🎁〕giveaways] GiveawayBot#2381: <:yay:585696613507399692>   **GIVEAWAY**   <:yay:585696613507399692>
+[20.09.2019][07:15:31][biljeske-servera] GiveawayBot#2381: 🎉 Done! The giveaway for the `Spotify Accaunt (Provjeren)` is starting in <#620269502357045268>!
+[20.09.2019][07:15:36][〔🎁〕giveaways] Mister#4953: @everyone
+[20.09.2019][07:15:43][work] Mister#4953: en!work
+[20.09.2019][07:15:43][work] ExtremeCommunity#0316: Mister
+Radili ste kao ` Singer ` i zaradili ste :money_with_wings: 40
+Vi sada imate :money_with_wings: 40
+[20.09.2019][07:15:55][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!work
+[20.09.2019][07:15:55][work] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ
+Radili ste kao ` Cashier ` i zaradili ste :money_with_wings: 1
+Vi sada imate :money_with_wings: 6887
+[20.09.2019][07:16:15][work] Mister#4953: en!work
+[20.09.2019][07:16:15][work] ExtremeCommunity#0316: <@Mister#4953>
+**Sacekajte 60 Sekundi prije sljedeceg posla!**
+[20.09.2019][07:16:16][work] Mister#4953: en!daily
+[20.09.2019][07:16:16][work] ExtremeCommunity#0316: <@!560515595213340693>, **Uzeli ste svoju nagradu od 250:money_with_wings: sada imate 290:money_with_wings:**
+[20.09.2019][07:16:27][work] Mister#4953: en!pay <@!532659544791318540> 290
+[20.09.2019][07:16:27][work] ExtremeCommunity#0316: <@!560515595213340693>, Transfering coins succesfully done!
+Balance from Mister#4953: 0
+Balance to ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: 7177
+[20.09.2019][07:16:31][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: fala fala
+[20.09.2019][07:17:12][work] Mister#4953: en!afk
+[20.09.2019][07:17:12][work] ExtremeCommunity#0316: 
+[20.09.2019][07:17:37][work] Mister#4953: eve meee
+[20.09.2019][07:17:37][work] ExtremeCommunity#0316: <@!560515595213340693>, Mister#4953  je dosao/la nazad!
+[20.09.2019][07:17:39][work] Mister#4953: e to
+[20.09.2019][07:18:07][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!eval
+[20.09.2019][07:18:07][biljeske-servera] ExtremeCommunity#0316: 🛑 **ACCESS DENIED! THIS IS A DEVELOPER ONLY COMMAND. 🛑**
+[20.09.2019][07:18:07][chat-logs] ExtremeCommunity#0316: 
+[20.09.2019][07:18:07][biljeske-servera] Carl-bot Logging#0000: 
+[20.09.2019][07:19:01][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!eval
+[20.09.2019][07:19:01][biljeske-servera] ExtremeCommunity#0316: ```xl
+undefined
+```
+[20.09.2019][07:19:02][chat-logs] ExtremeCommunity#0316: 
+[20.09.2019][07:19:03][biljeske-servera] Carl-bot Logging#0000: 
+[20.09.2019][07:19:47][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!shop
+[20.09.2019][07:19:48][biljeske-servera] ExtremeCommunity#0316: -----------------------------------
+           ROLES SHOP
+-----------------------------------
+**en!buy <item-name>**
+
+***__Member+ - $125
+Coal - $250
+Iron - $750
+Gold - $1000 
+Redstone - $1250
+Lapis - $1500
+Diamond - $3000
+Emerald - $5500         
+Vip - $8000   
+Vip+ - $8750   
+Premium - $10000        
+Ultra - $12500     
+Master - $15000           
+Supeme - $17500           
+Titan - $200000__***
+[20.09.2019][07:19:52][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!bal
+[20.09.2019][07:19:53][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ Vi imate **7177**:money_with_wings:
+[20.09.2019][07:20:06][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setbalance <@!532659544791318540>
+[20.09.2019][07:20:06][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[20.09.2019][07:20:18][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!addbalance <@!532659544791318540> 13000
+[20.09.2019][07:20:19][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly added 13000 coins to ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740's account.
+[20.09.2019][07:22:06][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!eval
+[20.09.2019][07:22:06][biljeske-servera] ExtremeCommunity#0316: ```xl
+undefined
+```
+[20.09.2019][07:22:07][biljeske-servera] Carl-bot Logging#0000: 
+[20.09.2019][07:22:08][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!bal
+[20.09.2019][07:22:08][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ Vi imate **20177**:money_with_wings:
+[20.09.2019][07:22:12][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!buy PREMIUM
+[20.09.2019][07:22:13][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> Uspjesno ste kupili Premium Rank
+[20.09.2019][07:22:13][biljeske-servera] Carl-bot Logging#0000: 
+[20.09.2019][07:22:29][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!addbalance <@!532659544791318540> 300000
+[20.09.2019][07:22:30][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly added 300000 coins to ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740's account.
+[20.09.2019][07:22:33][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!bal
+[20.09.2019][07:22:33][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ Vi imate **310177**:money_with_wings:
