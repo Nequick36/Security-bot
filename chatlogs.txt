@@ -323,3 +323,4 @@ undefined
 [20.09.2019][08:20:35][biljeske-servera] Extreme#0316: I gave Mister#4953 role Glavni-Vlasnik!
 [20.09.2019][08:20:46][biljeske-servera] Veka | Vlasnik#7740: en!removerole <@!560515595213340693> Glavni-Vlasnik
 [20.09.2019][08:20:47][biljeske-servera] Extreme#0316: I removed role Glavni-Vlasnik from user Mister#4953!
+[20.09.2019][08:32:12][reklamiranje] Veka | Vlasnik#7740: Manijak Tarik FX & Vuk Mob
