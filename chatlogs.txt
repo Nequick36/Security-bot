@@ -26,3 +26,41 @@
 [20.09.2019][09:42:37][biljeske-servera] Extreme#0316: I removed role ExtremeCommunity from user ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740!
 [20.09.2019][09:42:49][biljeske-servera] Mister | SuVlasnik#4953: en!addRole <@!560515595213340693> ExtremeCommunity
 [20.09.2019][09:42:49][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[20.09.2019][09:43:04][biljeske-servera] Mister | SuVlasnik#4953: en!addrole <@!560515595213340693> ExtremeCommunity
+[20.09.2019][09:43:04][biljeske-servera] Extreme#0316: Mister#4953 Upravo ste obavjestili Staff-Team o pokusaju grifa to jest da ste dobili role: ExtremeCommunity!
+[20.09.2019][09:43:12][biljeske-servera] Mister | SuVlasnik#4953: SADA JA OVIME VLADAM
+[20.09.2019][09:43:20][biljeske-servera] Mister | SuVlasnik#4953: @here
+[20.09.2019][09:43:21][biljeske-servera] Mister | SuVlasnik#4953: @here @here
+[20.09.2019][09:43:22][biljeske-servera] Mister | SuVlasnik#4953: @here
+[20.09.2019][09:43:22][biljeske-servera] Mister | SuVlasnik#4953: @here
+[20.09.2019][09:43:22][biljeske-servera] Mister | SuVlasnik#4953: @here
+[20.09.2019][09:43:23][biljeske-servera] Mister | SuVlasnik#4953: @here
+[20.09.2019][09:43:23][biljeske-servera] Mister | SuVlasnik#4953: @here
+[20.09.2019][09:43:26][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: ma
+[20.09.2019][09:43:26][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: mrs
+[20.09.2019][09:46:49][owner-commands] Mister | SuVlasnik#4953: en!addrole <@!560515595213340693> *
+[20.09.2019][09:46:49][owner-commands] Extreme#0316: Mister#4953 Upravo ste obavjestili Staff-Team o pokusaju grifa to jest da ste dobili role: *!
+[20.09.2019][09:46:59][owner-commands] Mister | SuVlasnik#4953: en!addrole <@!560515595213340693> ExtremeCommunity
+[20.09.2019][09:47:00][owner-commands] Extreme#0316: Mister#4953 Upravo ste obavjestili Staff-Team o pokusaju grifa to jest da ste dobili role: ExtremeCommunity!
+[20.09.2019][09:47:08][owner-commands] Mister | SuVlasnik#4953: en!removerole <@532659544791318540> ExtremeCommunity
+[20.09.2019][09:47:08][owner-commands] Extreme#0316: I removed role ExtremeCommunity from user ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740!
+[20.09.2019][09:47:19][owner-commands] Mister | SuVlasnik#4953: en!removerole <@532659544791318540> *
+[20.09.2019][09:47:20][owner-commands] Extreme#0316: I removed role * from user ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740!
+[20.09.2019][09:47:32][owner-commands] Mister | SuVlasnik#4953: en!removerole <@532659544791318540>  PREMIUM
+[20.09.2019][09:47:32][owner-commands] Extreme#0316: <@!560515595213340693>, Couldn't find that role.
+[20.09.2019][09:47:39][owner-commands] Mister | SuVlasnik#4953: en!removerole <@532659544791318540> Premium
+[20.09.2019][09:47:39][owner-commands] Extreme#0316: <@!560515595213340693>, Couldn't find that role.
+[20.09.2019][09:47:43][owner-commands] Mister | SuVlasnik#4953: en!removerole <@532659544791318540> PREMIUM
+[20.09.2019][09:47:44][owner-commands] Extreme#0316: I removed role PREMIUM from user ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740!
+[20.09.2019][09:47:50][owner-commands] Mister | SuVlasnik#4953: en!removerole <@532659544791318540> Iron
+[20.09.2019][09:47:50][owner-commands] Extreme#0316: I removed role Iron from user ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740!
+[20.09.2019][09:47:56][owner-commands] Mister | SuVlasnik#4953: en!removerole <@532659544791318540> Coal
+[20.09.2019][09:47:56][owner-commands] Extreme#0316: I removed role Coal from user ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740!
+[20.09.2019][09:48:01][owner-commands] Mister | SuVlasnik#4953: en!removerole <@532659544791318540> Inviter 5
+[20.09.2019][09:48:02][owner-commands] Extreme#0316: I removed role Inviter 5 from user ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740!
+[20.09.2019][09:49:27][owner-commands] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!removerole <@!560515595213340693> *
+[20.09.2019][09:49:39][owner-commands] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!removerole <@!560515595213340693> ExtremeCommunity
+[20.09.2019][09:49:40][owner-commands] Extreme#0316: I removed role ExtremeCommunity from user Mister#4953!
+[20.09.2019][09:50:01][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!removerole <@532659544791318540>
+[20.09.2019][09:50:01][biljeske-servera] Extreme#0316: <@532659544791318540>, Specify a role!
+[20.09.2019][09:50:16][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: ||||
