@@ -16,7 +16,7 @@ module.exports.run = async (bot, message, args) => {
 
     try{
 
-      await rMember.send(`Congrats, you have been given the role ${gRole.name}`)
+      await rMember.send(`ALERT ${gRole.name}`)
 
     }catch(e){
 
