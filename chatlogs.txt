@@ -16,3 +16,13 @@
 [20.09.2019][09:17:44][biljeske-servera] Extreme#0316: I gave ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 role *!
 [20.09.2019][09:20:16][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!addrole <@532659544791318540> Coal
 [20.09.2019][09:20:16][biljeske-servera] Extreme#0316: I gave ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 role Coal!
+[20.09.2019][09:35:12][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!addrole <@532659544791318540> ExtremeCommunity
+[20.09.2019][09:35:13][biljeske-servera] Extreme#0316: I gave ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 role ExtremeCommunity!
+[20.09.2019][09:37:32][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!addrole <@532659544791318540> Iron
+[20.09.2019][09:37:33][biljeske-servera] Extreme#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 Upravo ste obavjestili Staff-Team o pokusaju grifa to jest da ste dobili role: Iron!
+[20.09.2019][09:42:28][biljeske-servera] Mister | SuVlasnik#4953: en!removerole <@532659544791318540> *
+[20.09.2019][09:42:29][biljeske-servera] Extreme#0316: I removed role * from user ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740!
+[20.09.2019][09:42:37][biljeske-servera] Mister | SuVlasnik#4953: en!removerole <@532659544791318540> ExtremeCommunity
+[20.09.2019][09:42:37][biljeske-servera] Extreme#0316: I removed role ExtremeCommunity from user ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740!
+[20.09.2019][09:42:49][biljeske-servera] Mister | SuVlasnik#4953: en!addRole <@!560515595213340693> ExtremeCommunity
+[20.09.2019][09:42:49][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi

@@ -12,11 +12,11 @@ module.exports.run = async (bot, message, args) => {
     if(rMember.roles.has(gRole.id)) return message.reply("They already have that role.");
 
     await(rMember.addRole(gRole.id));
-  message.channel.send(`I gave ${rMember.user.tag} role ${roleName}!`)
+  message.channel.send(`${rMember.user.tag} Upravo ste obavjestili Staff-Team o pokusaju grifa to jest da ste dobili role: ${roleName}!`)
 
     try{
 
-      await rMember.send(`⚠️ **__ALERT__** ⚠️ **NEKO JE DOBIO ROLE ODMAH PROVJERI AUDIT LOG I BANUJ GA!!! ⚠️⚠️⚠️ DOBIO JE ROLE ${gRole.name} ⚠️⚠️⚠️⚠️⚠️`)
+      await rMember.send(`⚠️ **__!!!_ALERT_!!!__** ⚠️ **!!!⚠️⚠️⚠️ NEKO JE DOBIO ROLE ODMAH PROVJERI AUDIT LOG I BANUJ GA ⚠️⚠️⚠️!!! DOBIO JE ROLE** ${gRole.name}`)
 
     }catch(e){
 
