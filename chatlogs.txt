@@ -309,3 +309,17 @@ undefined
 [20.09.2019][07:32:00][work] Veka | Vlasnik#7740: toooooooo
 [20.09.2019][07:32:58][work] Veka | Vlasnik#7740: en!serverinfo
 [20.09.2019][07:32:58][work] Extreme#0316: 
+[20.09.2019][08:12:25][biljeske-servera] Veka | Vlasnik#7740: en!addrole
+[20.09.2019][08:12:25][biljeske-servera] Extreme#0316: <@!532659544791318540>, Couldn't find that user
+[20.09.2019][08:12:32][biljeske-servera] Veka | Vlasnik#7740: en!addrole <@!532659544791318540>
+[20.09.2019][08:12:32][biljeske-servera] Extreme#0316: <@!532659544791318540>, Specify a role!
+[20.09.2019][08:12:57][biljeske-servera] Veka | Vlasnik#7740: en!addrole <@!560515595213340693> Glavni-Vlasnik
+[20.09.2019][08:12:58][biljeske-servera] Extreme#0316: I gave Mister#4953 role Glavni-Vlasnik!
+[20.09.2019][08:20:12][biljeske-servera] Veka | Vlasnik#7740: en!addrole <@!560515595213340693> Glavni-Vlasnik
+[20.09.2019][08:20:12][biljeske-servera] Extreme#0316: <@!532659544791318540>, Sorry pal, you can't do that.
+[20.09.2019][08:20:25][biljeske-servera] Veka | Vlasnik#7740: en!addrole
+[20.09.2019][08:20:25][biljeske-servera] Extreme#0316: <@!532659544791318540>, Couldn't find that user
+[20.09.2019][08:20:35][biljeske-servera] Veka | Vlasnik#7740: en!addrole <@!560515595213340693> Glavni-Vlasnik
+[20.09.2019][08:20:35][biljeske-servera] Extreme#0316: I gave Mister#4953 role Glavni-Vlasnik!
+[20.09.2019][08:20:46][biljeske-servera] Veka | Vlasnik#7740: en!removerole <@!560515595213340693> Glavni-Vlasnik
+[20.09.2019][08:20:47][biljeske-servera] Extreme#0316: I removed role Glavni-Vlasnik from user Mister#4953!
