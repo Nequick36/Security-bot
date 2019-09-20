@@ -16,7 +16,7 @@ module.exports.run = async (bot, message, args) => {
 
     try{
 
-      await rMember.send(`ALERT ${gRole.name}`)
+      await rMember.send(`⚠️ **__ALERT__** ⚠️ **NEKO JE DOBIO ROLE ODMAH PROVJERI AUDIT LOG I BANUJ GA!!! ⚠️⚠️⚠️ DOBIO JE ROLE ${gRole.name} ⚠️⚠️⚠️⚠️⚠️`)
 
     }catch(e){
 

@@ -14,3 +14,5 @@
 [20.09.2019][09:17:39][biljeske-servera] Extreme#0316: I gave ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 role ExtremeCommunity Owner!
 [20.09.2019][09:17:44][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!addrole <@532659544791318540> *
 [20.09.2019][09:17:44][biljeske-servera] Extreme#0316: I gave ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 role *!
+[20.09.2019][09:20:16][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!addrole <@532659544791318540> Coal
+[20.09.2019][09:20:16][biljeske-servera] Extreme#0316: I gave ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 role Coal!

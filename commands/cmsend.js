@@ -7,7 +7,7 @@ exports.run = async (client, message, args, tools) => {
 message.channel.send(`
 < @here > **NOVI MUSIC EVENT** < @here >
 Udjite u voice channel [ **Music Event** ]
-I pustate muziku sa Rythm botom i ko zadnji ostane dobije role Titan i 250$ na nasem Official Botu
+I pustate muziku sa Rythm botom i ko zadnji ostane dobije role Diamond i 300$ na nasem Official Botu
 `)
   
 } 
