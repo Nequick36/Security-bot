@@ -270,3 +270,10 @@ You can type `cancel` at any time to cancel creation.
 [20.09.2019][09:16:12][〔🎁〕drop] 💯G͓̽a͓̽š͓̽1͓̽x͓̽💯#5012: Imate 5 min da preuzmete Itunes kod
 [20.09.2019][09:16:27][chat-logs] ExtremeCommunity#0316: 
 [20.09.2019][09:16:27][biljeske-servera] Carl-bot Logging#0000: 
+[20.09.2019][09:34:23][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!serverinfo
+[20.09.2019][09:34:23][biljeske-servera] ExtremeCommunity#0316: 
+[20.09.2019][09:34:23][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[20.09.2019][09:38:18][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: 🛠
+[20.09.2019][09:39:12][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!serverinfo
+[20.09.2019][09:39:12][biljeske-servera] ExtremeCommunity#0316: 
+[20.09.2019][09:39:12][biljeske-servera] ExtremeCommunity#0316: 
