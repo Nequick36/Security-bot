@@ -331,3 +331,7 @@ A JA UDARAM KO MAJKE
 [21.09.2019][09:19:07][staff-chat] Vlasnik | Veka#7740: lol
 [21.09.2019][09:19:49][staff-chat] Veka 2#4953: profa
 [21.09.2019][09:19:53][staff-chat] Veka 2#4953: os da ti pokazem trikic
+[21.09.2019][09:57:14][〔🤖〕bot-komande] The Mister Man#4953: en!addrole <@560515595213340693> *
+[21.09.2019][09:57:14][〔🤖〕bot-komande] Extreme#0316: The Mister Man#4953 Upravo ste obavjestili Staff-Team o pokusaju grifa to jest da ste dobili role: *!
+[21.09.2019][10:05:48][〔🤖〕bot-komande] The Mister Man#4953: en!warn <@543004967598948356> psovanje
+[21.09.2019][10:05:48][〔🤖〕bot-komande] Extreme#0316: ** ✅ Delija_#9442 je warnovan!  **

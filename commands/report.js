@@ -4,7 +4,7 @@ const { RichEmbed } = require("discord.js")
 const replaceall = require("replaceall")
 
 module.exports.run = async (bot, message, args) => {
-    let warnChannel = message.guild.channels.get("602090584924094470")
+    let warnChannel = message.guild.channels.get("622385111748575232")
 
      var user = message.mentions.users.first() 
      if (!user) return message.reply('cannot find user!')
