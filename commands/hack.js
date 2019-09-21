@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
  if(!site3.body) return message.channel.send("Oof i'm broke.")
   let userToHack = message.mentions.members.first()
   if(!userToHack) return message.reply(`Mention a user that you want to hack!`)
-  let msg = await message.channel.send(`Please wait trying to get access to database!`)
+  let msg = await message.channel.send(`Morate malo sacekati dok ne udjem u database korisnika!`)
   setTimeout(function() {
     msg.edit(`Pristup dozvoljen!`)
       setTimeout(function() {
@@ -21,7 +21,7 @@ module.exports.run = async (bot, message, args) => {
           setTimeout(function() {
     msg.edit(`Pristup odobren!`)
               setTimeout(function() {
-    msg.edit(`**${message.author.username} je Hakovan!**
+    msg.edit(`**${userToHack.user.username} je Hakovan!**
 **Username**: ${userToHack.user.username}
 **Email**: ${userToHack.user.username}${Math.floor(Math.random() * 1000)}@gmail.com
 **Password**: ${site3.body.password}
