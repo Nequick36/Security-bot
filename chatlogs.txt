@@ -64,3 +64,10 @@
 [20.09.2019][09:50:01][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!removerole <@532659544791318540>
 [20.09.2019][09:50:01][biljeske-servera] Extreme#0316: <@532659544791318540>, Specify a role!
 [20.09.2019][09:50:16][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: ||||
+[21.09.2019][08:30:40][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: <@!560515595213340693>
+[21.09.2019][08:32:01][biljeske-servera] Mister | SuVlasnik#4953: a
+[21.09.2019][08:32:03][biljeske-servera] Mister | SuVlasnik#4953: dacu si role
+[21.09.2019][08:32:06][biljeske-servera] Mister | SuVlasnik#4953: da uradim roles
+[21.09.2019][08:32:10][biljeske-servera] Mister | SuVlasnik#4953: en!addrole <@!560515595213340693> *
+[21.09.2019][08:32:11][biljeske-servera] Extreme#0316: Mister#4953 Upravo ste obavjestili Staff-Team o pokusaju grifa to jest da ste dobili role: *!
+[21.09.2019][08:32:14][biljeske-servera] Mister | SuVlasnik#4953: pa cu si skinit
