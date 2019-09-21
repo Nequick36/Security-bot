@@ -30,7 +30,7 @@ module.exports.run = async (bot, message, args) => {
      let kickChannel = message.guild.channels.find(channel => channel.name === "logs")
      kickChannel.send(kickInfo)
      message.delete()
-     kickedUser.send(`You have been kicked out of GameHub for: ${reason}`).catch(message.channel.send(`** ${kickedUser.user.tag} has been kicked!**`))
+     kickedUser.send(`**Kikani** ste sa Servera ExtremeCommunity, Razlog: ${reason}`).catch(message.channel.send(`** ${kickedUser.user.tag} je kikovan!**`))
      setTimeout(function(){
   //code
        message.guild.member(kickedUser).kick(reason)

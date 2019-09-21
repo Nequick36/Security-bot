@@ -1,21 +1,55 @@
-const discord = require("discord.js")
+const Discord = require("discord.js")
+const replaceall = require("replaceall")
 
-exports.run = async (bot, message, args) => {
-  message.delete()
-  if(!message.member.hasPermission("MANAGE_MESSAGES")) return message.channel.send({embed:{description:` | :x: | Nemas dozvolu za ovu komandu!  | :x: | `, color:0xff0000}})
-    let user = message.mentions.members.first()
-    if(!user) return message.channel.send({embed:{description:`Taguj membera kojeg hocete banati!`, color:0xff0000}})
-    if(user.hasPermission("ADMINISTRATOR")) return message.channel.send({embed:{description:`| :x: | Ne mozes da banas ljude sa Administracijom! | :x: |  `, color:0xff0000}})
-    let reason = args.filter(arg => arg!==args[0]).join(" ") || 'Razlog nije dat'
-    try {
-        user.ban(`Staff: ${message.author.tag}, Razlog: ${reason}`)
-        message.channel.send({embed:{description:`| :white_check_mark: | ${user} **__je banovan! ,razlog__** \`${reason}\``, color:0xff0000}})
-    } catch (e) {
-        if(e) return message.channel.send(e+'\nError: Kontaktirajte ownera!')
-    }
-}
+
+module.exports.run = async (bot, message, args) => {
+let role = message.guild.roles.find(r => r.name === 'Pristup')
+  let bannedUser = message.mentions.members.first();
+   if(!message.member.roles.has(role.id))
+       {
+           message.channel.send("🛑**ACCESS DENIED! THIS IS AN ADMIN ONLY COMMAND.🛑**");
+           return;
+       }
+
+       if(!bannedUser)
+       {
+           message.channel.send("Sorry, I couldn't find that user");
+           return;
+       }
+      if(message.mentions.members.first().hasPermission('MANAGE_GUILD')) return message.channel.send(`You can't warn a Server Manager!`)
+       let reason = args.slice(1).join(" ")
+       if (!reason)
+       {
+         message.channel.send("You have not specified a reason!")
+         return;
+       }
+     
+     var banInfo = new Discord.RichEmbed()
+         .setTitle("Ban log")
+         .addField("Banned user", bannedUser.user.username)
+         .addField("Banned by", message.author.username)
+         .addField("Reason", reason)
+         .setThumbnail(bannedUser.user.avatarURL)
+         .setColor(0xFF0000)
+     let banChannel = message.guild.channels.find(channel => channel.name === "logs")
+     banChannel.send(banInfo)
+     message.delete()
+     bannedUser.send(`**Banovani** ste sa servera ExtremeCommunity, Razlog: ${reason}`).catch(message.channel.send(`** ${bannedUser.user.tag} je banovan!**`))
+     setTimeout(function(){
+  //code
+       message.guild.member(bannedUser).ban(7)
+              .then(console.log(reason))
+              .catch(console.error);
+}, 1000);
+  }
+
 module.exports.help = {
-name: "ban",
-aliases: ["Ban"]
-
+  name: "ban",
+  aliases: [],
+  description: "Bans a user for obvious reasons.",
+  perm: "MANAGE_MESSAGES",
+  role: "Pristup",
+  group: "Admin"
 }
+
+

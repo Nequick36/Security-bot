@@ -165,3 +165,12 @@ Sprdule
 [21.09.2019][07:16:56][biljeske-servera] Vlasnik | Veka#7740: en!warn <@!532659544791318540> test
 [21.09.2019][07:16:56][biljeske-servera] Extreme#0316: ** ✅ ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 je warnovan!  **
 [21.09.2019][07:16:56][chat-logs] Extreme#0316: 
+[21.09.2019][07:17:21][biljeske-servera] Vlasnik | Veka#7740: en!warns <@!532659544791318540>
+[21.09.2019][07:17:21][biljeske-servera] Extreme#0316: 
+[21.09.2019][07:18:15][biljeske-servera] Vlasnik | Veka#7740: en!kick
+[21.09.2019][07:18:15][biljeske-servera] Extreme#0316: Sorry, I couldn't find that user
+[21.09.2019][07:18:18][biljeske-servera] Vlasnik | Veka#7740: en!kick <@!532659544791318540>
+[21.09.2019][07:18:18][biljeske-servera] Extreme#0316: You have not specified a reason!
+[21.09.2019][07:18:24][biljeske-servera] Vlasnik | Veka#7740: en!kick <@!532659544791318540> a
+[21.09.2019][07:18:24][logs] Extreme#0316: 
+[21.09.2019][07:18:24][biljeske-servera] Extreme#0316: ** ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 has been kicked!**
