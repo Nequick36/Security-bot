@@ -125,7 +125,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 })
 bot.on("guildMemberAdd", function (member) {
     member.send(`Dobrodosli <@${bot.author.id}> na nas Discord server ExtremeCommunity .Zabavite se i procitajte <#620564448536690699>`)
-  ;});
+  });
 
 
 bot.on('ready', () => {

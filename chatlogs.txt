@@ -1,70 +1,9 @@
-[21.09.2019][09:19:27][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!botinfo
-[21.09.2019][09:19:27][〔🤖〕bot-komande] ExtremeCommunity#0316: 
-[21.09.2019][09:19:29][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!work
-[21.09.2019][09:19:30][〔🤖〕bot-komande] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ
-Radili ste kao ` Cleaner ` i zaradili ste :money_with_wings: 76
-Vi sada imate :money_with_wings: 76
-[21.09.2019][09:19:32][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!daily
-[21.09.2019][09:19:32][〔🤖〕bot-komande] ExtremeCommunity#0316: <@!532659544791318540>, **Uzeli ste svoju nagradu od 250:money_with_wings: sada imate 326:money_with_wings:**
-[21.09.2019][09:19:32][naručivanje-muzike] Rythm#3722: 
-[21.09.2019][09:19:34][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!baltop
-[21.09.2019][09:19:50][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@!532659544791318540> 50
-[21.09.2019][09:19:50][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 je sada level 50!
-[21.09.2019][09:20:20][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@!601781175786274846> 10
-[21.09.2019][09:20:20][staff-chat] ExtremeCommunity#0316: 🈷💯SupremeG͓̽a͓̽š͓̽1͓̽x͓̽💯🈷#9999 je sada level 10!
-[21.09.2019][09:20:24][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@!373459214670102528> 10
-[21.09.2019][09:20:24][staff-chat] ExtremeCommunity#0316: Nenad#3504 je sada level 10!
-[21.09.2019][09:20:27][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@!412269163684560896> 10
-[21.09.2019][09:20:27][staff-chat] ExtremeCommunity#0316: TLVA#2179 je sada level 10!
-[21.09.2019][09:20:29][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@!546443994557710339> 10
-[21.09.2019][09:20:30][staff-chat] ExtremeCommunity#0316: Profesor.exe#7676 je sada level 10!
-[21.09.2019][09:20:32][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@!580859295890014218> 10
-[21.09.2019][09:20:32][staff-chat] ExtremeCommunity#0316: omagamee#5088 je sada level 10!
-[21.09.2019][09:20:35][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@560515595213340693> 50
-[21.09.2019][09:20:35][staff-chat] ExtremeCommunity#0316: The Mister Man#4953 je sada level 50!
-[21.09.2019][09:20:38][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!clear 10
-[21.09.2019][09:20:38][chat-logs] ExtremeCommunity#0316: 
-[21.09.2019][09:20:41][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!clear 3
-[21.09.2019][09:20:41][chat-logs] ExtremeCommunity#0316: 
-[21.09.2019][09:22:59][naručivanje-muzike] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: !p djala brat bebi
-[21.09.2019][09:22:59][naručivanje-muzike] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `djala brat bebi`
-[21.09.2019][09:23:00][naručivanje-muzike] Rythm#3722: 
-[21.09.2019][09:23:00][naručivanje-muzike] Rythm#3722: **Playing** 🎶 `Jala Brat x Buba Corelli - Bebi (Official Video 2019)` - Now!
-[21.09.2019][09:23:11][naručivanje-muzike] Joka#5280: JALA VELO JALA
-[21.09.2019][09:23:12][naručivanje-muzike] Joka#5280: NE DJALA
-[21.09.2019][09:23:28][naručivanje-muzike] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: so
-[21.09.2019][09:24:28][naručivanje-muzike] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: a!dashboard
-[21.09.2019][09:24:28][naručivanje-muzike] Atlas#2867: You can configure your server at <https://atlasbot.xyz/guilds/534103580920250399>.
-[21.09.2019][09:24:59][chat-logs] ExtremeCommunity#0316: 
-[21.09.2019][09:25:22][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!lvllb
-[21.09.2019][09:25:40][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@519518832965189652> 5
-[21.09.2019][09:25:40][〔🤖〕bot-komande] ExtremeCommunity#0316: NotDejann™#5633 je sada level 5!
-[21.09.2019][09:25:49][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@444858567078445066> 5
-[21.09.2019][09:25:50][〔🤖〕bot-komande] ExtremeCommunity#0316: Aco Drat#4401 je sada level 5!
-[21.09.2019][09:25:55][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@620185976551112705> 5
-[21.09.2019][09:25:55][〔🤖〕bot-komande] ExtremeCommunity#0316: Andjela#6526 je sada level 5!
-[21.09.2019][09:26:01][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@477103045440962562> 5
-[21.09.2019][09:26:02][〔🤖〕bot-komande] ExtremeCommunity#0316: Balkanski Gamer YT#9618 je sada level 5!
-[21.09.2019][09:26:07][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!clear 100
-[21.09.2019][09:26:07][chat-logs] ExtremeCommunity#0316: 
-[21.09.2019][09:26:13][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!lvllb
-[21.09.2019][09:26:48][naručivanje-muzike] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: !play dj stojke harmonika mix 2018
-[21.09.2019][09:26:48][naručivanje-muzike] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `dj stojke harmonika mix 2018`
-[21.09.2019][09:26:49][naručivanje-muzike] Rythm#3722: 
-[21.09.2019][09:26:49][naručivanje-muzike] Rythm#3722: **Playing** 🎶 `BALKAN HARMONIKA MIX 2018 by DJ STOJAK` - Now!
-[21.09.2019][09:27:20][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!bal
-[21.09.2019][09:27:21][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ Vi imate **326**:money_with_wings:
-[21.09.2019][09:27:41][naručivanje-muzike] Joka#5280: !p dje si ruzo kurvetino stara
-[21.09.2019][09:27:41][naručivanje-muzike] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `dje si ruzo kurvetino stara`
-[21.09.2019][09:27:42][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!addbal <@!532659544791318540> 30000
-[21.09.2019][09:27:42][naručivanje-muzike] Rythm#3722: 
-[21.09.2019][09:27:43][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly added 30000 coins to ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740's account.
-[21.09.2019][09:27:48][naručivanje-muzike] Joka#5280: !s
-[21.09.2019][09:27:48][naručivanje-muzike] Rythm#3722: ⏩ ***Skipped*** 👍
-[21.09.2019][09:27:48][naručivanje-muzike] Rythm#3722: 
-[21.09.2019][09:27:52][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!removebal <@!532659544791318540> 326
-[21.09.2019][09:27:53][naručivanje-muzike] Joka#5280: SLUSAJ SAD MOMAK
-[21.09.2019][09:27:53][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly removed 326 coins to ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740's account.
-[21.09.2019][09:27:53][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!bal
-[21.09.2019][09:27:54][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ Vi imate **30000**:money_with_wings:
-[21.09.2019][09:28:00][naručivanje-muzike] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: ahah
+[21.09.2019][09:39:17][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!ascii STOJKEE
+[21.09.2019][09:39:17][staff-chat] ExtremeCommunity#0316: ```AsciiArt
+  ____ _____ ___      _ _  _______ _____ 
+ / ___|_   _/ _ \    | | |/ / ____| ____|
+ \___ \ | || | | |_  | | ' /|  _| |  _|  
+  ___) || || |_| | |_| | . \| |___| |___ 
+ |____/ |_| \___/ \___/|_|\_\_____|_____|
+                                         
+```
