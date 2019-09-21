@@ -4,7 +4,7 @@ const figlet = require('figlet')
 module.exports.run = async (bot, message, args) => {
     var maxLen = 100
   
-  if(args.join(' ').length > maxLen) return message.channel.send(`${maxLen} is over the maximum character limit!`) 
+  if(args.join(' ').length > maxLen) return message.channel.send(`nemojte duge rjeci pisati!`)
   
   if(!args[0]) return message.channel.send('Please enter a post ');
   

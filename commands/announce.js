@@ -8,7 +8,7 @@ module.exports.run = async (bot, message, args) => {
              return;
          }
   let channel = message.mentions.channels.first()
-  if(!channel) return message.channel.send(`Please mention a channel that you want to send an announcement!`)
+  if(!channel) return message.channel.send(`Tagaj kanal u kojem hocete poslati obavjestenje!`)
   let announcement = args.slice(1).join(" ")
   if(!announcement) return message.reply("You have not specified a message to announce!")
   let embed = new Discord.RichEmbed()

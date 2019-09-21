@@ -5,8 +5,8 @@ module.exports.run = async (bot, message, args) => {
   let ticketChannel = message.guild.channels.find(c => c.name === `ticket-${message.author.username}`)
   if(!args[0]) {
     message.channel.send(`Ticket help:
-!ticket new - Makes new ticket
-!ticket close - Deletes the ticket`)
+en!ticket new - Makes new ticket
+en!ticket close - Deletes the ticket`)
   }
   if(args[0] === `new`) {
     let ticketChannel = message.guild.channels.find(r => r.name === `ticket-${message.author.id}`)
@@ -31,7 +31,7 @@ VIEW_CHANNEL: true,
 SEND_MESSAGES: true,
 READ_MESSAGE_HISTORY: true
 })
-channel.overwritePermissions(message.guild.roles.find(r => r.name === 'Support-Team'), {
+channel.overwritePermissions(message.guild.roles.find(r => r.name === 'EC | Support-Team'), {
 VIEW_CHANNEL: true,
 SEND_MESSAGES: true,
 READ_MESSAGE_HISTORY: true

@@ -8,9 +8,9 @@ module.exports.run = async (bot, message, args) => {
         {
           return message.reply("🛑**ACCESS DENIED! THIS IS A STAFF-ONLY COMMAND.🛑**")
         }
-       if (!amount) return message.reply("You have not specified an amount!");
+       if (!amount) return message.reply("Koliko zelite dodati novca?");
         var user = message.mentions.users.first() || message.guild.members.get(args[0])
-         if (!user) return message.reply('cannot find user!')
+         if (!user) return message.reply('Kome hocete da dodate novac?')
 
 
         eco.FetchBalance(user.id).then(x => {

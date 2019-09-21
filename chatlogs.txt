@@ -128,3 +128,4 @@ Sprdule
 [21.09.2019][12:29:19][〔🤖〕bot-komande] Extreme#0316: <@560515595213340693>, Sorry pal, you can't do that.
 [21.09.2019][12:40:57][biljeske-servera] Vlasnik | Veka#7740: *spo
 [21.09.2019][12:40:59][biljeske-servera] Vlasnik | Veka#7740: ||||
+[21.09.2019][12:51:42][biljeske-servera] Vlasnik | Veka#7740: | ❌ | Vi nemate dozvolu da koristite ovu komandu! | ❌ |
