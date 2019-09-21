@@ -174,3 +174,21 @@ Sprdule
 [21.09.2019][07:18:24][biljeske-servera] Vlasnik | Veka#7740: en!kick <@!532659544791318540> a
 [21.09.2019][07:18:24][logs] Extreme#0316: 
 [21.09.2019][07:18:24][biljeske-servera] Extreme#0316: ** ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 has been kicked!**
+[21.09.2019][07:29:45][biljeske-servera] Vlasnik | Veka#7740: en!setstatus STREAMING https://www.twitch.tv/veka_peka312 vekaa
+[21.09.2019][07:29:46][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[21.09.2019][07:29:57][biljeske-servera] Vlasnik | Veka#7740: en!reload setStatus
+[21.09.2019][07:29:58][biljeske-servera] Extreme#0316: Command setStatus was reloaded!
+[21.09.2019][07:30:01][biljeske-servera] Vlasnik | Veka#7740: en!setstatus STREAMING https://www.twitch.tv/veka_peka312 vekaa
+[21.09.2019][07:30:01][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[21.09.2019][07:30:18][biljeske-servera] Vlasnik | Veka#7740: en!setstatus STREAMING https://www.twitch.tv/veka_peka312 vekaa
+[21.09.2019][07:30:18][biljeske-servera] Extreme#0316: <@!532659544791318540>, The bot status has been updated to **https://www.twitch.tv/veka_peka312 vekaa**!
+[21.09.2019][07:30:22][biljeske-servera] Vlasnik | Veka#7740: a
+[21.09.2019][07:30:25][biljeske-servera] Vlasnik | Veka#7740: en!setstatus STREAMING https://www.twitch.tv/veka_peka312 vekaa
+[21.09.2019][07:30:25][biljeske-servera] Extreme#0316: <@!532659544791318540>, The bot status has been updated to **https://www.twitch.tv/veka_peka312 vekaa**!
+[21.09.2019][07:40:01][biljeske-servera] Vlasnik | Veka#7740: !!hell RainBow
+[21.09.2019][07:40:01][biljeske-servera] Rainbow Hell#4397: <a:3445_Typing:594940913164222475>
+[21.09.2019][07:40:01][biljeske-servera] Rainbow Hell#4397: How to use? `!!hell role name` no mention.
+[21.09.2019][07:40:45][biljeske-servera] Vlasnik | Veka#7740: !hell <@&625049358928445460>
+[21.09.2019][07:40:52][biljeske-servera] Vlasnik | Veka#7740: !!hell <@&625049358928445460>
+[21.09.2019][07:40:52][biljeske-servera] Rainbow Hell#4397: <a:3445_Typing:594940913164222475>
+[21.09.2019][07:40:52][biljeske-servera] Rainbow Hell#4397: How to use? `!!hell role name` no mention.
