@@ -1,99 +1,70 @@
-[21.09.2019][09:03:40][naručivanje-muzike] J&M | Joka#5280: !s
-[21.09.2019][09:03:40][naručivanje-muzike] ! 《Muzika》#3722: ⏩ ***Skipped*** 👍
-[21.09.2019][09:03:41][naručivanje-muzike] ! 《Muzika》#3722: 
-[21.09.2019][09:03:41][naručivanje-muzike] J&M | Joka#5280: !s
-[21.09.2019][09:03:42][naručivanje-muzike] ! 《Muzika》#3722: ⏩ ***Skipped*** 👍
-[21.09.2019][09:03:42][naručivanje-muzike] ! 《Muzika》#3722: 
-[21.09.2019][09:03:50][work] Vlasnik | Veka#7740: en!daily
-[21.09.2019][09:04:08][naručivanje-muzike] Vlasnik | Veka#7740: !q
-[21.09.2019][09:04:08][naručivanje-muzike] ! 《Muzika》#3722: 
-[21.09.2019][09:04:11][naručivanje-muzike] Vlasnik | Veka#7740: !l
-[21.09.2019][09:04:11][naručivanje-muzike] ! 《Muzika》#3722: 🔍 **Searching lyrics for ** `BALKAN HARMONIKA MIX 2018 by DJ STOJAK`
-[21.09.2019][09:04:14][naručivanje-muzike] Vlasnik | Veka#7740: pu
-[21.09.2019][09:04:27][work] Vlasnik | Veka#7740: en!work
-[21.09.2019][09:04:28][work] Extreme#0316: <@532659544791318540>
-**Sacekajte 60 Sekundi prije sljedeceg posla!**
-[21.09.2019][09:04:37][work] Vlasnik | Veka#7740: en!daily<
-[21.09.2019][09:04:37][work] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
-[21.09.2019][09:04:39][work] Vlasnik | Veka#7740: en!daily
-[21.09.2019][09:05:03][staff-chat] Vlasnik | Veka#7740: sacu da ti jebem mamu XD
-[21.09.2019][09:05:07][naručivanje-muzike] J&M | Joka#5280: !p miki milane
-[21.09.2019][09:05:07][naručivanje-muzike] ! 《Muzika》#3722: <:youtube:335112740957978625> **Searching** 🔎 `miki milane`
-[21.09.2019][09:05:08][naručivanje-muzike] ! 《Muzika》#3722: 
-[21.09.2019][09:05:08][naručivanje-muzike] J&M | Joka#5280: !s
-[21.09.2019][09:05:08][naručivanje-muzike] ! 《Muzika》#3722: ⏩ ***Skipped*** 👍
-[21.09.2019][09:05:09][naručivanje-muzike] ! 《Muzika》#3722: 
-[21.09.2019][09:05:16][naručivanje-muzike] Vlasnik | Veka#7740: kme
-[21.09.2019][09:05:17][naručivanje-muzike] Vlasnik | Veka#7740: X
-[21.09.2019][09:05:37][naručivanje-muzike] Vlasnik | Veka#7740: kako se ona zove
-[21.09.2019][09:05:46][naručivanje-muzike] J&M | Joka#5280: ko
-[21.09.2019][09:05:48][naručivanje-muzike] Vlasnik | Veka#7740: ima nesto kad kaze eeeeeeeeej snovovi
-[21.09.2019][09:06:01][naručivanje-muzike] J&M | Joka#5280: aha
-[21.09.2019][09:06:06][naručivanje-muzike] J&M | Joka#5280: Zorica Brunclik
-[21.09.2019][09:06:13][naručivanje-muzike] Vlasnik | Veka#7740: wee
-[21.09.2019][09:06:14][naručivanje-muzike] Vlasnik | Veka#7740: XD
-[21.09.2019][09:06:21][naručivanje-muzike] J&M | Joka#5280: stobom bi zvezde brojala
-[21.09.2019][09:06:30][naručivanje-muzike] J&M | Joka#5280: !p s tobom bi zvezde brojale
-[21.09.2019][09:06:31][naručivanje-muzike] ! 《Muzika》#3722: <:youtube:335112740957978625> **Searching** 🔎 `s tobom bi zvezde brojale`
-[21.09.2019][09:06:31][naručivanje-muzike] ! 《Muzika》#3722: 
-[21.09.2019][09:06:37][naručivanje-muzike] J&M | Joka#5280: to
-[21.09.2019][09:06:40][naručivanje-muzike] J&M | Joka#5280: !s
-[21.09.2019][09:06:40][naručivanje-muzike] ! 《Muzika》#3722: ⏩ ***Skipped*** 👍
-[21.09.2019][09:06:40][naručivanje-muzike] ! 《Muzika》#3722: 
-[21.09.2019][09:07:03][naručivanje-muzike] Vlasnik | Veka#7740: !p vuk mob 12 sati
-[21.09.2019][09:07:04][naručivanje-muzike] ! 《Muzika》#3722: <:youtube:335112740957978625> **Searching** 🔎 `vuk mob 12 sati`
-[21.09.2019][09:07:04][naručivanje-muzike] ! 《Muzika》#3722: 
-[21.09.2019][09:07:29][naručivanje-muzike] Vlasnik | Veka#7740: !p vuk mob klub ili kafana
-[21.09.2019][09:07:30][naručivanje-muzike] ! 《Muzika》#3722: <:youtube:335112740957978625> **Searching** 🔎 `vuk mob klub ili kafana`
-[21.09.2019][09:07:30][naručivanje-muzike] ! 《Muzika》#3722: 
-[21.09.2019][09:08:30][naručivanje-muzike] Vlasnik | Veka#7740: !q
-[21.09.2019][09:08:31][naručivanje-muzike] ! 《Muzika》#3722: 
-[21.09.2019][09:08:35][naručivanje-muzike] Vlasnik | Veka#7740: !l
-[21.09.2019][09:08:35][naručivanje-muzike] ! 《Muzika》#3722: 🔍 **Searching lyrics for ** `Zorica Brunclik  Kada bi me pitali  `
-[21.09.2019][09:09:16][work] Vlasnik | Veka#7740: en!work
-[21.09.2019][09:09:16][work] Extreme#0316: <@532659544791318540>
-**Sacekajte 60 Sekundi prije sljedeceg posla!**
-[21.09.2019][09:09:18][work] Vlasnik | Veka#7740: en!daily
-[21.09.2019][09:09:47][naručivanje-muzike] ! 《Muzika》#3722: 
-[21.09.2019][09:09:54][naručivanje-muzike] Vlasnik | Veka#7740: !s
-[21.09.2019][09:09:54][naručivanje-muzike] ! 《Muzika》#3722: ⏩ ***Skipped*** 👍
-[21.09.2019][09:09:54][naručivanje-muzike] ! 《Muzika》#3722: 
-[21.09.2019][09:11:02][work] Vlasnik | Veka#7740: en!work
-[21.09.2019][09:11:02][work] Extreme#0316: <@532659544791318540>
-**Sacekajte 60 Sekundi prije sljedeceg posla!**
-[21.09.2019][09:11:03][work] Vlasnik | Veka#7740: en!daily
-[21.09.2019][09:11:09][work] Vlasnik | Veka#7740: en!daily
-[21.09.2019][09:11:10][work] Vlasnik | Veka#7740: en!daily
-[21.09.2019][09:11:10][work] Vlasnik | Veka#7740: en!daily
-[21.09.2019][09:11:10][work] Vlasnik | Veka#7740: en!daily
-[21.09.2019][09:11:11][work] Vlasnik | Veka#7740: en!daily
-[21.09.2019][09:11:42][work] Vlasnik | Veka#7740: en!bal
-[21.09.2019][09:11:47][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!botinfo
-[21.09.2019][09:11:47][work] ExtremeCommunity#0316: 
-[21.09.2019][09:12:10][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!worl
-[21.09.2019][09:12:10][work] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
-[21.09.2019][09:12:12][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!work
-[21.09.2019][09:12:14][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!daily
-[21.09.2019][09:12:15][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!
-[21.09.2019][09:12:15][work] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
-[21.09.2019][09:12:28][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!daily
-[21.09.2019][09:12:30][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!work
-[21.09.2019][09:12:54][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!work
-[21.09.2019][09:12:54][work] ExtremeCommunity#0316: <@532659544791318540>
-**Sacekajte 60 Sekundi prije sljedeceg posla!**
-[21.09.2019][09:12:59][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!daily
-[21.09.2019][09:13:04][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!daily
-[21.09.2019][09:13:07][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!daily
-[21.09.2019][09:13:07][work] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!daily
-[21.09.2019][09:13:39][naručivanje-muzike] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: !p rasta mantra
-[21.09.2019][09:13:40][naručivanje-muzike] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `rasta mantra`
-[21.09.2019][09:13:40][naručivanje-muzike] Rythm#3722: 
-[21.09.2019][09:13:40][naručivanje-muzike] Rythm#3722: **Playing** 🎶 `RASTA - MANTRA ( OFFICIAL VIDEO )` - Now!
-[21.09.2019][09:13:46][naručivanje-muzike] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: !p djala brat
-[21.09.2019][09:13:46][naručivanje-muzike] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `djala brat`
-[21.09.2019][09:13:47][naručivanje-muzike] Rythm#3722: 
-[21.09.2019][09:13:55][naručivanje-muzike] Joka#5280: !kombi
-[21.09.2019][09:13:59][naručivanje-muzike] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: a
-[21.09.2019][09:14:03][naručivanje-muzike] Joka#5280: !p kombi
-[21.09.2019][09:14:03][naručivanje-muzike] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `kombi`
-[21.09.2019][09:14:04][naručivanje-muzike] Rythm#3722: 
+[21.09.2019][09:19:27][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!botinfo
+[21.09.2019][09:19:27][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[21.09.2019][09:19:29][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!work
+[21.09.2019][09:19:30][〔🤖〕bot-komande] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ
+Radili ste kao ` Cleaner ` i zaradili ste :money_with_wings: 76
+Vi sada imate :money_with_wings: 76
+[21.09.2019][09:19:32][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!daily
+[21.09.2019][09:19:32][〔🤖〕bot-komande] ExtremeCommunity#0316: <@!532659544791318540>, **Uzeli ste svoju nagradu od 250:money_with_wings: sada imate 326:money_with_wings:**
+[21.09.2019][09:19:32][naručivanje-muzike] Rythm#3722: 
+[21.09.2019][09:19:34][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!baltop
+[21.09.2019][09:19:50][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@!532659544791318540> 50
+[21.09.2019][09:19:50][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 je sada level 50!
+[21.09.2019][09:20:20][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@!601781175786274846> 10
+[21.09.2019][09:20:20][staff-chat] ExtremeCommunity#0316: 🈷💯SupremeG͓̽a͓̽š͓̽1͓̽x͓̽💯🈷#9999 je sada level 10!
+[21.09.2019][09:20:24][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@!373459214670102528> 10
+[21.09.2019][09:20:24][staff-chat] ExtremeCommunity#0316: Nenad#3504 je sada level 10!
+[21.09.2019][09:20:27][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@!412269163684560896> 10
+[21.09.2019][09:20:27][staff-chat] ExtremeCommunity#0316: TLVA#2179 je sada level 10!
+[21.09.2019][09:20:29][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@!546443994557710339> 10
+[21.09.2019][09:20:30][staff-chat] ExtremeCommunity#0316: Profesor.exe#7676 je sada level 10!
+[21.09.2019][09:20:32][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@!580859295890014218> 10
+[21.09.2019][09:20:32][staff-chat] ExtremeCommunity#0316: omagamee#5088 je sada level 10!
+[21.09.2019][09:20:35][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@560515595213340693> 50
+[21.09.2019][09:20:35][staff-chat] ExtremeCommunity#0316: The Mister Man#4953 je sada level 50!
+[21.09.2019][09:20:38][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!clear 10
+[21.09.2019][09:20:38][chat-logs] ExtremeCommunity#0316: 
+[21.09.2019][09:20:41][staff-chat] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!clear 3
+[21.09.2019][09:20:41][chat-logs] ExtremeCommunity#0316: 
+[21.09.2019][09:22:59][naručivanje-muzike] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: !p djala brat bebi
+[21.09.2019][09:22:59][naručivanje-muzike] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `djala brat bebi`
+[21.09.2019][09:23:00][naručivanje-muzike] Rythm#3722: 
+[21.09.2019][09:23:00][naručivanje-muzike] Rythm#3722: **Playing** 🎶 `Jala Brat x Buba Corelli - Bebi (Official Video 2019)` - Now!
+[21.09.2019][09:23:11][naručivanje-muzike] Joka#5280: JALA VELO JALA
+[21.09.2019][09:23:12][naručivanje-muzike] Joka#5280: NE DJALA
+[21.09.2019][09:23:28][naručivanje-muzike] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: so
+[21.09.2019][09:24:28][naručivanje-muzike] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: a!dashboard
+[21.09.2019][09:24:28][naručivanje-muzike] Atlas#2867: You can configure your server at <https://atlasbot.xyz/guilds/534103580920250399>.
+[21.09.2019][09:24:59][chat-logs] ExtremeCommunity#0316: 
+[21.09.2019][09:25:22][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!lvllb
+[21.09.2019][09:25:40][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@519518832965189652> 5
+[21.09.2019][09:25:40][〔🤖〕bot-komande] ExtremeCommunity#0316: NotDejann™#5633 je sada level 5!
+[21.09.2019][09:25:49][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@444858567078445066> 5
+[21.09.2019][09:25:50][〔🤖〕bot-komande] ExtremeCommunity#0316: Aco Drat#4401 je sada level 5!
+[21.09.2019][09:25:55][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@620185976551112705> 5
+[21.09.2019][09:25:55][〔🤖〕bot-komande] ExtremeCommunity#0316: Andjela#6526 je sada level 5!
+[21.09.2019][09:26:01][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!setlevel <@477103045440962562> 5
+[21.09.2019][09:26:02][〔🤖〕bot-komande] ExtremeCommunity#0316: Balkanski Gamer YT#9618 je sada level 5!
+[21.09.2019][09:26:07][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!clear 100
+[21.09.2019][09:26:07][chat-logs] ExtremeCommunity#0316: 
+[21.09.2019][09:26:13][〔🤖〕bot-komande] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!lvllb
+[21.09.2019][09:26:48][naručivanje-muzike] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: !play dj stojke harmonika mix 2018
+[21.09.2019][09:26:48][naručivanje-muzike] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `dj stojke harmonika mix 2018`
+[21.09.2019][09:26:49][naručivanje-muzike] Rythm#3722: 
+[21.09.2019][09:26:49][naručivanje-muzike] Rythm#3722: **Playing** 🎶 `BALKAN HARMONIKA MIX 2018 by DJ STOJAK` - Now!
+[21.09.2019][09:27:20][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!bal
+[21.09.2019][09:27:21][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ Vi imate **326**:money_with_wings:
+[21.09.2019][09:27:41][naručivanje-muzike] Joka#5280: !p dje si ruzo kurvetino stara
+[21.09.2019][09:27:41][naručivanje-muzike] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `dje si ruzo kurvetino stara`
+[21.09.2019][09:27:42][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!addbal <@!532659544791318540> 30000
+[21.09.2019][09:27:42][naručivanje-muzike] Rythm#3722: 
+[21.09.2019][09:27:43][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly added 30000 coins to ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740's account.
+[21.09.2019][09:27:48][naručivanje-muzike] Joka#5280: !s
+[21.09.2019][09:27:48][naručivanje-muzike] Rythm#3722: ⏩ ***Skipped*** 👍
+[21.09.2019][09:27:48][naručivanje-muzike] Rythm#3722: 
+[21.09.2019][09:27:52][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!removebal <@!532659544791318540> 326
+[21.09.2019][09:27:53][naručivanje-muzike] Joka#5280: SLUSAJ SAD MOMAK
+[21.09.2019][09:27:53][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly removed 326 coins to ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740's account.
+[21.09.2019][09:27:53][biljeske-servera] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: en!bal
+[21.09.2019][09:27:54][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ Vi imate **30000**:money_with_wings:
+[21.09.2019][09:28:00][naručivanje-muzike] ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740: ahah
