@@ -111,3 +111,18 @@ nkkkkki
 Kiki
 Sprdule
 [21.09.2019][10:25:13][biljeske-servera] Extreme#0316: 85 members has role Member!
+[21.09.2019][12:27:41][owner-commands] The Mister Man#4953: en!removerole <@560515595213340693> *
+[21.09.2019][12:27:41][owner-commands] Extreme#0316: I removed role * from user The Mister Man#4953!
+[21.09.2019][12:27:54][owner-commands] The Mister Man#4953: en!removerole <@560515595213340693> Vlasnik
+[21.09.2019][12:27:55][owner-commands] Extreme#0316: I removed role Vlasnik from user The Mister Man#4953!
+[21.09.2019][12:27:57][owner-commands] The Mister Man#4953: ||||
+[21.09.2019][12:28:17][owner-commands] The Mister Man#4953: en!removerole <@560515595213340693> EC | Vlasnik Team
+[21.09.2019][12:28:17][owner-commands] Extreme#0316: I removed role EC | Vlasnik Team from user The Mister Man#4953!
+[21.09.2019][12:28:30][〔🤖〕bot-komande] The Mister Man#4953: ||||
+[21.09.2019][12:28:41][〔🤖〕bot-komande] The Mister Man#4953: en!removerole <@560515595213340693> Pristup
+[21.09.2019][12:28:41][〔🤖〕bot-komande] Extreme#0316: I removed role Pristup from user The Mister Man#4953!
+[21.09.2019][12:29:05][〔🤖〕bot-komande] The Mister Man#4953: en!removerole <@560515595213340693> EC | Osobolje
+[21.09.2019][12:29:05][〔🤖〕bot-komande] Extreme#0316: <@560515595213340693>, Couldn't find that role.
+[21.09.2019][12:29:12][〔🤖〕bot-komande] The Mister Man#4953: en!removerole <@560515595213340693> Ne-Brisat
+[21.09.2019][12:29:18][〔🤖〕bot-komande] The Mister Man#4953: en!removerole <@560515595213340693>
+[21.09.2019][12:29:19][〔🤖〕bot-komande] Extreme#0316: <@560515595213340693>, Sorry pal, you can't do that.
