@@ -5,7 +5,7 @@ const replaceall = require("replaceall")
 
 module.exports.run = async (bot, message, args) => {
     let warns = JSON.parse(fs.readFileSync('commands/warns.json', 'utf8'));
-    let warnChannel = message.guild.channels.get("602090584924094470")
+    let warnChannel = message.guild.channels.get("619572519074136085")
     let modRole = message.guild.roles.find(role => role.name === 'EC | Vlasnik Team')
      if(!message.member.hasPermission("MANAGE_MESSAGES"))
      {

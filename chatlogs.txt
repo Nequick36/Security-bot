@@ -152,3 +152,16 @@ Sprdule
 [21.09.2019][06:02:44][koliko-sam-glup] Vlasnik | Veka#7740: hah
 [21.09.2019][06:02:45][koliko-sam-glup] Vlasnik | Veka#7740: a
 [21.09.2019][06:02:56][koliko-sam-glup] Delija_#9442: Proveri dm..
+[21.09.2019][07:15:48][biljeske-servera] Vlasnik | Veka#7740: en!warn
+[21.09.2019][07:15:48][biljeske-servera] Extreme#0316: <@!532659544791318540>, cannot find user!
+[21.09.2019][07:15:57][biljeske-servera] Vlasnik | Veka#7740: en!warn <@!532659544791318540> test
+[21.09.2019][07:15:57][biljeske-servera] Extreme#0316: ** ✅ ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 je warnovan!  **
+[21.09.2019][07:16:09][biljeske-servera] Vlasnik | Veka#7740: en!refresh warn
+[21.09.2019][07:16:09][biljeske-servera] Extreme#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[21.09.2019][07:16:16][biljeske-servera] Vlasnik | Veka#7740: en!reload warn
+[21.09.2019][07:16:16][biljeske-servera] Extreme#0316: ⛔ **ACCESS DENIED** ⛔
+[21.09.2019][07:16:52][biljeske-servera] Vlasnik | Veka#7740: en!reload warn
+[21.09.2019][07:16:52][biljeske-servera] Extreme#0316: Command warn was reloaded!
+[21.09.2019][07:16:56][biljeske-servera] Vlasnik | Veka#7740: en!warn <@!532659544791318540> test
+[21.09.2019][07:16:56][biljeske-servera] Extreme#0316: ** ✅ ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740 je warnovan!  **
+[21.09.2019][07:16:56][chat-logs] Extreme#0316: 
