@@ -87,7 +87,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
       else message.channel.send(`Ta komanda ne postoji ukucajte en!help da vidite listu komandi`)
       }
    
-    if(cmd === `${prefix}hfgdfgeldfggfp`) {
+    if(cmd === `${prefix}help`) {
       if(!args[0])  {
         message.author.send(`https://extremecommunitybot.glitch.me/help`)
         message.channel.send(`${message.author.tag} Pogledajte svoj DM!`)
