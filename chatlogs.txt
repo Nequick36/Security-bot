@@ -12,3 +12,5 @@ en!ticket close - Deletes the ticket
 [22.09.2019][06:45:41][〔💬〕balkan-chat] Balkanski Gamer YT#9618: Neko tu
 [22.09.2019][07:58:49][ticket-477103045440962562] ⚡ Veka ⚡#7740: sta treba
 [22.09.2019][07:59:13][〔🎁〕giveaways] ⚡ Veka ⚡#7740: <@440451286794633216> javi mi se u dm da preuzmes nagradu
+[22.09.2019][08:14:40][work] ⚡ Veka ⚡#7740: en!daily
+[22.09.2019][08:14:40][work] ExtremeCommunity#0316: <@!532659544791318540>, **Uzeli ste svoju nagradu od 250:money_with_wings: sada imate 300250:money_with_wings:**

@@ -21,9 +21,9 @@ module.exports.run = async (bot, message, args) => {
 });
   } else {
     message.channel.send(`Short URL help:
-!shorturl shorten - just shorts an URL
-!shorturl custom - shorts an URL with custom name
-!shorturl lookup - unshorts an URL
+en!shorturl shorten - just shorts an URL
+en!shorturl custom - shorts an URL with custom name
+en!shorturl lookup - unshorts an URL
 `)
   }
 }
