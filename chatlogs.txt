@@ -36,3 +36,9 @@
 ```
 [22.09.2019][04:46:07][staff-chat] ⚡ Veka ⚡#7740: lel
 [22.09.2019][06:04:27][ostalo] Milos#6703: 
+[22.09.2019][07:03:18][biljeske-servera] ⚡ Veka ⚡#7740: !join
+[22.09.2019][07:03:19][biljeske-servera] Rythm#3722: 👍 **Joined** `Owner Music #1` :page_facing_up: **And bound to** `biljeske-servera`
+[22.09.2019][07:03:24][biljeske-servera] ⚡ Veka ⚡#7740: !play dj stojke harmonika mix 2018
+[22.09.2019][07:03:25][biljeske-servera] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `dj stojke harmonika mix 2018`
+[22.09.2019][07:03:25][biljeske-servera] Rythm#3722: 
+[22.09.2019][07:03:26][biljeske-servera] Rythm#3722: **Playing** 🎶 `BALKAN HARMONIKA MIX 2018 by DJ STOJAK` - Now!
