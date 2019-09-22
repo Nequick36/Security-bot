@@ -6,3 +6,8 @@
 [22.09.2019][11:15:51][biljeske-servera] ExtremeCommunity#0316: :x: **TAGAJ USERA KOJEG ZELITE BANATI!**
 [22.09.2019][11:15:56][biljeske-servera] ⚡ Veka ⚡#7740: en!ban <@!532659544791318540> test
 [22.09.2019][11:15:56][biljeske-servera] ExtremeCommunity#0316: :x: **NE MOZETE BANATI CLANOVE SA DOZVOLOMN ADMINISTRATOR**
+[22.09.2019][11:16:42][ostalo] TheTony#1778: 
+[22.09.2019][11:16:49][〔💬〕english-chat] TheTony#1778: en!help
+[22.09.2019][11:16:49][〔💬〕english-chat] ExtremeCommunity#0316: TheTony#1778 Pogledajte svoj DM!
+[22.09.2019][11:17:17][〔💬〕english-chat] TheTony#1778: en!komande
+[22.09.2019][11:17:17][〔💬〕english-chat] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
