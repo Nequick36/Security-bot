@@ -61,3 +61,5 @@ en!ticket close - Deletes the ticket
 [22.09.2019][09:13:16][biljeske-servera] RainbowBot#8147: 
 [22.09.2019][09:13:33][biljeske-servera] ⚡ Veka ⚡#7740: r!rainbow Members
 [22.09.2019][09:13:33][biljeske-servera] RainbowBot#8147: <@!532659544791318540>, You have to wait 5 minutes before using that command again.
+[22.09.2019][09:16:17][biljeske-servera] ⚡ Veka ⚡#7740: en!warns 543004967598948356
+[22.09.2019][09:16:17][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, Tagaj usera kojem zelis vidit broj warnova!
