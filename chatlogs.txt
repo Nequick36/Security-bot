@@ -19,3 +19,9 @@
 [22.09.2019][01:32:32][〔🤖〕bot-komande] Djole YT#4255: en!help
 [22.09.2019][01:32:32][〔🤖〕bot-komande] ExtremeCommunity#0316: Djole YT#4255 Pogledajte svoj DM!
 [22.09.2019][03:58:38][ostalo] Teodora#4330: 
+[22.09.2019][04:36:57][chat-logs] ExtremeCommunity#0316: 
+[22.09.2019][04:36:57][chat-logs] ExtremeCommunity#0316: 
+[22.09.2019][04:37:46][biljeske-servera] ⚡ Veka ⚡#7740: en!unban 519518832965189652
+[22.09.2019][04:37:47][biljeske-servera] ExtremeCommunity#0316: ** USPJESNO STE UNBANALI USERA SA IDOM: 519518832965189652 :x: **
+[22.09.2019][04:37:57][biljeske-servera] ⚡ Veka ⚡#7740: !unban 519518832965189652
+[22.09.2019][04:39:07][ostalo] NotDejann™#5633: 
