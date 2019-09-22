@@ -10,3 +10,5 @@ en!ticket close - Deletes the ticket
 [22.09.2019][06:38:08][〔🎫〕tickets] Balkanski Gamer YT#9618: en!ticket new
 [22.09.2019][06:38:08][ticket-477103045440962562] ExtremeCommunity#0316: Ćao! <@477103045440962562> Ako vam treba neka pomoc pitajte nas Staff-Team! , Ako vam ni staff-team ne moze odgovorit na pitanje ukucajte en!suggest <pitanje> na vase pitanje ce odgovorit neko iz Vlasnik Tima
 [22.09.2019][06:45:41][〔💬〕balkan-chat] Balkanski Gamer YT#9618: Neko tu
+[22.09.2019][07:58:49][ticket-477103045440962562] ⚡ Veka ⚡#7740: sta treba
+[22.09.2019][07:59:13][〔🎁〕giveaways] ⚡ Veka ⚡#7740: <@440451286794633216> javi mi se u dm da preuzmes nagradu
