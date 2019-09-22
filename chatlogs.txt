@@ -66,3 +66,96 @@ en!ticket close - Deletes the ticket
 [22.09.2019][09:59:33][〔🤖〕bot-komande] ⚡ Veka ⚡#7740: https://discord.gg/axMV7s
 [22.09.2019][10:11:12][trazim-club] G͓̽a͓̽š͓̽1͓̽x͓̽#9999: en!randomcolor
 [22.09.2019][10:11:12][trazim-club] ExtremeCommunity#0316: 
+[22.09.2019][10:50:03][biljeske-servera] ⚡ Veka ⚡#7740: en!role
+[22.09.2019][10:50:03][biljeske-servera] ExtremeCommunity#0316: Can't find role named
+[22.09.2019][10:50:04][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> se level-upo na level 52!
+[22.09.2019][10:50:08][biljeske-servera] ⚡ Veka ⚡#7740: en!role Members
+[22.09.2019][10:50:08][biljeske-servera] ExtremeCommunity#0316: K1flค๖ۣۜƊaHoմse™
+Mahir
+Katarina  💕💕
+TheHodzic
+Sone
+Zqxterr
+Elsa_bad girl_kill_heartbroken😭
+Marko
+Necke05
+The Mister Man
+Yall_Some_Lossers
+m0nsterOFFICAL
+ivan231
+venio123
+J&M | Joka
+Terminator
+Aco Drat
+Ralfi
+veronika ivković mandac
+_NIKY_69 😈💓
+Love Editing
+NemanjaBugi
+Server
+Pametna_Budala
+💘♛ 𝘾𝙖𝙧𝙨𝙈𝙮𝙇𝙤𝙫𝙚 | 𝙎𝙤𝙘𝙞𝙖𝙡1𝙠 ♛💘
+omerpro
+PuskamaNaMetkice
+Kuća
+SrecaLjubav
+Mali
+T O B Y-Bot Creator
+B-Admin | Profesor
+Nemanja
+Marinou
+ModernHD_
+lleeoonn_nneemmeett
+Poy i am pro
+Wie Geht Es Dir
+《Minecraft》
+Balkanski Gamer YT
+IKAA TV
+Murija
+Vitez65
+ShaKila
+nikola jovanovski
+Admin | Nenad
+NotDejann™
+Katarina
+Tina
+ROŽMAⁿ
+TURKO ||FICA||
+Mini Mario
+Admin | TLVA
+Sofija_
+IVAN_04_
+JustPato
+micka6059
+Losm1
+K1flค๖ۣۜƊaHoմse™
+stj3p4n_
+IvKe | 6.2k 🏆
+Nemanja Jankovic
+Andjela
+Nikolina
+ZajeboSistemV1
+Ognjen
+LudaMala
+Vedad
+Hehe☻
+venio
+Moma | Undertale fan?
+ANmp
+MateoYT
+Šimišimiejšimiejšimiou
+Uros
+khrejzi
+jovickaa
+ReX
+IsfenirajPOYYY
+Veljko Nikolić
+Admin | Gaš1xSupreme
+nkkkkki
+Kiki
+Sprdule
+[22.09.2019][10:50:08][biljeske-servera] ExtremeCommunity#0316: 84 members has role Members!
+[22.09.2019][10:50:56][biljeske-servera] ⚡ Veka ⚡#7740: en!roles
+[22.09.2019][10:50:56][biljeske-servera] ExtremeCommunity#0316: Disabled!
+[22.09.2019][10:50:57][biljeske-servera] ⚡ Veka ⚡#7740: en!roles
+[22.09.2019][10:50:57][biljeske-servera] ExtremeCommunity#0316: Disabled!

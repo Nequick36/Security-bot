@@ -4,7 +4,7 @@ const fs = require("fs");
 let yml = require("../yml.js")
 
 module.exports.run = async (bot, message, args) => {
-    if(!bot.devs.includes(message.author.id)) return message.channel.send(`**:x: Nemas dozvolu za ovu komandu :x:**`)
+    if(!bot.devs.includes(message.author.id)) return message.channel.send(`** :x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x: **`)
     const config = await yml("./config.yml");
 
     let role = message.guild.roles.find("name", config.SetStatus_Command);

@@ -4,7 +4,7 @@ module.exports.run = async (bot, message, args) => {
   let role = message.guild.roles.find(role => role.name === '*')
   if (!message.member.roles.has(role.id)) return message.channel.send("⛔ **ACCESS DENIED** ⛔");
   let commandName = args[0]
-  if(!commandName) return message.channel.send(`Usage: !reload <commandName>`)
+  if(!commandName) return message.channel.send(`** :x: Upute: en!reload <komanda> :x: **`)
   try {
     delete require.cache[require.resolve(`./${commandName}.js`)]
     bot.commands.delete(commandName)
@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
   } catch (err) {
     return message.channel.send(`${err}`)
   }
-  message.channel.send(`Command ${commandName} was reloaded!`)
+  message.channel.send(`Komanda ${commandName} je relodana!`)
     }
 
 module.exports.help = {

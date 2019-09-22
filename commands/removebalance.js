@@ -2,20 +2,20 @@ const Discord = require("discord.js")
 const eco = require("discord-economy")
 
 module.exports.run = async (bot, message, args) => {
-      if(!message.member.hasPermission("ADMINISTRATOR")) return message.reply("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**")
+      if(!message.member.hasPermission("ADMINISTRATOR")) return message.reply("** :x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x: **")
   let amount = message.content.split(" ").slice(2).join(" ");
         if (!message.member.hasPermission("ADMINISTRATOR"))
         {
-          return message.reply("🛑**ACCESS DENIED! THIS IS A STAFF-ONLY COMMAND.🛑**")
+          return message.reply("** :x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU! :x: **")
         }
-       if (!amount) return message.reply("You have not specified an amount!");
+       if (!amount) return message.reply("** :x: MORATE STAVITI KOLIKO ZELITE DA UKLONITE PARA KORISNIKU :x: **");
         var user = message.mentions.users.first() || message.guild.members.get(args[0])
-         if (!user) return message.reply('cannot find user!')
+         if (!user) return message.reply('** :x: MORATE TAGATI USERA :x: **')
 
 
         eco.FetchBalance(user.id).then(x => {
                    eco.SubstractFromBalance(user.id, amount).then(l =>
-                     message.reply(`You have successfuly removed ${amount} coins to ${user.tag}'s account.`));
+                     message.reply(`** Uspjesno ste uklonili korisniku ${user.tag} , ${amount} para`));
                  })
 }
 

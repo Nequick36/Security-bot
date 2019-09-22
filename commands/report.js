@@ -7,12 +7,12 @@ module.exports.run = async (bot, message, args) => {
     let warnChannel = message.guild.channels.get("622385111748575232")
 
      var user = message.mentions.users.first() 
-     if (!user) return message.reply('cannot find user!')
+     if (!user) return message.reply('** :x: MORATE TAGATI USERA KOJEG ZELITE REPORTATI :x: **')
     //if(message.mentions.members.first().hasPermission('MANAGE_GUILD')) return message.channel.send(`You can't warn a Server Manager!`)
      let warning = args.slice(1).join(" ")
     if (!warning)
       {
-        message.channel.send("You have not specified a reason!")
+        message.channel.send("** :x: MORATE STAVITI RAZLOG REPORTA! :x: **")
         return;
       }
   console.log(warning)

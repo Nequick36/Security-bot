@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  return message.channel.send(`Disabled!`)
+  return message.channel.send(`Ugaseno!`)
   let roles = message.guild.roles
   let sorted = roles.sort(function(a, b) {b.position-a.position})
   let mapped = sorted.map(role => {

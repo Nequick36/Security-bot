@@ -12,7 +12,7 @@ module.exports.run = async (bot, message, args) => {
     if(!rMember.roles.has(gRole.id)) return message.reply("They don't have that role.");
 
     await(rMember.removeRole(gRole.id));
-  message.channel.send(`${rMember.user.tag} Je izbugio role I removed role ${role} f ${rMember.user.tag}!`)
+  message.channel.send(`${rMember.user.tag} Je izbugio role: ${role} `)
 
     try{
 
@@ -20,7 +20,7 @@ module.exports.run = async (bot, message, args) => {
 
     }catch(e){
 
-      message.channel.send(`RIP to <@${rMember.id}>, We removed ${gRole.name} from them. We tried to DM them, but their DMs are locked.`)
+      message.channel.send(` <@${rMember.id}>, je izgubio role: ${gRole.name}`)
     }
 }
 

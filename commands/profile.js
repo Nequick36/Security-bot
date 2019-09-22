@@ -13,11 +13,9 @@ module.exports.run = async (bot, message, args) => {
 
         let joined = user.joinedAt
         var profile = new Discord.RichEmbed()
-            .addField("Name", user)
-            .addField("Discriminator", user.discriminator)
-            .addField("Joined at", joined) 
+            .addField("Ime", user)
+            .addField("Usao/la je", joined)
             .addField("Coins", userEco.balance)
-            .addField("Level", user.level)
             .addField("Roles", role_name)
             .setColor(0xFF0000)
             .setTitle(`Profile of ${user.user.username}`)

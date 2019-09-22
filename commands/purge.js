@@ -3,8 +3,7 @@ const Discord = require("discord.js")
 module.exports.run = async (bot, message, args) => {
   if(!message.member.hasPermission("MANAGE_MESSAGES"))
         {
-            message.channel.send("🛑 **ACCESS DENIED! THIS IS AN ADMIN-ONLY COMMAND. 🛑**");
-            return;
+            message.channel.send("** :x: VI NEMATE DOZVOLU DA KORITITE OVU KOMANDU :x: **")
         }
       const deleteCount = parseInt(args[0], 10);
       if(!deleteCount || deleteCount < 1 || deleteCount > 101)
