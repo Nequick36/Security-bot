@@ -123,11 +123,6 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     console.log(`${file} Loaded!`)
 	});
 })
-bot.on("guildMemberAdd", function (member) {
-    member.send(`Dobrodosli <@${bot.author.id}> na nas Discord server ExtremeCommunity .Zabavite se i procitajte <#620564448536690699>`)
-  });
-
-
 bot.on('ready', () => {
     setInterval(() => {
         bot.user.setActivity(`en!help`, {type: 'STREAMING', url: 'https://www.twitch.tv/veka_peka312'}); 
