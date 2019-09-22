@@ -9,7 +9,7 @@ module.exports.run = async (bot, message, args) => {
       var output = await dl.Leaderboard({
         search: message.mentions.users.first().id
       })
-      message.channel.send(`The user ${message.mentions.users.first().tag} is number ${output.placement} on my leaderboard!`);
+      message.channel.send(`${message.mentions.users.first().tag} je ${output.placement} na levelleaderbordu`);
  
       //Searches for the top 3 and outputs it to the user.
     } else {

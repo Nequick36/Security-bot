@@ -3,11 +3,11 @@ const Discord = require("discord.js")
 module.exports.run = async (bot, message, args) => {
   var chance = Math.floor(Math.random() * 2);
          if (chance == 0){
-             message.reply("your coin landed on heads!");
+             message.reply("Vas coin je pao na glavu");
          }
          else
          {
-             message.reply("your coin landed on tails!");
+             message.reply("Vas coin je pao na pismo");
      }
 
 }

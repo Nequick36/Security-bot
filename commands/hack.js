@@ -12,7 +12,7 @@ module.exports.run = async (bot, message, args) => {
  .get(`http://www.sethcardoza.com/api/rest/tools/random_password_generator/type:json`)
  if(!site3.body) return message.channel.send("Oof i'm broke.")
   let userToHack = message.mentions.members.first()
-  if(!userToHack) return message.reply(`Mention a user that you want to hack!`)
+  if(!userToHack) return message.reply(`** :x: MORATE TAGATI USERA KOJEG ZELITE HAKIRATI :x: **`)
   let msg = await message.channel.send(`Morate malo sacekati dok ne udjem u database korisnika!`)
   setTimeout(function() {
     msg.edit(`Pristup dozvoljen!`)
@@ -27,7 +27,7 @@ module.exports.run = async (bot, message, args) => {
 **Password**: ${site3.body.password}
 **Id**: ${userToHack.id}
 **Ip**: ${site2.body.ip}
-**Token**: Error: discord too good`)
+**Token**: Error: Ne mogu vam dati Token od korisnika`)
   }, 4000)
   }, 4000)
   }, 4000)

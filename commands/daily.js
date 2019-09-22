@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
                  })
 
                } else {
-                 message.channel.send(`Sorry, you already claimed your daily coins!\nBut no worries, over ${l.timetowait} you can use daily again!`)
+                 message.channel.send(`:x: **Vec ste uzeli svoju dnevnu nagradu! da je uzmete ponovo trebate cekati jos:** ${l.timetowait} :x:`)
                }
            })
 }

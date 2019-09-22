@@ -22,7 +22,7 @@ module.exports.run = async (bot, message, args) => {
   'abcdefghijklmnopqrstuvwxyz'.split('').forEach(c => {
     mapping[c] = mapping[c.toUpperCase()] = ` :regional_indicator_${c}:`;
 });
-  if(args < 1) return message.channel.send('Please provide some text!')
+  if(args < 1) return message.channel.send('** :x: MORATE STAVITI NEKI TEXT! :x: **')
       message.channel.send(
         args.join(' ')
             .split('')

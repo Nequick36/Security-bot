@@ -7,7 +7,7 @@ module.exports.run = async (bot, message, args) => {
         var suggest = new Discord.RichEmbed()
              .addField("Bug", bug)
              .setColor(0xFF0000)
-             .addField("Bug reported by", message.author.username)
+             .addField("Bug je prijavio", message.author.username)
              .setThumbnail(message.author.avatarURL)
              .setTimestamp()
         let suggestChannel = message.guild.channels.find(channel => channel.name === "bugreports")
