@@ -15,3 +15,26 @@ en!ticket close - Deletes the ticket
 [22.09.2019][08:14:40][work] ⚡ Veka ⚡#7740: en!daily
 [22.09.2019][08:14:40][work] ExtremeCommunity#0316: <@!532659544791318540>, **Uzeli ste svoju nagradu od 250:money_with_wings: sada imate 300250:money_with_wings:**
 [22.09.2019][08:40:07][〔🎉〕proofs] ⚡ Veka ⚡#7740: ✅
+[22.09.2019][08:54:23][〔🎁〕giveaways] ⚡ Veka ⚡#7740: en!clear 5
+[22.09.2019][08:54:23][chat-logs] ExtremeCommunity#0316: 
+[22.09.2019][08:54:57][biljeske-servera] ⚡ Veka ⚡#7740: en!lvllb
+[22.09.2019][08:55:50][biljeske-servera] ⚡ Veka ⚡#7740: en!help
+[22.09.2019][08:55:50][biljeske-servera] ExtremeCommunity#0316: 
+[22.09.2019][08:56:39][biljeske-servera] ⚡ Veka ⚡#7740: en!profile
+[22.09.2019][08:56:40][biljeske-servera] ExtremeCommunity#0316: 
+[22.09.2019][08:57:18][biljeske-servera] ⚡ Veka ⚡#7740: en!topbal
+[22.09.2019][09:01:22][biljeske-servera] ⚡ Veka ⚡#7740: en!reload profile
+[22.09.2019][09:01:23][biljeske-servera] ExtremeCommunity#0316: Command profile was reloaded!
+[22.09.2019][09:01:25][biljeske-servera] ⚡ Veka ⚡#7740: en!profile
+[22.09.2019][09:01:25][biljeske-servera] ExtremeCommunity#0316: 
+[22.09.2019][09:02:31][staff-chat] 🈷💯SupremeG͓̽a͓̽š͓̽1͓̽x͓̽💯🈷#9999: en!ascii Gaš1x
+[22.09.2019][09:02:31][staff-chat] ExtremeCommunity#0316: ```AsciiArt
+   ____       \\//_      
+  / ___| __ _ _\// |_  __
+ | |  _ / _` / __| \ \/ /
+ | |_| | (_| \__ \ |>  < 
+  \____|\__,_|___/_/_/\_\
+                         
+```
+[22.09.2019][09:02:52][biljeske-servera] ⚡ Veka ⚡#7740: en!profile
+[22.09.2019][09:02:52][biljeske-servera] ExtremeCommunity#0316: 

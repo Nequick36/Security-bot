@@ -1,5 +1,6 @@
 const Discord = require("discord.js")
 const eco = require("discord-economy")
+const dl = require('discord-leveling')
 
 module.exports.run = async (bot, message, args) => {
   let user = message.mentions.members.first() || message.guild.members.get(args[0]) || message.member
@@ -13,8 +14,9 @@ module.exports.run = async (bot, message, args) => {
         let joined = user.joinedAt
         var profile = new Discord.RichEmbed()
             .addField("Name", user)
+            .addField("Discriminator")
             .addField("Joined at", joined) 
-            .addField("Coins", userEco.balance)//no that is array  //wait what do add here then
+            .addField("Coins", userEco.balance)
             .addField("Roles", role_name)
             .setColor(0xFF0000)
             .setTitle(`Profile of ${user.user.username}`)
