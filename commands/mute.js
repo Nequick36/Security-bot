@@ -1,9 +1,9 @@
 const discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  if(!message.member.hasPermission("MANAGE_MESSAGES")) return message.channel.send({embed:{description:`You not permissions for the command!`, color:0xff0000}})
+  if(!message.member.hasPermission("MANAGE_MESSAGES")) return message.channel.send({embed:{description:`**:x: VI NEMATE DOZVOLU DA KORISTITE OVU KOMANDU! :x:**`, color:0xff0000}})
     let tomute = message.mentions.members.first()
-  if(!tomute) return message.channel.send({embed:{description:` :x: Please tag member! :x: `, color:0xff0000}})
+  if(!tomute) return message.channel.send({embed:{description:`**:x: MORATE TAGATI MEMBERA KOJEG ZELITE MUTATI :x:** `, color:0xff0000}})
   let muterole = message.guild.roles.find(r => r.name==="Extreme | Mute");
   if(!muterole){
     try{
@@ -25,10 +25,10 @@ module.exports.run = async (bot, message, args) => {
     }
   }
 
-  let reason = args.filter(arg => arg!==args[0]).join(" ") || "Reason is not seted"
+  let reason = args.filter(arg => arg!==args[0]).join(" ") || "Razlog muta nije stavljen!"
 try {
   await(tomute.addRole(muterole.id));
-  message.channel.send({embed:{description:`${tomute} is muted, reason \`${reason}\``, color:0xff0000}})
+  message.channel.send({embed:{description:`${tomute} je tempmutovan od strane Osoblja: ${message.author.username} ,razlog muta: \`${reason}\``, color:0xff0000}})
 } catch (e) {
   if (e) return message.channel.send(e+'\nError: Contant Owner!')
 }

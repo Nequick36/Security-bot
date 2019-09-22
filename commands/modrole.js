@@ -1,12 +1,12 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  let role = message.guild.roles.find(r => r.name === 'Ne-Brisat')
+  let role = message.guild.roles.find(r => r.name === '*')
   if(!message.member.roles.has(role.id)) return message.reply("| :x: | Vi nemate dozvolu da koristite ovu komandu! | :x: |");//you didnt see anything lol
     let rMember = message.guild.member(message.mentions.members.first()) || message.guild.members.get(args[0]);
-    if(!rMember) return message.reply("**:x: KOJEM MEMBERU ZELITE DATI ROLE :x:**");
+    if(!rMember) return message.reply("**:x: KOJEM MEMBERU ZELITE DATI MODROLE :x:**");
     let roleName = args.slice(1).join(" ")
-    if(!roleName) return message.reply("**:x: MORATE UNJETI TACNO IME ROLA :x:**");
+    if(!roleName) return message.reply("**:x: MORATE UNJETI TACNO IME MODROLA :x:**");
     let gRole = message.guild.roles.find(role => role.name === roleName);
     if(!gRole) return message.reply("**:x: TAJ ROLE NE POSTOJI :x:**");
     if(rMember.roles.has(gRole.id)) return message.reply("They already have that role.");
@@ -27,11 +27,11 @@ module.exports.run = async (bot, message, args) => {
 
 
 module.exports.help = {
-  name: "addrole",
+  name: "modrole",
   aliases: [],
   description: "Adds a role to specififed user.",
   perm: "",
-  role: "",
+  role: "*",
   group: "ADMIN"
   
 }

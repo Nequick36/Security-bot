@@ -4,13 +4,13 @@ module.exports.run = async (bot, message, args) => {
   let role = message.guild.roles.find(r => r.name === '*')
   if(!message.member.roles.has(role.id))
          {
-             message.channel.send("🛑**ACCESS DENIED! THIS IS A OWNER-ONLY COMMAND.🛑**");
+             message.channel.send("** :x: VI NEMATE DOZVOLU DA KORISTITE OVU KOMANDU! :x: **");
              return;
          }
   let channel = message.mentions.channels.first()
-  if(!channel) return message.channel.send(`Tagaj kanal u kojem hocete poslati obavjestenje!`)
+  if(!channel) return message.channel.send(`** :x: MORATE TAGATI ROLE :x: **`)
   let announcement = args.slice(1).join(" ")
-  if(!announcement) return message.reply("You have not specified a message to announce!")
+  if(!announcement) return message.reply("** :x: MORATE STAVITI PORUKU KOJU ZELITE POSLATI :x: **")
   let embed = new Discord.RichEmbed()
   .setDescription(announcement)
   .setColor("RED")

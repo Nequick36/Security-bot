@@ -3,9 +3,9 @@ const ms = require("ms");
 
 module.exports.run = async (bot, message, args) => {
   let tomute = message.guild.member(message.mentions.users.first() || message.guild.members.get(args[0]));
-  if(!message.member.hasPermission("MANAGE_MESSAGES")) return message.reply("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**")
-  if(!tomute) return message.reply("Couldn't find user.");
-  if(tomute.hasPermission("MANAGE_MESSAGES")) return message.reply("Can't mute them!");
+  if(!message.member.hasPermission("MANAGE_MESSAGES")) return message.reply("**:x: VI NEMATE DOZVOLU DA KORISTITE OVU KOMANDU!! :x:**")
+  if(!tomute) return message.reply("**:x: MORATE TAGATI USERA KOJEG ZELITE TEMPMUTATI :x:**");
+  if(tomute.hasPermission("MANAGE_MESSAGES")) return message.reply("**:x: NE MOZETE MUTATI CLANOVE SA DOZVOLOM ADMINISTRATOR :x:**");
   let muterole = message.guild.roles.find(`name`, "Extreme | Mute");
 
   //start of create role
@@ -44,10 +44,10 @@ module.exports.run = async (bot, message, args) => {
   //end of create role
   
   let mutetime = args[1]
-  if(!mutetime) return message.reply("Niste stavili vreme! , Upute: en!mute <time in s> <reason>");
+  if(!mutetime) return message.reply(":x: Niste stavili vreme! , Upute: en!tempmute <vrjeme> <razlog-muta> :x:");
   
   let reason = message.content.split(" ").slice(3).join(" ")
-  if(!reason) return message.reply("Niste stavili razlog, Upute: !mute <time in s> <reason>")
+  if(!reason) return message.reply(":x: Niste stavili razlog, Upute: en!tempmute <vrijeme> <razlog-muta> :x:")
   let embed = new Discord.RichEmbed()
   .setTitle(`${tomute.user.username} has been muted`)
   .addField("Duration", mutetime)
