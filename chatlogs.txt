@@ -55,3 +55,38 @@
 [22.09.2019][07:27:07][naručivanje-muzike] Rythm#3722: ❌ `ZOKA BOSANAC - DjE SI RUZO KURVETINO STARA ( 4К Official Video)` **has already been added to the queue.**
 [22.09.2019][07:27:14][naručivanje-muzike] ⚡ Veka ⚡#7740: !pause
 [22.09.2019][07:27:14][naručivanje-muzike] Rythm#3722: **Paused** ⏸
+[22.09.2019][07:28:28][naručivanje-muzike] ⚡ Veka ⚡#7740: !play
+[22.09.2019][07:28:28][naručivanje-muzike] Rythm#3722: ⏯ **Resuming** 👍
+[22.09.2019][07:28:30][naručivanje-muzike] ⚡ Veka ⚡#7740: to
+[22.09.2019][07:30:50][biljeske-servera] Rythm#3722: 
+[22.09.2019][07:31:02][biljeske-servera] ⚡ Veka ⚡#7740: !q
+[22.09.2019][07:31:02][biljeske-servera] Rythm#3722: 
+[22.09.2019][07:31:09][biljeske-servera] ⚡ Veka ⚡#7740: !play djesi ruzo kurvetino stara
+[22.09.2019][07:31:09][biljeske-servera] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `djesi ruzo kurvetino stara`
+[22.09.2019][07:31:10][biljeske-servera] Rythm#3722: 
+[22.09.2019][07:31:37][fortnite-stats] ⚡ Veka ⚡#7740: !fm Ninja
+[22.09.2019][07:31:37][fortnite-stats] Fortnite Master#2375: 
+[22.09.2019][07:32:49][biljeske-servera] ⚡ Veka ⚡#7740: !!hell Members
+[22.09.2019][07:33:06][〔🤖〕bot-komande] ⚡ Veka ⚡#7740: !!hell Members
+[22.09.2019][07:33:06][〔🤖〕bot-komande] Rainbow Hell#4397: :3445_Typing:
+[22.09.2019][07:33:06][〔🤖〕bot-komande] Rainbow Hell#4397: Rainbow Hell Mind need the `ADMINISTRATOR` Permission
+[22.09.2019][07:33:06][chat-logs] ExtremeCommunity#0316: 
+[22.09.2019][07:33:15][〔🤖〕bot-komande] ⚡ Veka ⚡#7740: !!hell Members
+[22.09.2019][07:33:15][〔🤖〕bot-komande] Rainbow Hell#4397: <a:3445_Typing:594940913164222475>
+[22.09.2019][07:33:15][〔🤖〕bot-komande] Rainbow Hell#4397: **🌈Sucessfully** aplied rainbow to `Members, Duration : 80sec, Speed : 3000 auto.`
+[22.09.2019][07:33:15][chat-logs] ExtremeCommunity#0316: 
+[22.09.2019][07:33:23][〔🤖〕bot-komande] ⚡ Veka ⚡#7740: !!hell Members duration 10000
+[22.09.2019][07:33:24][〔🤖〕bot-komande] Rainbow Hell#4397: <a:3445_Typing:594940913164222475>
+[22.09.2019][07:33:24][〔🤖〕bot-komande] Rainbow Hell#4397: How to use? `!!hell role name` no mention.
+[22.09.2019][07:33:24][chat-logs] ExtremeCommunity#0316: 
+[22.09.2019][07:33:55][biljeske-servera] Rythm#3722: 
+[22.09.2019][07:35:41][reklamiranje] ⚡ Veka ⚡#7740: python rainbow roles
+[22.09.2019][07:35:41][reklamiranje] ⚡ Veka ⚡#7740: https://stackoverflow.com/questions/51258944/cannot-get-role-to-change-colours
+[22.09.2019][07:37:02][biljeske-servera] ⚡ Veka ⚡#7740: !q
+[22.09.2019][07:37:03][biljeske-servera] Rythm#3722: 
+[22.09.2019][07:37:27][biljeske-servera] ⚡ Veka ⚡#7740: !q
+[22.09.2019][07:37:27][biljeske-servera] Rythm#3722: ❌ **Nothing playing in this server**
+[22.09.2019][07:37:46][biljeske-servera] ⚡ Veka ⚡#7740: !play dj stojke harmonika mix 2018
+[22.09.2019][07:37:46][biljeske-servera] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `dj stojke harmonika mix 2018`
+[22.09.2019][07:37:46][biljeske-servera] Rythm#3722: 
+[22.09.2019][07:37:47][biljeske-servera] Rythm#3722: **Playing** 🎶 `BALKAN HARMONIKA MIX 2018 by DJ STOJAK` - Now!
