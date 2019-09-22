@@ -3,7 +3,7 @@ const Discord = require('discord.js');
 exports.run = async (client, message, args, tools) => {
   
     if(!message.member.hasPermission("KICK_MEMBERS")) return message.channel.send({embed:{description:`** :x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x: **`, color:0xff0000}})
-    if (!args[0]) return message.channel.send('prefix-vote <vote>');
+    if (!args[0]) return message.channel.send('en!vote <vote>');
 
     const embed = new Discord.RichEmbed()
         .setColor(0xffffff)

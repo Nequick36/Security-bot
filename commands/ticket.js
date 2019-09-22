@@ -1,12 +1,13 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
+  message.delete()
   let memberUsername = message.author.username
   let ticketChannel = message.guild.channels.find(c => c.name === `ticket-${message.author.username}`)
   if(!args[0]) {
     message.channel.send(`Ticket help:
-en!ticket new - Makes new ticket
-en!ticket close - Deletes the ticket`)
+en!ticket new - Da napravite Ticket
+en!ticket close - Da izbrisete Ticket`)
   }
   if(args[0] === `new`) {
     let ticketChannel = message.guild.channels.find(r => r.name === `ticket-${message.author.id}`)
