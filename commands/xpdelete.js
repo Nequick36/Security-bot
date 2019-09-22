@@ -10,9 +10,9 @@ module.exports.run = async (bot, message, args) => {
     if (!message.member.hasPermission('ADMINISTRATOR') && !message.member.roles.has(message.guild.roles.find(r => r.name === '*').id)) return message.reply('You need to be admin to execute this command!')
  
     var output = await dl.Delete(user.id)
-    if (output.deleted == true) return message.reply('Succesfully deleted the user out of the database!')
+    if (output.deleted == true) return message.reply('** :x: USPJESNO STE IZBRISALI USERA IZ MOJEG DATABASE FAJLA :x: **')
  
-    message.reply('Error: Could not find the user in database.')
+    message.reply('** :x: TAJ USER NIJE U MOJOJ BAZI PODATAKA:x: **')
 
 }
 

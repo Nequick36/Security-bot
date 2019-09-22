@@ -21,7 +21,7 @@ module.exports.run = async (bot, message, args) => {
       return message.reply(`You don't have that much money!`)
     } else {
      let wEmbed = new Discord.RichEmbed()
-            .setFooter("You Won!", aicon)
+            .setFooter("Vi ste Pobjedili!", aicon)
             .setTitle(':slot_machine:Slots:slot_machine:')
             .addField('Result:', slots[result1] + slots[result2] + slots[result3], true)
             .setColor("GREEN");
@@ -41,7 +41,7 @@ module.exports.run = async (bot, message, args) => {
       return message.reply(`You don't have that much money!`)
     } else {
       let embed = new Discord.RichEmbed()
-            .setFooter('You Lost!', aicon)
+            .setFooter('Vi ste izgubili!', aicon)
             .setTitle(':slot_machine:Slots:slot_machine:')
             .addField('Result', slots[result1] + slots[result2] + slots[result3], true)
             .setColor("RED");

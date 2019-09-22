@@ -10,7 +10,7 @@ en!ticket close - Deletes the ticket`)
   }
   if(args[0] === `new`) {
     let ticketChannel = message.guild.channels.find(r => r.name === `ticket-${message.author.id}`)
-    if(ticketChannel) return message.channel.send(`You can only have one ticket!`)
+    if(ticketChannel) return message.channel.send(`** :x: VEC IMATE 1 OTVOREN TICKET   :x: **`)
     message.guild.createChannel(`ticket-${message.author.id}`, 'text').then(channel => {
       channel.setTopic(`Owner: ${message.author.tag}`)
       channel.send(`Ćao! ${message.author} Ako vam treba neka pomoc pitajte nas Staff-Team! , Ako vam ni staff-team ne moze odgovorit na pitanje ukucajte en!suggest <pitanje> na vase pitanje ce odgovorit neko iz Vlasnik Tima`)

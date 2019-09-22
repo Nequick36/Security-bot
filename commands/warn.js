@@ -9,16 +9,16 @@ module.exports.run = async (bot, message, args) => {
     let modRole = message.guild.roles.find(role => role.name === 'EC | Vlasnik Team')
      if(!message.member.hasPermission("MANAGE_MESSAGES"))
      {
-         message.channel.send("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**");
+         message.channel.send("** :x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x: **");
          return;
      }
      var user = message.mentions.users.first() 
-     if (!user) return message.reply('cannot find user!')
+     if (!user) return message.reply('** :x: MORATE TAGATI MEMBERA KOJEG ZELITE BANATI :x: **')
     //if(message.mentions.members.first().hasPermission('MANAGE_GUILD')) return message.channel.send(`You can't warn a Server Manager!`)
      let warning = args.slice(1).join(" ")
     if (!warning)
       {
-        message.channel.send("You have not specified a reason!")
+        message.channel.send("** :x: MORATE STAVITI RAZLOG WARNA :x: **")
         return;
       }
   console.log(warning)
@@ -44,7 +44,7 @@ module.exports.run = async (bot, message, args) => {
          .setTimestamp()
      warnChannel.send(WarningInfo)
     if(warns[user.id].warns >= 5) {
-      user.send({embed:{description:`You have ${warns[user.id].warns} warnings in ExtremeCommunity! You will be kicked, but if you break more rules you will be banned!`, color:0xff0000}})
+      user.send({embed:{description:`**Vi imate ${warns[user.id].warns} zato ste dobili kick sa servera: ExtremeCommunity**`, color:0xff0000}})
      
       message.guild.members.forEach(member => {
         if(member.roles.has(modRole.id)) member.send({embed:{description:`${user.username} ima ${warns[user.id].warns} warnova morate ga kikat komandom en!kick <user> 5 warns!`, color:0xff0000}})

@@ -5,22 +5,22 @@ module.exports.run = async (bot, message, args) => {
          console.log(unbannedUser)
    if(!message.member.hasPermission("MANAGE_GUILD"))
          {
-             message.channel.send("🛑 **ACCESS DENIED! THIS IS A ADMIN ONLY COMMAND. 🛑**");
+             message.channel.send("** :x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x: **");
              return;
          }
          if(!unbannedUser)
          {
-             message.channel.send("Sorry, I couldn't find that user");
+             message.channel.send("** :x: MORATE STAVITI ID USERA KOJEG ZELITE UNBANAT :x: **");
              return;
          }
         
-        if(message.guild.members.get(args)) return message.channel.send(`That user isn't banned!`)
+        if(message.guild.members.get(args)) return message.channel.send(`** :x: TAJ MEMBER NIJE BANAN :x: **`)
        setTimeout(function(){
     //code
        message.guild.unban(args)
                 .then(console.log)
                 .catch(console.error);
-       message.channel.send(`***User with id ${args} has been unbanned!*** `)
+       message.channel.send(`** USPJESNO STE UNBANALI USERA SA IDOM: ${args} :x: **`)
  }, 500);
 }
 
