@@ -2,3 +2,11 @@
 [21.09.2019][10:02:08][owner-commands] ⚡ Veka ⚡#7740: !dis
 [21.09.2019][10:02:08][owner-commands] Rythm#3722: 📭 **Successfully disconnected**
 [22.09.2019][12:12:52][〔🎁〕giveaways] GiveawayBot#2381: Congratulations <@440451286794633216>! You won the **Spotify Accaunt (Provjeren)**!
+[22.09.2019][06:37:39][〔🎫〕tickets] Balkanski Gamer YT#9618: En!ticket
+[22.09.2019][06:37:49][〔🎫〕tickets] Balkanski Gamer YT#9618: en!ticket
+[22.09.2019][06:37:49][〔🎫〕tickets] ExtremeCommunity#0316: Ticket help:
+en!ticket new - Makes new ticket
+en!ticket close - Deletes the ticket
+[22.09.2019][06:38:08][〔🎫〕tickets] Balkanski Gamer YT#9618: en!ticket new
+[22.09.2019][06:38:08][ticket-477103045440962562] ExtremeCommunity#0316: Ćao! <@477103045440962562> Ako vam treba neka pomoc pitajte nas Staff-Team! , Ako vam ni staff-team ne moze odgovorit na pitanje ukucajte en!suggest <pitanje> na vase pitanje ce odgovorit neko iz Vlasnik Tima
+[22.09.2019][06:45:41][〔💬〕balkan-chat] Balkanski Gamer YT#9618: Neko tu
