@@ -42,3 +42,16 @@
 [22.09.2019][07:03:25][biljeske-servera] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `dj stojke harmonika mix 2018`
 [22.09.2019][07:03:25][biljeske-servera] Rythm#3722: 
 [22.09.2019][07:03:26][biljeske-servera] Rythm#3722: **Playing** 🎶 `BALKAN HARMONIKA MIX 2018 by DJ STOJAK` - Now!
+[22.09.2019][07:25:51][〔📌〕partnership] ⚡ Veka ⚡#7740: https://discord.gg/h3VZ93R **NOVI PARTNERI ** < @everyone  >
+[22.09.2019][07:26:25][biljeske-servera] ⚡ Veka ⚡#7740: !play djesi ruzo kurvetino stara
+[22.09.2019][07:26:25][biljeske-servera] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `djesi ruzo kurvetino stara`
+[22.09.2019][07:26:25][biljeske-servera] Rythm#3722: 
+[22.09.2019][07:26:26][biljeske-servera] Rythm#3722: **Playing** 🎶 `ZOKA BOSANAC - DjE SI RUZO KURVETINO STARA ( 4К Official Video)` - Now!
+[22.09.2019][07:26:52][naručivanje-muzike] ⚡ Veka ⚡#7740: !play rasta kombi
+[22.09.2019][07:26:52][naručivanje-muzike] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `rasta kombi`
+[22.09.2019][07:26:53][naručivanje-muzike] Rythm#3722: 
+[22.09.2019][07:27:06][naručivanje-muzike] ⚡ Veka ⚡#7740: !play djesi ruzo kurvetino stara
+[22.09.2019][07:27:06][naručivanje-muzike] Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `djesi ruzo kurvetino stara`
+[22.09.2019][07:27:07][naručivanje-muzike] Rythm#3722: ❌ `ZOKA BOSANAC - DjE SI RUZO KURVETINO STARA ( 4К Official Video)` **has already been added to the queue.**
+[22.09.2019][07:27:14][naručivanje-muzike] ⚡ Veka ⚡#7740: !pause
+[22.09.2019][07:27:14][naručivanje-muzike] Rythm#3722: **Paused** ⏸
