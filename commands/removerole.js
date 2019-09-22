@@ -12,11 +12,11 @@ module.exports.run = async (bot, message, args) => {
     if(!rMember.roles.has(gRole.id)) return message.reply("They don't have that role.");
 
     await(rMember.removeRole(gRole.id));
-  message.channel.send(`I removed role ${role} from user ${rMember.user.tag}!`)
+  message.channel.send(`${rMember.user.tag} Je izbugio role I removed role ${role} f ${rMember.user.tag}!`)
 
     try{
 
-      await rMember.send(`RIP, you lost the ${gRole.name} role.`)
+      await rMember.send(`R.I.P   Izgubili ste rol: ${gRole.name}`)
 
     }catch(e){
 

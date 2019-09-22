@@ -47,8 +47,6 @@ eco.FetchBalance(message.author.id).then(User => {
     let role = message.guild.roles.find(role => role.name === 'Gold')
     let currentRole = message.guild.roles.find(role => role.name === 'Gold')
     if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
-    let prevrole = message.guild.roles.find(role => role.name === 'Iron')
-if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry but you need the gold role in order to purchase this role.`)
     if(User.balance < 1000) return message.channel.send(`Sorry but you don't have $1000.`)
     eco.SubstractFromBalance(message.author.id, 1000).then(u => {
       message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Gold Rank`)
@@ -70,8 +68,6 @@ if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry bu
     let role = message.guild.roles.find(role => role.name === 'Lapis')
     let currentRole = message.guild.roles.find(role => role.name === 'Lapis')
     if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
-    let prevrole = message.guild.roles.find(role => role.name === 'Redstone')
-if(!message.member.roles.has(prevrole.id)) return message.channel.send(`Sorry but you need the gold role in order to purchase this role.`)
     if(User.balance < 1500) return message.channel.send(`Sorry but you don't have $1500.`)
     eco.SubstractFromBalance(message.author.id, 1500).then(u => {
       message.channel.send(`<@${message.author.id}> Uspjesno ste kupili Lapis Rank`)
