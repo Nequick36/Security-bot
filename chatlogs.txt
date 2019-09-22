@@ -11,3 +11,7 @@
 [22.09.2019][11:16:49][〔💬〕english-chat] ExtremeCommunity#0316: TheTony#1778 Pogledajte svoj DM!
 [22.09.2019][11:17:17][〔💬〕english-chat] TheTony#1778: en!komande
 [22.09.2019][11:17:17][〔💬〕english-chat] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[22.09.2019][12:03:00][〔🤖〕bot-komande] ⚡ Veka ⚡#7740: en!Help
+[22.09.2019][12:03:00][〔🤖〕bot-komande] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[22.09.2019][12:03:05][〔🤖〕bot-komande] ⚡ Veka ⚡#7740: en!help
+[22.09.2019][12:03:05][〔🤖〕bot-komande] ExtremeCommunity#0316: ⚡ Veka ⚡#7740 Pogledajte svoj DM!
