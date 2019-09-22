@@ -38,3 +38,26 @@ en!ticket close - Deletes the ticket
 ```
 [22.09.2019][09:02:52][biljeske-servera] ⚡ Veka ⚡#7740: en!profile
 [22.09.2019][09:02:52][biljeske-servera] ExtremeCommunity#0316: 
+[22.09.2019][09:06:34][biljeske-servera] ⚡ Veka ⚡#7740: en!profile
+[22.09.2019][09:06:42][biljeske-servera] ⚡ Veka ⚡#7740: en!profile
+[22.09.2019][09:07:16][biljeske-servera] ⚡ Veka ⚡#7740: en!profile
+[22.09.2019][09:07:16][biljeske-servera] ExtremeCommunity#0316: 
+[22.09.2019][09:10:24][biljeske-servera] ⚡ Veka ⚡#7740: en!warns 543004967598948356
+[22.09.2019][09:10:24][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, Tagaj usera kojem zelis vidit broj warnova!
+[22.09.2019][09:11:14][biljeske-servera] ⚡ Veka ⚡#7740: en!unban @Zukich#2006
+[22.09.2019][09:11:15][biljeske-servera] ExtremeCommunity#0316: ***User with id @Zukich#2006 has been unbanned!***
+[22.09.2019][09:12:12][biljeske-servera] ⚡ Veka ⚡#7740: r!help
+[22.09.2019][09:12:12][biljeske-servera] RainbowBot#8147: 
+[22.09.2019][09:12:34][biljeske-servera] ⚡ Veka ⚡#7740: r!help fun
+[22.09.2019][09:12:34][biljeske-servera] RainbowBot#8147: 
+[22.09.2019][09:12:44][biljeske-servera] ⚡ Veka ⚡#7740: r!info
+[22.09.2019][09:12:48][biljeske-servera] ⚡ Veka ⚡#7740: r!help info
+[22.09.2019][09:12:48][biljeske-servera] RainbowBot#8147: 
+[22.09.2019][09:12:56][biljeske-servera] ⚡ Veka ⚡#7740: r!help moderation
+[22.09.2019][09:12:56][biljeske-servera] RainbowBot#8147: 
+[22.09.2019][09:13:03][biljeske-servera] ⚡ Veka ⚡#7740: r!rainbow
+[22.09.2019][09:13:03][biljeske-servera] RainbowBot#8147: 
+[22.09.2019][09:13:16][biljeske-servera] ⚡ Veka ⚡#7740: r!rainbow !=.-&-.=⚡  Veka  ⚡=.-&-.=!
+[22.09.2019][09:13:16][biljeske-servera] RainbowBot#8147: 
+[22.09.2019][09:13:33][biljeske-servera] ⚡ Veka ⚡#7740: r!rainbow Members
+[22.09.2019][09:13:33][biljeske-servera] RainbowBot#8147: <@!532659544791318540>, You have to wait 5 minutes before using that command again.
