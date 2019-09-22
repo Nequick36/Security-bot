@@ -5,19 +5,19 @@ module.exports.run = async (bot, message, args) => {
   let kickedUser = message.mentions.members.first();
   if(!message.member.hasPermission("MANAGE_MESSAGES"))
        {
-           message.channel.send("🛑 **ACCESS DENIED! THIS IS MOD/ADMIN ONLY COMMAND. 🛑**");
+           message.channel.send("**:x: VI NEMATE DOZVOLU DA KORISTITE OVU KOMANDU :x:**");
            return;
        }
        if(!kickedUser)
        {
-           message.channel.send("Sorry, I couldn't find that user");
+           message.channel.send("**:x: MORATE TAGATI USERA KOJEG ZELITE KIKATI :x:**");
            return;
        }
 
        let reason = args.slice(1).join(" ")
        if (!reason)
        {
-         message.channel.send("You have not specified a reason!")
+         message.channel.send("**:x: NISTE STAVILI RAZLOG KIKA :x:**")
          return;
        }
      var kickInfo = new Discord.RichEmbed()
@@ -30,7 +30,7 @@ module.exports.run = async (bot, message, args) => {
      let kickChannel = message.guild.channels.find(channel => channel.name === "logs")
      kickChannel.send(kickInfo)
      message.delete()
-     kickedUser.send(`**Kikani** ste sa Servera ExtremeCommunity, Razlog: ${reason}`).catch(message.channel.send(`** ${kickedUser.user.tag} je kikovan!**`))
+     kickedUser.send(`:white_check_mark:  **Kikani** ste sa Servera ExtremeCommunity od strane Osoblja: ${message.author.username}, Razlog: ${reason}`).catch(message.channel.send(`** ${kickedUser.user.tag} je kikovan!**`))
      setTimeout(function(){
   //code
        message.guild.member(kickedUser).kick(reason)

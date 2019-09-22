@@ -3,7 +3,7 @@ const fs = require("fs")
 
 module.exports.run = async (bot, message, args) => {
     let warns = JSON.parse(fs.readFileSync('commands/warns.json', 'utf8'));
-    if(!message.member.hasPermission("MANAGE_MESSAGES"))
+    if(!message.member.hasPermission("SEND_MESSAGES"))
     {
         message.channel.send("🛑 **ACCESS DENIED! THIS IS A MOD/ADMIN ONLY COMMAND. 🛑**");
         return;
@@ -12,14 +12,14 @@ module.exports.run = async (bot, message, args) => {
     if (!user) return message.reply('Tagaj usera kojem zelis vidit broj warnova!')
     if(!warns[user.id]) warns[user.id] = {}
     if(!warns[user.id].warns) warns[user.id].warns = 0
-    if(!warns[user.id].reasons) warns[user.id].reasons = 'Nema warnova'
-   if(warns[user.id].warns === 0) return message.channel.send({embed:{description:`${user.user.username} doesn't have any warnings.`, color:0xff0000}})
+    if(!warns[user.id].reasons) warns[user.id].reasons = ':x: **UPOZORENJA** Nema warnova'
+   if(warns[user.id].warns === 0) return message.channel.send({embed:{description:`:x: **UPOZORENJA** ${user.user.username} nema warnova.`, color:0xff0000}})
    let reasons = warns[user.id].reasons.split('|!')
    let warnsNum = reasons.length
    let embed = new Discord.RichEmbed()
    .setTitle(`${user.user.username}`)
    .setColor('RED')
-   .addField(`Warnings`, `${warns[user.id].warns}`)
+   .addField(`:x:UPOZORENJA`, `${warns[user.id].warns}`)
    for(let i = 0; i<reasons.length; i++) {
      embed.addField(`Reason #${i+1}`, `${reasons[i]}`)
    }
@@ -29,8 +29,8 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
     name: "warns",
   aliases: [],
-  perm: "MANAGE_MESSAGES",
-  role: "Pristup",
-  group:"ADMIN"
+  perm: "",
+  role: "",
+  group:""
 
 }
