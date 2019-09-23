@@ -44,3 +44,56 @@ Balance od ExtremeCommunity#0316: 1
 [23.09.2019][05:10:24][biljeske-servera] ExtremeCommunity#0316: 
 [23.09.2019][05:10:33][biljeske-servera] ⚡ Veka ⚡#7740: en!msgs <@!610107625383919616>
 [23.09.2019][05:10:33][biljeske-servera] ExtremeCommunity#0316: 
+[23.09.2019][05:27:53][〔📢〕informacije] ⚡ Veka ⚡#7740: 🔐 **| Pravila na serveru**
+
+1.**__ Zabranjeno vrijeđanje po bilo kom osnovu!__**
+2. Zabranjeno je spamovanje.
+3. Zabranjeno je slanje linkova.
+4. Zabranjeno je smaranje za dobijanje ranka.
+5. Zabranjeno duvanje u mikrofon, vikanje i ostali neartikulisani zvuci u voice sobama.
+6. Zabranjeno je slanje neprikladnih slika u <#622747344819191808>
+**__7. Zabranjene su političke, religiozne i nacističke teme.__**
+8. Zabranjeno je puštanje video klipova. (Znači samo muzika, bez navijačkih, himni, nacionalističkih, itd..)
+9. Zabranjeno je tagovanje staffa, i ostalih igraca bez razloga
+10. Zabranjeno je korišćenje alt accounta.
+11. Zabranjeno je imati znakove prije imena.
+12. Zabranjeno imitranje policajaca na serveru. (Raditi posao moderatora,admina)
+**__13. Reklamiranje nije dozvoljeno! Ako želite podijeliti neki svoj video ili kanal, prvo se javite nekom od Vlasnika. __**
+(Ne reklamiramo discord servere!)
+14. Za free rankove ukucajte en!shop i skupljate pare uspomocu sljedecih komandi ( en!work , en!slot , en!daily , (dodacemo jos ovo je samo za sada) i kada je event ako pobjedite dobijate 300$)
+
+Posledice koja povlači nepoštovanje PRAVILA se kreću od opomene, kicka, do banovanja sa servera.
+[23.09.2019][05:28:03][〔📢〕informacije] ⚡ Veka ⚡#7740: 📰 **| O Serveru**
+
+Pre svega, dobrodošli na ExtremeCommunity™! Server je osnovan 01.13.2019 uz ciljem da ujedini gejmere širom balkana, na našem serveru mozete pronači dosta korisnih i zanimljivih stvari, mozete da se dopisujete i opoznavate u bilo kom trenutku, pričati i razgovarati o raznim temama, saznavati i razmenivati mišljenja sa ostalih članova servera. Ukoliko vam bude trebala ikakva pomoč slobodno mozete tagovati naše Osoblje u bilo kom trenutku!
+
+🔖** | Rankove**
+
+💰 Invite Ranks ↠ Invite rankove možete vidjeti komandom +ranks
+💠 Staff Rank ↠ Staff rank možete dobiti ako prođete prijavu za staff.
+⚒️ Bug Hunter ↠ Ako ste prijavili bug na botu ili na serveru!
+🔹 Friend ↠ Priatelji vlasnika.
+🔥 Nitro Booster ↠ Dobija korisnik koji boosta server!
+🌟 Special ↠ Ovaj rank se moze dobiti samo na Giveaway-ovima ili na eventima.
+⚙️ Partner ↠ Ovaj rank dobijaju samo partneri servera.
+🤖 Bot Rank ↠ Samo botovi!
+[23.09.2019][05:28:14][chat-logs] ExtremeCommunity#0316: 
+[23.09.2019][05:28:18][〔📢〕informacije] ⚡ Veka ⚡#7740: 🔐 **| Pravila na serveru**
+
+1.**__ Zabranjeno vrijeđanje po bilo kom osnovu!__**
+2. Zabranjeno je spamovanje.
+3. Zabranjeno je slanje linkova.
+4. Zabranjeno je smaranje za dobijanje ranka.
+5. Zabranjeno duvanje u mikrofon, vikanje i ostali neartikulisani zvuci u voice sobama.
+6. Zabranjeno je slanje neprikladnih slika u <#622747344819191808>
+**__7. Zabranjene su političke, religiozne i nacističke teme.__**
+8. Zabranjeno je puštanje video klipova. (Znači samo muzika, bez navijačkih, himni, nacionalističkih, itd..)
+9. Zabranjeno je tagovanje staffa, i ostalih igraca bez razloga
+10. Zabranjeno je korišćenje alt accounta.
+11. Zabranjeno je imati znakove prije imena.
+12. Zabranjeno imitranje policajaca na serveru. (Raditi posao moderatora,admina)
+**__13. Reklamiranje nije dozvoljeno! Ako želite podijeliti neki svoj video ili kanal, prvo se javite nekom od Vlasnika. __**
+(Ne reklamiramo discord servere!)
+14. Za free rankove ukucajte en!shop i skupljate pare uspomocu sljedecih komandi ( en!work , en!slot , en!daily , (dodacemo jos ovo je samo za sada) i kada je event ako pobjedite dobijate 300$)
+
+Posledice koja povlači nepoštovanje PRAVILA se kreću od opomene, kicka, do banovanja sa servera.
