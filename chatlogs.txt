@@ -97,3 +97,17 @@ Pre svega, dobrodošli na ExtremeCommunity™! Server je osnovan 01.13.2019 uz c
 14. Za free rankove ukucajte en!shop i skupljate pare uspomocu sljedecih komandi ( en!work , en!slot , en!daily , (dodacemo jos ovo je samo za sada) i kada je event ako pobjedite dobijate 300$)
 
 Posledice koja povlači nepoštovanje PRAVILA se kreću od opomene, kicka, do banovanja sa servera.
+[23.09.2019][05:51:51][biljeske-servera] ⚡ Veka ⚡#7740: en!eval <@message.author.id>
+[23.09.2019][05:51:51][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token <
+```
+[23.09.2019][05:51:51][chat-logs] ExtremeCommunity#0316: 
+[23.09.2019][05:52:10][biljeske-servera] ⚡ Veka ⚡#7740: en!eval <@${message.author.id}>
+[23.09.2019][05:52:10][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token <
+```
+[23.09.2019][05:52:10][chat-logs] ExtremeCommunity#0316: 
+[23.09.2019][05:53:24][biljeske-servera] ⚡ Veka ⚡#7740: en!modrole
+[23.09.2019][05:53:24][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, **:x: KOJEM MEMBERU ZELITE DATI MODROLE :x:**
+[23.09.2019][05:53:31][biljeske-servera] ⚡ Veka ⚡#7740: en!modrole <@!532659544791318540> Test-Mod
+[23.09.2019][05:53:31][biljeske-servera] ExtremeCommunity#0316: ⚡ Veka ⚡#7740 Upravo ste dobili role: Test-Mod
