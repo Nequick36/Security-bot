@@ -123,6 +123,19 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     console.log(`${file} Loaded!`)
 	});
 })
+bot.on("guildMemberAdd", function (member) {
+    member.send("DobroDosli na server! Zabavite se i procitaj te pravila i procitajte kanale <#619572423741931527> i <#619572423741931527>")
+    let memberRole = member.guild.roles.find(role => role.name === "Members");
+    member.addRole(memberRole);
+  let guild = member.guild;
+  let channel = member.guild.channels.find(channel => channel.name === 'logs')//wouldnt it be better w ids?
+    channel.sendMessage(` ${member.user} je usao u server`).catch(console.error);
+});
+bot.on("guildMemberRemove", function (member) {
+     let guild = member.guild;
+  let channel = member.guild.channels.find(channel => channel.name === 'logs')
+     channel.sendMessage(`${member.user.tag} je izasao sa server`).catch(console.error);
+});
 bot.on('ready', () => {
     console.log(`${bot.user.username} is online!`)
 
