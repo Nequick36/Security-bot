@@ -5,7 +5,7 @@ module.exports.run = async (bot, message, args) => {
   var user = message.mentions.users.first()
     var amount = args[1]
     if(isNaN(amount)) return message.reply('** :x: STAVITE VAZECI BROJ :x: **')
- if(message.author.id === user.id) return message.channel.send("** :x: MORATE TAGATI MEMBERA KOJEM ZELITE POSLATI NOVAC :x: **")
+ if(message.author.id === user.id) return message.channel.send("** :x: NE MOZETE SEBI POSLATI NOVAC :x: **")
     if (!user) return message.reply('** :x: NE MOZES SAM SEBI POSLATI NOVAC :x: **')
     if (!amount) return message.reply('** :x: VI NEMATE TOLIKO NOVCA :x: **')
   

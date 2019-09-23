@@ -16,7 +16,7 @@ module.exports.run = async (bot, message, args) => {
 
     try{
 
-      await rMember.send(`:white_check_mark:  Dobili ste role: ${gRole.name}`)
+      await rMember.send(`:white_check_mark:  Dobili ste role: ${gRole.name} , Cestitam!`)
 
     }catch(e){
 

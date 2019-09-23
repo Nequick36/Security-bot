@@ -21,3 +21,22 @@ Ultra - $12500
 Master - $15000           
 Supeme - $17500           
 Titan - $200000__***
+[23.09.2019][04:59:44][biljeske-servera] ⚡ Veka ⚡#7740: en!hack <@!532659544791318540>
+[23.09.2019][04:59:45][biljeske-servera] ExtremeCommunity#0316: Morate malo sacekati dok ne udjem u database korisnika!
+[23.09.2019][05:05:42][biljeske-servera] ⚡ Veka ⚡#7740: en!Profile
+[23.09.2019][05:05:42][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[23.09.2019][05:05:45][biljeske-servera] ⚡ Veka ⚡#7740: en!profile
+[23.09.2019][05:06:54][biljeske-servera] ⚡ Veka ⚡#7740: en!work
+[23.09.2019][05:06:54][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, Niste dobro uradili svoj posao i niste dobili **pare**!
+[23.09.2019][05:06:56][biljeske-servera] ⚡ Veka ⚡#7740: en!topbal
+[23.09.2019][05:06:57][biljeske-servera] ⚡ Veka ⚡#7740: en!baltop
+[23.09.2019][05:07:07][biljeske-servera] ⚡ Veka ⚡#7740: en!pay
+[23.09.2019][05:07:07][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, ** :x: STAVITE VAZECI BROJ :x: **
+[23.09.2019][05:07:13][biljeske-servera] ⚡ Veka ⚡#7740: en!pay <@!532659544791318540> 5500000000000
+[23.09.2019][05:07:13][biljeske-servera] ExtremeCommunity#0316: ** :x: MORATE TAGATI MEMBERA KOJEM ZELITE POSLATI NOVAC :x: **
+[23.09.2019][05:07:41][biljeske-servera] ⚡ Veka ⚡#7740: en!pay <@!610107625383919616> 100000000000000000000
+[23.09.2019][05:07:42][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, **:x: VI NEMATE TOLIKO NOVCA :x:**
+[23.09.2019][05:08:07][biljeske-servera] ⚡ Veka ⚡#7740: en!pay <@!610107625383919616> 1
+[23.09.2019][05:08:08][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, Uspjesno ste poslali novac!
+Balance od ⚡ Veka ⚡#7740: 300322
+Balance od ExtremeCommunity#0316: 1
