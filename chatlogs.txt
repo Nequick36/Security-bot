@@ -13,3 +13,48 @@ Vi sada imate :money_with_wings: 300366
 [23.09.2019][08:28:24][work] ⚡ TheVeka ⚡#7740: en!ticket new
 [23.09.2019][08:28:25][ticket-532659544791318540] ExtremeCommunity#0316: Ćao! <@532659544791318540> Ako vam treba neka pomoc pitajte nas Staff-Team! , Ako vam ni staff-team ne moze odgovorit na pitanje ukucajte en!suggest <pitanje> na vase pitanje ce odgovorit neko iz Vlasnik Tima
 [23.09.2019][08:28:25][chat-logs] ExtremeCommunity#0316: 
+[23.09.2019][09:00:21][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: en!shop
+[23.09.2019][09:00:21][〔🤖〕bot-komande] ExtremeCommunity#0316: -----------------------------------
+           ROLES SHOP
+-----------------------------------
+**en!buy <item-name>**
+
+***__Member+ - $125
+Coal - $250
+Iron - $750
+Gold - $1000 
+Redstone - $1250
+Lapis - $1500
+Diamond - $3000
+Emerald - $5500         
+Vip - $8000   
+Vip+ - $8750   
+Premium - $10000        
+Ultra - $12500     
+Master - $15000           
+Supeme - $17500           
+Titan - $200000__***
+[23.09.2019][09:00:22][〔🤖〕bot-komande] NotDejann™#5633: en!shop
+[23.09.2019][09:00:22][〔🤖〕bot-komande] ExtremeCommunity#0316: -----------------------------------
+           ROLES SHOP
+-----------------------------------
+**en!buy <item-name>**
+
+***__Member+ - $125
+Coal - $250
+Iron - $750
+Gold - $1000 
+Redstone - $1250
+Lapis - $1500
+Diamond - $3000
+Emerald - $5500         
+Vip - $8000   
+Vip+ - $8750   
+Premium - $10000        
+Ultra - $12500     
+Master - $15000           
+Supeme - $17500           
+Titan - $200000__***
+[23.09.2019][09:00:24][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: et XD
+[23.09.2019][09:00:30][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: et imas svega XD
+[23.09.2019][09:00:44][〔🤖〕bot-komande] NotDejann™#5633: Sutra cu xd
