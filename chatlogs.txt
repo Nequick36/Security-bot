@@ -40,3 +40,7 @@ Titan - $200000__***
 [23.09.2019][05:08:08][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, Uspjesno ste poslali novac!
 Balance od ⚡ Veka ⚡#7740: 300322
 Balance od ExtremeCommunity#0316: 1
+[23.09.2019][05:10:24][biljeske-servera] ⚡ Veka ⚡#7740: en!msgs
+[23.09.2019][05:10:24][biljeske-servera] ExtremeCommunity#0316: 
+[23.09.2019][05:10:33][biljeske-servera] ⚡ Veka ⚡#7740: en!msgs <@!610107625383919616>
+[23.09.2019][05:10:33][biljeske-servera] ExtremeCommunity#0316: 
