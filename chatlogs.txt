@@ -1,2 +1,23 @@
 [23.09.2019][01:53:47][〔💬〕balkan-chat] Balkanski Gamer YT#9618: Radim turnir u Brawl Starsu ko oče sudjelovti nek se javi
 [23.09.2019][02:47:21][staff-commands] Nenad#3504: r.help
+[23.09.2019][04:43:07][biljeske-servera] ⚡ Veka ⚡#7740: en!shop
+[23.09.2019][04:43:07][biljeske-servera] ExtremeCommunity#0316: -----------------------------------
+           ROLES SHOP
+-----------------------------------
+**en!buy <item-name>**
+
+***__Member+ - $125
+Coal - $250
+Iron - $750
+Gold - $1000 
+Redstone - $1250
+Lapis - $1500
+Diamond - $3000
+Emerald - $5500         
+Vip - $8000   
+Vip+ - $8750   
+Premium - $10000        
+Ultra - $12500     
+Master - $15000           
+Supeme - $17500           
+Titan - $200000__***
