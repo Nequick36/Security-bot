@@ -1,3 +1,8 @@
 [23.09.2019][06:21:58][biljeske-servera] ⚡ Veka ⚡#7740: en!sql
 [23.09.2019][06:21:59][biljeske-servera] ExtremeCommunity#0316: ```Error```
 [23.09.2019][06:21:59][biljeske-servera] ExtremeCommunity#0316: `` Error while executing this command!```
+[23.09.2019][08:27:44][work] ⚡ TheVeka ⚡#7740: en!work
+[23.09.2019][08:27:44][work] ExtremeCommunity#0316: ⚡ TheVeka ⚡
+Radili ste kao ` Cashier ` i zaradili ste :money_with_wings: 44
+Vi sada imate :money_with_wings: 300366
+[23.09.2019][08:27:47][work] ⚡ TheVeka ⚡#7740: en!daily

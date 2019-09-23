@@ -124,9 +124,15 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 	});
 })
 bot.on('ready', () => {
-    setInterval(() => {
-        bot.user.setActivity(`en!help`, {type: 'STREAMING', url: 'https://www.twitch.tv/veka_peka312'}); 
-    });
+    console.log(`${bot.user.username} is online!`)
+
+    bot.user.setStatus('available')
+    bot.user.setPresence({
+        game: {
+            name: 'en!help',
+            type: "WATCHING",
+        }
+    })
 });
 
 
