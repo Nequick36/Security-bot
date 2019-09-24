@@ -99,3 +99,10 @@ Vi Imate 248 XP-A
 [24.09.2019][05:00:45][〔💬〕balkan-chat] MEE6#4876: 
 [24.09.2019][05:00:45][chat-logs] ExtremeCommunity#0316: 
 [24.09.2019][05:00:55][chat-logs] ExtremeCommunity#0316: 
+[24.09.2019][05:01:44][〔💬〕balkan-chat] ⚡ TheVeka ⚡#7740: https://discord.gg/G4ZWUG
+[24.09.2019][05:01:47][〔💬〕balkan-chat] ⚡ TheVeka ⚡#7740: et XD
+[24.09.2019][05:02:02][biljeske-servera] ⚡ TheVeka ⚡#7740: !dashboard
+[24.09.2019][05:02:13][biljeske-servera] ⚡ TheVeka ⚡#7740: a!dashboard
+[24.09.2019][05:02:14][biljeske-servera] Atlas#2867: You can configure your server at <https://atlasbot.xyz/guilds/534103580920250399>.
+[24.09.2019][05:08:05][biljeske-servera] ⚡ TheVeka ⚡#7740: =dashboard
+[24.09.2019][05:08:05][biljeske-servera] Carl-bot#1536: Check out the dashboard at <https://carl.gg/>
