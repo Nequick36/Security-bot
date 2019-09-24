@@ -7,7 +7,7 @@ let role = message.guild.roles.find(r => r.name === 'Pristup')
   let bannedUser = message.mentions.members.first();
    if(!message.member.roles.has(role.id))
        {
-           message.channel.send("**:x: NEMAS DOZVOLU DA KORISTIS OVU KOMANDU :x:**");
+  if(!bannedUser) return message.channel.send({embed:{description:`**:x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x:** `, color:0xff0000}})
            return;
        }
 

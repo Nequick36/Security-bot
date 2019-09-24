@@ -5,7 +5,7 @@ module.exports.run = async (bot, message, args) => {
   let kickedUser = message.mentions.members.first();
   if(!message.member.hasPermission("MANAGE_MESSAGES"))
        {
-           message.channel.send("**:x: VI NEMATE DOZVOLU DA KORISTITE OVU KOMANDU :x:**");
+  if(!kickedUser) return message.channel.send({embed:{description:`**:x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x:** `, color:0xff0000}})
            return;
        }
        if(!kickedUser)

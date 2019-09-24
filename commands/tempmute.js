@@ -3,7 +3,7 @@ const ms = require("ms");
 
 module.exports.run = async (bot, message, args) => {
   let tomute = message.guild.member(message.mentions.users.first() || message.guild.members.get(args[0]));
-  if(!message.member.hasPermission("MANAGE_MESSAGES")) return message.reply("**:x: VI NEMATE DOZVOLU DA KORISTITE OVU KOMANDU!! :x:**")
+  if(!tomute) return message.channel.send({embed:{description:`**:x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x:** `, color:0xff0000}})
   if(!tomute) return message.reply("**:x: MORATE TAGATI USERA KOJEG ZELITE TEMPMUTATI :x:**");
   if(tomute.hasPermission("MANAGE_MESSAGES")) return message.reply("**:x: NE MOZETE MUTATI CLANOVE SA DOZVOLOM ADMINISTRATOR :x:**");
   let muterole = message.guild.roles.find(`name`, "Extreme | Mute");

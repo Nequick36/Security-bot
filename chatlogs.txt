@@ -23,3 +23,27 @@
 [24.09.2019][08:09:37][〔🤖〕bot-komande] ExtremeCommunity#0316: 
 [24.09.2019][08:09:40][〔🤖〕bot-komande] Tigric#2440: en!tempmute
 [24.09.2019][08:09:40][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669>, **:x: VI NEMATE DOZVOLU DA KORISTITE OVU KOMANDU!! :x:**
+[24.09.2019][08:13:52][〔🤖〕bot-komande] Tigric#2440: en!ban
+[24.09.2019][08:13:52][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[24.09.2019][08:13:56][〔🤖〕bot-komande] Tigric#2440: en!kick
+[24.09.2019][08:13:56][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[24.09.2019][08:13:57][〔🤖〕bot-komande] Tigric#2440: en!mute
+[24.09.2019][08:13:58][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[24.09.2019][08:14:00][〔🤖〕bot-komande] Tigric#2440: en!unmute
+[24.09.2019][08:14:00][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[24.09.2019][08:14:07][〔🤖〕bot-komande] Tigric#2440: en!kick
+[24.09.2019][08:14:07][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[24.09.2019][08:14:48][〔🤖〕bot-komande] Tigric#2440: en!warn
+[24.09.2019][08:14:49][〔🤖〕bot-komande] ExtremeCommunity#0316: ** :x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x: **
+[24.09.2019][08:14:50][〔🤖〕bot-komande] Tigric#2440: a
+[24.09.2019][08:14:50][〔🤖〕bot-komande] Tigric#2440: a
+[24.09.2019][08:14:51][〔🤖〕bot-komande] Tigric#2440: a
+[24.09.2019][08:14:51][〔🤖〕bot-komande] Tigric#2440: a
+[24.09.2019][08:14:51][〔🤖〕bot-komande] Tigric#2440: a
+[24.09.2019][08:14:52][〔🤖〕bot-komande] Tigric#2440: a
+[24.09.2019][08:14:52][〔🤖〕bot-komande] BetterAntispam#1393: Stop spamming! <@594613819624390669>
+[24.09.2019][08:15:04][〔🤖〕bot-komande] Tigric#2440: en!clearwarns
+[24.09.2019][08:15:04][〔🤖〕bot-komande] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[24.09.2019][08:15:07][chat-logs] ExtremeCommunity#0316: 
+[24.09.2019][08:16:38][〔🤖〕bot-komande] Tigric#2440: en!resetwarns
+[24.09.2019][08:16:38][〔🤖〕bot-komande] ExtremeCommunity#0316: ** :x: VI NEMATE DOVOLU DA KORITITE OVU KOMANDU :x: **
