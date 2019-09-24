@@ -61,3 +61,17 @@ Titan - $200000__***
 [23.09.2019][09:08:05][biljeske-servera] ⚡ TheVeka ⚡#7740: en!hack <@!532659544791318540>
 [23.09.2019][09:08:05][biljeske-servera] ExtremeCommunity#0316: Morate malo sacekati dok ne udjem u database korisnika!
 [24.09.2019][09:04:22][biljeske-servera] ⚡ TheVeka ⚡#7740: en!meme
+[24.09.2019][10:04:50][biljeske-servera] ⚡ TheVeka ⚡#7740: x!bakcup
+[24.09.2019][10:05:02][biljeske-servera] ⚡ TheVeka ⚡#7740: x!backup list
+[24.09.2019][10:05:03][biljeske-servera] Xenon#7325: 
+[24.09.2019][10:05:09][biljeske-servera] ⚡ TheVeka ⚡#7740: x!backup delete 534103580920250399
+[24.09.2019][10:05:09][biljeske-servera] Xenon#7325: 
+[24.09.2019][10:05:15][biljeske-servera] ⚡ TheVeka ⚡#7740: x!backup delete egts065x7s88mulf
+[24.09.2019][10:05:15][biljeske-servera] Xenon#7325: 
+[24.09.2019][10:05:20][biljeske-servera] ⚡ TheVeka ⚡#7740: x!backup help
+[24.09.2019][10:05:20][biljeske-servera] Xenon#7325: 
+[24.09.2019][10:05:29][biljeske-servera] ⚡ TheVeka ⚡#7740: x!backup create
+[24.09.2019][10:05:29][biljeske-servera] Xenon#7325: 
+[24.09.2019][10:11:55][biljeske-servera] ⚡ TheVeka ⚡#7740: en!xp
+[24.09.2019][10:11:55][biljeske-servera] ExtremeCommunity#0316: a
+[24.09.2019][10:11:56][biljeske-servera] ExtremeCommunity#0316: 
