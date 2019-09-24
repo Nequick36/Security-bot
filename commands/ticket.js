@@ -48,6 +48,8 @@ READ_MESSAGE_HISTORY: true
     })
       }
   else if(args[0] === `close`) {
+      let developers = bot.devs
+  if(!developers.includes(message.author.id)) return message.channel.send(`** :x: VI NEMATE DOZOVLU DA KORISITE OVU KOMANDU :x: **`)
     if(message.channel.name.startsWith(`ticket-`)) {
       message.channel.delete()
     } else {

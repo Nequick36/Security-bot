@@ -9,8 +9,8 @@ module.exports.run = async (bot, message, args) => {
     let modRole = message.guild.roles.find(role => role.name === 'EC | Vlasnik Team')
      if(!message.member.hasPermission("MANAGE_MESSAGES"))
      {
-  if(!modRole) return message.channel.send({embed:{description:`**:x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x:** `, color:0xff0000}})
-         return;
+   return message.channel.send({embed:{description:`**:x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x:** `, color:0xff0000}})
+      
      }
      var user = message.mentions.users.first() 
      if (!user) return message.reply('** :x: MORATE TAGATI MEMBERA KOJEG ZELITE BANATI :x: **')

@@ -47,3 +47,145 @@
 [24.09.2019][08:15:07][chat-logs] ExtremeCommunity#0316: 
 [24.09.2019][08:16:38][〔🤖〕bot-komande] Tigric#2440: en!resetwarns
 [24.09.2019][08:16:38][〔🤖〕bot-komande] ExtremeCommunity#0316: ** :x: VI NEMATE DOVOLU DA KORITITE OVU KOMANDU :x: **
+[24.09.2019][08:25:47][〔🤖〕bot-komande] Tigric#2440: en!warn
+[24.09.2019][08:25:59][〔🤖〕bot-komande] Tigric#2440: en!resetwarns
+[24.09.2019][08:26:13][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: en!warn
+[24.09.2019][08:26:14][〔🤖〕bot-komande] ExtremeCommunity#0316: <@!532659544791318540>, ** :x: MORATE TAGATI MEMBERA KOJEG ZELITE BANATI :x: **
+[24.09.2019][08:26:16][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: wut
+[24.09.2019][08:26:19][〔🤖〕bot-komande] Tigric#2440: en!warn
+[24.09.2019][08:27:01][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: en!reload warn
+[24.09.2019][08:27:01][〔🤖〕bot-komande] ExtremeCommunity#0316: Komanda warn je relodana!
+[24.09.2019][08:27:04][〔🤖〕bot-komande] Tigric#2440: en!warn
+[24.09.2019][08:27:04][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[24.09.2019][08:27:31][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: en!reload resetwarns
+[24.09.2019][08:27:31][〔🤖〕bot-komande] ExtremeCommunity#0316: Komanda resetwarns je relodana!
+[24.09.2019][08:27:38][〔🤖〕bot-komande] Tigric#2440: en!resetwarns
+[24.09.2019][08:27:38][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[24.09.2019][08:27:43][〔🤖〕bot-komande] Tigric#2440: en!addrole <@594613819624390669> Pristup
+[24.09.2019][08:27:44][〔🤖〕bot-komande] ExtremeCommunity#0316: Tigric#2440 Upravo ste dobili role: Pristup
+[24.09.2019][08:27:49][〔🤖〕bot-komande] Tigric#2440: en!resetwarns
+[24.09.2019][08:27:49][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669>, ** :x: MORATE TAGATI USERA :x: **
+[24.09.2019][08:27:59][〔🤖〕bot-komande] Tigric#2440: en!removerole <@594613819624390669> Pristup
+[24.09.2019][08:27:59][〔🤖〕bot-komande] ExtremeCommunity#0316: Tigric#2440 Je izbugio role: Pristup
+[24.09.2019][08:28:36][〔🤖〕bot-komande] Tigric#2440: en!modrole
+[24.09.2019][08:28:37][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669>, | :x: | Vi nemate dozvolu da koristite ovu komandu! | :x: |
+[24.09.2019][08:28:45][〔🤖〕bot-komande] Tigric#2440: en!addrole <@594613819624390669> *
+[24.09.2019][08:28:46][〔🤖〕bot-komande] ExtremeCommunity#0316: Tigric#2440 Upravo ste dobili role: *
+[24.09.2019][08:28:47][〔🤖〕bot-komande] Tigric#2440: en!modrole
+[24.09.2019][08:28:47][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669>, **:x: KOJEM MEMBERU ZELITE DATI MODROLE :x:**
+[24.09.2019][08:28:58][〔🤖〕bot-komande] Tigric#2440: en!work
+[24.09.2019][08:28:58][〔🤖〕bot-komande] ExtremeCommunity#0316: Tigric
+Radili ste kao ` Singer ` i zaradili ste :money_with_wings: 185
+Vi sada imate :money_with_wings: 185
+[24.09.2019][08:29:02][〔🤖〕bot-komande] Tigric#2440: en!removerole <@594613819624390669> *
+[24.09.2019][08:29:03][〔🤖〕bot-komande] ExtremeCommunity#0316: Tigric#2440 Je izbugio role: *
+[24.09.2019][08:29:20][〔🤖〕bot-komande] Tigric#2440: en!afk
+[24.09.2019][08:29:20][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[24.09.2019][08:29:24][〔🤖〕bot-komande] Tigric#2440: aq
+[24.09.2019][08:29:24][〔🤖〕bot-komande] ExtremeCommunity#0316: <@!594613819624390669>, Tigric#2440je dosao nazad!
+[24.09.2019][08:31:55][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: en!relaod titanwork
+[24.09.2019][08:31:55][〔🤖〕bot-komande] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[24.09.2019][08:32:05][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: en!reload titanwork
+[24.09.2019][08:32:05][〔🤖〕bot-komande] ExtremeCommunity#0316: Komanda titanwork je relodana!
+[24.09.2019][08:32:19][〔🤖〕bot-komande] Tigric#2440: en!TitanWork
+[24.09.2019][08:32:19][〔🤖〕bot-komande] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[24.09.2019][08:32:55][〔🤖〕bot-komande] Tigric#2440: en!TitanWork
+[24.09.2019][08:32:55][〔🤖〕bot-komande] ExtremeCommunity#0316: Tigric
+Radili ste kao ` Nurse ` i zaradili ste :money_with_wings: 81
+Vi sada imate :money_with_wings: 266
+[24.09.2019][08:33:00][〔🤖〕bot-komande] Tigric#2440: en!wokr
+[24.09.2019][08:33:00][〔🤖〕bot-komande] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[24.09.2019][08:33:01][〔🤖〕bot-komande] Tigric#2440: en!work
+[24.09.2019][08:33:01][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669>
+**Sacekajte 60 Sekundi prije sljedeceg posla!**
+[24.09.2019][08:33:04][〔🤖〕bot-komande] Tigric#2440: en!TitanWork
+[24.09.2019][08:33:04][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669>
+**Sacekajte 60 Sekundi prije sljedeceg posla!**
+[24.09.2019][08:33:21][〔🤖〕bot-komande] Tigric#2440: en!ticket new
+[24.09.2019][08:33:21][chat-logs] ExtremeCommunity#0316: 
+[24.09.2019][08:33:22][ticket-594613819624390669] ExtremeCommunity#0316: Ćao! <@594613819624390669> Ako vam treba neka pomoc pitajte nas Staff-Team! , Ako vam ni staff-team ne moze odgovorit na pitanje ukucajte en!suggest <pitanje> na vase pitanje ce odgovorit neko iz Vlasnik Tima
+[24.09.2019][08:33:26][〔🤖〕bot-komande] Tigric#2440: en!ticket new
+[24.09.2019][08:33:26][〔🤖〕bot-komande] ExtremeCommunity#0316: ** :x: VEC IMATE 1 OTVOREN TICKET   :x: **
+[24.09.2019][08:33:26][chat-logs] ExtremeCommunity#0316: 
+[24.09.2019][08:33:33][ticket-594613819624390669] Tigric#2440: en!close
+[24.09.2019][08:33:33][ticket-594613819624390669] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[24.09.2019][08:33:37][ticket-594613819624390669] Tigric#2440: en!ticket close
+[24.09.2019][08:33:37][chat-logs] ExtremeCommunity#0316: 
+[24.09.2019][08:35:18][〔🤖〕bot-komande] Tigric#2440: en!suggest test
+[24.09.2019][08:35:18][suggestions] ExtremeCommunity#0316: 
+[24.09.2019][08:35:18][〔🤖〕bot-komande] ExtremeCommunity#0316: **Vase pitanje je prosljedjeno Osoblju odgovoricemo vam u sto brzem roku** <@594613819624390669>
+[24.09.2019][08:35:21][〔🤖〕bot-komande] Tigric#2440: en!bugreport test
+[24.09.2019][08:35:21][bugreports] ExtremeCommunity#0316: 
+[24.09.2019][08:35:21][〔🤖〕bot-komande] ExtremeCommunity#0316: **Hvala sto ste nam prijavili Bug** <@594613819624390669>
+[24.09.2019][08:35:42][〔🤖〕bot-komande] Tigric#2440: en!setlevel
+[24.09.2019][08:35:42][〔🤖〕bot-komande] ExtremeCommunity#0316: ** :x: LOL, NE MOZES SEBI SETATI LEVEL TO SAMO MOZE VLASNIK SERVERA :x: **
+[24.09.2019][08:35:44][〔🤖〕bot-komande] Tigric#2440: en!setxp
+[24.09.2019][08:35:44][〔🤖〕bot-komande] ExtremeCommunity#0316: :x: **LOL, NE MOZES SEBI SETATI XP TO MOZE SAMO VLASNIK SERVERA** :x:
+[24.09.2019][08:38:08][〔🤖〕bot-komande] Tigric#2440: en!modrole <@594613819624390669> Developer
+[24.09.2019][08:38:08][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669>, | :x: | Vi nemate dozvolu da koristite ovu komandu! | :x: |
+[24.09.2019][08:38:56][〔🤖〕bot-komande] Tigric#2440: en!modrole <@594613819624390669> Developer
+[24.09.2019][08:38:56][〔🤖〕bot-komande] ExtremeCommunity#0316: Tigric#2440 Upravo ste dobili role: Developer
+[24.09.2019][08:39:05][〔🤖〕bot-komande] Tigric#2440: en!modrole <@594613819624390669> *
+[24.09.2019][08:39:05][〔🤖〕bot-komande] ExtremeCommunity#0316: Tigric#2440 Upravo ste dobili role: *
+[24.09.2019][08:39:26][〔🤖〕bot-komande] Tigric#2440: en!addbalance <@594613819624390669> 10000
+[24.09.2019][08:39:27][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669>, You have successfuly added 10000 coins to Tigric#2440's account.
+[24.09.2019][08:39:33][〔🤖〕bot-komande] Tigric#2440: en!addbalance <@594613819624390669> 10000000
+[24.09.2019][08:39:34][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669>, You have successfuly added 10000000 coins to Tigric#2440's account.
+[24.09.2019][08:39:35][〔🤖〕bot-komande] Tigric#2440: en!shop
+[24.09.2019][08:39:35][〔🤖〕bot-komande] ExtremeCommunity#0316: -----------------------------------
+           ROLES SHOP
+-----------------------------------
+**en!buy <item-name>**
+
+***__Member+ - $125
+Coal - $250
+Iron - $750
+Gold - $1000 
+Redstone - $1250
+Lapis - $1500
+Diamond - $3000
+Emerald - $5500         
+Vip - $8000   
+Vip+ - $8750   
+Premium - $10000        
+Ultra - $12500     
+Master - $15000           
+Supeme - $17500           
+Titan - $200000__***
+[24.09.2019][08:39:42][〔🤖〕bot-komande] Tigric#2440: en!buy Member+
+[24.09.2019][08:39:44][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669> Uspjesno ste kupili Member+ Rank
+[24.09.2019][08:39:45][〔🤖〕bot-komande] Tigric#2440: en!buy Coal
+[24.09.2019][08:39:46][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669> Uspjesno ste kupili Coal Rank
+[24.09.2019][08:39:50][〔🤖〕bot-komande] Tigric#2440: en!buy Iron
+[24.09.2019][08:39:51][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669> Uspjesno ste kupili Iron Rank
+[24.09.2019][08:39:52][〔🤖〕bot-komande] Tigric#2440: en!buy Goal
+[24.09.2019][08:40:03][〔🤖〕bot-komande] Tigric#2440: en!buy Gold
+[24.09.2019][08:40:04][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669> Uspjesno ste kupili Gold Rank
+[24.09.2019][08:40:06][〔🤖〕bot-komande] Tigric#2440: en!buy Redstone
+[24.09.2019][08:40:07][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669> Uspjesno ste kupili Redstone Rank
+[24.09.2019][08:40:08][〔🤖〕bot-komande] Tigric#2440: en!shop
+[24.09.2019][08:40:08][〔🤖〕bot-komande] ExtremeCommunity#0316: -----------------------------------
+           ROLES SHOP
+-----------------------------------
+**en!buy <item-name>**
+
+***__Member+ - $125
+Coal - $250
+Iron - $750
+Gold - $1000 
+Redstone - $1250
+Lapis - $1500
+Diamond - $3000
+Emerald - $5500         
+Vip - $8000   
+Vip+ - $8750   
+Premium - $10000        
+Ultra - $12500     
+Master - $15000           
+Supeme - $17500           
+Titan - $200000__***
+[24.09.2019][08:40:13][〔🤖〕bot-komande] Tigric#2440: en!buy Lapis
+[24.09.2019][08:40:14][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669> Uspjesno ste kupili Lapis Rank
+[24.09.2019][08:40:17][〔🤖〕bot-komande] Tigric#2440: en!buy Diamond
+[24.09.2019][08:40:18][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669> Uspjesno ste kupili Diamond Rank
+[24.09.2019][08:40:19][〔🤖〕bot-komande] Tigric#2440: en!buy Titan

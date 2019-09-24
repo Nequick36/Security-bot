@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-  let role = message.guild.roles.find(r => r.name === '*')
+  let role = message.guild.roles.find(r => r.name === 'Ne-Brisat')
   if(!message.member.roles.has(role.id)) return message.reply("| :x: | Vi nemate dozvolu da koristite ovu komandu! | :x: |");//you didnt see anything lol
     let rMember = message.guild.member(message.mentions.members.first()) || message.guild.members.get(args[0]);
     if(!rMember) return message.reply("**:x: KOJEM MEMBERU ZELITE DATI MODROLE :x:**");

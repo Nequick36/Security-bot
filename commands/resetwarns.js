@@ -5,8 +5,8 @@ module.exports.run = async (bot, message, args) => {
     let warns = JSON.parse(fs.readFileSync('commands/warns.json', 'utf8'));
     if(!message.member.hasPermission("MANAGE_MESSAGES"))
     {
-  if(!warns) return message.channel.send({embed:{description:`**:x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x:** `, color:0xff0000}})
-        return;
+  return message.channel.send({embed:{description:`**:x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x:** `, color:0xff0000}})
+       
     }
     var user = message.mentions.users.first() || message.guild.members.get(args[0])
     if (!user) return message.reply('** :x: MORATE TAGATI USERA :x: **')
