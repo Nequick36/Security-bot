@@ -7,11 +7,13 @@ module.exports.run = async (bot, message, args) => {
     dl.Fetch(message.author.id).then(l => {
     message.channel.send(`<@${message.author.id}>
 **Vi Ste Level:** __${l.level}__ 
-**Vi Imate:** __${l.xp}__ XP-A`)
+**Vi Imate:** __${l.xp}__ **XP-A**`)
   })
   } else {
     dl.Fetch(user.id).then(l => {
-    message.channel.send(`${user.user.tag} is level ${l.level} and has ${l.xp} xp!`)
+    message.channel.send(`<@${user.user.id}> 
+**On je Level:** __${l.level}__ 
+**On Ima:** __${l.xp}__ **XP-A**`)
   })
   }
 
