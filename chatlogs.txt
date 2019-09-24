@@ -10,3 +10,16 @@
 [24.09.2019][07:41:49][biljeske-servera] ⚡ TheVeka ⚡#7740: en!msglb
 [24.09.2019][07:42:59][biljeske-servera] ⚡ TheVeka ⚡#7740: en!
 [24.09.2019][07:42:59][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[24.09.2019][08:00:14][logs] ExtremeCommunity#0316: KIKI#6654 je izasao sa server
+[24.09.2019][08:07:14][〔🤖〕bot-komande] Tigric#2440: en!warns
+[24.09.2019][08:07:14][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669>, ** :x: TAGAJTE USERA KOJEM ZELITE VIDJETI BROJ WARNOVA :x: **
+[24.09.2019][08:07:21][〔🤖〕bot-komande] Tigric#2440: en!warns <@594613819624390669>
+[24.09.2019][08:07:21][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[24.09.2019][08:09:35][〔🤖〕bot-komande] Tigric#2440: en!ban
+[24.09.2019][08:09:35][〔🤖〕bot-komande] ExtremeCommunity#0316: **:x: NEMAS DOZVOLU DA KORISTIS OVU KOMANDU :x:**
+[24.09.2019][08:09:36][〔🤖〕bot-komande] Tigric#2440: en!kick
+[24.09.2019][08:09:36][〔🤖〕bot-komande] ExtremeCommunity#0316: **:x: VI NEMATE DOZVOLU DA KORISTITE OVU KOMANDU :x:**
+[24.09.2019][08:09:37][〔🤖〕bot-komande] Tigric#2440: en!mute
+[24.09.2019][08:09:37][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[24.09.2019][08:09:40][〔🤖〕bot-komande] Tigric#2440: en!tempmute
+[24.09.2019][08:09:40][〔🤖〕bot-komande] ExtremeCommunity#0316: <@594613819624390669>, **:x: VI NEMATE DOZVOLU DA KORISTITE OVU KOMANDU!! :x:**

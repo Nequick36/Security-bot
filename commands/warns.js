@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
     if(!warns[user.id]) warns[user.id] = {}
     if(!warns[user.id].warns) warns[user.id].warns = 0
     if(!warns[user.id].reasons) warns[user.id].reasons = '** :x: TAJ MEMBER NEMA WARNOVA :x: **'
-   if(warns[user.id].warns === 0) return message.channel.send({embed:{description:`:x: **WARNOVI** ${user.user.username} nema warnova.`, color:0xff0000}})
+   if(warns[user.id].warns === 0) return message.channel.send({embed:{description:`:x: **WARNOVI** <@${user.user.id}> nema/nemate warnova.`, color:0xff0000}})
    let reasons = warns[user.id].reasons.split('|!')
    let warnsNum = reasons.length
    let embed = new Discord.RichEmbed()
