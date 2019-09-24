@@ -2,18 +2,25 @@ const Discord = require("discord.js");
 const dl = require('discord-leveling')
 
 module.exports.run = async (bot, message, args) => {
-  let Embed = new Discord.RichEmbed()
+  let user = message.mentions.members.first() || message.guild.members.get(args[0]) || message.member
+  if(!message.mentions.members.first() && !message.guild.members.get(args[0])) {
+    dl.Fetch(message.author.id).then(l => {
+    message.channel.send(`<@${message.author.id}>
+**Vi Ste Level:** __${l.level}__ 
+**Vi Imate:** __${l.xp}__ XP-A`)
+  })
+  } else {
+    dl.Fetch(user.id).then(l => {
+    message.channel.send(`${user.user.tag} is level ${l.level} and has ${l.xp} xp!`)
+  })
+  }
 
-        .addField("Level", `${l.level}`)
-        .addField("Xp", `${l.xp}`)
-        .setFooter(`${message.author.username}`)
-  
-  
-message.channel.send(Embed)
 }
+
 module.exports.help = {
   name: "xp",
-  aliases: ['Xp', 'level'],
+  aliases: ['level'],
+  description: "Checks your Level and Xp.",
   perm: "",
   role: "",
   group:"Leveling"
