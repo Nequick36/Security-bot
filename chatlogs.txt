@@ -106,3 +106,13 @@ Vi Imate 248 XP-A
 [24.09.2019][05:02:14][biljeske-servera] Atlas#2867: You can configure your server at <https://atlasbot.xyz/guilds/534103580920250399>.
 [24.09.2019][05:08:05][biljeske-servera] ⚡ TheVeka ⚡#7740: =dashboard
 [24.09.2019][05:08:05][biljeske-servera] Carl-bot#1536: Check out the dashboard at <https://carl.gg/>
+[24.09.2019][06:28:23][〔💬〕balkan-chat] ⚡ TheVeka ⚡#7740: https://discord.gg/DeUc4mV @everyone
+[24.09.2019][06:28:48][〔💬〕balkan-chat] Joka#5280: maci maci
+[24.09.2019][06:28:53][〔💬〕balkan-chat] Joka#5280: nisam ti ja maci maci
+[24.09.2019][06:35:03][〔🤖〕bot-komande] Tigric#2440: en!addrole <@594613819624390669> Vlasnik
+[24.09.2019][06:35:03][〔🤖〕bot-komande] ExtremeCommunity#0316: Tigric#2440 Upravo ste dobili role: Vlasnik
+[24.09.2019][06:35:19][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: lol
+[24.09.2019][06:35:23][〔🤖〕bot-komande] Tigric#2440: ahhah
+[24.09.2019][06:35:44][〔🤖〕bot-komande] Tigric#2440: en!addrole <@594613819624390669> Developer&Vlasnik
+[24.09.2019][06:35:44][〔🤖〕bot-komande] ExtremeCommunity#0316: Tigric#2440 Upravo ste dobili role: Developer&Vlasnik
+[24.09.2019][06:35:58][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: to more
