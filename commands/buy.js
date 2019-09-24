@@ -84,7 +84,7 @@ eco.FetchBalance(message.author.id).then(User => {
       message.member.addRole(role.id)
     })
   }
-     else if(item === 'VIP' || item === 'VIP') {
+     else if(item === 'vip' || item === 'Vip') {
     let role = message.guild.roles.find(role => role.name === 'VIP')
     let currentRole = message.guild.roles.find(role => role.name === 'VIP')
     if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
@@ -94,7 +94,7 @@ eco.FetchBalance(message.author.id).then(User => {
       message.member.addRole(role.id)
     })
   }
-     else if(item === 'VIP+' || item === 'VIP+') {
+     else if(item === 'Vip+' || item === 'vip+') {
     let role = message.guild.roles.find(role => role.name === 'VIP+')
     let currentRole = message.guild.roles.find(role => role.name === 'VIP+')
     if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
@@ -104,7 +104,7 @@ eco.FetchBalance(message.author.id).then(User => {
       message.member.addRole(role.id)
     })
   }
-     else if(item === 'PREMIUM' || item === 'PREMIUM') {
+     else if(item === 'premium' || item === 'Premium') {
     let role = message.guild.roles.find(role => role.name === 'PREMIUM')
     let currentRole = message.guild.roles.find(role => role.name === 'PREMIUM')
     if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
@@ -156,7 +156,7 @@ eco.FetchBalance(message.author.id).then(User => {
   }
        else if(item === 'Titan' || item === 'titan') {
     let role = message.guild.roles.find(role => role.name === 'Titan')
-    let currentRole = message.guild.roles.find(role => role.name === 'titan')
+    let currentRole = message.guild.roles.find(role => role.name === 'Titan')
     if(message.member.roles.has(currentRole.id)) return message.channel.send("Vec ste kupili taj rank!")
     if(User.balance < 20000) return message.channel.send(`Sorry but you don't have $20000.`)
     eco.SubstractFromBalance(message.author.id, 20000).then(u => {

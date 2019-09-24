@@ -15,7 +15,7 @@ module.exports.run = async (bot, message, args) => {
 
         eco.FetchBalance(user.id).then(x => {
                    eco.SubstractFromBalance(user.id, amount).then(l =>
-                     message.reply(`** Uspjesno ste uklonili korisniku ${user.tag} , ${amount} para`));
+                     message.reply(`** Uspjesno ste uklonili korisniku ${user.tag} **, __${amount}__ **coinsa**`));
                  })
 }
 
