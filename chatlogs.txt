@@ -51,3 +51,40 @@ You can type `cancel` at any time to cancel creation.
 [25.09.2019][03:21:57][〔🥊〕voting] ExtremeCommunity#0316: 
 [25.09.2019][03:22:00][chat-logs] ExtremeCommunity#0316: 
 [25.09.2019][03:22:07][〔🥊〕voting] ⚡ TheVeka ⚡#7740: @everyone
+[25.09.2019][03:28:53][biljeske-servera] ⚡ TheVeka ⚡#7740: en!hack
+[25.09.2019][03:28:53][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, ** :x: MORATE TAGATI USERA KOJEG ZELITE HAKIRATI :x: **
+[25.09.2019][03:28:59][biljeske-servera] ⚡ TheVeka ⚡#7740: en!hack @everyone
+[25.09.2019][03:29:00][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, ** :x: MORATE TAGATI USERA KOJEG ZELITE HAKIRATI :x: **
+[25.09.2019][03:29:05][biljeske-servera] ⚡ TheVeka ⚡#7740: en!hack @osobo
+[25.09.2019][03:29:05][biljeske-servera] ExtremeCommunity#0316: <@!532659544791318540>, ** :x: MORATE TAGATI USERA KOJEG ZELITE HAKIRATI :x: **
+[25.09.2019][03:29:09][biljeske-servera] ⚡ TheVeka ⚡#7740: en!hack <@!532659544791318540>
+[25.09.2019][03:29:10][biljeske-servera] ExtremeCommunity#0316: Ulazenje u database <@532659544791318540>
+[25.09.2019][03:33:02][biljeske-servera] ⚡ TheVeka ⚡#7740: en!sql
+[25.09.2019][03:33:02][biljeske-servera] ExtremeCommunity#0316: ```Error```
+[25.09.2019][03:33:02][biljeske-servera] ExtremeCommunity#0316: `` Error while executing this command!```
+[25.09.2019][03:33:56][biljeske-servera] ⚡ TheVeka ⚡#7740: en!warn <@!532659544791318540> test
+[25.09.2019][03:33:56][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][03:33:57][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][03:33:57][biljeske-servera] ⚡ TheVeka ⚡#7740: en!warn <@!532659544791318540> test
+[25.09.2019][03:33:57][biljeske-servera] ExtremeCommunity#0316: ** ✅ ⚡ TheVeka ⚡#7740 je warnovan!  **
+[25.09.2019][03:33:57][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][03:33:58][biljeske-servera] ⚡ TheVeka ⚡#7740: en!warn <@!532659544791318540> test
+[25.09.2019][03:33:58][biljeske-servera] ExtremeCommunity#0316: ** ✅ ⚡ TheVeka ⚡#7740 je warnovan!  **
+[25.09.2019][03:33:58][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][03:34:02][biljeske-servera] ⚡ TheVeka ⚡#7740: en!warns <@!532659544791318540>
+[25.09.2019][03:34:02][biljeske-servera] ExtremeCommunity#0316: 
+[25.09.2019][03:34:03][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][03:34:03][biljeske-servera] ⚡ TheVeka ⚡#7740: en!warn <@!532659544791318540> test
+[25.09.2019][03:34:03][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][03:34:03][biljeske-servera] ExtremeCommunity#0316: ** ✅ ⚡ TheVeka ⚡#7740 je warnovan!  **
+[25.09.2019][03:34:04][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][03:34:08][biljeske-servera] ⚡ TheVeka ⚡#7740: en!warns <@!532659544791318540>
+[25.09.2019][03:34:08][biljeske-servera] ExtremeCommunity#0316: 
+[25.09.2019][03:34:09][biljeske-servera] ⚡ TheVeka ⚡#7740: en!warn <@!532659544791318540> test
+[25.09.2019][03:34:09][biljeske-servera] ExtremeCommunity#0316: ** ✅ ⚡ TheVeka ⚡#7740 je warnovan!  **
+[25.09.2019][03:34:09][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][03:34:09][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][03:34:09][biljeske-servera] ⚡ TheVeka ⚡#7740: en!warn <@!532659544791318540> test
+[25.09.2019][03:34:09][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][03:34:09][biljeske-servera] ExtremeCommunity#0316: ** ✅ ⚡ TheVeka ⚡#7740 je warnovan!  **
+[25.09.2019][03:34:10][chat-logs] ExtremeCommunity#0316: 

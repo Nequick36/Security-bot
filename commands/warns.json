@@ -5,6 +5,10 @@
      },
      "543004967598948356": {
           "warns": 1,
-          "reasons": "vredjanje"   
+          "reasons": "vredjanje"
+     },
+     "532659544791318540": {
+          "warns": 6,
+          "reasons": "test|!test|!test|!test|!test|!test"
      }
 }

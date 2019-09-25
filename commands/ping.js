@@ -2,7 +2,7 @@ const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
   let ping = bot.ping
-   message.reply(`Pong! Botov ping je ${Math.floor(ping)}ms.`)
+   message.reply(`**Pong**! **Botov ping je** __${Math.floor(ping)}ms__.`)
 }
 
 module.exports.help = {

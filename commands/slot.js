@@ -4,7 +4,7 @@ const eco = require("discord-economy")
 module.exports.run = async (bot, message, args) => {
   let bet = args[0]
   
-  if(!bet) return message.reply('How much do you want to bet?')
+  if(!bet) return message.reply('**__KOLIKO ZELITE ULOZITI COINSA?__**')
   
     let slots = ["🍎", "🍌", "🍒", "🍓", "🍈"];
     let result1 = Math.floor((Math.random() * slots.length));
@@ -18,12 +18,12 @@ module.exports.run = async (bot, message, args) => {
       eco.FetchBalance(message.author.id).then(user => {
     if(user.balance < bet) 
     {
-      return message.reply(`You don't have that much money!`)
+      return message.reply(`**__:x: VI NEMATE TOLIKO NOVCA :x:__**`)
     } else {
      let wEmbed = new Discord.RichEmbed()
             .setFooter("Vi ste Pobjedili!", aicon)
             .setTitle(':slot_machine:Slots:slot_machine:')
-            .addField('Result:', slots[result1] + slots[result2] + slots[result3], true)
+            .addField('Rezulat:', slots[result1] + slots[result2] + slots[result3], true)
             .setColor("GREEN");
         message.channel.send(wEmbed);
       eco.AddToBalance(message.author.id, bet*25).then(user => {
@@ -43,7 +43,7 @@ module.exports.run = async (bot, message, args) => {
       let embed = new Discord.RichEmbed()
             .setFooter('Vi ste izgubili!', aicon)
             .setTitle(':slot_machine:Slots:slot_machine:')
-            .addField('Result', slots[result1] + slots[result2] + slots[result3], true)
+            .addField('Rezulata', slots[result1] + slots[result2] + slots[result3], true)
             .setColor("RED");
       eco.SubstractFromBalance(message.author.id, bet).then(user => {
       })

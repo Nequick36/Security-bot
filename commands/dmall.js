@@ -10,7 +10,7 @@ module.exports.run = async (bot, message, args) => {
   message.guild.members.forEach(member => {
     member.send(Embed)
 })
-  message.channel.send(`Dmall is complete please wait 7 seconds`)
+  message.channel.send(`**__Uspjesno ste poslali poruku svim clanovima servera!__**`)
 }
 module.exports.help = {
   name:"dmall",

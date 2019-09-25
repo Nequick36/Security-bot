@@ -44,7 +44,7 @@ module.exports.run = async (bot, message, args) => {
          .setTimestamp()
      warnChannel.send(WarningInfo)
     if(warns[user.id].warns >= 5) {
-      user.send({embed:{description:`**Vi imate ${warns[user.id].warns} zato ste dobili kick sa servera: ExtremeCommunity**`, color:0xff0000}})
+      user.send({embed:{description:`**Vi imate ${warns[user.id].warns} Warnova zato ste dobili kick sa servera: ExtremeCommunity**`, color:0xff0000}})
      
       message.guild.members.forEach(member => {
         if(member.roles.has(modRole.id)) member.send({embed:{description:`${user.username} ima ${warns[user.id].warns} warnova morate ga kikat komandom en!kick <user> 5 warns!`, color:0xff0000}})
