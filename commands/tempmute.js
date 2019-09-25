@@ -72,7 +72,7 @@ module.exports.help = {
   name: "tempmute",
   aliases: ["tempMute"],
   perm: "MANAGE_MESSAGES",
-  role: "Pristup",
+  role: "EC | Osoblje",
   group: "Admin"
 
 }

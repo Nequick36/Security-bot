@@ -58,8 +58,8 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
     name: "warn",
     aliases: ["Warn"],
-  perm: "MANAGE_MESSAGES",
-  role: "Pristup",
-  group: "admin"
+  perm: "",
+  role: "EC | Osoblje",
+  group: "Staff"
 
 }  
