@@ -1,37 +1,6 @@
-[Wed Sep 25 2019 20:00:35 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!
-[Wed Sep 25 2019 20:00:35 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
-[Wed Sep 25 2019 20:00:40 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!tempmute
-[Wed Sep 25 2019 20:00:40 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: 
-[Wed Sep 25 2019 20:01:00 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!tempmute
-[Wed Sep 25 2019 20:01:00 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: 
-[Wed Sep 25 2019 20:01:08 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: ž
-[Wed Sep 25 2019 20:01:13 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!tempmute
-[Wed Sep 25 2019 20:01:13 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: 
-[Wed Sep 25 2019 20:01:33 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!tempmute
-[Wed Sep 25 2019 20:01:33 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: 
-[Wed Sep 25 2019 20:01:34 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!tempmute
-[Wed Sep 25 2019 20:01:34 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: 
-[Wed Sep 25 2019 20:02:20 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!tempmute
-[Wed Sep 25 2019 20:02:20 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: 
-[Wed Sep 25 2019 20:02:22 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!tempmute
-[Wed Sep 25 2019 20:02:22 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: 
-[Wed Sep 25 2019 20:02:38 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!tempmute
-[Wed Sep 25 2019 20:02:38 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: 
-[Wed Sep 25 2019 20:02:48 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!warn
-[Wed Sep 25 2019 20:02:48 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: <@!532659544791318540>, ** :x: MORATE TAGATI MEMBERA KOJEG ZELITE BANATI :x: **
-[Wed Sep 25 2019 20:03:37 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!tempmute
-[Wed Sep 25 2019 20:03:37 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: 
-[Wed Sep 25 2019 20:03:39 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!tempmute
-[Wed Sep 25 2019 20:03:39 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: 
-[Wed Sep 25 2019 20:04:37 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: if(!message.member.hasPermission("MANAGE_MESSAGES"))
-     {
-   return message.channel.send({embed:{description:`**:x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x:** `, color:0xff0000}})
-[Wed Sep 25 2019 20:04:43 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!tempmute
-[Wed Sep 25 2019 20:04:44 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: 
-[Wed Sep 25 2019 20:04:45 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!tempmute
-[Wed Sep 25 2019 20:04:46 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: 
-[Wed Sep 25 2019 20:15:39 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!tempmute
-[Wed Sep 25 2019 20:15:39 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: <@!532659544791318540>, **_:x: MORATE TAGATI MEMBERA KOJEG ZELITE TEMPMUTATI :x:__**
-[Wed Sep 25 2019 20:38:53 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: en!msgs
-[Wed Sep 25 2019 20:38:53 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ExtremeCommunity: 
-[Wed Sep 25 2019 20:38:56 GMT+0000 (UTC)][ExtremeCommunity | Official Discord Server][biljeske-servera] ⚡ TheVeka ⚡: nojsjsjjss
+[25.09.2019][09:19:13][〔💬〕balkan-chat] Joka#5280: kako da tag everyone i here
+[25.09.2019][09:19:38][〔💬〕balkan-chat] ⚡ TheVeka ⚡#7740: nemogu ludo a napisat bem ti
+[25.09.2019][09:19:43][〔💬〕balkan-chat] ⚡ TheVeka ⚡#7740: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[25.09.2019][09:19:51][〔💬〕balkan-chat] Joka#5280: daj e i here
+[25.09.2019][09:19:57][〔💬〕balkan-chat] ⚡ TheVeka ⚡#7740: fgfdgfdh
+[25.09.2019][09:19:57][〔💬〕balkan-chat] ⚡ TheVeka ⚡#7740: ndfh
