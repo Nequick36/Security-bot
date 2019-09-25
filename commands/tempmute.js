@@ -4,7 +4,7 @@ const ms = require("ms");
 module.exports.run = async (bot, message, args) => {
   let tomute = message.guild.member(message.mentions.users.first() || message.guild.members.get(args[0]));
   if(!message.member.hasPermission("MANAGE_MESSAGES")) return message.reply("**__:x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x:__**")
-  if(!tomute) return message.reply("**_:x: MORATE TAGATI MEMBERA KOJEG ZELITE TEMPMUTATI :x:__**");
+  if(!tomute) return message.reply("**__:x: MORATE TAGATI MEMBERA KOJEG ZELITE TEMPMUTATI :x:__**");
   //if(tomute.hasPermission("MANAGE_MESSAGES")) return message.reply("Can't mute them!");
   let muterole = message.guild.roles.find(`name`, "Extreme | Mute");
 
@@ -53,8 +53,8 @@ module.exports.run = async (bot, message, args) => {
   if(!reason) return message.reply("Upute: en!tempmute <user> <vrijeme> <razlog> ")
   let embed = new Discord.RichEmbed()
   .setTitle(`${tomute.user.username} je tempmutovan`)
-  .addField("Duration", mutetime)
-  .addField("reason", reason)
+  .addField("Vrijeme", mutetime)
+  .addField("razlog muta", reason)
   .setThumbnail(tomute.user.avatarURL)
 
   
