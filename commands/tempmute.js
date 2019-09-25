@@ -30,7 +30,9 @@ module.exports.run = async (bot, message, args) => {
 
           SEND_MESSAGES: false,
 
-          ADD_REACTIONS: false
+          ADD_REACTIONS: false,
+          
+          VIEW_CHANNEL: false
 
         });
 
