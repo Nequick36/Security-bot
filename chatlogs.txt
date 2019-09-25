@@ -5,3 +5,31 @@
 [25.09.2019][02:26:00][〔💬〕balkan-chat] Vedad#5209: ....
 [25.09.2019][02:31:43][ostalo] Faze Terminator#5336: 
 [25.09.2019][02:31:43][logs] ExtremeCommunity#0316: <@399248738125873163> je usao u server
+[25.09.2019][02:43:38][biljeske-servera] ⚡ TheVeka ⚡#7740: en!daily
+[25.09.2019][02:45:59][biljeske-servera] ⚡ TheVeka ⚡#7740: en!
+[25.09.2019][02:45:59][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[25.09.2019][02:46:01][biljeske-servera] ⚡ TheVeka ⚡#7740: en!!!!!!!!!!!
+[25.09.2019][02:46:01][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[25.09.2019][02:47:06][biljeske-servera] ⚡ TheVeka ⚡#7740: g!create
+[25.09.2019][02:47:06][biljeske-servera] GiveawayBot#2381: 🎉 Alright! Let's set up your giveaway! First, what channel do you want the giveaway in?
+You can type `cancel` at any time to cancel creation.
+
+`Please type the name of a channel in this server.`
+[25.09.2019][02:47:09][biljeske-servera] ⚡ TheVeka ⚡#7740: <#619582468076470292>
+[25.09.2019][02:47:10][biljeske-servera] GiveawayBot#2381: 🎉 Sweet! The giveaway will be in <#619582468076470292>! Next, how long should the giveaway last?
+
+`Please enter the duration of the giveaway in seconds.`
+`Alternatively, enter a duration in minutes and include an M at the end, or days and include a D.`
+[25.09.2019][02:47:10][biljeske-servera] ExtremeCommunity#0316: <@532659544791318540> se level-upo na level 53!
+[25.09.2019][02:47:14][biljeske-servera] ⚡ TheVeka ⚡#7740: 5m
+[25.09.2019][02:47:14][biljeske-servera] GiveawayBot#2381: 🎉 Neat! This giveaway will last **5** minutes! Now, how many winners should there be?
+
+`Please enter a number of winners between 1 and 15.`
+[25.09.2019][02:47:15][biljeske-servera] ⚡ TheVeka ⚡#7740: 1
+[25.09.2019][02:47:16][biljeske-servera] GiveawayBot#2381: 🎉 Ok! 1 winner it is! Finally, what do you want to give away?
+
+`Please enter the giveaway prize. This will also begin the giveaway.`
+[25.09.2019][02:47:17][biljeske-servera] ⚡ TheVeka ⚡#7740: a
+[25.09.2019][02:47:17][biljeske-servera] GiveawayBot#2381: <:yay:585696613507399692>   **GIVEAWAY**   <:yay:585696613507399692>
+[25.09.2019][02:47:31][biljeske-servera] ⚡ TheVeka ⚡#7740: g!end
+[25.09.2019][02:47:31][biljeske-servera] GiveawayBot#2381: Congratulations <@532659544791318540>! You won the **a**!
