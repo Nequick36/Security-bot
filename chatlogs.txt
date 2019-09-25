@@ -128,3 +128,24 @@ You can type `cancel` at any time to cancel creation.
 [25.09.2019][04:56:19][chat-logs] ExtremeCommunity#0316: 
 [25.09.2019][05:06:45][testing] ⚡ TheVeka ⚡#7740: <@&619572321698447366>
 [25.09.2019][05:06:48][testing] ⚡ TheVeka ⚡#7740: fak
+[25.09.2019][05:11:45][testing] ⚡ TheVeka ⚡#7740: <@&619572321698447366>
+[25.09.2019][05:13:48][testing] The Mister Man#4953: <@&619572321698447366>
+[25.09.2019][05:15:14][testing] ⚡ TheVeka ⚡#7740: <@&619572321698447366>
+[25.09.2019][05:15:19][testing] ⚡ TheVeka ⚡#7740: <@&619572321698447366>
+[25.09.2019][05:15:44][〔🤖〕bot-komande] The Mister Man#4953: <@&619572321698447366>
+[25.09.2019][05:15:47][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][05:16:13][〔🤖〕bot-komande] The Mister Man#4953: <@&619572321698447366>
+[25.09.2019][05:16:15][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][05:16:43][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: en!warn <@560515595213340693> taganje staffa
+[25.09.2019][05:16:43][〔🤖〕bot-komande] ExtremeCommunity#0316: ** ✅ The Mister Man#4953 je warnovan!  **
+[25.09.2019][05:16:43][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][05:16:43][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][05:19:12][trazim-club] 『👑』Ogภjeภ『👑』#2857: Trazim club za clash royale
+[25.09.2019][05:19:25][fight] 『👑』Ogภjeภ『👑』#2857: pls fight
+[25.09.2019][05:19:25][fight] Dank Memer#6539: you need to provide a valid user ID or name to fight against lol
+[25.09.2019][05:20:55][brawl-stats] 『👑』Ogภjeภ『👑』#2857: .bs brawlers
+[25.09.2019][05:20:56][brawl-stats] MyBrawlStats#4379: 
+[25.09.2019][05:20:59][brawl-stats] 『👑』Ogภjeภ『👑』#2857: .bs event
+[25.09.2019][05:21:00][brawl-stats] MyBrawlStats#4379: 
+[25.09.2019][05:21:00][brawl-stats] MyBrawlStats#4379: 
+[25.09.2019][05:21:05][brawl-stats] 『👑』Ogภjeภ『👑』#2857: .bs events

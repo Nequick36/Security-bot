@@ -111,25 +111,10 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
       message.channel.send(HelpEmbed)
     }
   
-  const Discord = require('discord.js');
-const client = new Discord.Client();
-
-client.on('ready', () => {
-    console.log('Hello, the bot is online!')
-});
-
-client.on('message', message => {
-    if(message.content === '@EC | Osoblje'){
-        message.reply(`** <@${message.author.id}> __NEMOJTE TAGOVATI STAFF AKO NIJE OBAVEZNO!!!__**`);
-      message.delete()
-    }
-    if(message.content === '@Memers'){
-        message.reply(`**___<@${message.author.id}> NEMOJTE TAGOVATI MEMBERE__**`);
-      message.delete()
-    }
-});
-
-client.login('NjEwMTA3NjI1MzgzOTE5NjE2.XVAdGw.ggX0_hTf-k6aAfWZJEILNSo18b0');
+bot.on('message', message => {
+  if(botconfig.badwords.some(word => message.content.toLowerCase().includes(word))){
+    message.delete()
+  }})
   
 })
  fs.readdir("./events/", (err, files) => {
