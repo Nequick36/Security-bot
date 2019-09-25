@@ -126,3 +126,5 @@ You can type `cancel` at any time to cancel creation.
 [25.09.2019][04:56:05][logs] ExtremeCommunity#0316: K O M S I J A#3939 je izasao sa server
 [25.09.2019][04:56:06][chat-logs] ExtremeCommunity#0316: 
 [25.09.2019][04:56:19][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][05:06:45][testing] ⚡ TheVeka ⚡#7740: <@&619572321698447366>
+[25.09.2019][05:06:48][testing] ⚡ TheVeka ⚡#7740: fak
