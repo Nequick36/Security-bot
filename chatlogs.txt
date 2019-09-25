@@ -98,3 +98,4 @@ You can type `cancel` at any time to cancel creation.
 [25.09.2019][03:35:46][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
 [25.09.2019][03:35:53][biljeske-servera] ⚡ TheVeka ⚡#7740: en!help
 [25.09.2019][03:35:53][biljeske-servera] ExtremeCommunity#0316: ⚡ TheVeka ⚡#7740 Pogledajte svoj DM!
+[25.09.2019][03:48:01][biljeske-servera] ⚡ TheVeka ⚡#7740: ✏
