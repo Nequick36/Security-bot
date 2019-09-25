@@ -1,14 +1,14 @@
 {
-     "588041359961882679": {
-          "warns": 1,
-          "reasons": "spam"
-     },
-     "543004967598948356": {
-          "warns": 1,
-          "reasons": "vredjanje"
-     },
-     "532659544791318540": {
-          "warns": 6,
-          "reasons": "test|!test|!test|!test|!test|!test"
-     }
+    "588041359961882679": {
+        "warns": 1,
+        "reasons": "spam"
+    },
+    "543004967598948356": {
+        "warns": 1,
+        "reasons": "vredjanje"
+    },
+    "532659544791318540": {
+        "warns": 0,
+        "reasons": ""
+    }
 }

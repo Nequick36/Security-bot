@@ -88,3 +88,13 @@ You can type `cancel` at any time to cancel creation.
 [25.09.2019][03:34:09][chat-logs] ExtremeCommunity#0316: 
 [25.09.2019][03:34:09][biljeske-servera] ExtremeCommunity#0316: ** ✅ ⚡ TheVeka ⚡#7740 je warnovan!  **
 [25.09.2019][03:34:10][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][03:34:44][biljeske-servera] ⚡ TheVeka ⚡#7740: en!clearwarns
+[25.09.2019][03:34:45][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[25.09.2019][03:34:50][biljeske-servera] ⚡ TheVeka ⚡#7740: en!clearwarn
+[25.09.2019][03:34:50][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[25.09.2019][03:34:58][biljeske-servera] ⚡ TheVeka ⚡#7740: en!resetwarns <@!532659544791318540>
+[25.09.2019][03:34:58][biljeske-servera] ExtremeCommunity#0316: 
+[25.09.2019][03:35:46][biljeske-servera] ⚡ TheVeka ⚡#7740: en!Help
+[25.09.2019][03:35:46][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[25.09.2019][03:35:53][biljeske-servera] ⚡ TheVeka ⚡#7740: en!help
+[25.09.2019][03:35:53][biljeske-servera] ExtremeCommunity#0316: ⚡ TheVeka ⚡#7740 Pogledajte svoj DM!

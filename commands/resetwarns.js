@@ -22,7 +22,7 @@ if(err) console.error(err)
 }
 module.exports.help = {
   name: "resetwarns",
-  aliases: [],
+  aliases: ["Resetwarns", "ResetWarns", "clearwarns", "Clearwarns", "ClearWarns"],
   perm: "ADMINISTRATOR",
   role: "*",
   group:"Developers"
