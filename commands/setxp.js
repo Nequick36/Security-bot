@@ -7,7 +7,7 @@ module.exports.run = async (bot, message, args) => {
   let amount = args[1]
   
   dl.SetXp(user.id, parseInt(amount)).then(l => {
-    message.channel.send(`${user.user.tag} now has ${l.xp} xp!`)
+    message.channel.send(`${user.user.tag} sada ima ${l.xp} xp-a!`)
   })
 }
 

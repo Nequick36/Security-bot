@@ -35,3 +35,19 @@ You can type `cancel` at any time to cancel creation.
 [25.09.2019][02:47:31][biljeske-servera] GiveawayBot#2381: Congratulations <@532659544791318540>! You won the **a**!
 [25.09.2019][02:52:38][biljeske-servera] ⚡ TheVeka ⚡#7740: en!daily
 [25.09.2019][02:52:38][biljeske-servera] ExtremeCommunity#0316: :x: **Vec ste uzeli svoju dnevnu nagradu! da je uzmete ponovo trebate cekati jos:** 0d 9h 7m 21s :x:
+[25.09.2019][03:20:16][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: en!warns <@!532659544791318540>
+[25.09.2019][03:20:16][〔🤖〕bot-komande] ExtremeCommunity#0316: 
+[25.09.2019][03:20:20][〔🤖〕bot-komande] ⚡ TheVeka ⚡#7740: nojs
+[25.09.2019][03:21:14][biljeske-servera] ⚡ TheVeka ⚡#7740: en!ascii najjaci
+[25.09.2019][03:21:14][biljeske-servera] ExtremeCommunity#0316: ```AsciiArt
+               _  _            _ 
+  _ __   __ _ (_)(_) __ _  ___(_)
+ | '_ \ / _` || || |/ _` |/ __| |
+ | | | | (_| || || | (_| | (__| |
+ |_| |_|\__,_|/ |/ |\__,_|\___|_|
+            |__/__/              
+```
+[25.09.2019][03:21:57][〔🥊〕voting] ⚡ TheVeka ⚡#7740: en!vote giveaway?
+[25.09.2019][03:21:57][〔🥊〕voting] ExtremeCommunity#0316: 
+[25.09.2019][03:22:00][chat-logs] ExtremeCommunity#0316: 
+[25.09.2019][03:22:07][〔🥊〕voting] ⚡ TheVeka ⚡#7740: @everyone
