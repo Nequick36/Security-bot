@@ -33,3 +33,5 @@ You can type `cancel` at any time to cancel creation.
 [25.09.2019][02:47:17][biljeske-servera] GiveawayBot#2381: <:yay:585696613507399692>   **GIVEAWAY**   <:yay:585696613507399692>
 [25.09.2019][02:47:31][biljeske-servera] ⚡ TheVeka ⚡#7740: g!end
 [25.09.2019][02:47:31][biljeske-servera] GiveawayBot#2381: Congratulations <@532659544791318540>! You won the **a**!
+[25.09.2019][02:52:38][biljeske-servera] ⚡ TheVeka ⚡#7740: en!daily
+[25.09.2019][02:52:38][biljeske-servera] ExtremeCommunity#0316: :x: **Vec ste uzeli svoju dnevnu nagradu! da je uzmete ponovo trebate cekati jos:** 0d 9h 7m 21s :x:

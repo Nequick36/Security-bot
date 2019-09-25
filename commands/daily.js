@@ -8,7 +8,9 @@ module.exports.run = async (bot, message, args) => {
 
                  eco.FetchBalance(message.author.id).then(x => {
                    eco.AddToBalance(250).then(l =>
-message.reply(`****`));
+message.reply(`**:tada: ___DNEVNA NAGRADA__ :tada:**
+Uzeli ste svoju dnevnu nagradu od 250$ a sada imate ${l.newbalance}
+`));
                  })
 
                } else {
