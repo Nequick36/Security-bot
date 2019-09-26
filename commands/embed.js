@@ -12,7 +12,7 @@ exports.run = async (bot, message, args) => {
     if (!args[0] || !args[1]) {
 
         message.channel.send(new discord.RichEmbed()
-            .setDescription(`Usage: ${bot.prefix}embed <title> || <color> || <text>`)
+            .setDescription(`Upute: ${bot.prefix}embed <title> || <color> || <text>`)
             .setColor(0xff0000)
         )
     } else {
