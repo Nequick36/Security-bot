@@ -139,7 +139,7 @@ bot.on("guildMemberAdd", function (member) {
   let guild = member.guild;
   let channel = member.guild.channels.find(channel => channel.name === 'usao-izasao')//wouldnt it be better w ids?
     channel.sendMessage(`**Dobrodošao** ${member.user.tag}
-<@${member.author.id}> je izašao sa servera **ExtremeCommunity**
+<@${member.author.id}> je ušao sa servera **ExtremeCommunity**
 -Pročitajte <#619572423741931527> i <#619572425155149834>
 -Uživaj u :crown:┇**ExtremeCommunity**
 -I najvažnije **ZABAVITE SE**
@@ -151,7 +151,7 @@ bot.on("guildMemberRemove", function (member) {
      channel.sendMessage(`**Doviđenja** ${member.user.tag}
 <@${member.author.id}> je izašao sa servera **ExtremeCommunity**
 -Nadamo se da je uživao u :crown:┇**ExtremeCommunity**
--Vi ste naš ${member.memberCount}`).catch(console.error);});
+-I sada nas ima ${member.memberCount}`).catch(console.error);});
 bot.on('ready', () => {
     console.log(`${bot.user.username} is online!`)
 
