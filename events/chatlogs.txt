@@ -91,3 +91,6 @@ Vi sada imate :money_with_wings: 96
 [26.09.2019][03:41:16][chat-logs] ExtremeCommunity#0316: 
 [26.09.2019][03:44:33][koliko-sam-glup] Balkanski Gamer YT#9618: en!help
 [26.09.2019][03:44:33][koliko-sam-glup] ExtremeCommunity#0316: Balkanski Gamer YT#9618 Pogledajte svoj DM!
+[26.09.2019][03:56:57][biljeske-servera] ⚡ TheVeka ⚡#7740: en!ticket new
+[26.09.2019][03:56:58][chat-logs] ExtremeCommunity#0316: 
+[26.09.2019][03:56:58][ticket-532659544791318540] ExtremeCommunity#0316: Ćao! <@532659544791318540> Ako vam treba neka pomoc pitajte nas Staff-Team! , Ako vam ni staff-team ne moze odgovorit na pitanje ukucajte en!suggest <pitanje> na vase pitanje ce odgovorit neko iz Vlasnik Tima

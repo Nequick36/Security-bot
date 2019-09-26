@@ -28,7 +28,7 @@ module.exports.run = async (bot, message, args) => {
         var ninethplace = await bot.fetchUser(users[8].userid)
         var tenthplace = await bot.fetchUser(users[9].userid)
  
-        message.channel.send(`My leaderboard:
+        message.channel.send(`Top Balance:
  
 **1** - ${firstplace.tag || 'None'} **|** **Balance** ${users[0].balance} 
 **2** - ${secondplace.tag || 'None'} **|** **Balance** ${users[1].balance} 

@@ -19,7 +19,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
   name: "transfer",
-  aliases: ["pay"],
+  aliases: ["pay", "Pay"],
   perm: "",
   role: "",
   group:"SIMPLE"
