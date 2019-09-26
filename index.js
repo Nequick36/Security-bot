@@ -114,6 +114,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 bot.on('message', message => {
   if(botconfig.badwords.some(word => message.content.toLowerCase().includes(word))){
     message.delete()
+    message.reply(`:x: <@${message.author.id}>  **Molimo vas da korisite latinicu zbog lakse komunikacije**`)
   }})
   
 })
