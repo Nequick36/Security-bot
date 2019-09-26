@@ -134,18 +134,24 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
 	});
 })
 bot.on("guildMemberAdd", function (member) {
-    member.send("DobroDosli na server! Zabavite se i procitaj te pravila i procitajte kanale <#619572423741931527> i <#619572423741931527>")
     let memberRole = member.guild.roles.find(role => role.name === "Members");
     member.addRole(memberRole);
   let guild = member.guild;
-  let channel = member.guild.channels.find(channel => channel.name === 'logs')//wouldnt it be better w ids?
-    channel.sendMessage(` ${member.user} je usao u server`).catch(console.error);
+  let channel = member.guild.channels.find(channel => channel.name === 'usao-izasao')//wouldnt it be better w ids?
+    channel.sendMessage(`**Dobrodošao** ${member.user.tag}
+<@${member.author.id}> je izašao sa servera **ExtremeCommunity**
+-Pročitajte <#619572423741931527> i <#619572425155149834>
+-Uživaj u :crown:┇**ExtremeCommunity**
+-I najvažnije **ZABAVITE SE**
+-Vi ste naš ${member.memberCount}`).catch(console.error);
 });
 bot.on("guildMemberRemove", function (member) {
      let guild = member.guild;
-  let channel = member.guild.channels.find(channel => channel.name === 'logs')
-     channel.sendMessage(`${member.user.tag} je izasao sa server`).catch(console.error);
-});
+  let channel = member.guild.channels.find(channel => channel.name === 'usao-izasao')
+     channel.sendMessage(`**Doviđenja** ${member.user.tag}
+<@${member.author.id}> je izašao sa servera **ExtremeCommunity**
+-Nadamo se da je uživao u :crown:┇**ExtremeCommunity**
+-Vi ste naš ${member.memberCount}`).catch(console.error);});
 bot.on('ready', () => {
     console.log(`${bot.user.username} is online!`)
 
