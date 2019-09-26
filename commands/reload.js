@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
   } catch (err) {
     return message.channel.send(`${err}`)
   }
-  message.channel.send(`Komanda ${commandName} je relodana!`)
+  message.channel.send(`Komanda: ${commandName} je relodana!`)
     }
 
 module.exports.help = {

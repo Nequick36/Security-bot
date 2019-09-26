@@ -1,9 +1,9 @@
 const discord = require("discord.js")
 exports.run = async (bot, message, args) => {
   let Embed = new discord.RichEmbed()
+    let user = message.mentions.members.first() || message.guild.members.get(args[0]) || message.member
   .setColor(0xff0000)
-  
-   .setDescription(`<@${message.author.id}>`)
+   .setDescription(`<@${message.author.id}> Avatar`)
    .setImage(message.author.displayAvatarURL)
 
   message.channel.send(Embed)
