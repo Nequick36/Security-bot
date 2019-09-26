@@ -26,7 +26,7 @@ Vi sada imate :money_with_wings: ${output.balance}`)
 
 module.exports.help = {
   name: "work",
-  aliases: [],
+  aliases: ["Work","poso", "posao", "Poso", "Posao"],
   perm: "",
   role: "",
   group:"Economy"
