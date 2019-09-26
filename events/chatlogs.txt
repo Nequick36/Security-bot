@@ -63,3 +63,5 @@ Vi sada imate :money_with_wings: 300445
 [26.09.2019][07:11:58][posao] ExtremeCommunity#0316: ⚡ TheVeka ⚡ Vi imate **300445**:money_with_wings:
 [26.09.2019][07:46:58][biljeske-servera] ⚡ TheVeka ⚡#7740: en!hack <@!532659544791318540>
 [26.09.2019][07:46:58][biljeske-servera] ExtremeCommunity#0316: __Ulazenje__ u __database__ Korisnika
+[26.09.2019][08:39:23][ostalo] Jastreb [Dino]#4753: 
+[26.09.2019][08:39:23][logs] ExtremeCommunity#0316: <@477090733464223756> je usao u server
