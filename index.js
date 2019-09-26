@@ -66,15 +66,15 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
  if(message.content.toLowerCase().includes("seth is gay")) return message.reply("stfu boi, you do not talk like that about my creator like that")
     if(message.content.toLowerCase().includes("j122 is gay")) return message.reply("psst -> ||dont tell him i told you this but he is gay||")
  if(message.content.toLowerCase().includes("your mom")) return message.reply("Wow, *how orginal*")
-  if(message.content.includes("Љ", "Њ",  "У", "И", "З", "И", "П", "Ш", "Д" ,"Ф" ,"Г", "Л", "Ћ", "Џ", "Ц", "Б" ,"Ђ", "Ж" )) {
+  if(message.content.includes("Љ", "Њ",  "У", "И", "З", "И", "П", "Ш", "Д" ,"Ф" ,"Г", "Л", "Ћ", "Џ", "Ц", "Б" ,"Ђ", "Ж", "љ" ,"њ" , "т", "з", "у" ,"и", "п" ,"ш", "д", "ф", "г", "к" ,"л", "ч" ,"ћ" , "џ", "ц" ,"в" ,"б" ,"н" ,"м" ,"ђ" ,"ж" )) {
     if(message.channel.name === 'logs' || message.channel.name === 'bileskje-servera' || message.channel.name === 'chat-logs'|| message.channel.name === 'suggestions') return;
     else message.delete()
-    message.reply(` :x:  **__Molimo vas da korisite latinicu zbog lakše komunikacije__**`)
+    message.channel.send(`:x: | Pozdrav <@${message.author.id}> **__Molimo vas da korisite latinicu zbog lakše komunikacije__**`)
   }
-    if(message.content.includes("Љ", "Њ",  "У", "И", "З", "И", "П", "Ш", "Д" ,"Ф" ,"Г", "Л", "Ћ", "Џ", "Ц", "Б" ,"Ђ", "Ж" )) {
+    if(message.content.includes("mrs", "Mrs", "Mrš", "mrš", "stoko", "shit", "peder", "jebemti mater", "jebemti", "jebemti boga", "jebemti sunce", "djubre", "govno", "kurac", "picka", "sisa", "cigan", "jebote dan", "guzen")) {
     if(message.channel.name === 'logs' || message.channel.name === 'bileskje-servera' || message.channel.name === 'chat-logs'|| message.channel.name === 'suggestions') return;
     else message.delete()
-    message.reply(`:x: | Pozdrav <@${}> **__Molimo vas da ne korisite ružne rječi__**`)
+    message.channel.send(`:x: | Pozdrav <@${message.author.id}> **__Molimo vas da ne korisite ružne rječi__**`)
   }
   
 
