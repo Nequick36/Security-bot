@@ -1,2 +1,22 @@
 [26.09.2019][08:39:23][ostalo] Jastreb [Dino]#4753: 
 [26.09.2019][08:39:23][logs] ExtremeCommunity#0316: <@477090733464223756> je usao u server
+[26.09.2019][08:40:51][〔💬〕balkan-chat] Jastreb [Dino]#4753: Poz
+[26.09.2019][08:40:59][〔💬〕balkan-chat] ⚡ TheVeka ⚡#7740: uop
+[26.09.2019][08:41:00][〔💬〕balkan-chat] ⚡ TheVeka ⚡#7740: poz
+[26.09.2019][08:41:33][posao] Jastreb [Dino]#4753: en!daily
+[26.09.2019][08:41:50][posao] Jastreb [Dino]#4753: en!work
+[26.09.2019][08:41:51][posao] ExtremeCommunity#0316: Jastreb [Dino]
+Radili ste kao ` Lawyer ` i zaradili ste :money_with_wings: 96
+Vi sada imate :money_with_wings: 96
+[26.09.2019][08:42:07][posao] Jastreb [Dino]#4753: en!daily
+[26.09.2019][08:42:07][posao] ExtremeCommunity#0316: :x: **Vec ste uzeli svoju dnevnu nagradu! da je uzmete ponovo trebate cekati jos:** 0d 15h 17m 52s :x:
+[26.09.2019][08:42:18][posao] ⚡ TheVeka ⚡#7740: en!addbalance <@477090733464223756> 250
+[26.09.2019][08:42:19][posao] ExtremeCommunity#0316: <@!532659544791318540>, You have successfuly added 250 coins to Jastreb [Dino]#4753's account.
+[26.09.2019][08:42:23][posao] ⚡ TheVeka ⚡#7740: eo ti vako dok ne fixam
+[26.09.2019][08:42:36][posao] Jastreb [Dino]#4753: Ok
+[26.09.2019][08:43:08][slots] ⚡ TheVeka ⚡#7740: en!slots
+[26.09.2019][08:43:08][slots] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[26.09.2019][08:43:12][slots] ⚡ TheVeka ⚡#7740: en!slot 5
+[26.09.2019][08:43:12][slots] ExtremeCommunity#0316: 
+[26.09.2019][08:44:33][biljeske-servera] ⚡ TheVeka ⚡#7740: en!daily
+[26.09.2019][08:44:33][biljeske-servera] ExtremeCommunity#0316: :x: **Vec ste uzeli svoju dnevnu nagradu! da je uzmete ponovo trebate cekati jos:** 0d 15h 15m 26s :x:

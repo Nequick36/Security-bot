@@ -23,10 +23,10 @@ module.exports.run = async (bot, message, args) => {
      let wEmbed = new Discord.RichEmbed()
             .setFooter("Vi ste Pobjedili!", aicon)
             .setTitle(':slot_machine:Slots:slot_machine:')
-            .addField('Rezulat:', slots[result1] + slots[result2] + slots[result3], true)
+            .addField('Rezulati:', slots[result1] + slots[result2] + slots[result3], true)
             .setColor("GREEN");
         message.channel.send(wEmbed);
-      eco.AddToBalance(message.author.id, bet*25).then(user => {
+      eco.AddToBalance(message.author.id, bet*10).then(user => {
         
       })
     }
@@ -43,7 +43,7 @@ module.exports.run = async (bot, message, args) => {
       let embed = new Discord.RichEmbed()
             .setFooter('Vi ste izgubili!', aicon)
             .setTitle(':slot_machine:Slots:slot_machine:')
-            .addField('Rezulata', slots[result1] + slots[result2] + slots[result3], true)
+            .addField('Rezulati', slots[result1] + slots[result2] + slots[result3], true)
             .setColor("RED");
       eco.SubstractFromBalance(message.author.id, bet).then(user => {
       })
@@ -56,7 +56,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
   name: "slot",
-  aliases: [],
+  aliases: ["Slot", "slots", "Slots"],
   perm: "",
   role: "",
   group: "economy"
