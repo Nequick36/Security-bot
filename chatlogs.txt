@@ -41,3 +41,5 @@ TypeError: Cannot read property 'id' of undefined
 SyntaxError: Unexpected token <
 ```
 [27.09.2019][06:47:16][chat-logs] ExtremeCommunity#0316: 
+[27.09.2019][06:54:27][biljeske-servera] ⚡ TheVeka ⚡#7740: en!profile
+[27.09.2019][06:55:02][biljeske-servera] ⚡ TheVeka ⚡#7740: en!profile

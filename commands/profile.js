@@ -17,7 +17,7 @@ module.exports.run = async (bot, message, args) => {
             .addField("Usao/la je", joined)
             .addField("Coins", userEco.balance)
             .addField("Roles", role_name)
-            .addField("ID", `${message.user.id}`)
+            .addField("ID", `${user.id}`)
             .setColor(0xFF0000)
             .setTitle(`Profile of ${user.user.username}`)
             .setThumbnail(user.user.avatarURL)
