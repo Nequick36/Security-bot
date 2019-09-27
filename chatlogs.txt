@@ -20,3 +20,24 @@
 [27.09.2019][06:13:35][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
 [27.09.2019][06:13:36][biljeske-servera] ⚡ TheVeka ⚡#7740: en!profile
 [27.09.2019][06:13:37][biljeske-servera] ExtremeCommunity#0316: 
+[27.09.2019][06:43:21][biljeske-servera] ⚡ TheVeka ⚡#7740: en!profile
+[27.09.2019][06:43:29][biljeske-servera] ⚡ TheVeka ⚡#7740: en!profile
+[27.09.2019][06:43:59][biljeske-servera] ⚡ TheVeka ⚡#7740: en!reload profile
+[27.09.2019][06:44:00][biljeske-servera] ExtremeCommunity#0316: Komanda: profile je relodana!
+[27.09.2019][06:44:01][biljeske-servera] ⚡ TheVeka ⚡#7740: en!profile
+[27.09.2019][06:44:39][biljeske-servera] ⚡ TheVeka ⚡#7740: en!profile
+[27.09.2019][06:45:40][biljeske-servera] ⚡ TheVeka ⚡#7740: en!eval message.user.id
+[27.09.2019][06:45:40][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+TypeError: Cannot read property 'id' of undefined
+```
+[27.09.2019][06:45:40][chat-logs] ExtremeCommunity#0316: 
+[27.09.2019][06:45:50][biljeske-servera] ⚡ TheVeka ⚡#7740: en!eval message.guild.author.id
+[27.09.2019][06:45:51][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+TypeError: Cannot read property 'id' of undefined
+```
+[27.09.2019][06:45:51][chat-logs] ExtremeCommunity#0316: 
+[27.09.2019][06:47:16][biljeske-servera] ⚡ TheVeka ⚡#7740: en!eval <@${message.author.id}>
+[27.09.2019][06:47:16][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token <
+```
+[27.09.2019][06:47:16][chat-logs] ExtremeCommunity#0316: 
