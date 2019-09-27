@@ -71,7 +71,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     else message.delete()
     message.channel.send(`:x: | Pozdrav <@${message.author.id}> **__Molimo vas da korisite latinicu zbog lakše komunikacije__**`)
   }
-    if(message.content.includes("mrs", "Mrs", "Mrš", "mrš", "stoko", "shit", "peder", "jebemti mater", "jebemti", "jebemti boga", "jebemti sunce", "djubre", "govno", "kurac", "picka", "sisa", "cigan", "jebote dan", "guzen")) {
+    if(message.content.includes("fak" , "Fak" , "mrs", "Mrs", "Mrš", "mrš", "stoko", "shit", "peder", "jebemti mater", "jebemti", "jebemti boga", "jebemti sunce", "djubre", "govno", "kurac", "picka", "sisa", "cigan", "jebote dan", "guzen")) {
     if(message.channel.name === 'logs' || message.channel.name === 'bileskje-servera' || message.channel.name === 'chat-logs'|| message.channel.name === 'suggestions') return;
     else message.delete()
     message.channel.send(`:x: | Pozdrav <@${message.author.id}> **__Molimo vas da ne korisite ružne rječi__**`)
