@@ -7,3 +7,16 @@
 [27.09.2019][05:21:52][〔💬〕balkan-chat] Profesor.exe#7676: fak
 [27.09.2019][05:21:55][〔💬〕balkan-chat] Profesor.exe#7676: fak yu men
 [27.09.2019][05:22:15][〔💬〕balkan-chat] ⚡ TheVeka ⚡#7740: a xd
+[27.09.2019][06:09:40][biljeske-servera] ⚡ TheVeka ⚡#7740: en!serverinfo
+[27.09.2019][06:10:55][biljeske-servera] ⚡ TheVeka ⚡#7740: en!reload serverinfo
+[27.09.2019][06:10:55][biljeske-servera] ExtremeCommunity#0316: Komanda: serverinfo je relodana!
+[27.09.2019][06:10:57][biljeske-servera] ⚡ TheVeka ⚡#7740: en!serverinfo
+[27.09.2019][06:11:30][biljeske-servera] ⚡ TheVeka ⚡#7740: en!serverinfo
+[27.09.2019][06:12:17][biljeske-servera] ⚡ TheVeka ⚡#7740: en!serverinfo
+[27.09.2019][06:12:17][biljeske-servera] ExtremeCommunity#0316: 
+[27.09.2019][06:13:31][biljeske-servera] ⚡ TheVeka ⚡#7740: en!userin
+[27.09.2019][06:13:31][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[27.09.2019][06:13:34][biljeske-servera] ⚡ TheVeka ⚡#7740: en!userinfo
+[27.09.2019][06:13:35][biljeske-servera] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
+[27.09.2019][06:13:36][biljeske-servera] ⚡ TheVeka ⚡#7740: en!profile
+[27.09.2019][06:13:37][biljeske-servera] ExtremeCommunity#0316: 
