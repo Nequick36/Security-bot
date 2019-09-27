@@ -1,9 +1,9 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
+  message.delete()
   let suggestion = message.content.split(" ").slice(1).join(" ");
        if(!suggestion) return message.reply("** :x: Upute en!suggest <pitanje> :x: **")
-        message.channel.send("**Vase pitanje je prosljedjeno Osoblju odgovoricemo vam u sto brzem roku** " + message.author)
         var suggest = new Discord.RichEmbed()
              .addField("Pitanje", suggestion)
              .setColor(0xFF0000)

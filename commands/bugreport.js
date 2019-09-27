@@ -1,9 +1,9 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
+  message.delete()
   let bug = message.content.split(" ").slice(1).join(" ");
        if(!bug) return message.reply("Upute : en!bugreport <bug>")
-        message.channel.send("**Hvala sto ste nam prijavili Bug** " + message.author)
         var suggest = new Discord.RichEmbed()
              .addField("Bug", bug)
              .setColor(0xFF0000)
