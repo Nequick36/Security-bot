@@ -129,3 +129,9 @@ ReferenceError: client is not defined
 [28.09.2019][10:08:11][koliko-sam-glup] ExtremeCommunity#0316: Ta komanda ne postoji ukucajte en!help da vidite listu komandi
 [28.09.2019][10:08:19][koliko-sam-glup] omerpro#1406: en!glup
 [28.09.2019][10:08:19][koliko-sam-glup] ExtremeCommunity#0316: 
+[28.09.2019][10:10:18][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][10:12:50][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][10:16:31][biljeske-servera] ⚡ TheVeka ⚡#7740: >play dj stojak mix 2018 harmonika
+[28.09.2019][10:16:31][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `dj stojak mix 2018 harmonika`
+[28.09.2019][10:16:32][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][10:16:32][biljeske-servera] Rythm 2#2000: **Playing** 🎶 `BALKAN HARMONIKA MIX 2018 by DJ STOJAK` - Now!
