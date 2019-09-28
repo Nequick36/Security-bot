@@ -66,3 +66,14 @@ ReferenceError: client is not defined
 [28.09.2019][09:00:10][〔🥊〕voting] ⚡ TheVeka ⚡#7740: @everyone
 [28.09.2019][09:00:16][chat-logs] ⚡ TheVeka ⚡#7740: en!clear 100
 [28.09.2019][09:00:16][chat-logs] ExtremeCommunity#0316: 
+[28.09.2019][09:44:28][biljeske-servera] ⚡ TheVeka ⚡#7740: !join
+[28.09.2019][09:44:41][biljeske-servera] ⚡ TheVeka ⚡#7740: >play zove vienna
+[28.09.2019][09:44:41][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `zove vienna`
+[28.09.2019][09:44:41][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:44:41][biljeske-servera] Rythm 2#2000: **Playing** 🎶 `Jala Brat x Buba Corelli x Raf Camora - Zove Vienna` - Now!
+[28.09.2019][09:45:26][biljeske-servera] ⚡ TheVeka ⚡#7740: >play inas da da da
+[28.09.2019][09:45:27][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `inas da da da`
+[28.09.2019][09:45:27][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:45:29][biljeske-servera] ⚡ TheVeka ⚡#7740: >play 99
+[28.09.2019][09:45:29][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `99`
+[28.09.2019][09:45:29][biljeske-servera] Rythm 2#2000: 
