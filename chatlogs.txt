@@ -77,3 +77,47 @@ ReferenceError: client is not defined
 [28.09.2019][09:45:29][biljeske-servera] ⚡ TheVeka ⚡#7740: >play 99
 [28.09.2019][09:45:29][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `99`
 [28.09.2019][09:45:29][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:45:44][biljeske-servera] ⚡ TheVeka ⚡#7740: >play gasira
+[28.09.2019][09:45:44][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `gasira`
+[28.09.2019][09:45:44][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:45:51][biljeske-servera] ⚡ TheVeka ⚡#7740: >p kamikaza
+[28.09.2019][09:45:51][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `kamikaza`
+[28.09.2019][09:45:51][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:45:59][biljeske-servera] ⚡ TheVeka ⚡#7740: >play monika
+[28.09.2019][09:45:59][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `monika`
+[28.09.2019][09:45:59][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:46:01][biljeske-servera] ⚡ TheVeka ⚡#7740: >play petak
+[28.09.2019][09:46:01][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `petak`
+[28.09.2019][09:46:02][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:46:12][biljeske-servera] ⚡ TheVeka ⚡#7740: >q
+[28.09.2019][09:46:12][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:46:17][biljeske-servera] ⚡ TheVeka ⚡#7740: >remove 6
+[28.09.2019][09:46:17][biljeske-servera] Rythm 2#2000: ✅ **Removed** `Gru feat. Del Arno Band - Petak - (Official Video 1997)`
+[28.09.2019][09:46:19][biljeske-servera] ⚡ TheVeka ⚡#7740: >q
+[28.09.2019][09:46:19][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:46:32][biljeske-servera] ⚡ TheVeka ⚡#7740: >play jala brat pekat
+[28.09.2019][09:46:32][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `jala brat pekat`
+[28.09.2019][09:46:32][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:46:48][biljeske-servera] ⚡ TheVeka ⚡#7740: >play jala brat D.O.O.O.O
+[28.09.2019][09:46:48][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `jala brat D.O.O.O.O`
+[28.09.2019][09:46:49][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:47:28][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:47:41][biljeske-servera] ⚡ TheVeka ⚡#7740: >p jala brat balenciaga
+[28.09.2019][09:47:42][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `jala brat balenciaga`
+[28.09.2019][09:47:42][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:47:45][biljeske-servera] ⚡ TheVeka ⚡#7740: >p ona'e
+[28.09.2019][09:47:45][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `ona'e`
+[28.09.2019][09:47:46][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:47:50][biljeske-servera] ⚡ TheVeka ⚡#7740: >p bebi
+[28.09.2019][09:47:50][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `bebi`
+[28.09.2019][09:47:50][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:47:53][biljeske-servera] ⚡ TheVeka ⚡#7740: >q
+[28.09.2019][09:47:53][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:47:57][biljeske-servera] ⚡ TheVeka ⚡#7740: nojs
+[28.09.2019][09:47:58][biljeske-servera] ⚡ TheVeka ⚡#7740: s
+[28.09.2019][09:50:33][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:53:18][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:56:03][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][09:56:22][biljeske-servera] ⚡ TheVeka ⚡#7740: >l
+[28.09.2019][09:56:22][biljeske-servera] Rythm 2#2000: 🔍 **Searching lyrics for ** `Jala Brat x Buba Corelli x Senidah  KAMIKAZA`
+[28.09.2019][09:56:26][biljeske-servera] ⚡ TheVeka ⚡#7740: e to
