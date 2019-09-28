@@ -135,3 +135,17 @@ ReferenceError: client is not defined
 [28.09.2019][10:16:31][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `dj stojak mix 2018 harmonika`
 [28.09.2019][10:16:32][biljeske-servera] Rythm 2#2000: 
 [28.09.2019][10:16:32][biljeske-servera] Rythm 2#2000: **Playing** 🎶 `BALKAN HARMONIKA MIX 2018 by DJ STOJAK` - Now!
+[28.09.2019][10:39:15][biljeske-servera] ⚡ TheVeka ⚡#7740: >play djesi ruzo kurvetino stara
+[28.09.2019][10:39:15][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `djesi ruzo kurvetino stara`
+[28.09.2019][10:39:16][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][10:39:16][biljeske-servera] Rythm 2#2000: **Playing** 🎶 `ZOKA BOSANAC - DjE SI RUZO KURVETINO STARA ( 4К Official Video)` - Now!
+[28.09.2019][10:42:34][biljeske-servera] ⚡ TheVeka ⚡#7740: >play dj stojke mix 2019
+[28.09.2019][10:42:35][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `dj stojke mix 2019`
+[28.09.2019][10:42:35][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][10:42:36][biljeske-servera] Rythm 2#2000: **Playing** 🎶 `BALKAN PARTY MIX 2019 (DJ STOJAK)` - Now!
+[28.09.2019][10:42:52][biljeske-servera] ⚡ TheVeka ⚡#7740: >s
+[28.09.2019][10:42:53][biljeske-servera] Rythm 2#2000: ⏩ ***Skipped*** 👍
+[28.09.2019][10:43:27][biljeske-servera] ⚡ TheVeka ⚡#7740: >play https://www.youtube.com/watch?v=7x69GcD2tzY
+[28.09.2019][10:43:27][biljeske-servera] Rythm 2#2000: <:youtube:335112740957978625> **Searching** 🔎 `https://www.youtube.com/watch?v=7x69GcD2tzY`
+[28.09.2019][10:43:28][biljeske-servera] Rythm 2#2000: 
+[28.09.2019][10:43:28][biljeske-servera] Rythm 2#2000: **Playing** 🎶 `BALKAN SUMMER MIX 2019 by DJ STOJAK` - Now!
