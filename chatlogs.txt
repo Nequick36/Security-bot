@@ -60,3 +60,9 @@ ReferenceError: client is not defined
 ```
 [28.09.2019][08:36:15][biljeske-servera] ⚡ TheVeka ⚡#7740: en!botinfo
 [28.09.2019][08:36:15][biljeske-servera] ExtremeCommunity#0316: 
+[28.09.2019][09:00:05][〔🥊〕voting] ⚡ TheVeka ⚡#7740: en!vote da li da dodamo komandu na botu en!private i kada je ukucate napravi vam se vas privatni voice channel
+[28.09.2019][09:00:05][〔🥊〕voting] ExtremeCommunity#0316: 
+[28.09.2019][09:00:08][chat-logs] ExtremeCommunity#0316: 
+[28.09.2019][09:00:10][〔🥊〕voting] ⚡ TheVeka ⚡#7740: @everyone
+[28.09.2019][09:00:16][chat-logs] ⚡ TheVeka ⚡#7740: en!clear 100
+[28.09.2019][09:00:16][chat-logs] ExtremeCommunity#0316: 
