@@ -43,3 +43,18 @@ SyntaxError: Unexpected token <
 [27.09.2019][06:47:16][chat-logs] ExtremeCommunity#0316: 
 [27.09.2019][06:54:27][biljeske-servera] ⚡ TheVeka ⚡#7740: en!profile
 [27.09.2019][06:55:02][biljeske-servera] ⚡ TheVeka ⚡#7740: en!profile
+[28.09.2019][08:16:36][biljeske-servera] ⚡ TheVeka ⚡#7740: en!eval ${client.guilds.size}
+[28.09.2019][08:16:36][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+SyntaxError: Unexpected token {
+```
+[28.09.2019][08:16:36][chat-logs] ExtremeCommunity#0316: 
+[28.09.2019][08:16:45][biljeske-servera] ⚡ TheVeka ⚡#7740: en!eval client.guilds.size
+[28.09.2019][08:16:45][biljeske-servera] ExtremeCommunity#0316: `ERROR` ```xl
+ReferenceError: client is not defined
+```
+[28.09.2019][08:16:45][chat-logs] ExtremeCommunity#0316: 
+[28.09.2019][08:17:00][biljeske-servera] ⚡ TheVeka ⚡#7740: en!eval bot.guilds.size
+[28.09.2019][08:17:01][chat-logs] ExtremeCommunity#0316: 
+[28.09.2019][08:17:01][biljeske-servera] ExtremeCommunity#0316: ```xl
+1
+```
