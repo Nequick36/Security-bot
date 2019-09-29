@@ -31,10 +31,10 @@ module.exports.run = async (bot, message, args) => {
  
         message.channel.send(`**Level LeaderBoard**:
  
-1 - ${firstplace.tag || 'None'} | level ${users[0].level || 'None'} | ${users[0].xp || 'None'} xp
-2 - ${secondplace.tag || 'None'} | level ${users[1].level || 'None'} | ${users[1].xp || 'None'} xp
-3 - ${thirdplace.tag || 'None'} | level ${users[2].level || 'None'} | ${users[2].xp || 'None'} xp
-4 - ${fourthplace.tag || 'None'} | level ${users[3].level || 'None'} | ${users[3].xp || 'None'} xp
+1 - ${firstplace.tag || 'None'} | **Level** ${users[0].level || 'None'} | ${users[0].xp || 'None'} xp
+2 - ${secondplace.tag || 'None'} | **Level** ${users[1].level || 'None'} | ${users[1].xp || 'None'} xp
+3 - ${thirdplace.tag || 'None'} | **Level** ${users[2].level || 'None'} | ${users[2].xp || 'None'} xp
+4 - ${fourthplace.tag || 'None'} | l**Levevel ${users[3].level || 'None'} | ${users[3].xp || 'None'} xp
 5 - ${fifthplace.tag || 'None'} | level ${users[4].level || 'None'} | ${users[4].xp || 'None'} xp
 6 - ${sixthplace.tag || 'None'} | level ${users[5].level || 'None'} | ${users[5].xp || 'None'} xp
 7 - ${seventhplace.tag || 'None'} | level ${users[6].level || 'None'} | ${users[6].xp || 'None'} xp
