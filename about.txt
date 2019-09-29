@@ -1,6 +1,0 @@
-Discord bot for ExtremeCommuniry server(https://discord.gg/EwbfEmj)
-
-Libary: Discord.js
-Credits:
-Bot made with: Virtual studio code
-Bot made by Veka

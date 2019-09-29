@@ -66,16 +66,6 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
  if(message.content.toLowerCase().includes("seth is gay")) return message.reply("stfu boi, you do not talk like that about my creator like that")
     if(message.content.toLowerCase().includes("j122 is gay")) return message.reply("psst -> ||dont tell him i told you this but he is gay||")
  if(message.content.toLowerCase().includes("your mom")) return message.reply("Wow, *how orginal*")
-  if(message.content.includes("Љ", "Њ",  "У", "И", "З", "И", "П", "Ш", "Д" ,"Ф" ,"Г", "Л", "Ћ", "Џ", "Ц", "Б" ,"Ђ", "Ж", "љ" ,"њ" , "т", "з", "у" ,"и", "п" ,"ш", "д", "ф", "г", "к" ,"л", "ч" ,"ћ" , "џ", "ц" ,"в" ,"б" ,"н" ,"м" ,"ђ" ,"ж" )) {
-    if(message.channel.name === 'logs' || message.channel.name === 'bileskje-servera' || message.channel.name === 'chat-logs'|| message.channel.name === 'suggestions') return;
-    else message.delete()
-    message.channel.send(`:x: | Pozdrav <@${message.author.id}> **__Molimo vas da korisite latinicu zbog lakše komunikacije__**`)
-  }
-    if(message.content.includes("fak" , "Fak" , "mrs", "Mrs", "Mrš", "mrš", "stoko", "shit", "peder", "jebemti mater", "jebemti", "jebemti boga", "jebemti sunce", "djubre", "govno", "kurac", "picka", "sisa", "cigan", "jebote dan", "guzen")) {
-    if(message.channel.name === 'logs' || message.channel.name === 'bileskje-servera' || message.channel.name === 'chat-logs'|| message.channel.name === 'suggestions') return;
-    else message.delete()
-    message.channel.send(`:x: | Pozdrav <@${message.author.id}> **__Molimo vas da ne korisite ružne rječi__**`)
-  }
   
 
     let prefix = botconfig.prefix;
@@ -97,7 +87,7 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
       else message.channel.send(`Ta komanda ne postoji ukucajte en!help da vidite listu komandi`)
       }
    
-    if(cmd === `${prefix}help`) {
+    if(cmd === `${prefix}gfdghefdgldfdgsfdsgp`) {
       if(!args[0])  {
         message.author.send(`https://extremecommunitybot.glitch.me/help`)
         message.channel.send(`${message.author.tag} Pogledajte svoj DM!`)
@@ -133,25 +123,6 @@ if(message.content.toLowerCase().includes("suck one")) return message.reply("Tha
     console.log(`${file} Loaded!`)
 	});
 })
-bot.on("guildMemberAdd", function (member) {
-    let memberRole = member.guild.roles.find(role => role.name === "Members");
-    member.addRole(memberRole);
-  let guild = member.guild;
-  let channel = member.guild.channels.find(channel => channel.name === 'usao-izasao')//wouldnt it be better w ids?
-    channel.sendMessage(`**Dobrodošao** ${member.user.tag}
-<@${member.author.id}> je ušao sa servera **ExtremeCommunity**
--Pročitajte <#619572423741931527> i <#619572425155149834>
--Uživaj u :crown:┇**ExtremeCommunity**
--I najvažnije **ZABAVITE SE**
--Vi ste naš ${member.memberCount}`).catch(console.error);
-});
-bot.on("guildMemberRemove", function (member) {
-     let guild = member.guild;
-  let channel = member.guild.channels.find(channel => channel.name === 'usao-izasao')
-     channel.sendMessage(`**Doviđenja** ${member.user.tag}
-<@${member.author.id}> je izašao sa servera **ExtremeCommunity**
--Nadamo se da je uživao u :crown:┇**ExtremeCommunity**
--I sada nas ima ${member.memberCount}`).catch(console.error);});
 bot.on('ready', () => {
     console.log(`${bot.user.username} is online!`)
 
