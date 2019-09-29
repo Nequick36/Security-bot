@@ -31,16 +31,16 @@ module.exports.run = async (bot, message, args) => {
  
         message.channel.send(`**Level LeaderBoard**:
  
-1 - ${firstplace.tag || 'None'} | **Level** ${users[0].level || 'None'} | ${users[0].xp || 'None'} xp
-2 - ${secondplace.tag || 'None'} | **Level** ${users[1].level || 'None'} | ${users[1].xp || 'None'} xp
-3 - ${thirdplace.tag || 'None'} | **Level** ${users[2].level || 'None'} | ${users[2].xp || 'None'} xp
-4 - ${fourthplace.tag || 'None'} | l**Levevel ${users[3].level || 'None'} | ${users[3].xp || 'None'} xp
-5 - ${fifthplace.tag || 'None'} | level ${users[4].level || 'None'} | ${users[4].xp || 'None'} xp
-6 - ${sixthplace.tag || 'None'} | level ${users[5].level || 'None'} | ${users[5].xp || 'None'} xp
-7 - ${seventhplace.tag || 'None'} | level ${users[6].level || 'None'} | ${users[6].xp || 'None'} xp
-8 - ${eigthplace.tag || 'None'} | level ${users[7].level || 'None'} | ${users[7].xp || 'None'} xp
-9 - ${ninethplace.tag || 'None'} | level ${users[8].level || 'None'} | ${users[8].xp || 'None'} xp
-10 - ${tenthplace.tag || 'None'} | level ${users[9].level || 'None'} | ${users[9].xp || 'None'} xp`) 
+1 - ${firstplace.tag || 'None'} | **Level** ${users[0].level || 'None'} | ${users[0].xp || 'None'} **Xp**
+2 - ${secondplace.tag || 'None'} | **Level** ${users[1].level || 'None'} | ${users[1].xp || 'None'} **Xp**
+3 - ${thirdplace.tag || 'None'} | **Level** ${users[2].level || 'None'} | ${users[2].xp || 'None'} **Xp**
+4 - ${fourthplace.tag || 'None'} | **Level** ${users[3].level || 'None'} | ${users[3].xp || 'None'} **Xp**
+5 - ${fifthplace.tag || 'None'} | **Level** ${users[4].level || 'None'} | ${users[4].xp || 'None'} **Xp**
+6 - ${sixthplace.tag || 'None'} | **Level** ${users[5].level || 'None'} | ${users[5].xp || 'None'} **Xp**
+7 - ${seventhplace.tag || 'None'} | **Level** ${users[6].level || 'None'} | ${users[6].xp || 'None'} **Xp**
+8 - ${eigthplace.tag || 'None'} | **Level** ${users[7].level || 'None'} | ${users[7].xp || 'None'} **Xp**
+9 - ${ninethplace.tag || 'None'} | **Level** ${users[8].level || 'None'} | ${users[8].xp || 'None'} **Xp**
+10 - ${tenthplace.tag || 'None'} | **Level** ${users[9].level || 'None'} | ${users[9].xp || 'None'} **Xp**`) 
 
       })
  
