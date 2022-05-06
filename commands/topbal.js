@@ -17,9 +17,9 @@ module.exports.run = async (bot, message, args) => {
         limit: 10
       }).then(async users => { //make sure it is async
  
-        var firstplace = await bot.fetchUser(users[0].userid) //Searches for the user object in discord for first place
-        var secondplace = await bot.fetchUser(users[1].userid) //Searches for the user object in discord for second place
-        var thirdplace = await bot.fetchUser(users[2].userid) //Searches for the user object in discord for third place
+        var firstplace = await bot.fetchUser(users[0].userid) 
+        var secondplace = await bot.fetchUser(users[1].userid)
+        var thirdplace = await bot.fetchUser(users[2].userid) 
         var fourthplace = await bot.fetchUser(users[3].userid)
         var fifthplace = await bot.fetchUser(users[4].userid)
         var sixthplace = await bot.fetchUser(users[5].userid)
