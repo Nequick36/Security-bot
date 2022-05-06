@@ -4,14 +4,74 @@ module.exports.run = async (bot, message, args) => {
   //message.channel.send("This command is still a work in progress!")
   var user = message.mentions.users.first()
     var amount = args[1]
-    if(isNaN(amount)) return message.reply('** :x: STAVITE VAZECI BROJ :x: **')
- if(message.author.id === user.id) return message.channel.send("** :x: NE MOZETE SEBI POSLATI NOVAC :x: **")
-    if (!user) return message.reply('** :x: NE MOZES SAM SEBI POSLATI NOVAC :x: **')
-    if (!amount) return message.reply('** :x: VI NEMATE TOLIKO NOVCA :x: **')
+      
+    let embed3 = new Discord.RichEmbed()
+.setColor("RED")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField(":x:» Pogreška", "Morate Tagovati Osobu Kojoj Želite Poslati Novac")
+ .addField("✅» Korišćenje", ".pay @User#1991 100")
   
+    if (!user) return message.channel.send(embed3)
+    
+        let embed = new Discord.RichEmbed()
+.setColor("RED")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField(":x:» Pogreška", "Morate Dodati Iznos Novca Za Transfer")
+ .addField("✅» Korišćenje", ".pay @User#1991 100")
+        
+    if(isNaN(amount)) return message.channel.send(embed)
+  
+        let embed2 = new Discord.RichEmbed()
+.setColor("RED")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField(":x:» Pogreška", "Ne Možete Sebi Poslati Novac")
+ .addField("✅» Korišćenje", ".pay @User#1991 100")
+        
+ if(message.author.id === user.id) return message.channel.send(embed2)
+  
+    let embed4 = new Discord.RichEmbed()
+.setColor("RED")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField(":x:» Pogreška", "Nemate Toliko Novca")
+ .addField(":CheckMark:» Korišćenje", ".pay @User#1991 100")
+  
+    if (!amount) return message.channel.send(embed4)
  
     var output = await eco.FetchBalance(message.author.id)
-    if (output.balance < amount) return message.reply('**:x: VI NEMATE TOLIKO NOVCA :x:**')
+        let embed5 = new Discord.RichEmbed()
+.setColor("RED")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField(":x:» Pogreška", "Nemate Toliko Novca")
+ .addField(":CheckMark:» Korišćenje", ".pay @User#1991 100")
+    if (output.balance < amount) return message.channel.send(embed5)
  
+          let embed6 = new Discord.RichEmbed()
+.setColor("RED")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField(":x:» Pogreška", "Nemate Toliko Novca")
+ .addField(":CheckMark:» Korišćenje", ".pay @User#1991 100")
+          
     var transfer = await eco.Transfer(message.author.id, user.id, amount)
-    message.reply(`Uspjesno ste poslali novac!\nBalance od ${message.author.tag}: ${transfer.FromUser}\nBalance od ${user.tag}: ${transfer.ToUser}`);
+    let embed7 = new Discord.RichEmbed()
+          .setColor("GREEN")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField("✅» Uspješno", "Uspješno ste poslali novac")
+ .addField(`🪙» Trenutno Stanje: <@{` + message.author.id + `}>`, `${transfer.FromUser}`)
+ .addField(`🪙» Trenutno Stanje: <@{` + user.id + `@>, `${transfer.ToUser}`)
+    message.channel.send(embed7)
+}
+
+module.exports.help = {
+  name: "transfer",
+  aliases: ["pay", "Pay", "Transfer"],
+  perm: "",
+  role: "",
+  group:"SIMPLE"
+}
