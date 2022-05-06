@@ -10,7 +10,6 @@ module.exports.run = async (bot, message, args) => {
       })
       message.channel.send(`The user ${message.mentions.users.first().tag} is number ${output.placement} on my leaderboard!`);
  
-      //Searches for the top 3 and outputs it to the user.
     } else {
  
       eco.Leaderboard({
@@ -26,21 +25,25 @@ module.exports.run = async (bot, message, args) => {
         var seventhplace = await bot.fetchUser(users[6].userid)
         var eigthplace = await bot.fetchUser(users[7].userid)
         var ninethplace = await bot.fetchUser(users[8].userid)
-        var tenthplace = await bot.fetchUser("" || users[9].userid)
- 
-        message.channel.send(`Top Balance:
- 
-**1** - ${firstplace.tag || 'None'} **|** **Balance** ${users[0].balance || "0"} 
-**2** - ${secondplace.tag || 'None'} **|** **Balance** ${users[1].balance || "0"} 
-**3** - ${thirdplace.tag || 'None'} **|** **Balance** ${users[2].balance || "0"} 
-**4** - ${fourthplace.tag || 'None'} **|** **Balance** ${users[3].balance || "0"} 
-**5** - ${fifthplace.tag || 'None'} **|** **Balance** ${users[4].balance || "0"} 
-**6** - ${sixthplace.tag || 'None'} **|** **Balance** ${users[5].balance || "0"} 
-**7** - ${seventhplace.tag || 'None'} **|** **Balance** ${users[6].balance || "0"} 
-**8** - ${eigthplace.tag || 'None'} **|** **Balance** ${users[7].balance || "0"} 
-**9** - ${ninethplace.tag || 'None'} **|** **Balance** ${users[8].balance || "0"} 
-**10** - ${tenthplace.tag || 'None'} **|** **Balance** ${users[9].balance || "0"}`)
+        var tenthplace = await bot.fetchUser(users[9].userid)
 
+        
+let embed3 = new Discord.RichEmbed()
+  .setColor("GREEN")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .addField(`1️⃣» ${firstplace.tag || 'None'} **|** ${users[0].balance || "0"} `, 
+            `2️⃣» ${secondplace.tag || 'None'} **|** ${users[1].balance || "0"} `)
+  .addField(`3️⃣» ${thirdplace.tag || 'None'} **|** ${users[2].balance || "0"} `, 
+            `4️⃣» ${fourthplace.tag || 'None'} **|** ${users[3].balance || "0"} `)
+  .addField(`5️⃣» ${fifthplace.tag || 'None'} **|** ${users[4].balance || "0"} `, 
+            `6️⃣» ${sixthplace.tag || 'None'} **|** ${users[5].balance || "0"} `)
+  .addField(`7️⃣» ${seventhplace.tag || 'None'} **|** ${users[6].balance || "0"} `,
+            `8️⃣» ${eigthplace.tag || 'None'} **|** ${users[7].balance || "0"} `)
+  .addField(`9️⃣» ${ninethplace.tag || 'None'} **|** ${users[8].balance || "0"} `, 
+            `🔟» ${tenthplace.tag || 'None'} **|** ${users[9].balance || "0"}`)
+        message.channel.send(embed3)
+                                                          
       })
  
     }
