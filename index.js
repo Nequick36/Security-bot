@@ -60,15 +60,8 @@ fs.readdir("./commands", (err, files) => {
   <b>Bot made by ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740</b><br>`
 });
 bot.on("message", message => {
-    if(message.channel.type === "dm") return;
     if(message.author.bot) return;
-if(message.content.toLowerCase().includes("suck one")) return message.reply("Thats the best you got? LOL how pathetic.")
- if(message.content.toLowerCase().includes("seth is gay")) return message.reply("stfu boi, you do not talk like that about my creator like that")
-    if(message.content.toLowerCase().includes("j122 is gay")) return message.reply("psst -> ||dont tell him i told you this but he is gay||")
- if(message.content.toLowerCase().includes("your mom")) return message.reply("Wow, *how orginal*")
-  
-
-    let prefix = botconfig.prefix;
+  let prefix = botconfig.prefix;
     let messageArray = message.content.split(" ")
     let cmd = messageArray[0]
     let args = messageArray.slice(1);
@@ -120,7 +113,7 @@ bot.on('ready', () => {
     bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
-            name: 'en!help',
+            name: 'rtv.czvvesti.gq',
             type: "WATCHING",
         }
     })
