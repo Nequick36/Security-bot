@@ -128,4 +128,4 @@ bot.on('ready', () => {
 
 
 
-bot.login(process.env.TOKEN)
+bot.login("OTcyMDk4MzMwMTI3NjM4NTU4.YnUHHg.co0gx7qYOdDsoPfMC4cHNOBlfUY")

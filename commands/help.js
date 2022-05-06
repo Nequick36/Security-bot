@@ -13,8 +13,9 @@ module.exports.run = async (bot, message, args) => {
           .addField("slot", "**__ SLOTS __**")
           .addField("topbal", "**__ TOPBALANCE __**")
           .addField("work", "**__ WORK __**")
+        message.channel.send(embed)
 }
 module.exports.help = {
-name: "shop",
-aliases: ["Shop"]
+name: "help",
+aliases: ["pomoc"]
 }
