@@ -40,8 +40,8 @@ module.exports.run = async (bot, message, args) => {
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField("⚒» Radili ste kao", output.job)
- .addField("💳» Zaradili ste", output.earned) 
- .addField("💰» Trenutno", output.balance)
+ .addField("💳» Zaradili ste", output.earned + " <:Bitcoin:971362942924783616>") 
+ .addField("💰» Trenutno", output.balance + " <:Bitcoin:971362942924783616>")
                                                           
                      message.channel.send(embed3)
 

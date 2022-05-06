@@ -11,7 +11,7 @@ module.exports.run = async (bot, message, args) => {
    .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
    .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
    .addField("👤» Korisnik", `<@${user.id}>`)
-   .addField("💰» Trenutno", x.balance)
+   .addField("💰» Trenutno", x.balance + " <:Bitcoin:971362942924783616>")
    .setThumbnail(user.displayAvatarURL)
     return message.channel.send(embed);
 

@@ -2,13 +2,24 @@ const Discord = require("discord.js")
 const eco = require("discord-economy")
 
 module.exports.run = async (bot, message, args) => {
-      if(!message.member.hasPermission("ADMINISTRATOR")) return message.reply("** :x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU :x: **")
+  const embed5 = new Discord.RichEmbed()
+            .setColor("RED")
+   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+   .addField(":x:» Permisije", `Vi nemate dozvolu da koristite ovu komandu`)
+   .setThumbnail(user.displayAvatarURL)
+        if(!message.member.hasPermission("ADMINISTRATOR")) return message.channel.send(embed5);
+  
   let amount = message.content.split(" ").slice(2).join(" ");
-        if (!message.member.hasPermission("ADMINISTRATOR"))
-        {
-          return message.reply("** :x: VI NEMATE DOZVOLU DA KORISITE OVU KOMANDU! :x: **")
-        }
-       if (!amount) return message.reply("** :x: MORATE STAVITI KOLIKO ZELITE DA UKLONITE PARA KORISNIKU :x: **");
+  const embed = new Discord.RichEmbed()
+            .setColor("RED")
+   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField(":x:» Pogreška", "Morate Tagovati Korisnika Kojem Želite Ukloniti Novac")
+ .addField("✅» Korišćenje", ".removebal @User#1991 100")
+  .setThumbnail(user.displayAvatarURL)
+  
+       if (!amount) return message.channel.send("** :x: MORATE STAVITI KOLIKO ZELITE DA UKLONITE PARA KORISNIKU :x: **");
         var user = message.mentions.users.first() || message.guild.members.get(args[0])
          if (!user) return message.reply('** :x: MORATE TAGATI USERA :x: **')
 

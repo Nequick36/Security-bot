@@ -63,8 +63,8 @@ module.exports.run = async (bot, message, args) => {
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField("✅» Uspješno", "Uspješno ste poslali novac")
- .addField(`🪙» Trenutno Stanje: ${message.author.tag}`, `${transfer.FromUser}`)
- .addField(`🪙» Trenutno Stanje: ${user.tag}`, `${transfer.ToUser}`)
+ .addField(`🪙» Trenutno Stanje: ${message.author.tag}`, `${transfer.FromUser}` + " <:Bitcoin:971362942924783616>")
+ .addField(`🪙» Trenutno Stanje: ${user.tag}`, `${transfer.ToUser}` + " <:Bitcoin:971362942924783616>")
     message.channel.send(embed7)
 }
 
