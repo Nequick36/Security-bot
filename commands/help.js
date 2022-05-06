@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
-        let embed = new Discord.RichEmbed()
+ let embed = new Discord.RichEmbed()
   
   .addField("addbalance", "**__ ADDBALANCE __**")
           .addField("balance", "**__ BAL __**")
