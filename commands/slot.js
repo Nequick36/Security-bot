@@ -2,9 +2,17 @@ const Discord = require("discord.js")
 const eco = require("discord-economy")
 
 module.exports.run = async (bot, message, args) => {
+          eco.FetchBalance(message.author.id).then(x => {
   let bet = args[0]
   
-  if(!bet) return message.reply('**__KOLIKO ZELITE ULOZITI COINSA?__**')
+            const embed = new Discord.RichEmbed()
+            .setColor("RED")
+   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField(":x:» Pogreška", "Morate staviti sumu u koju se želite kockati")
+ .addField("✅» Korišćenje", ".slot 100")
+  
+  if(!bet) return message.channel.send(embed)
   
     let slots = ["🍎", "🍌", "🍒", "🍓", "🍈", "🍋", "🍉"];
     let result1 = Math.floor((Math.random() * slots.length));
@@ -18,17 +26,25 @@ module.exports.run = async (bot, message, args) => {
       eco.FetchBalance(message.author.id).then(user => {
     if(user.balance < bet) 
     {
-      return message.reply(`**__:x: VI NEMATE TOLIKO NOVCA :x:__**`)
+                  const embed2 = new Discord.RichEmbed()
+            .setColor("RED")
+   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField(":x:» Pogreška", "Nemate dovoljno novca")
+ .addField("💰» Trenutno Stanje", x.balance + " <:Bitcoin:971362942924783616>")
+ .addField("✅» Korišćenje", ".slot 100")
+      return message.channel.send(embed2)
     } else {
-     let wEmbed = new Discord.RichEmbed()
-            .setFooter("Vi ste Pobjedili!", aicon)
-            .setTitle(':slot_machine:Slots:slot_machine:')
-            .addField('Rezulati:', slots[result1] + slots[result2] + slots[result3], true)
-            .setColor("GREEN");
-        message.channel.send(wEmbed);
-      eco.AddToBalance(message.author.id, bet*10).then(user => {
-        
-      })
+            eco.AddToBalance(message.author.id, bet*10).then(user => {})
+                      const embed3 = new Discord.RichEmbed()
+            .setColor("GREEN")
+   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .addField("🏆» Čestitamo", "Vi ste pobijedili")
+ .addField("🎰» Rezultati", slots[result1] + slots[result2] + slots[result3], true)
+ .addField("💰» Trenutno Stanje", x.balance + " <:Bitcoin:971362942924783616>")
+        message.channel.send(embed3);
+
     }
   }) 
         
@@ -38,20 +54,31 @@ module.exports.run = async (bot, message, args) => {
         eco.FetchBalance(message.author.id).then(user => {
     if(user.balance < bet) 
     {
-      return message.reply(`You don't have that much money!`)
+      const embed4 = new Discord.RichEmbed()
+            .setColor("RED")
+   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField(":x:» Pogreška", "Nemate dovoljno novca")
+ .addField("💰» Trenutno Stanje", x.balance + " <:Bitcoin:971362942924783616>")
+ .addField("✅» Korišćenje", ".slot 100")
+      return message.channel.send(embed4)
     } else {
-      let embed = new Discord.RichEmbed()
-            .setFooter('Vi ste izgubili!', aicon)
-            .setTitle(':slot_machine:Slots:slot_machine:')
-            .addField('Rezulati', slots[result1] + slots[result2] + slots[result3], true)
-            .setColor("RED");
-      eco.SubstractFromBalance(message.author.id, bet).then(user => {
+            eco.SubstractFromBalance(message.author.id, bet).then(user => {
       })
-        message.channel.send(embed);
+      
+    const embed5 = new Discord.RichEmbed()
+    .setColor("RED")
+   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField("🏆» Žao nam je", "Vi ste izgubili")
+ .addField("🎰» Rezultati", slots[result1] + slots[result2] + slots[result3], true)
+ .addField("💰» Trenutno Stanje", x.balance + " <:Bitcoin:971362942924783616>")
+        message.channel.send(embed5);
     }
   })
             
     }
+          })
 }
 
 module.exports.help = {
