@@ -32,11 +32,11 @@ module.exports.run = async (bot, message, args) => {
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField("👤» Korisnik", user)
  .addField("🪙» Dodano", amount)
- .addField("💰» Sada Novca", eco.balance)
+ .addField("💰» Trenutno", x.balance  amount)
 
                    eco.AddToBalance(user.id, amount).then(l =>
                                                           
-                     message.reply(`You have successfuly added ${amount} coins to ${user.tag}'s account.`));
+                     message.channel.send(embed3))
                  })
 }
 
