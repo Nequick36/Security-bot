@@ -31,7 +31,8 @@ module.exports.run = async (bot, message, args) => {
   .setAuthor('CzvVesti | Pomoć', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField("👤» Korisnik", user)
- .
+ .addField("🪙» Dodano", amount)
+ .addField("💰» Sada Novca", eco.balance)
 
                    eco.AddToBalance(user.id, amount).then(l =>
                                                           
