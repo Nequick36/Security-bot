@@ -22,20 +22,19 @@ module.exports.run = async (bot, message, args) => {
  .addField("✅» Korišćenje", ".addbalance @User#1991 100")
        if (!amount) return message.channel.send(embed2)
 
-        
-
+      
 
         eco.FetchBalance(user.id).then(x => {
-    let embed3 = new Discord.RichEmbed()
-.setColor("#FF0000")
+                   eco.AddToBalance(user.id, amount).then(l =>
+            let embed3 = new Discord.RichEmbed()
+                                                  
+   .setColor("#FF0000")
   .setAuthor('CzvVesti | Pomoć', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField("👤» Korisnik", user)
  .addField("🪙» Dodano", amount)
- .addField("💰» Trenutno", Math.Floor(x.balance + amount))
+ .addField("💰» Trenutno", x.balance)
 
-                   eco.AddToBalance(user.id, amount).then(l =>
-                                                          
                      message.channel.send(embed3))
                  })
 }
