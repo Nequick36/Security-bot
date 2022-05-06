@@ -59,11 +59,14 @@ fs.readdir("./commands", (err, files) => {
       helpCmd = `${helpCmd}<br>\n
   <b>Bot made by ⚡ Veka ⚡ ᴼᴿᴵᴳᴵᴺᴬᴸ#7740</b><br>`
 });
-    let prefix = botconfig.prefix;
+bot.on("message", message => {
+    if(message.author.bot) return;
+  let prefix = botconfig.prefix;
     let messageArray = message.content.split(" ")
     let cmd = messageArray[0]
     let args = messageArray.slice(1);
-  
+  if(!message.content.startsWith(prefix)) return;
+
     let commandfile = bot.commands.get(cmd.slice(prefix.length)) || bot.commands.get(bot.aliases.get(cmd.slice(prefix.length)));
   // let NeededPerm = commandfile.help.perm
   // let NeededRole = message.guild.roles.find(r => r.name === commandfile.help.role)
