@@ -5,16 +5,17 @@ module.exports.run = async (bot, message, args) => {
 
   
       let user = message.mentions.users.first() || message.author;
-    let userBalance = bot.eco.FetchBalance(user.id);
+                   eco.FetchBalance(user.id).then(x => {
     const embed = new Discord.RichEmbed()
-        .setTitle(`Balance`)
-        .addField(`User`, `<@${userBalance.user}>`)
-        .addField(`Balance`, `${userBalance.amount} 💸`)
-        .setColor("RANDOM")
-        .setThumbnail(user.displayAvatarURL)
-        .setTimestamp();
+            .setColor("GREEN")
+   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+   .addField("👤» Korisnik", `<@${user.id}>`)
+   .addField("💰» Trenutno", x.balance)
+   .setThumbnail(user.displayAvatarURL)
     return message.channel.send(embed);
 
+})
 }
 
 module.exports.help = {

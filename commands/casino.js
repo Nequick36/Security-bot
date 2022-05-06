@@ -3,15 +3,6 @@ const eco = require("discord-economy");
 
 module.exports.run = async (bot, message, args) => {
   
-        if (message.channel.id === "660410911390957568"){
-  } else {
-    message.delete();
-    message.author.send(`**__POGREŠKA__ :  __${message.channel.name} nije kanal za ekonomiu. Kanal za ekonomiju je__ <#660410911390957568> **`);
-    return;
-  }
-  
-  
-  
   
     var flip = args[0] //Heads or Tails
     var amount = args[1] //Coins to gamble
