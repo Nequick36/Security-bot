@@ -35,8 +35,8 @@ eco.AddToBalance(user.id, amount).then(l =>{
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField("👤» Korisnik", user)
- .addField("🪙» Dodano", amount + " :Bitcoin:")         
- .addField("💰» Trenutno", x.balance + " :Bitcoin:")
+ .addField("🪙» Dodano", amount)         
+ .addField("💰» Trenutno", x.balance)
 
                                                           
                      message.channel.send(embed3)

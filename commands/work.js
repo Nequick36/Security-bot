@@ -28,7 +28,7 @@ module.exports.run = async (bot, message, args) => {
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
   .setThumbnail (message.author.displayAvatarURL)
   .addField("😢» Na žalost", "Poslodavac nije zadovoljan kako ste uradili posao i niste dobili Novac") 
-  .addField("💰» Trenutno", output.balance + " :Bitcoin:")
+  .addField("💰» Trenutno", output.balance)
       
     if (output.earned == 0) return message.channel.send(embed2)
  
