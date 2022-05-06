@@ -2,30 +2,28 @@ const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
 
-  if(!message.content.startsWith(".")) return;
-
-    const page1 = new Discord.RichEmbed()
-    .setTitle('Page 1')
-    .setDescription('this is an example desc for page 1')
-
-    const page2 = new Discord.RichEmbed()
-    .setTitle('page 2')
-    .setDescription('this is an example for page 2')
-
-    const page3 = new Discord.RichEmbed()
-    .setTitle('Page 3')
-    .setDescription('this is an example for page 3')
-
-
-    const pages = [
-        page1,
-        page2,
-        page3
-    ]
-
-    const emoji = ["⏪", "⏩"]
-
-    const timeout = '30000'  
+      let embed = new Discord.RichEmbed()
+  .setColor("GREEN")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .addField("🎰» Kazino", "Komanda: .help kazino")
+  .addField("💰» Zarada", "Komanda: .help zarada")
+  .addField("🏪» Shop", "Komanda: .help shop")
+  .addField("💳» Balance", "Komanda: .help balance")
+  .addField("👮‍♂️» Staff", "Komanda: .help staff")
+  message.channel.send(embed)
+      
+  let casino = args[0]
+        let embed = new Discord.RichEmbed()
+  .setColor("GREEN")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .addField("")
+  if (casino) return message.channel.send("something")
+  
+  
+  
+  message.channel.send(``)
   
 }
 module.exports.help = {
