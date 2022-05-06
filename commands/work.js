@@ -2,21 +2,33 @@ const Discord = require("discord.js")
 const eco = require('discord-economy')
 
 module.exports.run = async (bot, message, args) => {
-  if(bot.workCooldown.has(message.author.id)) return message.channel.send(`
-<@${message.author.id}>
-**Sacekajte 60 Sekundi prije sljedeceg posla!**
-`)
+      let embed = new Discord.RichEmbed()
+
+    .setColor("RED")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .setThumbnail (message.author.displayAvatarURL)
+  .addField("👨‍🏭» Molimo Vas sačekajte 5 minuta prije sljedećeg posla")  
+  
+  if(bot.workCooldown.has(message.author.id)) return message.channel.send(embed)
   else {
     bot.workCooldown.set(message.author.id)
     setTimeout(function() {
       if(bot.workCooldown.has(message.author.id)) bot.workCooldown.delete(message.author)
-    }, 60000)
+    }, 300000)
   }
     var output = await eco.Work(message.author.id, {
       failurerate: 5,
       money: Math.floor(Math.random() * 600),
     })
-    //10% chance to fail and earn nothing. You earn between 1-500 coins. And you get one of those 3 random jobs.
+      let embed2 = new Discord.RichEmbed()
+
+    .setColor("RED")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .setThumbnail (message.author.displayAvatarURL)
+  .addField("💰» Na žalost", "Poslodavac nije zadovoljan kako ste uradili posao i niste dobili Novac") 
+      
     if (output.earned == 0) return message.reply('Niste dobro uradili svoj posao i niste dobili **pare**!')
  
     message.channel.send(`${message.author.username}
