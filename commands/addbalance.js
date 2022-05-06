@@ -25,17 +25,18 @@ module.exports.run = async (bot, message, args) => {
         
 
 
+eco.AddToBalance(user.id, amount).then(l =>{
 
-                   eco.AddToBalance(user.id, amount).then(l =>{
+                   eco.FetchBalance(user.id).then(x => {
+                     
                           let embed3 = new Discord.RichEmbed()
+
             .setColor("#FF0000")
   .setAuthor('CzvVesti | Pomoć', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField("👤» Korisnik", user)
- .addField("🪙» Dodano", amount)
-                         eco.FetchBalance(user.id).then(x => {
-         
- .addField("💰» Trenutno", x.balance)
+ .addField("🪙» Dodano", amount)         
+ .addField("💰» Trenutno", x.balance += amount)
 
                                                           
                      message.channel.send(embed3)
