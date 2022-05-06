@@ -19,7 +19,7 @@ module.exports.run = async (bot, message, args) => {
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField(":x:» Pogreška", "Morate Dodati Iznos Novca")
- .addField(":CheckMark:» Korišćenje", ".addbalance @User#1991 100")
+ .addField("✅» Korišćenje", ".addbalance @User#1991 100")
        if (!amount) return message.channel.send(embed2)
 
         
