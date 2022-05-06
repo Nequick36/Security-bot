@@ -7,7 +7,7 @@ module.exports.run = async (bot, message, args) => {
 
   let embed = new Discord.RichEmbed()
 .setColor("#FF0000")
-  .setAuthor('CzvVesti | Pomoć', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField(":x:» Pogreška", "Morate Tagovati Korisnika Kojem Želite Dodat Novac")
  .addField("✅» Korišćenje", ".addbalance @User#1991 100")
@@ -16,10 +16,10 @@ module.exports.run = async (bot, message, args) => {
     let amount = message.content.split(" ").slice(2).join(" ");
   let embed2 = new Discord.RichEmbed()
 .setColor("#FF0000")
-  .setAuthor('CzvVesti | Pomoć', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField(":x:» Pogreška", "Morate Dodati Iznos Novca")
- .addField("✅» Korišćenje", ".addbalance @User#1991 100")
+ .addField(":CheckMark:» Korišćenje", ".addbalance @User#1991 100")
        if (!amount) return message.channel.send(embed2)
 
         
@@ -32,7 +32,7 @@ eco.AddToBalance(user.id, amount).then(l =>{
                           let embed3 = new Discord.RichEmbed()
 
             .setColor("#FF0000")
-  .setAuthor('CzvVesti | Pomoć', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField("👤» Korisnik", user)
  .addField("🪙» Dodano", amount)         

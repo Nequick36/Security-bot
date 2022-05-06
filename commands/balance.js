@@ -7,7 +7,7 @@ module.exports.run = async (bot, message, args) => {
   let embed = new Discord.RichEmbed()
 
     .setColor("#FF0000")
-  .setAuthor('CzvVesti | Pomoć', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
   .setThumbnail (message.author.displayAvatarURL)
   .addField("👥» Korisnik: ", message.author.username)

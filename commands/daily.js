@@ -7,14 +7,25 @@ module.exports.run = async (bot, message, args) => {
                if (d.updated) {
 
                  eco.FetchBalance(message.author.id).then(x => {
-                   eco.AddToBalance(500).then(d =>
-message.reply(`**:tada: ___DNEVNA NAGRADA__ :tada:**
-Uzeli ste svoju dnevnu nagradu od 500$ a sada imate ${d.newbalance}
-`));
-                 })
+                   eco.AddToBalance(500).then(d => {
+let embed = new Discord.RichEmbed()
+.setColor("#00FF0C")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .addField("🎁» Dnevna Nagrada", "Čestitamo uzeli ste dnevnu nagradu od 500$")
+  .addField("💰» Trenutno Stanje Računa", d.newbalance)
+                   
+message.channel.send(embed);
+                 })})
 
                } else {
-                 message.channel.send(`:x: **Vec ste uzeli svoju dnevnu nagradu! da je uzmete ponovo trebate cekati jos:** ${d.timetowait} :x:`)
+                 let embed2 = new Discord.RichEmbed()
+.setColor("#FF0000")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .addField("🎁» Dnevna Nagrada", "Već ste uzali svoju dnevnu nagradu")
+  .addField("⌚» Preostalo Vremena", "Preostalo Vam je još " + d.timetowait + " do vaše dnevne nagrade!")
+                 message.channel.send(embed2)
                }
            })
 }
