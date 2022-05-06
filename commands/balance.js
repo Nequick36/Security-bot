@@ -1,26 +1,27 @@
 const Discord = require("discord.js");
 const eco = require("discord-economy");
-const fs = require("fs")
 
 module.exports.run = async (bot, message, args) => {
  
-  let user = message.mentions.members.first() || message.guild.members.get(args[0]) || message.member
-  let userEco = eco.FetchBalance(message.user.user.id).then()
-
-        var profile = new Discord.RichEmbed()
-            .setDescription("Sada imate kod sebe : \n" + "\`" + userEco.balance + "\`")
-            .setFooter(`${user.user.username}`)
-            .setColor(0xFF0000)
-            .setTitle(`**__Stanje na racunu__**`)
-            .setThumbnail(user.user.avatarURL)
-            .setTimestamp()
-        message.channel.send(profile)
+   var user = message.mentions.users.first() || message.author;
+  
+     eco.FetchBalance(user.user.id).then(l => {
+  let embed = new Discord.RichEmbed()
+    
+    .setColor("GREEN")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .setThumbnail (user.user.displayAvatarURL)
+  .addField("👥» Korisnik: ", user.user.username)
+  .addField("💰» Stanje na računu: ", l.balance)  
+                message.channel.send(embed);
+            })
 
 }
 
 module.exports.help = {
   name: "balance",
-  aliases: ["Bal", "money", "Money", "balance", "Balance"],
+  aliases: ['wallet', 'bal', 'Bal', 'Balance'],
   perm: "",
   role: "",
   group:"Economy"
