@@ -26,7 +26,15 @@ module.exports.run = async (bot, message, args) => {
 
 
         eco.FetchBalance(user.id).then(x => {
+    let embed3 = new Discord.RichEmbed()
+.setColor("#FF0000")
+  .setAuthor('CzvVesti | Pomoć', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField("👤» Korisnik", user)
+ .
+
                    eco.AddToBalance(user.id, amount).then(l =>
+                                                          
                      message.reply(`You have successfuly added ${amount} coins to ${user.tag}'s account.`));
                  })
 }
