@@ -1,21 +1,34 @@
 const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
- let embed = new Discord.RichEmbed()
+
+  if(!message.content.startsWith(".")) return;
+
+    const page1 = new Discord.RichEmbed()
+    .setTitle('Page 1')
+    .setDescription('this is an example desc for page 1')
+
+    const page2 = new Discord.RichEmbed()
+    .setTitle('page 2')
+    .setDescription('this is an example for page 2')
+
+    const page3 = new Discord.RichEmbed()
+    .setTitle('Page 3')
+    .setDescription('this is an example for page 3')
+
+
+    const pages = [
+        page1,
+        page2,
+        page3
+    ]
+
+    const emoji = ["⏪", "⏩"]
+
+    const timeout = '30000'  
   
-  .addField("addbalance", "**__ ADDBALANCE __**")
-          .addField("balance", "**__ BAL __**")
-          .addField("buy", "**__ BUY __**")
-          .addField("daily", "**__ DAILY __**")
-          .addField("pay", "**__ PAY __**")
-          .addField("removebalance", "**__ REMOVEBALANCE __**")
-          .addField("shop", "**__ SHOP __**")
-          .addField("slot", "**__ SLOTS __**")
-          .addField("topbal", "**__ TOPBALANCE __**")
-          .addField("work", "**__ WORK __**")
-        message.channel.send(embed)
 }
 module.exports.help = {
 name: "help",
-aliases: ["pomoc"]
+aliases: ["pomoc", "Help", "Pomoc", "pomoć", "Pomoć", "komande", "Komande", "komanda", "Komanda"]
 }
