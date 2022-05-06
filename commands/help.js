@@ -3,105 +3,100 @@ const Discord = require("discord.js")
 module.exports.run = async (bot, message, args) => {
 
   
-  
-  
-  const buttons = [
-    reactions.zero, reactions.one,
-    reactions.two, reactions.three,
-    reactions.four, reactions.five,
-    reactions.six, reactions.seven,
-    reactions.eight, reactions.nine,
-  ];
+const roleColor =
+      message.guild.me.displayHexColor === "#000000"
+        ? "#ffffff"
+        : message.guild.me.displayHexColor;
 
-  const commandsPerPage = 8;
-  let pages;
+    if (!args[0]) {
+      let categories = [];
 
-  // Switch for different arguments
-  if (args === '-a') { // Show all commands
-    pages = _.chunk(client.commands, commandsPerPage);
-  } else if (client.commands.some(cmd => cmd.name === args.toLowerCase())) { // Show help for a specific command
-    const command = _.find(client.commands, { name: args.toLowerCase() });
-    message.channel.send({
-      embed: {
-        color: 12388653,
-        title: `__${command.name}__`,
-        description: command.help,
-        fields: [{
-          name: 'Usage',
-          value: command.usage.join('\n'),
-        }],
-      },
-    });
-    return;
-  } else { // Show only enabled commands
-    const enabledCommands = client.commands.filter(cmd => !db.commandIsDisabled(message.guild, cmd.name));
-    pages = _.chunk(enabledCommands, commandsPerPage);
-  }
+      readdirSync("./commands/").forEach((dir) => {
+        const commands = readdirSync(`./commands/${dir}/`).filter((file) =>
+          file.endsWith(".js")
+        );
 
-  // Parse the commands into embed message data
-  pages = pages.map((page) => {
-    const fields = page.map(command => ({
-      name: `__${command.name}__`,
-      value: `Description: ${command.description}\nSyntax: \`${command.syntax}\``,
-    }));
+        const cmds = commands.map((command) => {
+          let file = require(`../../commands/${dir}/${command}`);
 
-    return {
-      embed: {
-        color: 12388653,
-        author: {
-          name: 'Click Here For Full List',
-          url: 'https://goo.gl/eFN6wF',
-          icon_url: 'https://user-images.githubusercontent.com/6385983/34427109-5772d042-ec0c-11e7-896d-7e9096b92856.png',
-        },
-        fields,
-      },
-    };
-  });
+          if (!file.name) return "No command name.";
 
-  // Send the first help page with buttons that display other pages when clicked
-  message.channel.send(pages[0]).then(async (msg) => {
-    /*
-    TODO: fix this so that ESLint doesnt freak out.
-    For some reason await really only works with for..of
-    */
-    // react number buttons
-    for (const [index, _] of pages.entries()) {
-      await msg.react(buttons[index]);
-    }
+          let name = file.name.replace(".js", "");
 
-    // react delete button
-    await msg.react(reactions.x);
-    msg.delete(60000).catch();
+          return `\`${name}\``;
+        });
 
-    // Collect reactions for the help message
-    const collector = msg.createReactionCollector((reaction, user) => user !== client.user);
+        let data = new Object();
 
-    collector.on('collect', async (messageReaction) => {
-      // If the x button is pressed, remove the message.
-      if (messageReaction.emoji.name === reactions.x) {
-        msg.delete(); // Delete the message
-        collector.stop(); // Get rid of the collector.
-        return;
+        data = {
+          name: dir.toUpperCase(),
+          value: cmds.length === 0 ? "In progress." : cmds.join(" "),
+        };
+
+        categories.push(data);
+      });
+
+      const embed = new MessageEmbed()
+        .setTitle("📬 Need help? Here are all of my commands:")
+        .addFields(categories)
+        .setDescription(
+          `Use \`${prefix}help\` followed by a command name to get more additional information on a command. For example: \`${prefix}help ban\`.`
+        )
+        .setFooter(
+          `Requested by ${message.author.tag}`,
+          message.author.displayAvatarURL({ dynamic: true })
+        )
+        .setTimestamp()
+        .setColor(roleColor);
+      return message.channel.send(embed);
+    } else {
+      const command =
+        client.commands.get(args[0].toLowerCase()) ||
+        client.commands.find(
+          (c) => c.aliases && c.aliases.includes(args[0].toLowerCase())
+        );
+
+      if (!command) {
+        const embed = new MessageEmbed()
+          .setTitle(`Invalid command! Use \`${prefix}help\` for all of my commands!`)
+          .setColor("FF0000");
+        return message.channel.send(embed);
       }
 
-      // Get the index of the page by button pressed
-      const pageIndex = buttons.indexOf(messageReaction.emoji.name);
-
-      // Return if emoji is irrelevant or the page doesnt exist (number too high)
-      if (pageIndex === -1 || !pages[pageIndex]) return;
-
-      // Edit the message to show the new page.
-      msg.edit(pages[pageIndex]);
-
-      /*
-      Get the user that clicked the reaction and remove the reaction.
-      This matters because if you just do remove(), it will remove the bots
-      reaction which will have unintended side effects.
-      */
-      const notbot = messageReaction.users.filter(clientuser => clientuser !== bot.user).first();
-      await messageReaction.remove(notbot);
-    });
-  }).catch(err => console.log(err));
+      const embed = new MessageEmbed()
+        .setTitle("Command Details:")
+        .addField("PREFIX:", `\`${prefix}\``)
+        .addField(
+          "COMMAND:",
+          command.name ? `\`${command.name}\`` : "No name for this command."
+        )
+        .addField(
+          "ALIASES:",
+          command.aliases
+            ? `\`${command.aliases.join("` `")}\``
+            : "No aliases for this command."
+        )
+        .addField(
+          "USAGE:",
+          command.usage
+            ? `\`${prefix}${command.name} ${command.usage}\``
+            : `\`${prefix}${command.name}\``
+        )
+        .addField(
+          "DESCRIPTION:",
+          command.description
+            ? command.description
+            : "No description for this command."
+        )
+        .setFooter(
+          `Requested by ${message.author.tag}`,
+          message.author.displayAvatarURL({ dynamic: true })
+        )
+        .setTimestamp()
+        .setColor(roleColor);
+      return message.channel.send(embed);
+    }
+  
 
   
 }
