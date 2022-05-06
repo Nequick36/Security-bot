@@ -14,7 +14,7 @@ module.exports.run = async (bot, message, args) => {
   
   if(!bet) return message.channel.send(embed)
   
-    let slots = ["🍎", "🍌", "🍒", "🍓", "🍈", "🍋", "🍉"];
+    let slots = ["🍎", "🍌", "🍒"];
     let result1 = Math.floor((Math.random() * slots.length));
     let result2 = Math.floor((Math.random() * slots.length));
     let result3 = Math.floor((Math.random() * slots.length));

@@ -51,7 +51,7 @@ let embed3 = new Discord.RichEmbed()
 
 module.exports.help = {
   name: "lb",
-  aliases: ['leaderboard', 'topbal', 'baltop'],
+  aliases: ['leaderboard', 'topbal', 'baltop', "top"],
   perm: "",
   role: "",
   group:"Economy"
