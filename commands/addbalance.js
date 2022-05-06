@@ -32,7 +32,7 @@ module.exports.run = async (bot, message, args) => {
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField("👤» Korisnik", user)
  .addField("🪙» Dodano", amount)
- .addField("💰» Trenutno", x.balance & amount)
+ .addField("💰» Trenutno", x.balance | amount)
 
                    eco.AddToBalance(user.id, amount).then(l =>
                                                           
