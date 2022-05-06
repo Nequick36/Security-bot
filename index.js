@@ -74,11 +74,7 @@ bot.on("message", message => {
   // if(NeededRole === '' && NeededPerm === '') {}
   // if(NeededRole && NeededPerm !== '') if(!message.member.roles.has(NeededRole.id) || !message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
   // if(NeededPerm !== '' && !NeededRole) if(!message.member.hasPermission(NeededPerm)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS ${commandfile.help.group.toUpperCase()} ONLY COMMAND. 🛑**"`)
-    if(commandfile) commandfile.run(bot, message, args) //can you go thru files and add needed perms or roles they are blank but add like MANAGE_MESSAGES
-    else { //ok wait is there roles and perms //i need to go now
-      if(cmd.slice(prefix.length) === 'gdfgdfgfdgdfgdfgdfsgerwztrezerhdfgdfgdfgdfgdfgdfgdfgdfegdfgdfgfdglp') {}
-      else message.channel.send(`Ta komanda ne postoji ukucajte en!help da vidite listu komandi`)
-      }
+    if(commandfile) commandfile.run(bot, message, args) //can you go th
    
     if(cmd === `${prefix}fdgdgdfgdfgdfgdfgfdghefdgldfdgsfdsgp`) {
       if(!args[0])  {
