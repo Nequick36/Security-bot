@@ -1,9 +1,10 @@
 dependencies:
   discord-anti-spam: 2.0.0
+  discord-buttons: 4.0.0
   discord-economy: 1.1.6
   discord-leveling: 1.1.0
   discord.io: 2.5.3
-  discord.js: 11.5.1
+  discord.js: 13.6.0
   express: 4.16.4
   figlet: 1.2.4
   install: 0.12.2
@@ -21,10 +22,50 @@ dependencies:
   winston: 2.4.4
   winston-discord: 0.2.0
 packages:
+  /@discordjs/builders/0.11.0:
+    dependencies:
+      '@sindresorhus/is': 4.6.0
+      discord-api-types: 0.26.1
+      ts-mixer: 6.0.1
+      tslib: 2.4.0
+      zod: 3.15.1
+    dev: false
+    engines:
+      node: '>=16.0.0'
+      npm: '>=7.0.0'
+    resolution:
+      integrity: sha512-ZTB8yJdJKrKlq44dpWkNUrAtEJEq0gqpb7ASdv4vmq6/mZal5kOv312hQ56I/vxwMre+VIkoHquNUAfnTbiYtg==
+  /@discordjs/collection/0.4.0:
+    dev: false
+    engines:
+      node: '>=16.0.0'
+      npm: '>=7.0.0'
+    resolution:
+      integrity: sha512-zmjq+l/rV35kE6zRrwe8BHqV78JvIh2ybJeZavBi5NySjWXqN3hmmAKg7kYMMXSeiWtSsMoZ/+MQi0DiQWy2lw==
+  /@sapphire/async-queue/1.3.1:
+    dev: false
+    engines:
+      node: '>=v14.0.0'
+      npm: '>=7.0.0'
+    resolution:
+      integrity: sha512-FFTlPOWZX1kDj9xCAsRzH5xEJfawg1lNoYAA+ecOWJMHOfiZYb1uXOI3ne9U4UILSEPwfE68p3T9wUHwIQfR0g==
+  /@sindresorhus/is/4.6.0:
+    dev: false
+    engines:
+      node: '>=10'
+    resolution:
+      integrity: sha512-t09vSN3MdfsyCHoFcTRCH/iUtG7OJ0CsjzB8cjAmKc/va/kIgeDI/TxsigdncE/4be734m0cvIYwNaV4i2XqAw==
   /@types/geojson/1.0.6:
     dev: false
     resolution:
       integrity: sha512-Xqg/lIZMrUd0VRmSRbCAewtwGZiAk3mEUDvV4op1tGl+LvyPcb/MIOSxTl9z+9+J+R4/vpjiCAT4xeKzH9ji1w==
+  /@types/node-fetch/2.6.1:
+    dependencies:
+      '@types/node': 17.0.31
+      form-data: 3.0.1
+    dev: false
+    resolution:
+      integrity: sha512-oMqjURCaxoSIsHSr1E47QHzbmzNR5rK8McHuNb11BOM9cHcIK3Avy0s/b2JlXHoQGTYS3NsvWzV1M0iK7l0wbA==
   /@types/node/11.11.6:
     dev: false
     resolution:
@@ -33,6 +74,16 @@ packages:
     dev: false
     resolution:
       integrity: sha512-W0+n1Y+gK/8G2P/piTkBBN38Qc5Q1ZSO6B5H3QmPCUewaiXOo2GCAWZ4ElZCcNhjJuBSUSLGFUJnmlCn5+nxOQ==
+  /@types/node/17.0.31:
+    dev: false
+    resolution:
+      integrity: sha512-AR0x5HbXGqkEx9CadRH3EBYx/VkiUgZIhP4wvPn/+5KIsgpNoyFaRlVe0Zlx9gRtg8fA06a9tskE2MSN7TcG4Q==
+  /@types/ws/8.5.3:
+    dependencies:
+      '@types/node': 17.0.31
+    dev: false
+    resolution:
+      integrity: sha512-6YOoWjruKj1uLf3INHH7D3qTXwFfEsg1kf3c0uDdSBJwfa/llkwIjrAGV7j7mVgGNbzTQ3HiHKKDXl6bJPD97w==
   /abbrev/1.1.1:
     dev: false
     resolution:
@@ -98,10 +149,6 @@ packages:
       node: '>=0.8'
     resolution:
       integrity: sha1-8S4PPF13sLHN2RRpQuTpbB5N1SU=
-  /async-limiter/1.0.1:
-    dev: false
-    resolution:
-      integrity: sha512-csOlWGAcRFJaI6m+F2WKdnMKr4HhdhFVBk0H/QbJFMCr+uO2kwohwXQPxw/9OCxp05r5ghVBFSyioixx3gfkNQ==
   /async/1.0.0:
     dev: false
     resolution:
@@ -217,6 +264,14 @@ packages:
       node: '>= 0.8'
     resolution:
       integrity: sha512-brWl9y6vOB1xYPZcpZde3N9zDByXTosAeMDo4p1wzo6UMOX4vumB+TP1RZ76sfE6Md68Q0NJSrE/gbezd4Ul+w==
+  /combined-stream/1.0.8:
+    dependencies:
+      delayed-stream: 1.0.0
+    dev: false
+    engines:
+      node: '>= 0.8'
+    resolution:
+      integrity: sha512-FQN4MRfuJeHf7cBbBMJFXhKSDq+2kAArBlmRBvcvFE5BB1HZKXtSFASDhdlz9zOYwxh8lDdnvmMOe/+5cdoEdg==
   /component-emitter/1.2.1:
     dev: false
     resolution:
@@ -334,6 +389,17 @@ packages:
     dev: false
     resolution:
       integrity: sha512-acRIOWNJOyHEJozpFauVD6J4lhPftDXO/7BhSbZVPwnLVYhDIhVZlYhZFgd5Yn/UANrABuGOuO4KZH844KjGKg==
+  /discord-api-types/0.26.1:
+    dev: false
+    engines:
+      node: '>=12'
+    resolution:
+      integrity: sha512-T5PdMQ+Y1MEECYMV5wmyi9VEYPagEDEi4S0amgsszpWY0VB9JJ/hEvM6BgLhbdnKky4gfmZEXtEEtojN8ZKJQQ==
+  /discord-buttons/4.0.0:
+    deprecated: 'New lib is coming! Join our support server for more help: https://discord.gg/KUS5pjyA4J'
+    dev: false
+    resolution:
+      integrity: sha512-E/eQX4Ktj7nKwNDsTfCezBNCu73FtPWJfQcpKohfl0jct/ucMUO+7uhL2MhGsZr4SCfojk7OzccAznuntB564w==
   /discord-economy/1.1.6:
     dependencies:
       sequelize: 4.42.0
@@ -356,26 +422,23 @@ packages:
     dev: false
     resolution:
       integrity: sha1-otudqkBXgxpY7Mp177lAt3mdQ18=
-  /discord.js/11.5.1:
+  /discord.js/13.6.0:
     dependencies:
-      long: 4.0.0
-      prism-media: 0.0.3
-      snekfetch: 3.6.4
-      tweetnacl: 1.0.1
-      ws: 6.2.1
+      '@discordjs/builders': 0.11.0
+      '@discordjs/collection': 0.4.0
+      '@sapphire/async-queue': 1.3.1
+      '@types/node-fetch': 2.6.1
+      '@types/ws': 8.5.3
+      discord-api-types: 0.26.1
+      form-data: 4.0.0
+      node-fetch: 2.6.7
+      ws: 8.6.0
     dev: false
     engines:
-      node: '>=6.0.0'
-    peerDependencies:
-      '@discordjs/uws': ^10.149.0
-      bufferutil: ^4.0.0
-      erlpack: discordapp/erlpack
-      libsodium-wrappers: ^0.7.3
-      node-opus: ^0.2.7
-      opusscript: ^0.0.6
-      sodium: ^2.0.3
+      node: '>=16.6.0'
+      npm: '>=7.0.0'
     resolution:
-      integrity: sha512-tGhV5xaZXE3Z+4uXJb3hYM6gQ1NmnSxp9PClcsSAYFVRzH6AJH74040mO3afPDMWEAlj8XsoPXXTJHTxesqcGw==
+      integrity: sha512-tXNR8zgsEPxPBvGk3AQjJ9ljIIC6/LOPjzKwpwz8Y1Q2X66Vi3ZqFgRHYwnHKC0jC0F+l4LzxlhmOJsBZDNg9g==
   /dottie/2.0.1:
     dev: false
     resolution:
@@ -508,6 +571,26 @@ packages:
       node: '>= 0.12'
     resolution:
       integrity: sha512-1lLKB2Mu3aGP1Q/2eCOx0fNbRMe7XdwktwOruhfqqd0rIJWwN4Dh+E3hrPSlDCXnSR7UtZ1N38rVXm+6+MEhJQ==
+  /form-data/3.0.1:
+    dependencies:
+      asynckit: 0.4.0
+      combined-stream: 1.0.8
+      mime-types: 2.1.35
+    dev: false
+    engines:
+      node: '>= 6'
+    resolution:
+      integrity: sha512-RHkBKtLWUVwd7SqRIvCZMEvAMoGUp0XU+seQiZejj0COz3RI3hWP4sCv3gZWWLjJTd7rGwcsF5eKZGii0r/hbg==
+  /form-data/4.0.0:
+    dependencies:
+      asynckit: 0.4.0
+      combined-stream: 1.0.8
+      mime-types: 2.1.35
+    dev: false
+    engines:
+      node: '>= 6'
+    resolution:
+      integrity: sha512-ETEklSGi5t0QMZuiXoA/Q6vcnxcLQP5vdugSpuAyi6SVGi2clPPp+xgEhuMaHC+zGgn31Kd235W35f7Hykkaww==
   /formidable/1.2.1:
     dev: false
     resolution:
@@ -764,10 +847,6 @@ packages:
     dev: false
     resolution:
       integrity: sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
-  /long/4.0.0:
-    dev: false
-    resolution:
-      integrity: sha512-XsP+KhQif4bjX1kbuSiySJFNAehNxgLb6hPRGJ9QsUr8ajHkuXGdrHmFUTUUXhDwVX2R5bY4JNZEwbUiMhV+MA==
   /media-typer/0.3.0:
     dev: false
     engines:
@@ -790,6 +869,12 @@ packages:
       node: '>= 0.6'
     resolution:
       integrity: sha512-R3C4db6bgQhlIhPU48fUtdVmKnflq+hRdad7IyKhtFj06VPNVdk2RhiYL3UjQIlso8L+YxAtFkobT0VK+S/ybg==
+  /mime-db/1.52.0:
+    dev: false
+    engines:
+      node: '>= 0.6'
+    resolution:
+      integrity: sha512-sPU4uV7dYlvtWJxwwxHD0PuihVNiE7TyAbQ5SWxDCB9mUYvOgroQOwYQQOKPJ8CIbE+1ETVlOoK1UC2nU3gYvg==
   /mime-types/2.1.21:
     dependencies:
       mime-db: 1.37.0
@@ -798,6 +883,14 @@ packages:
       node: '>= 0.6'
     resolution:
       integrity: sha512-3iL6DbwpyLzjR3xHSFNFeb9Nz/M8WDkX33t1GFQnFOllWk8pOrh/LSrB5OXlnlW5P9LH73X6loW/eogc+F5lJg==
+  /mime-types/2.1.35:
+    dependencies:
+      mime-db: 1.52.0
+    dev: false
+    engines:
+      node: '>= 0.6'
+    resolution:
+      integrity: sha512-ZDY+bPm5zTTF+YpCrAU9nK0UgICYPT0QtT1NZWFv4s++TNkcgVaT0g6+4R2uI4MjQjzysHB1zxuWL50hzaeXiw==
   /mime/1.4.1:
     dev: false
     hasBin: true
@@ -908,6 +1001,16 @@ packages:
       node: '>= 0.6'
     resolution:
       integrity: sha1-KzJxhOiZIQEXeyhWP7XnECrNDKk=
+  /node-fetch/2.6.7:
+    dependencies:
+      whatwg-url: 5.0.0
+    dev: false
+    engines:
+      node: 4.x || >=6.0.0
+    peerDependencies:
+      encoding: ^0.1.0
+    resolution:
+      integrity: sha512-ZjMPFEfVx5j+y2yF35Kzx5sF7kDzxuDj6ziH4FFbOp87zKDZNx8yExJIb05OGF4Nlt9IHFIMBkRl41VdvcNdbQ==
   /node-pre-gyp/0.11.0:
     dependencies:
       detect-libc: 1.0.3
@@ -1040,10 +1143,6 @@ packages:
     dev: false
     resolution:
       integrity: sha1-Ywn04OX6kT7BxpMHrjZLSzd8nns=
-  /prism-media/0.0.3:
-    dev: false
-    resolution:
-      integrity: sha512-c9KkNifSMU/iXT8FFTaBwBMr+rdVcN+H/uNv1o+CuFeTThNZNTOrQ+RgXA1yL/DeLk098duAeRPP3QNPNbhxYQ==
   /process-nextick-args/2.0.1:
     dev: false
     resolution:
@@ -1356,11 +1455,6 @@ packages:
     dev: false
     resolution:
       integrity: sha1-tf3AjxKH6hF4Yo5BXiUTK3NkbG0=
-  /snekfetch/3.6.4:
-    deprecated: use node-fetch instead
-    dev: false
-    resolution:
-      integrity: sha512-NjxjITIj04Ffqid5lqr7XdgwM7X61c/Dns073Ly170bPQHLm6jkmelye/eglS++1nfTWktpP6Y2bFXjdPlQqdw==
   /sqlite3/4.0.6:
     dependencies:
       nan: 2.10.0
@@ -1539,6 +1633,18 @@ packages:
       node: '>=0.8'
     resolution:
       integrity: sha512-Q5srk/4vDM54WJsJio3XNn6K2sCG+CQ8G5Wz6bZhRZoAe/+TxjWB/GlFAnYEbkYVlON9FMk/fE3h2RLpPXo4lQ==
+  /tr46/0.0.3:
+    dev: false
+    resolution:
+      integrity: sha1-gYT9NH2snNwYWZLzpmIuFLnZq2o=
+  /ts-mixer/6.0.1:
+    dev: false
+    resolution:
+      integrity: sha512-hvE+ZYXuINrx6Ei6D6hz+PTim0Uf++dYbK9FFifLNwQj+RwKquhQpn868yZsCtJYiclZF1u8l6WZxxKi+vv7Rg==
+  /tslib/2.4.0:
+    dev: false
+    resolution:
+      integrity: sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ==
   /tunnel-agent/0.6.0:
     dependencies:
       safe-buffer: 5.1.2
@@ -1549,10 +1655,6 @@ packages:
     dev: false
     resolution:
       integrity: sha1-WuaBd/GS1EViadEIr6k/+HQ/T2Q=
-  /tweetnacl/1.0.1:
-    dev: false
-    resolution:
-      integrity: sha512-kcoMoKTPYnoeS50tzoqjPY3Uv9axeuuFAZY9M/9zFnhoVvRfxz9K29IMPD7jGmt2c8SW7i3gT9WqDl2+nV7p4A==
   /type-is/1.6.16:
     dependencies:
       media-typer: 0.3.0
@@ -1626,6 +1728,17 @@ packages:
       '0': node >=0.6.0
     resolution:
       integrity: sha1-OhBcoXBTr1XW4nDB+CiGguGNpAA=
+  /webidl-conversions/3.0.1:
+    dev: false
+    resolution:
+      integrity: sha1-JFNCdeKnvGvnvIZhHMFq4KVlSHE=
+  /whatwg-url/5.0.0:
+    dependencies:
+      tr46: 0.0.3
+      webidl-conversions: 3.0.1
+    dev: false
+    resolution:
+      integrity: sha1-lmRU6HZUYuN2RNNib2dCzotwll0=
   /wide-align/1.1.3:
     dependencies:
       string-width: 2.1.1
@@ -1674,25 +1787,33 @@ packages:
     dev: false
     resolution:
       integrity: sha512-o3KqipXNUdS7wpQzBHSe180lBGO60SoK0yVo3CYJgb2MkobuWuBX6dhkYP5ORCLd55y+SaflMOV5fqAB53ux4w==
-  /ws/6.2.1:
-    dependencies:
-      async-limiter: 1.0.1
+  /ws/8.6.0:
     dev: false
+    engines:
+      node: '>=10.0.0'
+    peerDependencies:
+      bufferutil: ^4.0.1
+      utf-8-validate: ^5.0.2
     resolution:
-      integrity: sha512-GIyAXC2cB7LjvpgMt9EKS2ldqr0MTrORaleiOno6TweZ6r3TKtoFQWay/2PceJ3RuBasOHzXNn5Lrw1X0bEjqA==
+      integrity: sha512-AzmM3aH3gk0aX7/rZLYvjdvZooofDu3fFOzGqcSnQ1tOcTWwhM/o+q++E8mAyVVIyUdajrkzWUGftaVSDLn1bw==
   /yallist/3.0.3:
     dev: false
     resolution:
       integrity: sha512-S+Zk8DEWE6oKpV+vI3qWkaK+jSbIK86pCwe2IF/xwIpQ8jEuxpw9NyaGjmp9+BoJv5FV2piqCDcoCtStppiq2A==
+  /zod/3.15.1:
+    dev: false
+    resolution:
+      integrity: sha512-WAdjcoOxa4S9oc/u7fTbC3CC7uVqptLLU0LKqS8RDBOrCXp2t5avM8BUfgNVZJymGWAx6SEUYxWPPoYuQ5rgwQ==
 registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
   discord-anti-spam: ^2.0.0
+  discord-buttons: ^4.0.0
   discord-economy: ^1.1.6
   discord-leveling: ^1.1.0
   discord.io: ^2.5.3
-  discord.js: ^11.4.2
+  discord.js: ^13.6.0
   express: ^4.16.4
   figlet: ^1.2.1
   install: ^0.12.2

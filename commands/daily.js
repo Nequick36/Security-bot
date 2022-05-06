@@ -13,7 +13,7 @@ let embed = new Discord.RichEmbed()
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
   .addField("🎁» Dnevna Nagrada", "Čestitamo uzeli ste dnevnu nagradu od 500$")
-  .addField("💰» Trenutno Stanje Računa", d.newbalance)
+  .addField("💰» Trenutno Stanje Računa", d.newbalance + " :Bitcoin:")
                    
 message.channel.send(embed);
                  })})
