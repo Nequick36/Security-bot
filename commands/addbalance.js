@@ -1,15 +1,14 @@
 const Discord = require("discord.js")
 const eco = require("discord-economy")
-const config = ("./botconfig.json")
+
 module.exports.run = async (bot, message, args) => {
   let amount = message.content.split(" ").slice(2).join(" ");
-        if (!message.member.hasPermission("ADMINISTRATOR"{
- let embed = new Discord.RichEmbed()
+  let embed = new Discord.RichEmbed()
 .setColor("#FF0000")
   .setAuthor('CzvVesti | Pomoć', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField(":x:» Pogreška", "Morate Dodati Iznos Novca")
- .addField("✅» Korišćenje", config.prefix + "addbalance 100 @User#1991")
+ .addField("✅» Korišćenje", ".addbalance 100 @User#1991")
        if (!amount) return message.channel.send(embed)
   
         var user = message.mentions.users.first() || message.guild.members.get(args[0])
@@ -24,7 +23,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
   name: "addbalance",
-  aliases: ["addbal"],
+  aliases: ["addbal", "addmoney"],
   perm: "",
   role: "",
   group: "economy"
