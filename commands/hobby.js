@@ -12,13 +12,13 @@ module.exports.run = async (bot, message, args) => {
         
 
   
-  if(bot.HobbyworkCooldown.has(message.author.id)) return message.channel.send(`                **__ :moneybag:  Hobby  :moneybag: __**
+  if(bot.hobbyCooldown.has(message.author.id)) return message.channel.send(`                **__ :moneybag:  Hobby  :moneybag: __**
 <@${message.author.id}> **__Sacekajte 1 sat prije sljedeceg posla!__**
 `)
   else {
-    bot.HobbyworkCooldown.set(message.author.id)
+    bot.hobbyCooldown.set(message.author.id)
     setTimeout(function() {
-      if(bot.HobbyworkCooldown.has(message.author.id)) bot.HobbyworkCooldown.delete(message.author)
+      if(bot.hobbyCooldown.has(message.author.id)) bot.hobbyCooldown.delete(message.author)
     }, 3600000)
   }
   
