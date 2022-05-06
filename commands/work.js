@@ -27,13 +27,24 @@ module.exports.run = async (bot, message, args) => {
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
   .setThumbnail (message.author.displayAvatarURL)
-  .addField("💰» Na žalost", "Poslodavac nije zadovoljan kako ste uradili posao i niste dobili Novac") 
+  .addField("😢» Na žalost", "Poslodavac nije zadovoljan kako ste uradili posao i niste dobili Novac") 
+  .addField("💰» Trenutno", output.balance)
       
-    if (output.earned == 0) return message.reply('Niste dobro uradili svoj posao i niste dobili **pare**!')
+    if (output.earned == 0) return message.channel.send(embed2)
  
-    message.channel.send(`${message.author.username}
-Radili ste kao \` ${output.job} \` i zaradili ste :money_with_wings: ${output.earned}
-Vi sada imate :money_with_wings: ${output.balance}`)
+
+                     
+                          let embed3 = new Discord.RichEmbed()
+
+            .setColor("GREEN")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField("⚒» Radili ste kao", output.job)
+ .addField("💳» Zaradili ste", output.earned) 
+ .addField("💰» Trenutno", output.balance)
+                                                          
+                     message.channel.send(embed3)
+
 }
 
 module.exports.help = {
