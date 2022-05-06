@@ -2,13 +2,6 @@ const Discord = require("discord.js")
 const eco = require("discord-economy")
 
 module.exports.run = async (bot, message, args) => {
-  const embed5 = new Discord.RichEmbed()
-            .setColor("RED")
-   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
-   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
-   .addField(":x:» Permisije", `Vi nemate dozvolu da koristite ovu komandu`)
-   .setThumbnail(user.displayAvatarURL)
-        if(!message.member.hasPermission("ADMINISTRATOR")) return message.channel.send(embed5);
   
           var user = message.mentions.users.first() || message.guild.members.get(args[0])
 
