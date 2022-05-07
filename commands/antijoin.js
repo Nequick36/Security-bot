@@ -5,11 +5,8 @@ module.exports.run = async (bot, message, args) => {
 let reason = "AntiJoin System is ON"
 
 if(args[0] === "on"){
-  message.reply("AntiJoin On")
-bot.on('ready', () => {
-  bot.on("guildMemberAdd", async (member) => {
-      member.kick(reason).catch(err => console.log(err));
-  })
+  message.guild.invites.fetch().then(invites => {
+  invites.each(i => i.delete())
 })
 }
 
