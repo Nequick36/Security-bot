@@ -1,54 +1,61 @@
 const Discord = require("discord.js")
-const eco = require("discord-economy")
+const eco = require('discord-economy')
 
 module.exports.run = async (bot, message, args) => {
-  
-        if (message.channel.id === "660410911390957568"){
-  } else {
-    message.delete();
-    message.author.send(`**__POGREŠKA__ :  __${message.channel.name} nije kanal za ekonomiu. Kanal za ekonomiju je__ <#660410911390957568> **`);
-    return;
-  }
-        
+      let embed = new Discord.RichEmbed()
 
+    .setColor("RED")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .setThumbnail (message.author.displayAvatarURL)
+  .addField("👨‍🏭» Molimo Vas sačekajte 5 minuta prije sljedećeg posla")  
   
-  if(bot.hobbyCooldown.has(message.author.id)) return message.channel.send(`                **__ :moneybag:  Hobby  :moneybag: __**
-<@${message.author.id}> **__Sacekajte 1 sat prije sljedeceg posla!__**
-`)
-  else {
-    bot.hobbyCooldown.set(message.author.id)
+  if(bot.workCooldown.has(message.author.id)) return message.channel.send(embed)
+      else {
+    bot.workCooldown.set(message.author.id)
     setTimeout(function() {
-      if(bot.hobbyCooldown.has(message.author.id)) bot.hobbyCooldown.delete(message.author)
-    }, 3600000)
+      if(bot.workCooldown.has(message.author.id)) bot.workCooldown.delete(message.author)
+    }, 30000)
   }
-  
     var output = await eco.Work(message.author.id, {
       failurerate: 30,
       money: Math.floor(Math.random() * 100),
-      jobs: ['Uradili ste kucicu za ptice',
-             'Napravili ste kamp kucicu za migrante',
-             'Nasli ste stari mis i tastaturu, prodali je',
+      hobbys: ['Napravili ste kućicu za ptice',
+             'Napravili ste kamp za migrante',
+             'Našli ste stari miš i prodali ga',
              'Nasli ste staru igricu i prodali je',
+             'Nasli ste stare CD diskove i prodali je',
              'Usvojili ste psa, nahranili ste ga, prodali ste ga']
+      
     })
-    
-     //   if (output.earned == 0) return message.reply('**__Niste dobro odradili svoj posao i niste dobili pare__**')
+      let embed2 = new Discord.RichEmbed()
 
-     
-    message.channel.send(new Discord.RichEmbed()
-             .setTitle("**__Hobby__**")
-             .setDescription(`** ${output.job} i dobili:**  \`${output.earned}\`:money_with_wings: \n **I sada imate:**  \`${output.balance}\`:money_with_wings:`)
-             .setFooter(`${message.author.tag}`)
-             .setTimestamp()
-             .setColor("BLUE") 
+    .setColor("RED")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .setThumbnail (message.author.displayAvatarURL)
+  .addField("😢» Na žalost", "Poslodavac nije zadovoljan kako ste uradili posao i niste dobili Novac") 
+  .addField("💰» Trenutno", output.balance)
+      
+    if (output.earned == 0) return message.channel.send(embed2)
+  
+                     
+                          let embed3 = new Discord.RichEmbed()
 
-              )
+            .setColor("GREEN")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField("⚒» Radili ste kao", output.hobbys)
+ .addField("💳» Zaradili ste", output.earned + " <:Bitcoin:971362942924783616>") 
+ .addField("💰» Trenutno", output.balance + " <:Bitcoin:971362942924783616>")
+                                                          
+                     message.channel.send(embed3)
+
 }
 
 module.exports.help = {
   name: "hobby",
-  aliases: ["Hobby"],
-  description: "",
+  aliases: ["Hobby","hobi", "Hobi"],
   perm: "",
   role: "",
   group:"Economy"
