@@ -12,7 +12,7 @@ module.exports.run = async (bot, message, args) => {
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField(":x:» Pogreška", "Morate odabrati neki broj od 1 do 6")
- .addField("✅» Korišćenje", ".dice 5 50")
+ .addField("✅» Korišćenje", ".dice 5 100")
      
     if (!roll || ![1, 2, 3, 4, 5, 6].includes(parseInt(roll))) return message.channel.send(embed)
   
@@ -22,16 +22,16 @@ module.exports.run = async (bot, message, args) => {
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField(":x:» Pogreška", "Morate navesti sumu novca u koju se želite kladiti")
- .addField("✅» Korišćenje", ".dice 5 50")
+ .addField("✅» Korišćenje", ".dice 5 100")
     if (!amount) return message.channel.send(embed2)
  
-    var output = eco.FetchBalance(message.author.id)
-           let embed3 = new Discord.RichEmbed()
+    var output = await eco.FetchBalance(message.author.id)
+    let embed3 = new Discord.RichEmbed()
 .setColor("RED")
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
- .addField(":x:» Pogreška", "Nemate toliko novca")
- .addField("✅» Korišćenje", ".dice 5 50")
+     .addField(":x:» Pogreška", "Vi Nemate toliko novca")
+ .addField("✅» Korišćenje", ".dice 5 100")
     if (output.balance < amount) return message.channel.send(embed3)
  
     var gamble = await eco.Dice(message.author.id, roll, amount).catch(console.error)
@@ -42,7 +42,6 @@ if(gamble.output === "won") {
   .setColor("BLUE")
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
-  .addField(`🎲» Kocka je stala na`, gamble.dice)
   .addField(`🏆» Čestitamo Vi ste`, "Pobijedili")
   .addField(`💰» Trenutno Stanje`, gamble.newbalance + " <:Bitcoin:971362942924783616>")
   
@@ -53,7 +52,6 @@ if(gamble.output === "won") {
   .setColor("BLUE")
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
-  .addField(`🎲» Kocka je stala na`, gamble.dice)
   .addField(`🏆» Na Žalost Vi Ste`, "Izgubili")
   .addField(`💰» Trenutno Stanje`, gamble.newbalance + " <:Bitcoin:971362942924783616>")
   
