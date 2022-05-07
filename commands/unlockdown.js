@@ -32,6 +32,14 @@ module.exports.run = async (bot, message, args) => {
   let text14 = message.guild.channels.find(c => c.id === '970423653269397534')
   let text15 = message.guild.channels.find(c => c.id === '970423176091803679')
   let text16 = message.guild.channels.find(c => c.id === '970423242156290149')
+  
+  let voice1 = message.guild.channels.find(c => c.id === '911718680830808096')
+  let voice2 = message.guild.channels.find(c => c.id === '971752919256928256')
+  let voice3 = message.guild.channels.find(c => c.id === '971752919370203166')
+  let voice4 = message.guild.channels.find(c => c.id === '912389497499566090')
+  let voice5 = message.guild.channels.find(c => c.id === '971774655067213834')
+  let voice6 = message.guild.channels.find(c => c.id === '911896636400222249')
+  
 text1.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
 text2.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
 text3.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
@@ -47,7 +55,14 @@ text12.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'
 text13.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
 text14.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
 text15.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
-  text16.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text16.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+
+voice1.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {CONNECT: null})
+voice2.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {CONNECT: null})
+voice3.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {CONNECT: null})
+voice4.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {CONNECT: null})
+voice5.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {CONNECT: null})
+voice6.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {CONNECT: null})
 
   
 }
