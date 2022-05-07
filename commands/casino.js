@@ -7,17 +7,34 @@ module.exports.run = async (bot, message, args) => {
     var flip = args[0] //Heads or Tails
     var amount = args[1] //Coins to gamble
  
-    if (!flip || !['heads', 'trails'].includes(flip)) return message.reply('| :x: | **__Morate staviti heads ili trails__** | :x: |')
-    if (!amount) return message.reply('** | :x: | __Stavite iznos novca koji hocete da ulozite__ | :x: |**')
- 
+ let embed = new Discord.RichEmbed()
+.setColor("RED")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+ .addField(":x:» Pogreška", "Morate odabrati 'glava' ili 'pismo' ")
+ .addField("✅» Korišćenje", ".casino glava 100")
+ if (!flip || !['glava', 'pismo'].includes(flip)) return message.channel.send(embed)
+  
+  let embed2 = new Discord.RichEmbed()
+.setColor("RED")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+   .addField(":x:» Pogreška", "Morate staviti iznos novca u koji se želite kladiti")
+ .addField("✅» Korišćenje", ".casino glava 100")
+    if (!amount) return message.channel.send(embed2)
+  
+  
     var output = await eco.FetchBalance(message.author.id)
-    if (output.balance < amount) return message.reply('**| :x: | __Vi nemate toliki iznos novca__ | :x: |**')
- 
+    let embed3 = new Discord.RichEmbed()
+.setColor("RED")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+     .addField(":x:» Pogreška", "Vi Nemate toliko novca")
+ .addField("✅» Korišćenje", ".casino glava 100")
+    if (output.balance < amount) return message.channel.send(embed3)
+  
+  
     var gamble = await eco.Coinflip(message.author.id, flip, amount).catch(console.error)
-    
-    if (gamble.output === "lost"){ return message.reply("izg") 
-                                } else {
-    
     message.channel.send(new Discord.RichEmbed()
              .setTitle("**__Kazino__**")
              .setDescription(`**__Vi ste:__ ${gamble.output}! __Sada imate__: ${gamble.newbalance}:money_with_wings: **`)
@@ -25,9 +42,8 @@ module.exports.run = async (bot, message, args) => {
              .setTimestamp()
              .setColor("BLUE") 
 
-              )}
-  
-}
+              ) 
+  }
 module.exports.help = {
   name: "casino",
   aliases: ["Casino", "Kazino", "kazino"],
