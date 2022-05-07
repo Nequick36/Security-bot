@@ -41,7 +41,7 @@ eco.AddToBalance(user.id, amount).then(l =>{
                      
                           let embed3 = new Discord.RichEmbed()
 
-            .setColor("#FF0000")
+            .setColor("GREEN")
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
  .addField("👤» Korisnik", user)
