@@ -35,7 +35,6 @@ module.exports.run = async (bot, message, args) => {
        if (!amount) return message.channel.send(embed);
 
 
-        eco.FetchBalance(user.id).then(x => {
                    eco.SubstractFromBalance(user.id, amount).then(l =>
                    eco.FetchBalance(user.id).then(x => {
                      
@@ -50,8 +49,7 @@ module.exports.run = async (bot, message, args) => {
 
                                                           
                      message.channel.send(embed3)
-                 })
-            )})
+                 }))
 }
 
 module.exports.help = {
