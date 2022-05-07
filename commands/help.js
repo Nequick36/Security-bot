@@ -10,7 +10,8 @@ module.exports.run = async (bot, message, args) => {
   .setThumbnail (message.author.displayAvatarURL)
   .addField("🔐» Lockdown", "Komanda: s!help lockdown") 
   .addField("🚫» Anti", "Komanda: s!help anti") 
-        
+    
+  message.channel.send(embed9)
 }
 
 module.exports.help = {

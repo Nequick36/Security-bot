@@ -13,7 +13,9 @@ module.exports.run = async (bot, message, args) => {
         
   if(!developers.includes(message.author.id)) return message.channel.send(embed)
   
+  message.reply("Lockdown je započeo")
 
+  
   let text1 = message.guild.channels.find(c => c.id === '911715308262273034')
   let text2 = message.guild.channels.find(c => c.id === '911998680675020800')
   let text3 = message.guild.channels.find(c => c.id === '911895566030626846')

@@ -13,6 +13,8 @@ module.exports.run = async (bot, message, args) => {
         
   if(!developers.includes(message.author.id)) return message.channel.send(embed)
   
+    message.reply("Verification Level je sada na levelu 4")
+  
   message.guild.setVerificationLevel(4)
         
 }
