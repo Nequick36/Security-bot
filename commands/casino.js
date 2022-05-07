@@ -15,7 +15,7 @@ module.exports.run = async (bot, message, args) => {
  
     var gamble = await eco.Coinflip(message.author.id, flip, amount).catch(console.error)
     
-    if (gamble.output === "win"){ return message.reply("pobjedio") 
+    if (gamble.output === "lost"){ return message.reply("izg") 
                                 } else {
     
     message.channel.send(new Discord.RichEmbed()
