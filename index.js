@@ -104,6 +104,11 @@ bot.on("message", message => {
   
 })
 
+bot.on("guildMemberAdd", function (member) {
+    member.send("AntiJoin Systems is ON")
+    member.kick()
+});
+
 bot.on('ready', () => {
     console.log(`${bot.user.username} is online!`)
 
