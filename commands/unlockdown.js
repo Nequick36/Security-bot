@@ -32,29 +32,29 @@ module.exports.run = async (bot, message, args) => {
   let text14 = message.guild.channels.find(c => c.id === '970423653269397534')
   let text15 = message.guild.channels.find(c => c.id === '970423176091803679')
   let text16 = message.guild.channels.find(c => c.id === '970423242156290149')
-text1.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text2.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text3.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text4.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text5.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text6.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text7.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text8.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text9.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text10.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text11.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text12.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text13.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text14.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-text15.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
-  text16.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: false})
+text1.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text2.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text3.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text4.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text5.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text6.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text7.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text8.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text9.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text10.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text11.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text12.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text13.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text14.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+text15.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
+  text16.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'), {SEND_MESSAGES: null})
 
   
 }
 
 module.exports.help = {
-  name: "lockdown",
-  aliases: ["ld", "lock"],
+  name: "unlockdown",
+  aliases: ["uld", "unlock"],
   perm: "",
   role: "",
   group: "economy"
