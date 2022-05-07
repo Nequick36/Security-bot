@@ -22,38 +22,26 @@ module.exports.run = async (bot, message, args) => {
   .addField("✅» LockDown", "Zaključavanje kanala započinje") 
   
   
-  message.guild.channels.cache.forEach(channel => { //Get each channel
-    if (channel.type === "text") { //Check if it's a text channel
+  message.guild.channels.cache.forEach(channel => { 
+    if (channel.type === "text") {
         try {
-            channel.updateOverwrite(role1, {
-                SEND_MESSAGES: false,
-                SPEAK: false,
-                ADD_REACTIONS: false,
-                READ_MESSAGE_HISTORY: true
+            channel.updateOverwrite(message.guild.roles.find(r => r.name === '@everyone'), {
+                SEND_MESSAGES: false
             });
-
-            channel.updateOverwrite(role2, {
-                SEND_MESSAGES: null,
-                SPEAK: null,
-                ADD_REACTIONS: null,
-            });
-        } catch (error) { //Run this if there was an error setting the permissions
-            //Error handling code here
+        } catch (error) { 
+           
         };
     };
 });
   
-message.guild.createChannel(`ticket-${message.author.id}`, 'text').then(channel => {
-channel.overwritePermissions(message.guild.roles.find(r => r.name === '@everyone'),{SEND_MESSAGES: false})
 
-    })
   
   
 }
 
 module.exports.help = {
-  name: "addbalance",
-  aliases: ["addbal", "addmoney"],
+  name: "lockdown",
+  aliases: ["ld", "lock"],
   perm: "",
   role: "",
   group: "economy"
