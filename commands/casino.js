@@ -11,16 +11,16 @@ module.exports.run = async (bot, message, args) => {
 .setColor("RED")
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
- .addField(":x:» Pogreška", "Morate odabrati 'glava' ili 'pismo' ")
- .addField("✅» Korišćenje", ".casino glava 100")
- if (!flip || !['glava', 'pismo'].includes(flip)) return message.channel.send(embed)
+ .addField(":x:» Pogreška", "Morate odabrati 'heads' ili 'tails' ")
+ .addField("✅» Korišćenje", ".casino heads 100")
+ if (!flip || !['tails', 'heads'].includes(flip)) return message.channel.send(embed)
   
   let embed2 = new Discord.RichEmbed()
 .setColor("RED")
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
    .addField(":x:» Pogreška", "Morate staviti iznos novca u koji se želite kladiti")
- .addField("✅» Korišćenje", ".casino glava 100")
+ .addField("✅» Korišćenje", ".casino heads 100")
     if (!amount) return message.channel.send(embed2)
   
   
@@ -30,19 +30,35 @@ module.exports.run = async (bot, message, args) => {
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
      .addField(":x:» Pogreška", "Vi Nemate toliko novca")
- .addField("✅» Korišćenje", ".casino glava 100")
+ .addField("✅» Korišćenje", ".casino heads 100")
     if (output.balance < amount) return message.channel.send(embed3)
   
-  
+    
     var gamble = await eco.Coinflip(message.author.id, flip, amount).catch(console.error)
-    message.channel.send(new Discord.RichEmbed()
-             .setTitle("**__Kazino__**")
-             .setDescription(`**__Vi ste:__ ${gamble.output}! __Sada imate__: ${gamble.newbalance}:money_with_wings: **`)
-             .setFooter(`${message.author.tag}`)
-             .setTimestamp()
-             .setColor("BLUE") 
+if(gamble.output === "won") {
 
-              ) 
+  let embed4 = new Discord.RichEmbed()
+  .setColor("BLUE")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .addField(`🏆» Čestitamo Vi ste`, "Pobijedili")
+  .addField(`💰 Trenutno Stanje`, gamble.newbalance + " <:Bitcoin:971362942924783616>")
+  
+    message.channel.send(embed4)
+} else {
+  
+  let embed4 = new Discord.RichEmbed()
+  .setColor("BLUE")
+  .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .addField(`🏆» Na Žalost Vi Ste`, "Izgubili")
+  .addField(`💰 Trenutno Stanje`, gamble.newbalance + " <:Bitcoin:971362942924783616>")
+  
+    message.channel.send(embed4)
+}
+  
+  
+  
   }
 module.exports.help = {
   name: "casino",

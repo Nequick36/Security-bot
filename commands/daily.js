@@ -6,7 +6,7 @@ module.exports.run = async (bot, message, args) => {
 //l.updated tells you if the user already claimed his/her daily yes or no.
                if (d.updated) {
 
-                 eco.FetchBalance(message.author.id).then(x => {
+eco.AddToBalance(message.author.id,).then(x => {
                    eco.AddToBalance(500).then(d => {
 let embed = new Discord.RichEmbed()
 .setColor("#00FF0C")
