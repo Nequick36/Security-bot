@@ -115,7 +115,7 @@ bot.on('ready', () => {
     bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
-            name: 'rtv.czvvesti.gq',
+            name: 'Prefix: s! | AntiRaid BOT',
             type: "WATCHING",
         }
     })
