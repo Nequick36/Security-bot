@@ -18,7 +18,7 @@ module.exports.run = async (bot, message, args) => {
     }, 30000)
   }
     var output = await eco.Work(message.author.id, {
-      failurerate: 30,
+      failurerate: 90,
       money: Math.floor(Math.random() * 250),
       jobs: ['Doktor',
              "Trgovac",
@@ -44,7 +44,7 @@ module.exports.run = async (bot, message, args) => {
              'Konobar',
              'Frizer',
              'Ugostitelj',
-             'Automehaničar']
+             'Atomehaničar']
       
     })
       let embed2 = new Discord.RichEmbed()

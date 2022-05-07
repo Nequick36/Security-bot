@@ -8,42 +8,63 @@ module.exports.run = async (bot, message, args) => {
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
   .setThumbnail (message.author.displayAvatarURL)
-  .addField("👨‍🏭» Molimo Vas sačekajte", "30 minuta prije sljedeće pljačke")  
+  .addField("👨‍🏭» Molimo Vas sačekajte", "5 minuta prije sljedećeg posla")  
   
   if(bot.crimeCooldown.has(message.author.id)) return message.channel.send(embed)
       else {
     bot.crimeCooldown.set(message.author.id)
     setTimeout(function() {
       if(bot.crimeCooldown.has(message.author.id)) bot.crimeCooldown.delete(message.author)
-    }, 2)
+    }, 30000)
   }
     var output = await eco.Work(message.author.id, {
-      failurerate: 0,
-      money: Math.floor(Math.random() * 500),
-      jobs: ['Opljačkali trafiku',
-             'Ukrali torbicu',
-             'Ukrali telefon',
-             'Opljačkali banku']
+      failurerate: 90,
+      money: Math.floor(Math.random() * 250),
+      jobs: ['Doktor',
+             "Trgovac",
+             "Pizza majstor",
+             "Bejbi siterka",
+             "Voditelj",
+             "Haker",
+             'Programer',
+             'Profesor',
+             'Čistačica', 
+             'Instruktor u autoskoli', 
+             'Domar',
+             'Java developer',
+             'Vrtlar',
+             'Kuhar',
+             'Vodoinstalater',
+             'Autolakirer',
+             'Čuvar',
+             'Pekar',
+             'Dadilja',
+             'Mornar',
+             'Električar',
+             'Konobar',
+             'Frizer',
+             'Ugostitelj',
+             'Atomehaničar']
+      
     })
+      let embed2 = new Discord.RichEmbed()
 
-    eco.SubstractFromBalance(message.author.id, Math.floor(Math.random() * 250)).then(x => { 
-
-      let embed2 = new Discord.RichEmbed()  
     .setColor("RED")
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
   .setThumbnail (message.author.displayAvatarURL)
-  .addField("😢» Na žalost", "Uhvatila Vas je policija 🚔 i platili ste kaznu od " + Math.floor(Math.random() * 250)  + " <:Bitcoin:971362942924783616>") 
-  .addField("💰» Trenutno", output.balance + " <:Bitcoin:971362942924783616>")  
+  .addField("😢» Na žalost", "Poslodavac nije zadovoljan kako ste uradili posao i niste dobili Novac") 
+  .addField("💰» Trenutno", output.balance)
+      
     if (output.earned == 0) return message.channel.send(embed2)
-  })
+  
                      
                           let embed3 = new Discord.RichEmbed()
 
             .setColor("GREEN")
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
- .addField("💼» Uspješno ste ", output.job)
+ .addField("⚒» Radili ste kao", output.job)
  .addField("💳» Zaradili ste", output.earned + " <:Bitcoin:971362942924783616>") 
  .addField("💰» Trenutno", output.balance + " <:Bitcoin:971362942924783616>")
                                                           
@@ -52,8 +73,8 @@ module.exports.run = async (bot, message, args) => {
 }
 
 module.exports.help = {
-  name: "crime",
-  aliases: ["Crime", "zlocin", "Zlocin"],
+  name: "work",
+  aliases: ["Work","poso", "posao", "Poso", "Posao"],
   perm: "",
   role: "",
   group:"Economy"

@@ -18,7 +18,7 @@ module.exports.run = async (bot, message, args) => {
     }, 1800000)
   }
     var output = await eco.Work(message.author.id, {
-      failurerate: 0,
+      failurerate: 90,
       money: Math.floor(Math.random() * 250),
       jobs: ['Vozili ste se biciklom i našli novac',
              'Napravili ste kućicu za ptice',
