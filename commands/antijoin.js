@@ -2,23 +2,26 @@ const Discord = require("discord.js")
 const eco = require("discord-economy")
 
 module.exports.run = async (bot, message, args) => {
-  let developers = bot.devs
-        let embed = new Discord.RichEmbed()
+let reason = "AntiJoin System is ON"
 
-    .setColor("RED")
-  .setAuthor('CzvVesti | Security', 'https://i.imgur.com/iSbCziO.jpg' )
-  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
-  .setThumbnail (message.author.displayAvatarURL)
-  .addField("❌» Nemate dozvolu da koristite ovu komandu", "Ovu komandu mogu koristiti samo Developeri Bota") 
-        
-  if(!developers.includes(message.author.id)) return message.channel.send(embed)
-  
-bot.on("guildMemberAdd", (member) => {
-
-            member.send("AntiJoin System is ON")
-                member.kick();
+if(args[0] === "on"){
+  message.reply("AntiJoin On")
+bot.on('ready', () => {
+  bot.on("guildMemberAdd", async (member) => {
+      member.kick(reason).catch(err => console.log(err));
+  })
 })
+}
 
+if(args[0] === "off"){
+  message.reply("AntiJoin Off")
+  bot.destroy()
+}
+  
+  if(!args[0]){
+    message.reply("s!antijoin on **~~|~~** s!antijoin off")
+  }
+  
 }
 
 module.exports.help = {
