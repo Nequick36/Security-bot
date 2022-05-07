@@ -14,25 +14,7 @@ module.exports.run = async (bot, message, args) => {
   if(!developers.includes(message.author.id)) return message.channel.send(embed9)
   
 
-  let embed = new Discord.RichEmbed()
-      .setColor("GREEN")
-    .setAuthor('CzvVesti | Security', 'https://i.imgur.com/iSbCziO.jpg' )
-  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
-  .setThumbnail (message.author.displayAvatarURL)
-  .addField("✅» LockDown", "Zaključavanje kanala započinje") 
-  
-  
-  message.guild.channels.cache.forEach(channel => { 
-    if (channel.type === "text") {
-        try {
-            channel.updateOverwrite(message.guild.roles.find(r => r.name === '@everyone'), {
-                SEND_MESSAGES: false
-            });
-        } catch (error) { 
-           
-        };
-    };
-});
+message.channel.updateOverwrite(message.channel.guild.roles.everyone, { SEND_MESSAGES: false });
   
 
   

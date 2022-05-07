@@ -62,7 +62,7 @@ fs.readdir("./commands", (err, files) => {
 });
 bot.on("message", message => {
     if(message.author.bot) return;
-  let prefix = ".";
+  let prefix = "s!";
     let messageArray = message.content.split(" ")
     let cmd = messageArray[0]
     let args = messageArray.slice(1);
