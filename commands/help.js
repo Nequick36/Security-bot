@@ -22,7 +22,6 @@ module.exports.run = async (bot, message, args) => {
   .addField("💰» Zarada", "Sve komande za Zaradu")
   .addField(".work", "Idete na posao i dobijete novac")
   .addField(".hobby", "Bavite se svojim hobijem i dobijete novac")
-  .addField(".crime", "Uradite loše dijelo za novac")
   .addField(".daily", "Dobijate 500 <:Bitcoin:971362942924783616> Svakih 24h")
        message.channel.send(embed2)
 }

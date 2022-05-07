@@ -6,17 +6,16 @@ module.exports.run = async (bot, message, args) => {
 //l.updated tells you if the user already claimed his/her daily yes or no.
                if (d.updated) {
 
-eco.AddToBalance(message.author.id,).then(x => {
-                   eco.AddToBalance(500).then(d => {
+eco.AddToBalance(message.author.id, 500).then(x => {
 let embed = new Discord.RichEmbed()
 .setColor("#00FF0C")
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
   .addField("🎁» Dnevna Nagrada", "Čestitamo uzeli ste dnevnu nagradu od 500 <:Bitcoin:971362942924783616>")
-  .addField("💰» Trenutno Stanje Računa", d.newbalance + " <:Bitcoin:971362942924783616>")
+  .addField("💰» Trenutno Stanje Računa", x.newbalance + " <:Bitcoin:971362942924783616>")
                    
 message.channel.send(embed);
-                 })})
+                 })
 
                } else {
                  let embed2 = new Discord.RichEmbed()

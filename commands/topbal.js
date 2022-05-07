@@ -40,7 +40,7 @@ let embed3 = new Discord.RichEmbed()
   .addField(`7️⃣» ${seventhplace.tag || 'None'} **|** ${users[6].balance || "0"} <:Bitcoin:971362942924783616>`,
             `8️⃣» ${eigthplace.tag || 'None'} **|** ${users[7].balance || "0"} <:Bitcoin:971362942924783616>`)
   .addField(`9️⃣» ${ninethplace.tag || 'None'} **|** ${users[8].balance || "0"} <:Bitcoin:971362942924783616>`, 
-            `🔟» ${tenthplace.tag || 'None'} **|** ${users[9].balance || "0"} <:Bitcoin:971362942924783616>.`)
+            `🔟» ${tenthplace.tag || 'None'} **|** ${users[9].balance || "0"} <:Bitcoin:971362942924783616>`)
         message.channel.send(embed3)
                                                           
       })
