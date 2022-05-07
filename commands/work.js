@@ -8,7 +8,7 @@ module.exports.run = async (bot, message, args) => {
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
   .setThumbnail (message.author.displayAvatarURL)
-  .addField("👨‍🏭» Molimo Vas sačekajte 5 minuta prije sljedećeg posla")  
+  .addField("👨‍🏭» Molimo Vas sačekajte", "5 minuta prije sljedećeg posla")  
   
   if(bot.workCooldown.has(message.author.id)) return message.channel.send(embed)
       else {
@@ -19,32 +19,32 @@ module.exports.run = async (bot, message, args) => {
   }
     var output = await eco.Work(message.author.id, {
       failurerate: 30,
-      money: Math.floor(Math.random() * 100),
-      jobs: ['doktor',
-             "trgovac",
-             "pizza majstor",
-             "bejbi siterka",
-             "voditelj",
-             "haker",
-             'programer',
-             'profesor',
-             'čistačica', 
-             'instruktor u autoskoli', 
-             'domar',
-             'java developer',
-             'vrtlar',
-             'kuhar',
-             'vodoinstalater',
-             'autolakirer',
-             'čuvar',
-             'pekar',
-             'dadilja',
-             'mornar',
-             'električar',
-             'konobar',
-             'frizer',
-             'ugostitelj',
-             'automehaničar']
+      money: Math.floor(Math.random() * 250),
+      jobs: ['Doktor',
+             "Trgovac",
+             "Pizza majstor",
+             "Bejbi siterka",
+             "Voditelj",
+             "Haker",
+             'Programer',
+             'Profesor',
+             'Čistačica', 
+             'Instruktor u autoskoli', 
+             'Domar',
+             'Java developer',
+             'Vrtlar',
+             'Kuhar',
+             'Vodoinstalater',
+             'Autolakirer',
+             'Čuvar',
+             'Pekar',
+             'Dadilja',
+             'Mornar',
+             'Električar',
+             'Konobar',
+             'Frizer',
+             'Ugostitelj',
+             'Automehaničar']
       
     })
       let embed2 = new Discord.RichEmbed()

@@ -2,7 +2,15 @@ const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
   let developers = bot.devs
-  if(!developers.includes(message.author.id)) return message.channel.send(`🛑 **ACCESS DENIED! THIS IS A DEVELOPER ONLY COMMAND. 🛑**`)
+        let embed = new Discord.RichEmbed()
+
+    .setColor("RED")
+  .setAuthor('CzvVesti | Pomoć', 'https://i.imgur.com/iSbCziO.jpg' )
+  .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .setThumbnail (message.author.displayAvatarURL)
+  .addField("❌» Nemate dozvolu da koristite ovu komandu", "Ovu komandu mogu koristiti samo Developeri Bota") 
+        
+  if(!developers.includes(message.author.id)) return message.channel.send(embed)
   function clean(text) {
   if (typeof(text) === "string")
     return text.replace(/`/g, "`" + String.fromCharCode(8203)).replace(/@/g, "@" + String.fromCharCode(8203));
