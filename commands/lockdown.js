@@ -2,8 +2,8 @@ const Discord = require("discord.js")
 const eco = require("discord-economy")
 
 module.exports.run = async (bot, message, args) => {
-    let developers = bot.devs
-        let embed9 = new Discord.RichEmbed()
+  let developers = bot.devs
+        let embed = new Discord.RichEmbed()
 
     .setColor("RED")
   .setAuthor('CzvVesti | Security', 'https://i.imgur.com/iSbCziO.jpg' )
@@ -11,7 +11,7 @@ module.exports.run = async (bot, message, args) => {
   .setThumbnail (message.author.displayAvatarURL)
   .addField("❌» Nemate dozvolu da koristite ovu komandu", "Ovu komandu mogu koristiti samo Developeri Bota") 
         
-  if(!developers.includes(message.author.id)) return message.channel.send(embed9)
+  if(!developers.includes(message.author.id)) return message.channel.send(embed)
   
 
   let text1 = message.guild.channels.find(c => c.id === '911715308262273034')
