@@ -14,6 +14,9 @@ module.exports.run = async (bot, message, args) => {
     if (output.balance < amount) return message.reply('**| :x: | __Vi nemate toliki iznos novca__ | :x: |**')
  
     var gamble = await eco.Coinflip(message.author.id, flip, amount).catch(console.error)
+    if (gamble.output == "win") return message.reply("pobjedio") 
+    if (gamble.output == "lose") return message.reply("nisi") 
+    
     message.channel.send(new Discord.RichEmbed()
              .setTitle("**__Kazino__**")
              .setDescription(`**__Vi ste:__ ${gamble.output}! __Sada imate__: ${gamble.newbalance}:money_with_wings: **`)

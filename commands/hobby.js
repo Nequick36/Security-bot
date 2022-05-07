@@ -17,9 +17,9 @@ module.exports.run = async (bot, message, args) => {
       if(bot.hobbyCooldown.has(message.author.id)) bot.hobbyCooldown.delete(message.author)
     }, 1800000)
   }
-    var output = await eco.Hobby(message.author.id, {
+    var output = await eco.Work(message.author.id, {
       failurerate: 0,
-      money: Math.floor(Math.random() * 400),
+      money: Math.floor(Math.random() * 250),
       jobs: ['Vozili ste se biciklom i našli novac',
              'Napravili ste kućicu za ptice',
              'Napravili ste kućicu za psa',
@@ -29,8 +29,7 @@ module.exports.run = async (bot, message, args) => {
              'Nasli ste staru igricu i prodali je',
              'Nasli ste staru tastaturu i prodali je',
              'Nasli ste stare slušalice i prodali ih',
-             'Nasli ste stare CD diskove i prodali ih'
-      ]
+             'Nasli ste stare CD diskove i prodali ih']
       
     })
       let embed2 = new Discord.RichEmbed()
@@ -50,7 +49,7 @@ module.exports.run = async (bot, message, args) => {
             .setColor("GREEN")
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
- .addField("⚒» Bavili ste se vašim hobijem", output.jobs)
+ .addField("⚒» Bavili ste se vašim hobijem", output.job)
  .addField("💳» Zaradili ste", output.earned + " <:Bitcoin:971362942924783616>") 
  .addField("💰» Trenutno", output.balance + " <:Bitcoin:971362942924783616>")
                                                           
