@@ -14,8 +14,13 @@ module.exports.run = async (bot, message, args) => {
   if(!developers.includes(message.author.id)) return message.channel.send(embed9)
   
 
-message.channel.updateOverwrite(message.channel.guild.roles.everyone, { SEND_MESSAGES: false });
+
+message.channel.permissionOverwrites.edit(message.guild.everyone.id, {
+SEND_MESSAGES: false,
+});            
   
+
+    
 
   
   
