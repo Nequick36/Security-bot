@@ -11,15 +11,41 @@ module.exports.run = async (bot, message, args) => {
   .addField("👨‍🏭» Molimo Vas sačekajte 5 minuta prije sljedećeg posla")  
   
   if(bot.workCooldown.has(message.author.id)) return message.channel.send(embed)
-  else {
+      else {
     bot.workCooldown.set(message.author.id)
     setTimeout(function() {
       if(bot.workCooldown.has(message.author.id)) bot.workCooldown.delete(message.author)
-    }, 300000)
+    }, 30000)
   }
     var output = await eco.Work(message.author.id, {
-      failurerate: 5,
-      money: Math.floor(Math.random() * 600),
+      failurerate: 30,
+      money: Math.floor(Math.random() * 100),
+      jobs: ['doktor',
+             "trgovac",
+             "pizza majstor",
+             "bejbi siterka",
+             "voditelj",
+             "haker",
+             'programer',
+             'profesor',
+             'čistačica', 
+             'instruktor u autoskoli', 
+             'domar',
+             'java developer',
+             'vrtlar',
+             'kuhar',
+             'vodoinstalater',
+             'autolakirer',
+             'čuvar',
+             'pekar',
+             'dadilja',
+             'mornar',
+             'električar',
+             'konobar',
+             'frizer',
+             'ugostitelj',
+             'automehaničar']
+      
     })
       let embed2 = new Discord.RichEmbed()
 
@@ -31,8 +57,7 @@ module.exports.run = async (bot, message, args) => {
   .addField("💰» Trenutno", output.balance)
       
     if (output.earned == 0) return message.channel.send(embed2)
- 
-
+  
                      
                           let embed3 = new Discord.RichEmbed()
 
