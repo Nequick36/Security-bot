@@ -41,20 +41,22 @@ if(gamble.output === "won") {
   .setColor("BLUE")
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .addField(`<:Bitcoin:971362942924783616>» Novčić je pao na`, flip)
   .addField(`🏆» Čestitamo Vi ste`, "Pobijedili")
-  .addField(`💰 Trenutno Stanje`, gamble.newbalance + " <:Bitcoin:971362942924783616>")
+  .addField(`💰» Trenutno Stanje`, gamble.newbalance + " <:Bitcoin:971362942924783616>")
   
     message.channel.send(embed4)
 } else {
   
-  let embed4 = new Discord.RichEmbed()
+  let embed5 = new Discord.RichEmbed()
   .setColor("BLUE")
   .setAuthor('CzvVesti | Ekonomija', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
+  .addField(`<:Bitcoin:971362942924783616>» Novčić je pao na`, flip)
   .addField(`🏆» Na Žalost Vi Ste`, "Izgubili")
-  .addField(`💰 Trenutno Stanje`, gamble.newbalance + " <:Bitcoin:971362942924783616>")
+  .addField(`💰» Trenutno Stanje`, gamble.newbalance + " <:Bitcoin:971362942924783616>")
   
-    message.channel.send(embed4)
+    message.channel.send(embed5)
 }
   
   
