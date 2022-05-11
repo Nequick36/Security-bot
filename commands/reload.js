@@ -1,8 +1,9 @@
 const Discord = require("discord.js")
 const eco = require("discord-economy")
+const fs = require("fs")
 
 module.exports.run = async (bot, message, args) => {
-    let developers = bot.devs
+  let developers = bot.devs
         let embed = new Discord.RichEmbed()
 
     .setColor("RED")
@@ -19,18 +20,31 @@ module.exports.run = async (bot, message, args) => {
   .setAuthor('CzvVesti | Security', 'https://i.imgur.com/iSbCziO.jpg' )
   .setFooter("CzvVesti | Admin Team", 'https://i.imgur.com/iSbCziO.jpg' )
   .setThumbnail (message.author.displayAvatarURL)
-  .addField("🤖» Verification Level", "Highest") 
+  .addField("🤖» Bot", "Reloading...") 
     
   message.channel.send(embed9)
   
-  
-  message.guild.setVerificationLevel(4)
-        
-}
+fs.readdir("./commands", (err, files) => {
+    if(err) console.log(err);
+    let jsfile = files.filter(f => f.split(".").pop() === "js")
+    if(jsfile <= 0){
+        console.log("couldn't find commands")
+        return;
+    }
+    jsfile.forEach((f, i) => {
+         let props = require(`./commands/${f}`)
+         console.log(`${f} loaded!`)
+         bot.commands.set(props.help.name, props)
 
-module.exports.help = {
-  name: "verificationlevel",
-  aliases: ["verifylvl", "verifylevel", "verify", "level"],
+     });
+   });
+
+  
+  
+} 
+  module.exports.help = {
+  name: "reload",
+  aliases: ["Reload", "destroy", "Destroy"],
   perm: "",
   role: "",
   group: "economy"
